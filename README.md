@@ -41,10 +41,10 @@
             <td align="center"><a href="./docs/ratio/language/C.md">C</a></td> 
         </tr>
         <tr>
-            <td align="center"><a href="./docs/stars/language/C#.md">C#</a></td> 
+            <td align="center"><a href="./docs/stars/language/CSHARP.md">CSHARP</a></td> 
             <td align="center"><a href="./docs/stars/language/PHP.md">PHP</a></td> 
             <td align="center"><a href="./docs/stars/language/HTML.md">HTML</a></td> 
-            <td align="center"><a href="./docs/ratio/language/C#.md">C#</a></td> 
+            <td align="center"><a href="./docs/ratio/language/CSHARP.md">CSHARP</a></td> 
             <td align="center"><a href="./docs/ratio/language/PHP.md">PHP</a></td> 
             <td align="center"><a href="./docs/ratio/language/HTML.md">HTML</a></td> 
         </tr>

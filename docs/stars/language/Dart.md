@@ -1,5 +1,6 @@
-📚数据更新：2025-12-14  
-🌋数据来源：www.ffgithub.com
+📅统计周期：2025-01-01 ~ 2025-12-31<br>
+🌋数据来源：www.ffgithub.com<br>
+📚数据更新：2025-12-14<br>
 
 
 <div align="center">
@@ -30,8 +31,8 @@
             <td align="center">A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-08-15</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">103%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">13544</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">104%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">13703</td> 
             <td style="white-space: nowrap; width: auto;" align="center">26826</td> 
         </tr>
         <tr>
@@ -40,8 +41,8 @@
             <td align="center">基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-05-09</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">208%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">12361</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">210%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">12490</td> 
             <td style="white-space: nowrap; width: auto;" align="center">18413</td> 
         </tr>
         <tr>
@@ -51,8 +52,8 @@
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2021-02-14</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">27%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">9181</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">42974</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">9296</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">43026</td> 
         </tr>
         <tr>
             <td align="center">Top5</td>
@@ -120,9 +121,9 @@
             <td align="center">A comic app</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-09-29</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">677%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">4850</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">5566</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">701%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">5023</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">5739</td> 
         </tr>
         <tr>
             <td align="center">Top12</td>
@@ -130,9 +131,9 @@
             <td align="center">Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-03-28</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">262%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">4725</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">6550</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">264%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">4760</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">6560</td> 
         </tr>
         <tr>
             <td align="center">Top13</td>
@@ -150,8 +151,8 @@
             <td align="center">Simple & Powerful proxy utility, Support routing rules for clash/sing-box</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-11-06</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">111%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">4417</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">112%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">4452</td> 
             <td style="white-space: nowrap; width: auto;" align="center">8418</td> 
         </tr>
         <tr>
@@ -170,9 +171,9 @@
             <td align="center">PiliPlus</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-08-22</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">94%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3962</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">8219</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">97%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">4080</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">8276</td> 
         </tr>
         <tr>
             <td align="center">Top17</td>
@@ -180,9 +181,9 @@
             <td align="center">Clash Mihomo for iOS/Android</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-04-14</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2970%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3446</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">3562</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3100%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3596</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3712</td> 
         </tr>
         <tr>
             <td align="center">Top18</td>
@@ -221,7 +222,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2021-09-13</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">38%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1998</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2005</td> 
             <td style="white-space: nowrap; width: auto;" align="center">7211</td> 
         </tr>
         <tr>
@@ -241,7 +242,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-02-13</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">63%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1739</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1743</td> 
             <td style="white-space: nowrap; width: auto;" align="center">4472</td> 
         </tr>
         <tr>
@@ -270,9 +271,9 @@
             <td align="center">A Weather app for android 🌦🌞☔</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-06-16</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">188%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1483</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2275</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">189%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1490</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2277</td> 
         </tr>
         <tr>
             <td align="center">Top27</td>
@@ -300,9 +301,9 @@
             <td align="center">Unlock the full potential of music: Stream effortlessly with one app!</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2021-12-05</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">64%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1373</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">3494</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">65%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1382</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3499</td> 
         </tr>
         <tr>
             <td align="center">Top30</td>
@@ -316,6 +317,16 @@
         </tr>
         <tr>
             <td align="center">Top31</td>
+            <td align="center"><a href="https://github.com/TOM88812/xiaozhi-android-client" target="_blank">TOM88812/xiaozhi-android-client</a></td> 
+            <td align="center">一个基于小智、xiaozhi-server的Android、IOS语音对话应用,支持实时语音交互和文字对话。现在是flutter版本，打通IOS、Android端。请同志们动动小手，点点小星星，予以鼓励。</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-02-23</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1259%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1259</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1261</td> 
+        </tr>
+        <tr>
+            <td align="center">Top32</td>
             <td align="center"><a href="https://github.com/jiangtian616/JHenTai" target="_blank">jiangtian616/JHenTai</a></td> 
             <td align="center">A cross-platform manga app made for e-hentai & exhentai by Flutter</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
@@ -325,7 +336,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">4501</td> 
         </tr>
         <tr>
-            <td align="center">Top32</td>
+            <td align="center">Top33</td>
             <td align="center"><a href="https://github.com/ZhuJHua/moodiary" target="_blank">ZhuJHua/moodiary</a></td> 
             <td align="center">A fully open source cross-platform diary app written by flutter and rust.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
@@ -333,16 +344,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">305%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">1236</td> 
             <td style="white-space: nowrap; width: auto;" align="center">1641</td> 
-        </tr>
-        <tr>
-            <td align="center">Top33</td>
-            <td align="center"><a href="https://github.com/TOM88812/xiaozhi-android-client" target="_blank">TOM88812/xiaozhi-android-client</a></td> 
-            <td align="center">一个基于小智、xiaozhi-server的Android、IOS语音对话应用,支持实时语音交互和文字对话。现在是flutter版本，打通IOS、Android端。请同志们动动小手，点点小星星，予以鼓励。</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-02-23</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1235%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1235</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1237</td> 
         </tr>
         <tr>
             <td align="center">Top34</td>
@@ -360,9 +361,9 @@
             <td align="center">Cloud Play Plus Remote Streaming Project</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-06-24</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1086%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1086</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1092</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1092%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1092</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1098</td> 
         </tr>
         <tr>
             <td align="center">Top36</td>
@@ -370,12 +371,42 @@
             <td align="center">shadcn-ui ported in Flutter. Awesome UI components for Flutter, fully customizable.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-01-05</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">80%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1077</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">81%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1084</td> 
             <td style="white-space: nowrap; width: auto;" align="center">2421</td> 
         </tr>
         <tr>
             <td align="center">Top37</td>
+            <td align="center"><a href="https://github.com/MCDFsteve/NipaPlay-Reload" target="_blank">MCDFsteve/NipaPlay-Reload</a></td> 
+            <td align="center">NipaPlay-Reload 是一个现代化的跨平台本地视频播放器，支持 Windows、macOS、Linux、Android 和 iOS。集成了弹幕显示、多格式字幕支持、多音频轨道切换，新番查看等功能，支持挂载Emby/Jellyfin媒体库。采用 Flutter 开发，提供统一的用户体验。</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-19</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1033%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1033</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1035</td> 
+        </tr>
+        <tr>
+            <td align="center">Top38</td>
+            <td align="center"><a href="https://github.com/HemantKArya/BloomeeTunes" target="_blank">HemantKArya/BloomeeTunes</a></td> 
+            <td align="center">🌸Bloomee is a cross-platform music app designed to bring you ad-free tunes from various sources. 🌼🎵</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2023-12-07</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">193%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1018</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1545</td> 
+        </tr>
+        <tr>
+            <td align="center">Top39</td>
+            <td align="center"><a href="https://github.com/DonutWare/Fladder" target="_blank">DonutWare/Fladder</a></td> 
+            <td align="center">Fladder - A Simple Jellyfin frontend built on top of Flutter.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-09-14</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">274%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1017</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1387</td> 
+        </tr>
+        <tr>
+            <td align="center">Top40</td>
             <td align="center"><a href="https://github.com/ComicSparks/pikapika" target="_blank">ComicSparks/pikapika</a></td> 
             <td align="center">A comic browser，support Android / iOS / MacOS / Windows / Linux.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
@@ -385,17 +416,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">7715</td> 
         </tr>
         <tr>
-            <td align="center">Top38</td>
-            <td align="center"><a href="https://github.com/HemantKArya/BloomeeTunes" target="_blank">HemantKArya/BloomeeTunes</a></td> 
-            <td align="center">🌸Bloomee is a cross-platform music app designed to bring you ad-free tunes from various sources. 🌼🎵</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2023-12-07</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">190%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1005</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1543</td> 
-        </tr>
-        <tr>
-            <td align="center">Top39</td>
+            <td align="center">Top41</td>
             <td align="center"><a href="https://github.com/dchristl/macless-haystack" target="_blank">dchristl/macless-haystack</a></td> 
             <td align="center">Create your own AirTag with  OpenHaystack, but without the need to own an Apple device</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
@@ -403,26 +424,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">182%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">1003</td> 
             <td style="white-space: nowrap; width: auto;" align="center">1554</td> 
-        </tr>
-        <tr>
-            <td align="center">Top40</td>
-            <td align="center"><a href="https://github.com/MCDFsteve/NipaPlay-Reload" target="_blank">MCDFsteve/NipaPlay-Reload</a></td> 
-            <td align="center">NipaPlay-Reload 是一个现代化的跨平台本地视频播放器，支持 Windows、macOS、Linux、Android 和 iOS。集成了弹幕显示、多格式字幕支持、多音频轨道切换，新番查看等功能，支持挂载Emby/Jellyfin媒体库。采用 Flutter 开发，提供统一的用户体验。</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-19</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">996%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">996</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1026</td> 
-        </tr>
-        <tr>
-            <td align="center">Top41</td>
-            <td align="center"><a href="https://github.com/DonutWare/Fladder" target="_blank">DonutWare/Fladder</a></td> 
-            <td align="center">Fladder - A Simple Jellyfin frontend built on top of Flutter.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-09-14</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">264%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">977</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1347</td> 
         </tr>
         <tr>
             <td align="center">Top42</td>
@@ -450,12 +451,42 @@
             <td align="center"></td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-07-18</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">879%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">923</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1028</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">886%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">931</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1036</td> 
         </tr>
         <tr>
             <td align="center">Top45</td>
+            <td align="center"><a href="https://github.com/ViscousPot/GitSync" target="_blank">ViscousPot/GitSync</a></td> 
+            <td align="center">Mobile git client for syncing a repository between remote and a local directory</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-06-09</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">496%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">893</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1073</td> 
+        </tr>
+        <tr>
+            <td align="center">Top46</td>
+            <td align="center"><a href="https://github.com/Chevey339/kelivo" target="_blank">Chevey339/kelivo</a></td> 
+            <td align="center">A Flutter LLM Chat Client. Support Android & iOS & Harmony Next.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-08-29</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">890%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">890</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">907</td> 
+        </tr>
+        <tr>
+            <td align="center">Top47</td>
+            <td align="center"><a href="https://github.com/kodjodevf/mangayomi" target="_blank">kodjodevf/mangayomi</a></td> 
+            <td align="center">Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2023-04-03</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">46%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">886</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2786</td> 
+        </tr>
+        <tr>
+            <td align="center">Top48</td>
             <td align="center"><a href="https://github.com/vicolo-dev/chrono" target="_blank">vicolo-dev/chrono</a></td> 
             <td align="center">A modern and powerful clock, alarms, timer and stopwatch app for Android!</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
@@ -465,27 +496,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">1493</td> 
         </tr>
         <tr>
-            <td align="center">Top46</td>
-            <td align="center"><a href="https://github.com/kodjodevf/mangayomi" target="_blank">kodjodevf/mangayomi</a></td> 
-            <td align="center">Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2023-04-03</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">46%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">880</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2786</td> 
-        </tr>
-        <tr>
-            <td align="center">Top47</td>
-            <td align="center"><a href="https://github.com/ViscousPot/GitSync" target="_blank">ViscousPot/GitSync</a></td> 
-            <td align="center">Mobile git client for syncing a repository between remote and a local directory</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-06-09</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">486%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">875</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1073</td> 
-        </tr>
-        <tr>
-            <td align="center">Top48</td>
+            <td align="center">Top49</td>
             <td align="center"><a href="https://github.com/Cateners/tiny_computer" target="_blank">Cateners/tiny_computer</a></td> 
             <td align="center">Click-to-run debian 12 with desktop environment on android for Chinese users, with fcitx pinyin input method and some useful packages preinstalled. You don't need to install Termux.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
@@ -493,16 +504,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">55%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">873</td> 
             <td style="white-space: nowrap; width: auto;" align="center">2436</td> 
-        </tr>
-        <tr>
-            <td align="center">Top49</td>
-            <td align="center"><a href="https://github.com/Chevey339/kelivo" target="_blank">Chevey339/kelivo</a></td> 
-            <td align="center">A Flutter LLM Chat Client. Support Android & iOS & Harmony Next.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-08-29</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">856%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">856</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">873</td> 
         </tr>
         <tr>
             <td align="center">Top50</td>
@@ -526,26 +527,36 @@
         </tr>
         <tr>
             <td align="center">Top52</td>
-            <td align="center"><a href="https://github.com/forus-labs/forui" target="_blank">forus-labs/forui</a></td> 
-            <td align="center">Forus Lab's Flutter UI library</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-02-25</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">121%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">810</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1475</td> 
-        </tr>
-        <tr>
-            <td align="center">Top53</td>
             <td align="center"><a href="https://github.com/krille-chan/fluffychat" target="_blank">krille-chan/fluffychat</a></td> 
             <td align="center">The cutest instant messenger in the [matrix]</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-07-13</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">61%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">801</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2113</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">62%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">815</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2118</td> 
+        </tr>
+        <tr>
+            <td align="center">Top53</td>
+            <td align="center"><a href="https://github.com/forus-labs/forui" target="_blank">forus-labs/forui</a></td> 
+            <td align="center">Forus Lab's Flutter UI library</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-02-25</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">122%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">812</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1476</td> 
         </tr>
         <tr>
             <td align="center">Top54</td>
+            <td align="center"><a href="https://github.com/TNT-Likely/BeeCount" target="_blank">TNT-Likely/BeeCount</a></td> 
+            <td align="center">🐝 开源记账App，支持iCloud/自建服务器同步(Supabase/WebDAV/S3)，AI智能记账 | Open-source finance tracker with iCloud & self-hosted sync (Supabase/WebDAV/S3), AI-powered bookkeeping, cross-platform, privacy-first</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-09-06</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">787%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">787</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">790</td> 
+        </tr>
+        <tr>
+            <td align="center">Top55</td>
             <td align="center"><a href="https://github.com/JHubi1/ollama-app" target="_blank">JHubi1/ollama-app</a></td> 
             <td align="center">A modern and easy-to-use client for Ollama</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
@@ -555,24 +566,14 @@
             <td style="white-space: nowrap; width: auto;" align="center">1566</td> 
         </tr>
         <tr>
-            <td align="center">Top55</td>
+            <td align="center">Top56</td>
             <td align="center"><a href="https://github.com/Demizo/Daily_You" target="_blank">Demizo/Daily_You</a></td> 
             <td align="center">Every day is worth remembering...</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-08-05</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">522%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">774</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">523%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">775</td> 
             <td style="white-space: nowrap; width: auto;" align="center">923</td> 
-        </tr>
-        <tr>
-            <td align="center">Top56</td>
-            <td align="center"><a href="https://github.com/TNT-Likely/BeeCount" target="_blank">TNT-Likely/BeeCount</a></td> 
-            <td align="center">🐝 开源记账App，支持iCloud/自建服务器同步(Supabase/WebDAV/S3)，AI智能记账 | Open-source finance tracker with iCloud & self-hosted sync (Supabase/WebDAV/S3), AI-powered bookkeeping, cross-platform, privacy-first</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-09-06</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">763%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">763</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">766</td> 
         </tr>
         <tr>
             <td align="center">Top57</td>
@@ -580,9 +581,9 @@
             <td align="center">🍴 OpenNutriTracker is a free and open source calorie tracker with a focus on simplicity and privacy.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-09-22</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">151%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">734</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1219</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">152%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">742</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1227</td> 
         </tr>
         <tr>
             <td align="center">Top58</td>
@@ -620,8 +621,8 @@
             <td align="center">Kazumi的规则托管仓库，欢迎贡献 ^•ﻌ•^</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-05-22</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">176%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">686</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">177%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">690</td> 
             <td style="white-space: nowrap; width: auto;" align="center">1078</td> 
         </tr>
         <tr>
@@ -631,7 +632,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2021-09-18</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">33%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">683</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">687</td> 
             <td style="white-space: nowrap; width: auto;" align="center">2732</td> 
         </tr>
         <tr>
@@ -656,6 +657,16 @@
         </tr>
         <tr>
             <td align="center">Top65</td>
+            <td align="center"><a href="https://github.com/FriesI23/mhabit" target="_blank">FriesI23/mhabit</a></td> 
+            <td align="center">Our app helps you form and track micro habits with easy-to-use 📈 charts and tools, making it simple to establish healthy habits that stick 🌱. Start your personal growth journey today 🚀!</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2023-04-26</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">120%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">602</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1101</td> 
+        </tr>
+        <tr>
+            <td align="center">Top66</td>
             <td align="center"><a href="https://github.com/Mobile-Artificial-Intelligence/maid" target="_blank">Mobile-Artificial-Intelligence/maid</a></td> 
             <td align="center">Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
@@ -665,23 +676,13 @@
             <td style="white-space: nowrap; width: auto;" align="center">2208</td> 
         </tr>
         <tr>
-            <td align="center">Top66</td>
-            <td align="center"><a href="https://github.com/FriesI23/mhabit" target="_blank">FriesI23/mhabit</a></td> 
-            <td align="center">Our app helps you form and track micro habits with easy-to-use 📈 charts and tools, making it simple to establish healthy habits that stick 🌱. Start your personal growth journey today 🚀!</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2023-04-26</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">119%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">595</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1094</td> 
-        </tr>
-        <tr>
             <td align="center">Top67</td>
             <td align="center"><a href="https://github.com/cogwheel0/conduit" target="_blank">cogwheel0/conduit</a></td> 
             <td align="center">Native mobile client for OpenWebUI. Chat with your self‑hosted AI.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-08-10</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">396%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">579</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">404%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">591</td> 
             <td style="white-space: nowrap; width: auto;" align="center">737</td> 
         </tr>
         <tr>
@@ -696,6 +697,16 @@
         </tr>
         <tr>
             <td align="center">Top69</td>
+            <td align="center"><a href="https://github.com/StacDev/stac" target="_blank">StacDev/stac</a></td> 
+            <td align="center">Stac is a Server-Driven UI (SDUI) framework for Flutter, enabling you to create stunning, cross-platform applications dynamically with JSON. Build and update your app's UI in real-time with ease and flexibility!</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-07-25</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">348%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">550</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">708</td> 
+        </tr>
+        <tr>
+            <td align="center">Top70</td>
             <td align="center"><a href="https://github.com/spin311/MicrosoftRewardsWebsite" target="_blank">spin311/MicrosoftRewardsWebsite</a></td> 
             <td align="center">Microsoft Automatic rewards google extension and phone app</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
@@ -705,17 +716,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">584</td> 
         </tr>
         <tr>
-            <td align="center">Top70</td>
-            <td align="center"><a href="https://github.com/StacDev/stac" target="_blank">StacDev/stac</a></td> 
-            <td align="center">Stac is a Server-Driven UI (SDUI) framework for Flutter, enabling you to create stunning, cross-platform applications dynamically with JSON. Build and update your app's UI in real-time with ease and flexibility!</td>
+            <td align="center">Top71</td>
+            <td align="center"><a href="https://github.com/ycccccccy/wx_key" target="_blank">ycccccccy/wx_key</a></td> 
+            <td align="center">获取微信4.0版本以上数据库密钥和图片密钥的工具 | A tool for obtaining database keys and image keys for WeChat versions 4.0 and above</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-07-25</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">346%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">548</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">708</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-10-12</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">547%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">547</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">553</td> 
         </tr>
         <tr>
-            <td align="center">Top71</td>
+            <td align="center">Top72</td>
             <td align="center"><a href="https://github.com/BrisklyDev/brisk" target="_blank">BrisklyDev/brisk</a></td> 
             <td align="center">Ultra-fast, modern download manager for desktop</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
@@ -725,7 +736,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">930</td> 
         </tr>
         <tr>
-            <td align="center">Top72</td>
+            <td align="center">Top73</td>
+            <td align="center"><a href="https://github.com/lichess-org/mobile" target="_blank">lichess-org/mobile</a></td> 
+            <td align="center">New Lichess mobile app in Flutter</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2022-05-01</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">36%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">537</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1997</td> 
+        </tr>
+        <tr>
+            <td align="center">Top74</td>
             <td align="center"><a href="https://github.com/G-Ray/pikatorrent" target="_blank">G-Ray/pikatorrent</a></td> 
             <td align="center">Pick a Torrent, stream and download on all your devices</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
@@ -735,7 +756,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">902</td> 
         </tr>
         <tr>
-            <td align="center">Top73</td>
+            <td align="center">Top75</td>
             <td align="center"><a href="https://github.com/ComicSparks/wax" target="_blank">ComicSparks/wax</a></td> 
             <td align="center">A comic browser，support Android / iOS / MacOS / Windows / Linux.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
@@ -745,17 +766,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">1329</td> 
         </tr>
         <tr>
-            <td align="center">Top74</td>
-            <td align="center"><a href="https://github.com/lichess-org/mobile" target="_blank">lichess-org/mobile</a></td> 
-            <td align="center">New Lichess mobile app in Flutter</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2022-05-01</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">36%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">526</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1986</td> 
-        </tr>
-        <tr>
-            <td align="center">Top75</td>
+            <td align="center">Top76</td>
             <td align="center"><a href="https://github.com/sunarya-thito/shadcn_flutter" target="_blank">sunarya-thito/shadcn_flutter</a></td> 
             <td align="center">A cohesive shadcn/ui ecosystem for Flutter</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
@@ -765,7 +776,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">705</td> 
         </tr>
         <tr>
-            <td align="center">Top76</td>
+            <td align="center">Top77</td>
             <td align="center"><a href="https://github.com/xajik/thedeck" target="_blank">xajik/thedeck</a></td> 
             <td align="center">The Deck: An Open-Source, Cross-Platform, Mobile, Turn by Turn Card Game Engine in Flutter</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
@@ -775,17 +786,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">736</td> 
         </tr>
         <tr>
-            <td align="center">Top77</td>
+            <td align="center">Top78</td>
             <td align="center"><a href="https://github.com/HTWMedia/HTV" target="_blank">HTWMedia/HTV</a></td> 
             <td align="center">A live media player app（电视直播软件）</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-05-05</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">258%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">510</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">707</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">509</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">706</td> 
         </tr>
         <tr>
-            <td align="center">Top78</td>
+            <td align="center">Top79</td>
             <td align="center"><a href="https://github.com/DJDoubleD/refreezer" target="_blank">DJDoubleD/refreezer</a></td> 
             <td align="center">An alternative Deezer music streaming & downloading client, based on Freezer.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
@@ -795,7 +806,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">871</td> 
         </tr>
         <tr>
-            <td align="center">Top79</td>
+            <td align="center">Top80</td>
+            <td align="center"><a href="https://github.com/academind/flutter-complete-guide-course-resources" target="_blank">academind/flutter-complete-guide-course-resources</a></td> 
+            <td align="center">Course resources (code snapshots & slides) for our complete Flutter & Dart course (https://acad.link/flutter).</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2023-04-05</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">23%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">492</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2591</td> 
+        </tr>
+        <tr>
+            <td align="center">Top81</td>
             <td align="center"><a href="https://github.com/wgh136/PicaComic" target="_blank">wgh136/PicaComic</a></td> 
             <td align="center">A comic app built with Flutter, supporting multiple comic sources.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
@@ -805,7 +826,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">8467</td> 
         </tr>
         <tr>
-            <td align="center">Top80</td>
+            <td align="center">Top82</td>
             <td align="center"><a href="https://github.com/AnsahMohammad/shots-studio" target="_blank">AnsahMohammad/shots-studio</a></td> 
             <td align="center">AI Powered Screenshot manager for Android</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
@@ -815,27 +836,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">488</td> 
         </tr>
         <tr>
-            <td align="center">Top81</td>
-            <td align="center"><a href="https://github.com/academind/flutter-complete-guide-course-resources" target="_blank">academind/flutter-complete-guide-course-resources</a></td> 
-            <td align="center">Course resources (code snapshots & slides) for our complete Flutter & Dart course (https://acad.link/flutter).</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2023-04-05</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">22%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">482</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2581</td> 
-        </tr>
-        <tr>
-            <td align="center">Top82</td>
-            <td align="center"><a href="https://github.com/MDeLuise/plant-it" target="_blank">MDeLuise/plant-it</a></td> 
-            <td align="center">🪴 Open source Android gardening companion app</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2023-05-19</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">62%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">464</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1206</td> 
-        </tr>
-        <tr>
             <td align="center">Top83</td>
+            <td align="center"><a href="https://github.com/schultek/jaspr" target="_blank">schultek/jaspr</a></td> 
+            <td align="center">Modern web framework for building websites in Dart. Supports SPAs, SSR and SSG.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2022-02-08</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">35%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">466</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1768</td> 
+        </tr>
+        <tr>
+            <td align="center">Top84</td>
             <td align="center"><a href="https://github.com/nini22P/iris" target="_blank">nini22P/iris</a></td> 
             <td align="center">A lightweight video player | 轻量级视频播放器</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
@@ -845,37 +856,37 @@
             <td style="white-space: nowrap; width: auto;" align="center">480</td> 
         </tr>
         <tr>
-            <td align="center">Top84</td>
-            <td align="center"><a href="https://github.com/schultek/jaspr" target="_blank">schultek/jaspr</a></td> 
-            <td align="center">Modern web framework for building websites in Dart. Supports SPAs, SSR and SSG.</td>
+            <td align="center">Top85</td>
+            <td align="center"><a href="https://github.com/MDeLuise/plant-it" target="_blank">MDeLuise/plant-it</a></td> 
+            <td align="center">🪴 Open source Android gardening companion app</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2022-02-08</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">35%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">460</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1768</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2023-05-19</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">62%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">464</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1206</td> 
         </tr>
         <tr>
-            <td align="center">Top85</td>
+            <td align="center">Top86</td>
             <td align="center"><a href="https://github.com/aiyakuaile/easy_tv_live" target="_blank">aiyakuaile/easy_tv_live</a></td> 
             <td align="center">Easy TV Live App, a lightweight IPTV player, supports all platforms and Android TV big screens. Welcome to download and experience!  极简TV App，一款轻量级IPTV播放器，支持全平台以及安卓电视大屏欢迎下载体验!</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-03-10</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">174%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">460</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">723</td> 
-        </tr>
-        <tr>
-            <td align="center">Top86</td>
-            <td align="center"><a href="https://github.com/Suwayomi/Tachidesk-Sorayomi" target="_blank">Suwayomi/Tachidesk-Sorayomi</a></td> 
-            <td align="center">A free and open source manga reader app to read manga from a Tachidesk-Server instance.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2022-01-16</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">47%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">448</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1390</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">175%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">461</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">724</td> 
         </tr>
         <tr>
             <td align="center">Top87</td>
+            <td align="center"><a href="https://github.com/LinwoodDev/Butterfly" target="_blank">LinwoodDev/Butterfly</a></td> 
+            <td align="center">🎨 Powerful, minimalistic, cross-platform, opensource note-taking app</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2020-12-21</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">38%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">449</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1605</td> 
+        </tr>
+        <tr>
+            <td align="center">Top88</td>
             <td align="center"><a href="https://github.com/code3-dev/ProxyCloud" target="_blank">code3-dev/ProxyCloud</a></td> 
             <td align="center">Proxy Cloud is an open-source VPN that’s fast, unlimited, secure, and completely free.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
@@ -885,7 +896,27 @@
             <td style="white-space: nowrap; width: auto;" align="center">529</td> 
         </tr>
         <tr>
-            <td align="center">Top88</td>
+            <td align="center">Top89</td>
+            <td align="center"><a href="https://github.com/Suwayomi/Tachidesk-Sorayomi" target="_blank">Suwayomi/Tachidesk-Sorayomi</a></td> 
+            <td align="center">A free and open source manga reader app to read manga from a Tachidesk-Server instance.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2022-01-16</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">47%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">448</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1390</td> 
+        </tr>
+        <tr>
+            <td align="center">Top90</td>
+            <td align="center"><a href="https://github.com/edde746/plezy" target="_blank">edde746/plezy</a></td> 
+            <td align="center">Modern cross-platform Plex client built with Flutter</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-10-21</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">120%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">445</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">815</td> 
+        </tr>
+        <tr>
+            <td align="center">Top91</td>
             <td align="center"><a href="https://github.com/akaMrNagar/Mindful" target="_blank">akaMrNagar/Mindful</a></td> 
             <td align="center">Your Ultimate Companion for Focus and Well-being.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
@@ -895,17 +926,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">510</td> 
         </tr>
         <tr>
-            <td align="center">Top89</td>
-            <td align="center"><a href="https://github.com/LinwoodDev/Butterfly" target="_blank">LinwoodDev/Butterfly</a></td> 
-            <td align="center">🎨 Powerful, minimalistic, cross-platform, opensource note-taking app</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2020-12-21</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">38%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">443</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1602</td> 
-        </tr>
-        <tr>
-            <td align="center">Top90</td>
+            <td align="center">Top92</td>
             <td align="center"><a href="https://github.com/Xmarmalade/alisthelper" target="_blank">Xmarmalade/alisthelper</a></td> 
             <td align="center">Alist Helper is an application developed using Flutter, designed to simplify the use of the desktop version of alist. It can manage alist, allowing you to easily start and stop the alist program.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
@@ -915,7 +936,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">2450</td> 
         </tr>
         <tr>
-            <td align="center">Top91</td>
+            <td align="center">Top93</td>
             <td align="center"><a href="https://github.com/zetaloop/keyviz" target="_blank">zetaloop/keyviz</a></td> 
             <td align="center">免费开源按键可视化工具 Keyviz 的汉化版。Keyviz Chinese l10n fork.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
@@ -925,7 +946,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">846</td> 
         </tr>
         <tr>
-            <td align="center">Top92</td>
+            <td align="center">Top94</td>
             <td align="center"><a href="https://github.com/RyanYuuki/AnymeX" target="_blank">RyanYuuki/AnymeX</a></td> 
             <td align="center">An Open Source app for Tracking Multi Service (AL, MAL, SIMKL)</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
@@ -935,17 +956,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">719</td> 
         </tr>
         <tr>
-            <td align="center">Top93</td>
-            <td align="center"><a href="https://github.com/edde746/plezy" target="_blank">edde746/plezy</a></td> 
-            <td align="center">Modern cross-platform Plex client built with Flutter</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-10-21</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">115%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">428</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">798</td> 
-        </tr>
-        <tr>
-            <td align="center">Top94</td>
+            <td align="center">Top95</td>
             <td align="center"><a href="https://github.com/jing332/AListFlutter" target="_blank">jing332/AListFlutter</a></td> 
             <td align="center">AList 安卓版本，APK安装即用，无需Root或Termux。</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
@@ -955,17 +966,27 @@
             <td style="white-space: nowrap; width: auto;" align="center">2025</td> 
         </tr>
         <tr>
-            <td align="center">Top95</td>
+            <td align="center">Top96</td>
             <td align="center"><a href="https://github.com/shorebirdtech/shorebird" target="_blank">shorebirdtech/shorebird</a></td> 
             <td align="center">Code Push for Flutter and other tools for Flutter businesses.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-03-03</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">17%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">416</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">417</td> 
             <td style="white-space: nowrap; width: auto;" align="center">2855</td> 
         </tr>
         <tr>
-            <td align="center">Top96</td>
+            <td align="center">Top97</td>
+            <td align="center"><a href="https://github.com/ycccccccy/echotrace" target="_blank">ycccccccy/echotrace</a></td> 
+            <td align="center">EchoTrace 是一个本地、安全的微信聊天记录导出、分析与年度报告生成工具 | EchoTrace is a local, secure tool for exporting, analyzing, and generating annual reports of WeChat chat records</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-10-17</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">410%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">410</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">413</td> 
+        </tr>
+        <tr>
+            <td align="center">Top98</td>
             <td align="center"><a href="https://github.com/owlistic-notes/owlistic" target="_blank">owlistic-notes/owlistic</a></td> 
             <td align="center">🦉 Free open-source notetaking app with real-time sync 🔄⚡️🚀</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
@@ -975,7 +996,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">411</td> 
         </tr>
         <tr>
-            <td align="center">Top97</td>
+            <td align="center">Top99</td>
+            <td align="center"><a href="https://github.com/jonasbark/swiftcontrol" target="_blank">jonasbark/swiftcontrol</a></td> 
+            <td align="center">Do Virtual Gear Shifting (and more) in any rider app with your Zwift Play, Zwift Click, Zwift Ride or any other controller out there!</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-28</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">405%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">405</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">414</td> 
+        </tr>
+        <tr>
+            <td align="center">Top100</td>
             <td align="center"><a href="https://github.com/niuhuan/daisy" target="_blank">niuhuan/daisy</a></td> 
             <td align="center">美观易用且无广告的漫画和轻小说客户端, 同时支持MacOS，Windows，Android，iOS。(动漫之家)</td>
             <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
@@ -983,36 +1014,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">33%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">400</td> 
             <td style="white-space: nowrap; width: auto;" align="center">1607</td> 
-        </tr>
-        <tr>
-            <td align="center">Top98</td>
-            <td align="center"><a href="https://github.com/jonasbark/swiftcontrol" target="_blank">jonasbark/swiftcontrol</a></td> 
-            <td align="center">Do Virtual Gear Shifting (and more) in any rider app with your Zwift Play, Zwift Click, Zwift Ride or any other controller out there!</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-28</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">397%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">397</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">409</td> 
-        </tr>
-        <tr>
-            <td align="center">Top99</td>
-            <td align="center"><a href="https://github.com/ycccccccy/wx_key" target="_blank">ycccccccy/wx_key</a></td> 
-            <td align="center">获取微信4.0版本以上数据库密钥和图片密钥的工具 | A tool for obtaining database keys and image keys for WeChat versions 4.0 and above</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-10-12</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">394%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">394</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">400</td> 
-        </tr>
-        <tr>
-            <td align="center">Top100</td>
-            <td align="center"><a href="https://github.com/Ferry-200/coriander_player" target="_blank">Ferry-200/coriander_player</a></td> 
-            <td align="center">Windows端本地音乐播放器，使用Material You配色。Dart (Flutter) + Rust (lofty, windows-rs) + C (bass lib) 跨语言项目。</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Dart</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-02-20</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">44%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">391</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1276</td> 
         </tr>
     </table>
 </div>

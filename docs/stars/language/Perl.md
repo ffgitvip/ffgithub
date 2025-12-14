@@ -1,5 +1,6 @@
-📚数据更新：2025-12-14  
-🌋数据来源：www.ffgithub.com
+📅统计周期：2025-01-01 ~ 2025-12-31<br>
+🌋数据来源：www.ffgithub.com<br>
+📚数据更新：2025-12-14<br>
 
 
 <div align="center">
@@ -26,16 +27,6 @@
         </tr>
         <tr>
             <td align="center">Top2</td>
-            <td align="center"><a href="https://github.com/sayyadirfanali/Myna" target="_blank">sayyadirfanali/Myna</a></td> 
-            <td align="center">monospace typeface designed for symbol-rich programming</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Perl</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-11-02</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1384%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1384</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1448</td> 
-        </tr>
-        <tr>
-            <td align="center">Top3</td>
             <td align="center"><a href="https://github.com/shanleiguang/vYinn" target="_blank">shanleiguang/vYinn</a></td> 
             <td align="center">中文古籍印章製作工具 Chinese Ancient Seals Design Tool</td>
             <td style="white-space: nowrap; width: auto;" align="center">Perl</td> 
@@ -45,7 +36,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">549</td> 
         </tr>
         <tr>
-            <td align="center">Top4</td>
+            <td align="center">Top3</td>
             <td align="center"><a href="https://github.com/ThePrimeagen/.dotfiles" target="_blank">ThePrimeagen/.dotfiles</a></td> 
             <td align="center"></td>
             <td style="white-space: nowrap; width: auto;" align="center">Perl</td> 
@@ -55,7 +46,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">3410</td> 
         </tr>
         <tr>
-            <td align="center">Top5</td>
+            <td align="center">Top4</td>
             <td align="center"><a href="https://github.com/sbwml/halflife-list" target="_blank">sbwml/halflife-list</a></td> 
             <td align="center">ABP/ublock 广告过滤规则（每周一早上 8 点更新）</td>
             <td style="white-space: nowrap; width: auto;" align="center">Perl</td> 
@@ -65,17 +56,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">974</td> 
         </tr>
         <tr>
-            <td align="center">Top6</td>
+            <td align="center">Top5</td>
             <td align="center"><a href="https://github.com/Aetherinox/csf-firewall" target="_blank">Aetherinox/csf-firewall</a></td> 
             <td align="center">ConfigServer Security & Firewall (CSF) - Robust linux iptables/nftables firewall & free ipset blocklist service.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Perl</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-06-06</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">187%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">187</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">198</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">195%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">195</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">206</td> 
         </tr>
         <tr>
-            <td align="center">Top7</td>
+            <td align="center">Top6</td>
             <td align="center"><a href="https://github.com/Cyclenerd/google-cloud-compute-machine-types" target="_blank">Cyclenerd/google-cloud-compute-machine-types</a></td> 
             <td align="center">☁️  Choose the optimal Google Compute Engine machine type or instance in the many Google Cloud Platform regions</td>
             <td style="white-space: nowrap; width: auto;" align="center">Perl</td> 

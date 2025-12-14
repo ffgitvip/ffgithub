@@ -1,5 +1,6 @@
-📚数据更新：2025-12-14  
-🌋数据来源：www.ffgithub.com
+📅统计周期：2025-01-01 ~ 2025-12-31<br>
+🌋数据来源：www.ffgithub.com<br>
+📚数据更新：2025-12-14<br>
 
 
 <div align="center">
@@ -51,8 +52,8 @@
             <td style="white-space: nowrap; width: auto;" align="center">Vim Script</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-01-04</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">11%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">527</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">5095</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">529</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">5097</td> 
         </tr>
         <tr>
             <td align="center">Top5</td>
@@ -60,9 +61,9 @@
             <td align="center"></td>
             <td style="white-space: nowrap; width: auto;" align="center">Vim Script</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-04-12</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">274%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">274</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">281</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">275%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">275</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">282</td> 
         </tr>
         <tr>
             <td align="center">Top6</td>

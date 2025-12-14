@@ -1,5 +1,6 @@
-📚数据更新：2025-12-14  
-🌋数据来源：www.ffgithub.com
+📅统计周期：2025-01-01 ~ 2025-12-31<br>
+🌋数据来源：www.ffgithub.com<br>
+📚数据更新：2025-12-14<br>
 
 
 <div align="center">
@@ -20,9 +21,9 @@
             <td align="center">💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-12-02</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">15941%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">15941</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">15979</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">16003%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">16003</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">16041</td> 
         </tr>
         <tr>
             <td align="center">Top2</td>
@@ -50,9 +51,9 @@
             <td align="center">本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-02-02</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">7779%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">7779</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">7855</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">7844%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">7844</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">7893</td> 
         </tr>
         <tr>
             <td align="center">Top5</td>
@@ -80,12 +81,22 @@
             <td align="center">练习英语，一次敲击，一点进步；Practice English, one strike, one step forward</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-08-03</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">398%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">4843</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">6090</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">401%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">4885</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">6101</td> 
         </tr>
         <tr>
             <td align="center">Top8</td>
+            <td align="center"><a href="https://github.com/HuLaSpark/HuLa" target="_blank">HuLaSpark/HuLa</a></td> 
+            <td align="center">🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS）</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-01-16</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">527%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">4805</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">5716</td> 
+        </tr>
+        <tr>
+            <td align="center">Top9</td>
             <td align="center"><a href="https://github.com/scalar/scalar" target="_blank">scalar/scalar</a></td> 
             <td align="center">Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
@@ -93,16 +104,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">54%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">4590</td> 
             <td style="white-space: nowrap; width: auto;" align="center">13018</td> 
-        </tr>
-        <tr>
-            <td align="center">Top9</td>
-            <td align="center"><a href="https://github.com/HuLaSpark/HuLa" target="_blank">HuLaSpark/HuLa</a></td> 
-            <td align="center">🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS）</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-01-16</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">479%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">4370</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">5308</td> 
         </tr>
         <tr>
             <td align="center">Top10</td>
@@ -136,6 +137,16 @@
         </tr>
         <tr>
             <td align="center">Top13</td>
+            <td align="center"><a href="https://github.com/xcancloud/AngusTester" target="_blank">xcancloud/AngusTester</a></td> 
+            <td align="center">🔥 An agile development and testing platform designed to empower small and medium-sized enterprises to build their own R&D systems, streamline workflows, and enhance operational efficiency.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-12-12</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3358%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3358</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3381</td> 
+        </tr>
+        <tr>
+            <td align="center">Top14</td>
             <td align="center"><a href="https://github.com/OpenCSGs/csghub" target="_blank">OpenCSGs/csghub</a></td> 
             <td align="center">CSGHub is a brand-new open-source platform for managing LLMs, developed by the OpenCSG team. It offers both open-source and on-premise/SaaS solutions, with features comparable to Hugging Face. Gain full control over the lifecycle of LLMs, datasets, and agents, with Python SDK compatibility with Hugging Face. Join us! ⭐️</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
@@ -145,7 +156,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">5756</td> 
         </tr>
         <tr>
-            <td align="center">Top14</td>
+            <td align="center">Top15</td>
             <td align="center"><a href="https://github.com/DavidHDev/vue-bits" target="_blank">DavidHDev/vue-bits</a></td> 
             <td align="center">An open source collection of animated, interactive & fully customizable Vue components for building stunning, memorable websites.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
@@ -153,16 +164,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">3257%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">3257</td> 
             <td style="white-space: nowrap; width: auto;" align="center">3262</td> 
-        </tr>
-        <tr>
-            <td align="center">Top15</td>
-            <td align="center"><a href="https://github.com/xcancloud/AngusTester" target="_blank">xcancloud/AngusTester</a></td> 
-            <td align="center">🔥 An agile development and testing platform designed to empower small and medium-sized enterprises to build their own R&D systems, streamline workflows, and enhance operational efficiency.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-12-12</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3255%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3255</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">3381</td> 
         </tr>
         <tr>
             <td align="center">Top16</td>
@@ -180,9 +181,9 @@
             <td align="center">一键将音视频转化为小红书/公众号/知识笔记/思维导图/视频字幕等各种风格的文档。</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-04-12</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2966%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2966</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2969</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2981%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2981</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2984</td> 
         </tr>
         <tr>
             <td align="center">Top18</td>
@@ -196,6 +197,16 @@
         </tr>
         <tr>
             <td align="center">Top19</td>
+            <td align="center"><a href="https://github.com/imsyy/SPlayer" target="_blank">imsyy/SPlayer</a></td> 
+            <td align="center">🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2023-01-06</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">83%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2637</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">5787</td> 
+        </tr>
+        <tr>
+            <td align="center">Top20</td>
             <td align="center"><a href="https://github.com/tiny-craft/tiny-rdm" target="_blank">tiny-craft/tiny-rdm</a></td> 
             <td align="center">Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
@@ -203,16 +214,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">27%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2601</td> 
             <td style="white-space: nowrap; width: auto;" align="center">12217</td> 
-        </tr>
-        <tr>
-            <td align="center">Top20</td>
-            <td align="center"><a href="https://github.com/imsyy/SPlayer" target="_blank">imsyy/SPlayer</a></td> 
-            <td align="center">🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2023-01-06</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">82%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2600</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">5787</td> 
         </tr>
         <tr>
             <td align="center">Top21</td>
@@ -230,9 +231,9 @@
             <td align="center">⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-05-05</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">66%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2351</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">5905</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">67%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2401</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">5955</td> 
         </tr>
         <tr>
             <td align="center">Top23</td>
@@ -261,7 +262,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-01-06</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">42%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2013</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2022</td> 
             <td style="white-space: nowrap; width: auto;" align="center">6778</td> 
         </tr>
         <tr>
@@ -290,9 +291,9 @@
             <td align="center">An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-06-22</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">46%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1892</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">5934</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">47%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1903</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">5939</td> 
         </tr>
         <tr>
             <td align="center">Top29</td>
@@ -321,21 +322,31 @@
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2021-11-15</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">36%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1570</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">5915</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1597</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">5935</td> 
         </tr>
         <tr>
             <td align="center">Top32</td>
+            <td align="center"><a href="https://github.com/Simon-He95/markstream-vue" target="_blank">Simon-He95/markstream-vue</a></td> 
+            <td align="center">A Vue 3 renderer specifically built for AI-powered streaming Markdown: Monaco incremental, Mermaid progressive, and KaTeX formula speed, with real-time updates and no jitter, ready to use out of the box.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-05-22</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1550%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1550</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1552</td> 
+        </tr>
+        <tr>
+            <td align="center">Top33</td>
             <td align="center"><a href="https://github.com/hslr-s/sun-panel" target="_blank">hslr-s/sun-panel</a></td> 
             <td align="center">A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-11-09</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">43%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1433</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">4734</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1443</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">4744</td> 
         </tr>
         <tr>
-            <td align="center">Top33</td>
+            <td align="center">Top34</td>
             <td align="center"><a href="https://github.com/liqiang-xxfy/fly-cursor-free" target="_blank">liqiang-xxfy/fly-cursor-free</a></td> 
             <td align="center">轻松一键续杯 Cursor Pro，保持14天试用不掉。【支持 Claude 4】</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
@@ -345,7 +356,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">1421</td> 
         </tr>
         <tr>
-            <td align="center">Top34</td>
+            <td align="center">Top35</td>
             <td align="center"><a href="https://github.com/inovector/mixpost" target="_blank">inovector/mixpost</a></td> 
             <td align="center">📅 Schedule, 📢 publish, and ⚡ manage your social media content on your server. No subscriptions, no limits. (Buffer alternative)</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
@@ -355,7 +366,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">2719</td> 
         </tr>
         <tr>
-            <td align="center">Top35</td>
+            <td align="center">Top36</td>
             <td align="center"><a href="https://github.com/jihe520/MathModelAgent" target="_blank">jihe520/MathModelAgent</a></td> 
             <td align="center">🤖📐专为数学建模设计的 Agent ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
@@ -365,7 +376,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">1402</td> 
         </tr>
         <tr>
-            <td align="center">Top36</td>
+            <td align="center">Top37</td>
             <td align="center"><a href="https://github.com/lanxiuyun/lazyeat" target="_blank">lanxiuyun/lazyeat</a></td> 
             <td align="center">Lazyeat（懒人手势）｜手势隔空控制，比划就行！Lazyeat is a touch-free controller for use while eating! Don't want greasy hands while watching shows or browsing the web during meals? You can pause videos/full screen/switch videos just by gesturing to the camera!</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
@@ -375,47 +386,47 @@
             <td style="white-space: nowrap; width: auto;" align="center">1393</td> 
         </tr>
         <tr>
-            <td align="center">Top37</td>
+            <td align="center">Top38</td>
             <td align="center"><a href="https://github.com/frappe/lms" target="_blank">frappe/lms</a></td> 
             <td align="center">Easy to Use, 100% Open Source Learning Management System</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2021-02-15</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">110%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1304</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2499</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">112%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1329</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2513</td> 
         </tr>
         <tr>
-            <td align="center">Top38</td>
+            <td align="center">Top39</td>
             <td align="center"><a href="https://github.com/zhimaAi/chatwiki" target="_blank">zhimaAi/chatwiki</a></td> 
             <td align="center">ChatWiki 微信公众号的AI知识库工作流Agent平台，RAG大模型AI客服机器人，致力于成为垂直领域的coze、n8n。</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-07-03</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">593%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1287</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">604%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1312</td> 
             <td style="white-space: nowrap; width: auto;" align="center">1529</td> 
         </tr>
         <tr>
-            <td align="center">Top39</td>
+            <td align="center">Top40</td>
             <td align="center"><a href="https://github.com/frappe/crm" target="_blank">frappe/crm</a></td> 
             <td align="center">Fully featured, open source CRM</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-07-19</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">154%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1263</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2087</td> 
-        </tr>
-        <tr>
-            <td align="center">Top40</td>
-            <td align="center"><a href="https://github.com/Simon-He95/markstream-vue" target="_blank">Simon-He95/markstream-vue</a></td> 
-            <td align="center">A Vue 3 renderer specifically built for AI-powered streaming Markdown: Monaco incremental, Mermaid progressive, and KaTeX formula speed, with real-time updates and no jitter, ready to use out of the box.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-05-22</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1254%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1254</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1256</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">155%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1276</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2096</td> 
         </tr>
         <tr>
             <td align="center">Top41</td>
+            <td align="center"><a href="https://github.com/anghunk/linuxdo-scripts" target="_blank">anghunk/linuxdo-scripts</a></td> 
+            <td align="center">LinuxDo Scripts 扩展，功能持续更新，欢迎提出新想法！已上架 Chrome Web Store 和 Firefox 商店！文档地址：https://linuxdo-scripts.zishu.me</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-08-05</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">178%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1231</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1922</td> 
+        </tr>
+        <tr>
+            <td align="center">Top42</td>
             <td align="center"><a href="https://github.com/Hacker233/resume-design" target="_blank">Hacker233/resume-design</a></td> 
             <td align="center">猫步简历 – 一款开源免费的简历制作神器，支持导出超高清PDF、图片、源码级JSON数据、Markdown格式等，AI简历生成、AI润色、AI语种翻译等。提供海量在线制作模版、主题任意切换、高度定制化的简历模块。使用猫步简历，您可以制作出一份独特、优美、专业的求职简历。</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
@@ -423,16 +434,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">64%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">1216</td> 
             <td style="white-space: nowrap; width: auto;" align="center">3106</td> 
-        </tr>
-        <tr>
-            <td align="center">Top42</td>
-            <td align="center"><a href="https://github.com/anghunk/linuxdo-scripts" target="_blank">anghunk/linuxdo-scripts</a></td> 
-            <td align="center">LinuxDo Scripts 扩展，功能持续更新，欢迎提出新想法！已上架 Chrome Web Store 和 Firefox 商店！文档地址：https://linuxdo-scripts.zishu.me</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-08-05</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">175%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1211</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1922</td> 
         </tr>
         <tr>
             <td align="center">Top43</td>
@@ -460,9 +461,9 @@
             <td align="center">Craft beautiful websites effortlessly with an intuitive visual builder and publish them instantly</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-01-11</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">200%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1150</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1728</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">202%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1161</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1735</td> 
         </tr>
         <tr>
             <td align="center">Top46</td>
@@ -506,6 +507,16 @@
         </tr>
         <tr>
             <td align="center">Top50</td>
+            <td align="center"><a href="https://github.com/keleus/BewlyCat" target="_blank">keleus/BewlyCat</a></td> 
+            <td align="center">BewlyCat——基于BewlyBewly开发的Bilibili拓展</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-02-25</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">196%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1057</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1595</td> 
+        </tr>
+        <tr>
+            <td align="center">Top51</td>
             <td align="center"><a href="https://github.com/un-pany/v3-admin-vite" target="_blank">un-pany/v3-admin-vite</a></td> 
             <td align="center">☀️ A crafted Vue3 admin template | Vue Admin | Vue Template | Vue3 Admin | Vue3 Template | Vue 后台 | Vue 模板 | Vue3 后台 | Vue3 模板</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
@@ -515,17 +526,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">6726</td> 
         </tr>
         <tr>
-            <td align="center">Top51</td>
+            <td align="center">Top52</td>
             <td align="center"><a href="https://github.com/stark81/VutronMusic" target="_blank">stark81/VutronMusic</a></td> 
             <td align="center">高颜值的第三方网易云播放器；支持流媒体音乐，如navidrome、jellyfin、emby；支持本地音乐播放、离线歌单、逐字歌词、桌面歌词、Touch Bar歌词、Mac状态栏歌词显示、Linux-gnome与Linux-kde桌面状态栏歌词显示；支持降调降速，支持自定义主题等。支持 Windows / macOS / Linux :electron:</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-09-19</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">808%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1027</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">821%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1043</td> 
             <td style="white-space: nowrap; width: auto;" align="center">1170</td> 
         </tr>
         <tr>
-            <td align="center">Top52</td>
+            <td align="center">Top53</td>
             <td align="center"><a href="https://github.com/wenge-research/x-agent" target="_blank">wenge-research/x-agent</a></td> 
             <td align="center">智川x-agent</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
@@ -535,7 +546,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">1083</td> 
         </tr>
         <tr>
-            <td align="center">Top53</td>
+            <td align="center">Top54</td>
+            <td align="center"><a href="https://github.com/yangzongzhuan/RuoYi-Vue3" target="_blank">yangzongzhuan/RuoYi-Vue3</a></td> 
+            <td align="center">:tada: (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2021-11-29</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">19%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1006</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">6214</td> 
+        </tr>
+        <tr>
+            <td align="center">Top55</td>
             <td align="center"><a href="https://github.com/ponysb/91Writing" target="_blank">ponysb/91Writing</a></td> 
             <td align="center">一个基于 Vue 3 + Element Plus 的智能Ai小说创作工具，集成多种 AI 模型，助力作者高效创作</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
@@ -545,44 +566,24 @@
             <td style="white-space: nowrap; width: auto;" align="center">1032</td> 
         </tr>
         <tr>
-            <td align="center">Top54</td>
-            <td align="center"><a href="https://github.com/yangzongzhuan/RuoYi-Vue3" target="_blank">yangzongzhuan/RuoYi-Vue3</a></td> 
-            <td align="center">:tada: (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2021-11-29</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">19%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">994</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">6214</td> 
-        </tr>
-        <tr>
-            <td align="center">Top55</td>
-            <td align="center"><a href="https://github.com/keleus/BewlyCat" target="_blank">keleus/BewlyCat</a></td> 
-            <td align="center">BewlyCat——基于BewlyBewly开发的Bilibili拓展</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-02-25</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">183%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">988</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1547</td> 
-        </tr>
-        <tr>
             <td align="center">Top56</td>
+            <td align="center"><a href="https://github.com/tranxuanthang/lrcget" target="_blank">tranxuanthang/lrcget</a></td> 
+            <td align="center">Utility for mass-downloading LRC synced lyrics for your offline music library.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2022-11-14</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">97%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1004</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2037</td> 
+        </tr>
+        <tr>
+            <td align="center">Top57</td>
             <td align="center"><a href="https://github.com/Tresjs/tres" target="_blank">Tresjs/tres</a></td> 
             <td align="center">Declarative ThreeJS using Vue Components</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-11-28</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">41%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">987</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">3374</td> 
-        </tr>
-        <tr>
-            <td align="center">Top57</td>
-            <td align="center"><a href="https://github.com/tranxuanthang/lrcget" target="_blank">tranxuanthang/lrcget</a></td> 
-            <td align="center">Utility for mass-downloading LRC synced lyrics for your offline music library.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2022-11-14</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">94%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">973</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2006</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">991</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3375</td> 
         </tr>
         <tr>
             <td align="center">Top58</td>
@@ -616,6 +617,16 @@
         </tr>
         <tr>
             <td align="center">Top61</td>
+            <td align="center"><a href="https://github.com/zhaochengcube/augment-token-mng" target="_blank">zhaochengcube/augment-token-mng</a></td> 
+            <td align="center">一个基于 Tauri 构建的跨平台桌面应用程序，用于生成和管理 Augment Code 访问令牌。</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-07-08</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">919%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">919</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">951</td> 
+        </tr>
+        <tr>
+            <td align="center">Top62</td>
             <td align="center"><a href="https://github.com/lyqht/mini-qr" target="_blank">lyqht/mini-qr</a></td> 
             <td align="center">Create & scan cute qr codes easily 👾</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
@@ -623,16 +634,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">128%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">908</td> 
             <td style="white-space: nowrap; width: auto;" align="center">1613</td> 
-        </tr>
-        <tr>
-            <td align="center">Top62</td>
-            <td align="center"><a href="https://github.com/zhaochengcube/augment-token-mng" target="_blank">zhaochengcube/augment-token-mng</a></td> 
-            <td align="center">一个基于 Tauri 构建的跨平台桌面应用程序，用于生成和管理 Augment Code 访问令牌。</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-07-08</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">906%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">906</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">951</td> 
         </tr>
         <tr>
             <td align="center">Top63</td>
@@ -680,12 +681,22 @@
             <td align="center">A fast, open-source Markdown note-taking app for students and creators</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-08-21</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">843%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">843</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">866</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">847%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">847</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">867</td> 
         </tr>
         <tr>
             <td align="center">Top68</td>
+            <td align="center"><a href="https://github.com/MetaCubeX/metacubexd" target="_blank">MetaCubeX/metacubexd</a></td> 
+            <td align="center">Mihomo Dashboard, The Official One, XD</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2023-07-11</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">43%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">841</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2760</td> 
+        </tr>
+        <tr>
+            <td align="center">Top69</td>
             <td align="center"><a href="https://github.com/umodoc/editor" target="_blank">umodoc/editor</a></td> 
             <td align="center">Umo Editor is an open-source document editor based on Vue3 and Tiptap, providing an online editing experience similar to Microsoft Word.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
@@ -695,17 +706,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">1264</td> 
         </tr>
         <tr>
-            <td align="center">Top69</td>
+            <td align="center">Top70</td>
             <td align="center"><a href="https://github.com/graphieros/vue-data-ui" target="_blank">graphieros/vue-data-ui</a></td> 
             <td align="center">An open source user-empowering data visualization Vue 3 components library for eloquent data storytelling</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-07-24</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">58%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">762</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">764</td> 
             <td style="white-space: nowrap; width: auto;" align="center">2070</td> 
         </tr>
         <tr>
-            <td align="center">Top70</td>
+            <td align="center">Top71</td>
             <td align="center"><a href="https://github.com/geek-fun/dockit" target="_blank">geek-fun/dockit</a></td> 
             <td align="center">Elasticsearch GUI client for Mac, windows and linux, Opensearch GUI client for Mac, windows and linux</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
@@ -715,7 +726,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">1068</td> 
         </tr>
         <tr>
-            <td align="center">Top71</td>
+            <td align="center">Top72</td>
             <td align="center"><a href="https://github.com/kirodotdev/spirit-of-kiro" target="_blank">kirodotdev/spirit-of-kiro</a></td> 
             <td align="center">Spirit of Kiro is built with and powered by generative AI. Play the game, or help build it!</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
@@ -725,7 +736,27 @@
             <td style="white-space: nowrap; width: auto;" align="center">875</td> 
         </tr>
         <tr>
-            <td align="center">Top72</td>
+            <td align="center">Top73</td>
+            <td align="center"><a href="https://github.com/thelastoutpostworkshop/ESPConnect" target="_blank">thelastoutpostworkshop/ESPConnect</a></td> 
+            <td align="center">Zero-installation web application that lets you explore, back up, and manage your ESP32… right from your browser</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-10-27</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">742%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">742</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">751</td> 
+        </tr>
+        <tr>
+            <td align="center">Top74</td>
+            <td align="center"><a href="https://github.com/GUI-for-Cores/GUI.for.Clash" target="_blank">GUI-for-Cores/GUI.for.Clash</a></td> 
+            <td align="center">A GUI program developed by vue3 + wails.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2023-11-25</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">40%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">729</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2539</td> 
+        </tr>
+        <tr>
+            <td align="center">Top75</td>
             <td align="center"><a href="https://github.com/Super-Badmen-Viper/NSMusicS" target="_blank">Super-Badmen-Viper/NSMusicS</a></td> 
             <td align="center">NSMusicS NineSong Cloud-Native Music Server/ Full platform Client，support navidrome, jellyfin, emby</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
@@ -735,17 +766,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">2236</td> 
         </tr>
         <tr>
-            <td align="center">Top73</td>
-            <td align="center"><a href="https://github.com/GUI-for-Cores/GUI.for.Clash" target="_blank">GUI-for-Cores/GUI.for.Clash</a></td> 
-            <td align="center">A GUI program developed by vue3 + wails.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2023-11-25</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">40%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">724</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2539</td> 
-        </tr>
-        <tr>
-            <td align="center">Top74</td>
+            <td align="center">Top76</td>
             <td align="center"><a href="https://github.com/imsyy/home" target="_blank">imsyy/home</a></td> 
             <td align="center">个人主页，我的个人主页，个人主页源码，主页模板，homepage</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
@@ -755,7 +776,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">4403</td> 
         </tr>
         <tr>
-            <td align="center">Top75</td>
+            <td align="center">Top77</td>
             <td align="center"><a href="https://github.com/advplyr/audiobookshelf-app" target="_blank">advplyr/audiobookshelf-app</a></td> 
             <td align="center">Mobile application for Audiobookshelf</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
@@ -765,7 +786,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">2154</td> 
         </tr>
         <tr>
-            <td align="center">Top76</td>
+            <td align="center">Top78</td>
             <td align="center"><a href="https://github.com/serversideup/financial-freedom" target="_blank">serversideup/financial-freedom</a></td> 
             <td align="center">🔥🔥🔥 An open source alternative to Mint, YNAB, and more. Stay on budget and build wealth without sacrificing your privacy.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
@@ -775,7 +796,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">2752</td> 
         </tr>
         <tr>
-            <td align="center">Top77</td>
+            <td align="center">Top79</td>
             <td align="center"><a href="https://github.com/Ackites/hidden-word" target="_blank">Ackites/hidden-word</a></td> 
             <td align="center">A Unicode-based text digital watermarking tool for embedding invisible copyright marks and metadata in text content.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
@@ -785,17 +806,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">752</td> 
         </tr>
         <tr>
-            <td align="center">Top78</td>
+            <td align="center">Top80</td>
             <td align="center"><a href="https://github.com/kanriapp/kanri" target="_blank">kanriapp/kanri</a></td> 
             <td align="center">🪐 Modern offline Kanban board app for Windows, MacOS and Linux made with Tauri and Nuxt. Built with simplicity and user experience in mind.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-05-21</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">84%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">696</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">702</td> 
             <td style="white-space: nowrap; width: auto;" align="center">1529</td> 
         </tr>
         <tr>
-            <td align="center">Top79</td>
+            <td align="center">Top81</td>
             <td align="center"><a href="https://github.com/kevin2li/PDF-Guru" target="_blank">kevin2li/PDF-Guru</a></td> 
             <td align="center">PDF Guru Anki是你整个知识世界的“中枢转换器”，与 Anki 的强大记忆引擎无缝融合，能将来自任何地方、任何格式的知识精华，高效、系统、可持续地转化为牢固的长期记忆资产，打造专属自己的个性化Anki知识库，助你高效学习、轻松记忆。</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
@@ -805,7 +826,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">3886</td> 
         </tr>
         <tr>
-            <td align="center">Top80</td>
+            <td align="center">Top82</td>
+            <td align="center"><a href="https://github.com/timeshiftsauce/CeruMusic" target="_blank">timeshiftsauce/CeruMusic</a></td> 
+            <td align="center">Ceru Music 是基于 Electron 和 Vue 开发的跨平台桌面音乐播放器工具，借鉴洛雪音乐插件思想，提供插件运行框架与播放功能，不直接存储、提供任何音乐源文件。用户需通过自行选择、安装合规插件获取音乐相关数据，项目旨在为开发者提供桌面应用技术实践与学习案例，为用户提供合规的音乐播放工具框架。</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-08-13</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">683%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">683</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">685</td> 
+        </tr>
+        <tr>
+            <td align="center">Top83</td>
             <td align="center"><a href="https://github.com/uxiaohan/PayQrcode" target="_blank">uxiaohan/PayQrcode</a></td> 
             <td align="center">最新物理合并微信收款码和支付宝收款码为聚合二维码👍</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
@@ -815,17 +846,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">736</td> 
         </tr>
         <tr>
-            <td align="center">Top81</td>
-            <td align="center"><a href="https://github.com/thelastoutpostworkshop/ESPConnect" target="_blank">thelastoutpostworkshop/ESPConnect</a></td> 
-            <td align="center">Zero-installation web application that lets you explore, back up, and manage your ESP32… right from your browser</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-10-27</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">668%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">668</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">726</td> 
-        </tr>
-        <tr>
-            <td align="center">Top82</td>
+            <td align="center">Top84</td>
             <td align="center"><a href="https://github.com/palxiao/poster-design" target="_blank">palxiao/poster-design</a></td> 
             <td align="center">迅排设计 - 美观且功能强大的图片编辑器、在线海报设计，仿稿定设计，适用于多种场景：海报生成、电商产品图、文章长图、视频/公众号封面等。A beautiful online image designer, suitable for various scenarios like generate posters, making design easier!</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
@@ -835,7 +856,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">4578</td> 
         </tr>
         <tr>
-            <td align="center">Top83</td>
+            <td align="center">Top85</td>
             <td align="center"><a href="https://github.com/lookscanned/lookscanned.io" target="_blank">lookscanned/lookscanned.io</a></td> 
             <td align="center">📚 LookScanned.io - Make your PDFs look scanned</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
@@ -845,7 +866,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">3390</td> 
         </tr>
         <tr>
-            <td align="center">Top84</td>
+            <td align="center">Top86</td>
             <td align="center"><a href="https://github.com/massCodeIO/massCode" target="_blank">massCodeIO/massCode</a></td> 
             <td align="center">A free and open source code snippet manager for developers</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
@@ -855,7 +876,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">6572</td> 
         </tr>
         <tr>
-            <td align="center">Top85</td>
+            <td align="center">Top87</td>
+            <td align="center"><a href="https://github.com/Gzh0821/pvzg_site" target="_blank">Gzh0821/pvzg_site</a></td> 
+            <td align="center">PvZ2 Gardendless Official Website | A rewritten Plants vs Zombies 2 PC port</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-07-12</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">632%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">658</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">762</td> 
+        </tr>
+        <tr>
+            <td align="center">Top88</td>
             <td align="center"><a href="https://github.com/LSTM-Kirigaya/openmcp-client" target="_blank">LSTM-Kirigaya/openmcp-client</a></td> 
             <td align="center">All in one vscode plugin for mcp developer</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
@@ -865,27 +896,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">659</td> 
         </tr>
         <tr>
-            <td align="center">Top86</td>
-            <td align="center"><a href="https://github.com/Gzh0821/pvzg_site" target="_blank">Gzh0821/pvzg_site</a></td> 
-            <td align="center">PvZ2 Gardendless Official Website | A rewritten Plants vs Zombies 2 PC port</td>
+            <td align="center">Top89</td>
+            <td align="center"><a href="https://github.com/yarin-zhang/AI-Gist" target="_blank">yarin-zhang/AI-Gist</a></td> 
+            <td align="center">✨ AI Gist 是一款隐私优先的 AI 提示词管理工具，致力于让个人收藏的 AI 提示词能够发挥最大价值。支持变量替换、Jinja 模板、AI 生成与调优、历史版本记录、云端备份等核心功能。</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-07-12</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">629%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">655</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">762</td> 
-        </tr>
-        <tr>
-            <td align="center">Top87</td>
-            <td align="center"><a href="https://github.com/timeshiftsauce/CeruMusic" target="_blank">timeshiftsauce/CeruMusic</a></td> 
-            <td align="center">Ceru Music 是基于 Electron 和 Vue 开发的跨平台桌面音乐播放器工具，借鉴洛雪音乐插件思想，提供插件运行框架与播放功能，不直接存储、提供任何音乐源文件。用户需通过自行选择、安装合规插件获取音乐相关数据，项目旨在为开发者提供桌面应用技术实践与学习案例，为用户提供合规的音乐播放工具框架。</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-08-13</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-06-03</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">655%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">655</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">685</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">657</td> 
         </tr>
         <tr>
-            <td align="center">Top88</td>
+            <td align="center">Top90</td>
             <td align="center"><a href="https://github.com/caddymanager/caddymanager" target="_blank">caddymanager/caddymanager</a></td> 
             <td align="center">Easily manage your Caddy2 servers using a modern web-UI, built on the MEVN stack.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
@@ -895,34 +916,14 @@
             <td style="white-space: nowrap; width: auto;" align="center">763</td> 
         </tr>
         <tr>
-            <td align="center">Top89</td>
-            <td align="center"><a href="https://github.com/yarin-zhang/AI-Gist" target="_blank">yarin-zhang/AI-Gist</a></td> 
-            <td align="center">✨ AI Gist 是一款隐私优先的 AI 提示词管理工具，致力于让个人收藏的 AI 提示词能够发挥最大价值。支持变量替换、Jinja 模板、AI 生成与调优、历史版本记录、云端备份等核心功能。</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-06-03</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">637%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">637</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">639</td> 
-        </tr>
-        <tr>
-            <td align="center">Top90</td>
+            <td align="center">Top91</td>
             <td align="center"><a href="https://github.com/youlaitech/vue3-element-admin" target="_blank">youlaitech/vue3-element-admin</a></td> 
             <td align="center">🔥基于 Vue 3 + Vite 7+ TypeScript + element-plus 构建的后台管理前端模板（配套后端源码），vue-element-admin 的 vue3 版本。</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2021-11-13</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">40%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">636</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">651</td> 
             <td style="white-space: nowrap; width: auto;" align="center">2241</td> 
-        </tr>
-        <tr>
-            <td align="center">Top91</td>
-            <td align="center"><a href="https://github.com/OpenListTeam/OpenList-Desktop" target="_blank">OpenListTeam/OpenList-Desktop</a></td> 
-            <td align="center">A desktop application for OpenList</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-06-25</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">635%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">635</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">642</td> 
         </tr>
         <tr>
             <td align="center">Top92</td>
@@ -930,12 +931,32 @@
             <td align="center">雅思词汇真经、雅思语法、听力 179、阅读 538  同义替换等。Everything during preparing for my IELTS exam.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-07-15</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">168%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">632</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1007</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">171%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">643</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1018</td> 
         </tr>
         <tr>
             <td align="center">Top93</td>
+            <td align="center"><a href="https://github.com/OpenListTeam/OpenList-Desktop" target="_blank">OpenListTeam/OpenList-Desktop</a></td> 
+            <td align="center">A desktop application for OpenList</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-06-25</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">638%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">638</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">642</td> 
+        </tr>
+        <tr>
+            <td align="center">Top94</td>
+            <td align="center"><a href="https://github.com/vuepont/ai-elements-vue" target="_blank">vuepont/ai-elements-vue</a></td> 
+            <td align="center">AI Elements Vue is a component library built on top of shadcn-vue to help you build AI-native applications faster.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-08-27</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">631%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">631</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">646</td> 
+        </tr>
+        <tr>
+            <td align="center">Top95</td>
             <td align="center"><a href="https://github.com/shiyutim/tickets" target="_blank">shiyutim/tickets</a></td> 
             <td align="center">大麦、大麦网 演唱会抢票软件，一个基于 tauri + rust + vue 调用接口的抢票软件。</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
@@ -945,7 +966,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">3036</td> 
         </tr>
         <tr>
-            <td align="center">Top94</td>
+            <td align="center">Top96</td>
             <td align="center"><a href="https://github.com/XIE7654/django-vue3-admin" target="_blank">XIE7654/django-vue3-admin</a></td> 
             <td align="center">django vue3 ts admin vben fastapi langchain</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
@@ -955,7 +976,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">657</td> 
         </tr>
         <tr>
-            <td align="center">Top95</td>
+            <td align="center">Top97</td>
             <td align="center"><a href="https://github.com/build-admin/buildadmin" target="_blank">build-admin/buildadmin</a></td> 
             <td align="center">可视化生成CRUD代码、内置WEB终端、workerman常驻内存运行支持，技术栈为Vue3.x(setup)+ThinkPHP8+TypeScript+Vite+Pinia+Element Plus，自适应多端，同时提供Web和Server端、自动注册路由、无限级菜单权限节点、全局数据回收站、字段级修改保护等等，是集颜值、实用、敏捷于一身的管理系统。</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
@@ -965,17 +986,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">2102</td> 
         </tr>
         <tr>
-            <td align="center">Top96</td>
-            <td align="center"><a href="https://github.com/vuepont/ai-elements-vue" target="_blank">vuepont/ai-elements-vue</a></td> 
-            <td align="center">AI Elements Vue is a component library built on top of shadcn-vue to help you build AI-native applications faster.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-08-27</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">612%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">612</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">646</td> 
-        </tr>
-        <tr>
-            <td align="center">Top97</td>
+            <td align="center">Top98</td>
             <td align="center"><a href="https://github.com/scholtz/vote-coin-demo" target="_blank">scholtz/vote-coin-demo</a></td> 
             <td align="center"></td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
@@ -985,7 +996,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">609</td> 
         </tr>
         <tr>
-            <td align="center">Top98</td>
+            <td align="center">Top99</td>
             <td align="center"><a href="https://github.com/JieWSOFT/MediaHelp" target="_blank">JieWSOFT/MediaHelp</a></td> 
             <td align="center">网盘资源搜索订阅、网盘一键转存、定时任务自动转存、emby自动刷新全套流程方案落地</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
@@ -995,7 +1006,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">605</td> 
         </tr>
         <tr>
-            <td align="center">Top99</td>
+            <td align="center">Top100</td>
             <td align="center"><a href="https://github.com/youshandefeiyang/sub-web-modify" target="_blank">youshandefeiyang/sub-web-modify</a></td> 
             <td align="center">Subconverter订阅转换前端增强版，增加近百条远程配置及更多自定义功能！</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
@@ -1003,16 +1014,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">28%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">601</td> 
             <td style="white-space: nowrap; width: auto;" align="center">2745</td> 
-        </tr>
-        <tr>
-            <td align="center">Top100</td>
-            <td align="center"><a href="https://github.com/vitejs/devtools" target="_blank">vitejs/devtools</a></td> 
-            <td align="center">DevTools for Vite (Rolldown). Working in Progress</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Vue</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-04-10</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">152%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">583</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">973</td> 
         </tr>
     </table>
 </div>

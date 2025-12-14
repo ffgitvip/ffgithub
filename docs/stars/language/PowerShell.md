@@ -1,5 +1,6 @@
-📚数据更新：2025-12-14  
-🌋数据来源：www.ffgithub.com
+📅统计周期：2025-01-01 ~ 2025-12-31<br>
+🌋数据来源：www.ffgithub.com<br>
+📚数据更新：2025-12-14<br>
 
 
 <div align="center">
@@ -20,9 +21,9 @@
             <td align="center">Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates</td>
             <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-04-28</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">58%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">16053</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">43794</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">59%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">16394</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">43925</td> 
         </tr>
         <tr>
             <td align="center">Top2</td>
@@ -46,6 +47,16 @@
         </tr>
         <tr>
             <td align="center">Top4</td>
+            <td align="center"><a href="https://github.com/zoicware/RemoveWindowsAI" target="_blank">zoicware/RemoveWindowsAI</a></td> 
+            <td align="center">Force Remove Copilot, Recall and More in Windows 11</td>
+            <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-06-07</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2632%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2632</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2700</td> 
+        </tr>
+        <tr>
+            <td align="center">Top5</td>
             <td align="center"><a href="https://github.com/ionuttbara/windows-defender-remover" target="_blank">ionuttbara/windows-defender-remover</a></td> 
             <td align="center">A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.</td>
             <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
@@ -55,7 +66,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">6627</td> 
         </tr>
         <tr>
-            <td align="center">Top5</td>
+            <td align="center">Top6</td>
             <td align="center"><a href="https://github.com/memstechtips/UnattendedWinstall" target="_blank">memstechtips/UnattendedWinstall</a></td> 
             <td align="center">Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 & 11 during the installation process.</td>
             <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
@@ -65,7 +76,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">5435</td> 
         </tr>
         <tr>
-            <td align="center">Top6</td>
+            <td align="center">Top7</td>
             <td align="center"><a href="https://github.com/Orange-Cyberdefense/GOAD" target="_blank">Orange-Cyberdefense/GOAD</a></td> 
             <td align="center">game of active directory</td>
             <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
@@ -75,7 +86,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">7154</td> 
         </tr>
         <tr>
-            <td align="center">Top7</td>
+            <td align="center">Top8</td>
             <td align="center"><a href="https://github.com/microsoft/agent-academy" target="_blank">microsoft/agent-academy</a></td> 
             <td align="center">Curated lessons on getting started building agents with Copilot Studio</td>
             <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
@@ -85,27 +96,27 @@
             <td style="white-space: nowrap; width: auto;" align="center">1133</td> 
         </tr>
         <tr>
-            <td align="center">Top8</td>
+            <td align="center">Top9</td>
             <td align="center"><a href="https://github.com/ios12checker/Windows-Maintenance-Tool" target="_blank">ios12checker/Windows-Maintenance-Tool</a></td> 
             <td align="center">A powerful, all-in-one Windows maintenance toolkit built entirely in Batch & PowerShell. Designed for power users, sysadmins, and curious tinkerers – now smarter, safer, and fully offline-compatible.</td>
             <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-06-09</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">955%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">955</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">984</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">959%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">959</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">985</td> 
         </tr>
         <tr>
-            <td align="center">Top9</td>
+            <td align="center">Top10</td>
             <td align="center"><a href="https://github.com/hak5/usbrubberducky-payloads" target="_blank">hak5/usbrubberducky-payloads</a></td> 
             <td align="center">The Official USB Rubber Ducky Payload Repository</td>
             <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2021-07-14</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">21%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">932</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">5333</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">950</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">5351</td> 
         </tr>
         <tr>
-            <td align="center">Top10</td>
+            <td align="center">Top11</td>
             <td align="center"><a href="https://github.com/ntdevlabs/nano11" target="_blank">ntdevlabs/nano11</a></td> 
             <td align="center">Script to build possibly the most trimmed-down Windows 11 experience.</td>
             <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
@@ -115,7 +126,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">1294</td> 
         </tr>
         <tr>
-            <td align="center">Top11</td>
+            <td align="center">Top12</td>
             <td align="center"><a href="https://github.com/omerbsezer/Fast-Kubernetes" target="_blank">omerbsezer/Fast-Kubernetes</a></td> 
             <td align="center">This repo covers Kubernetes with LABs: Kubectl, Pod, Deployment, Service, PV, PVC, Rollout, Multicontainer, Daemonset, Taint-Toleration, Job, Ingress, Kubeadm, Helm, etc.</td>
             <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
@@ -125,7 +136,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">2690</td> 
         </tr>
         <tr>
-            <td align="center">Top12</td>
+            <td align="center">Top13</td>
             <td align="center"><a href="https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB" target="_blank">I-Am-Jakoby/Flipper-Zero-BadUSB</a></td> 
             <td align="center">Repository for my flipper zero badUSB payloads. Now almost entirely plug and play.</td>
             <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
@@ -135,7 +146,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">6389</td> 
         </tr>
         <tr>
-            <td align="center">Top13</td>
+            <td align="center">Top14</td>
             <td align="center"><a href="https://github.com/0xsyr0/OSCP" target="_blank">0xsyr0/OSCP</a></td> 
             <td align="center">OSCP Cheat Sheet</td>
             <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
@@ -145,7 +156,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">3552</td> 
         </tr>
         <tr>
-            <td align="center">Top14</td>
+            <td align="center">Top15</td>
             <td align="center"><a href="https://github.com/dartraiden/NVIDIA-patcher" target="_blank">dartraiden/NVIDIA-patcher</a></td> 
             <td align="center">Adds 3D acceleration support for P106-090 / P106-100 / P104-100 / P104-101 / P102-100 / CMP 30HX / CMP 40HX / CMP 50HX / CMP 70HX / CMP 90HX / CMP 170HX mining cards as well as RTX 3060 3840SP, RTX 3080 Ti 20 GB, RTX 4070 10 GB, and L40 ES.</td>
             <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
@@ -155,7 +166,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">1102</td> 
         </tr>
         <tr>
-            <td align="center">Top15</td>
+            <td align="center">Top16</td>
             <td align="center"><a href="https://github.com/jamesstringer90/Easy-GPU-PV" target="_blank">jamesstringer90/Easy-GPU-PV</a></td> 
             <td align="center">A Project dedicated to making GPU Partitioning on Windows easier!</td>
             <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
@@ -163,16 +174,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">14%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">654</td> 
             <td style="white-space: nowrap; width: auto;" align="center">5211</td> 
-        </tr>
-        <tr>
-            <td align="center">Top16</td>
-            <td align="center"><a href="https://github.com/zoicware/RemoveWindowsAI" target="_blank">zoicware/RemoveWindowsAI</a></td> 
-            <td align="center">Force Remove Copilot, Recall and More in Windows 11</td>
-            <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-06-07</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">641%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">641</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2700</td> 
         </tr>
         <tr>
             <td align="center">Top17</td>
@@ -186,6 +187,16 @@
         </tr>
         <tr>
             <td align="center">Top18</td>
+            <td align="center"><a href="https://github.com/meetrevision/playbook" target="_blank">meetrevision/playbook</a></td> 
+            <td align="center">A lightweight, stable, and performance-focused customized version of Windows that enhances privacy and compatibility</td>
+            <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2023-03-31</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">51%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">544</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1600</td> 
+        </tr>
+        <tr>
+            <td align="center">Top19</td>
             <td align="center"><a href="https://github.com/JulietMirambo/Units_of_Measure_Harmonization-intelligence-platform" target="_blank">JulietMirambo/Units_of_Measure_Harmonization-intelligence-platform</a></td> 
             <td align="center">Production-Grade ML System for Automated Unit of Measure Error Detection | 88-92% Accuracy | 94% Autonomy | KNIME Workflow</td>
             <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
@@ -195,7 +206,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">776</td> 
         </tr>
         <tr>
-            <td align="center">Top19</td>
+            <td align="center">Top20</td>
             <td align="center"><a href="https://github.com/abbodi1406/ConsumerESU" target="_blank">abbodi1406/ConsumerESU</a></td> 
             <td align="center">Windows 10 Consumer ESU Enrollment</td>
             <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
@@ -203,16 +214,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">536%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">536</td> 
             <td style="white-space: nowrap; width: auto;" align="center">583</td> 
-        </tr>
-        <tr>
-            <td align="center">Top20</td>
-            <td align="center"><a href="https://github.com/meetrevision/playbook" target="_blank">meetrevision/playbook</a></td> 
-            <td align="center">A lightweight, stable, and performance-focused customized version of Windows that enhances privacy and compatibility</td>
-            <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2023-03-31</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">50%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">532</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1600</td> 
         </tr>
         <tr>
             <td align="center">Top21</td>
@@ -226,6 +227,16 @@
         </tr>
         <tr>
             <td align="center">Top22</td>
+            <td align="center"><a href="https://github.com/fscorrupt/posterizarr" target="_blank">fscorrupt/posterizarr</a></td> 
+            <td align="center">🖼️ Automated poster maker for Plex/Jellyfin/Emby.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-02-02</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">252%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">479</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">669</td> 
+        </tr>
+        <tr>
+            <td align="center">Top23</td>
             <td align="center"><a href="https://github.com/Romanitho/Winget-AutoUpdate" target="_blank">Romanitho/Winget-AutoUpdate</a></td> 
             <td align="center">WAU daily updates apps as system and notify connected users. (Allowlist and Blocklist support)</td>
             <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
@@ -235,23 +246,13 @@
             <td style="white-space: nowrap; width: auto;" align="center">1710</td> 
         </tr>
         <tr>
-            <td align="center">Top23</td>
-            <td align="center"><a href="https://github.com/fscorrupt/posterizarr" target="_blank">fscorrupt/posterizarr</a></td> 
-            <td align="center">🖼️ Automated poster maker for Plex/Jellyfin/Emby.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-02-02</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">245%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">467</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">662</td> 
-        </tr>
-        <tr>
             <td align="center">Top24</td>
             <td align="center"><a href="https://github.com/cisagov/ScubaGear" target="_blank">cisagov/ScubaGear</a></td> 
             <td align="center">Automation to assess the state of your M365 tenant against CISA's baselines</td>
             <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-07-22</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">23%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">455</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">458</td> 
             <td style="white-space: nowrap; width: auto;" align="center">2379</td> 
         </tr>
         <tr>
@@ -280,8 +281,8 @@
             <td align="center">Hearthstone script（炉石传说脚本）</td>
             <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-07-10</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">114%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">383</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">115%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">388</td> 
             <td style="white-space: nowrap; width: auto;" align="center">723</td> 
         </tr>
         <tr>
@@ -360,9 +361,9 @@
             <td align="center">The purpose of this repository is to automatically build the most up-to-date version of jellyfin-tizen.</td>
             <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-03-29</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">48%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">314</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">965</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">49%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">320</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">966</td> 
         </tr>
         <tr>
             <td align="center">Top36</td>
@@ -410,12 +411,22 @@
             <td align="center">The Intune-Toolkit offers a basic & user-friendly interface to connect to Microsoft Graph, manage policy assignments, and handle backup and restore operations</td>
             <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-06-24</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">265%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">265</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">308</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">269%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">269</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">312</td> 
         </tr>
         <tr>
             <td align="center">Top41</td>
+            <td align="center"><a href="https://github.com/abgox/PSCompletions" target="_blank">abgox/PSCompletions</a></td> 
+            <td align="center">A completion manager for a better and simpler tab-completion experience in PowerShell.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2023-08-15</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">187%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">266</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">408</td> 
+        </tr>
+        <tr>
+            <td align="center">Top42</td>
             <td align="center"><a href="https://github.com/RocketGod-git/Flipper_Zero" target="_blank">RocketGod-git/Flipper_Zero</a></td> 
             <td align="center">My SD Drive for Flipper Zero</td>
             <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
@@ -425,7 +436,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">1307</td> 
         </tr>
         <tr>
-            <td align="center">Top42</td>
+            <td align="center">Top43</td>
             <td align="center"><a href="https://github.com/Lifailon/PS-Commands" target="_blank">Lifailon/PS-Commands</a></td> 
             <td align="center">📚 Large base of PowerShell notes in ru language (Сheat Sheet & Documentation).</td>
             <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
@@ -433,16 +444,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">93%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">252</td> 
             <td style="white-space: nowrap; width: auto;" align="center">522</td> 
-        </tr>
-        <tr>
-            <td align="center">Top43</td>
-            <td align="center"><a href="https://github.com/abgox/PSCompletions" target="_blank">abgox/PSCompletions</a></td> 
-            <td align="center">A completion manager for a better and simpler tab-completion experience in PowerShell.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2023-08-15</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">174%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">248</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">400</td> 
         </tr>
         <tr>
             <td align="center">Top44</td>
@@ -516,6 +517,16 @@
         </tr>
         <tr>
             <td align="center">Top51</td>
+            <td align="center"><a href="https://github.com/61106960/adPEAS" target="_blank">61106960/adPEAS</a></td> 
+            <td align="center">Powershell tool to automate Active Directory enumeration.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2020-12-23</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">21%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">225</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1258</td> 
+        </tr>
+        <tr>
+            <td align="center">Top52</td>
             <td align="center"><a href="https://github.com/dafthack/GraphRunner" target="_blank">dafthack/GraphRunner</a></td> 
             <td align="center">A Post-exploitation Toolset for Interacting with the Microsoft Graph API</td>
             <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
@@ -523,16 +534,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">22%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">225</td> 
             <td style="white-space: nowrap; width: auto;" align="center">1232</td> 
-        </tr>
-        <tr>
-            <td align="center">Top52</td>
-            <td align="center"><a href="https://github.com/61106960/adPEAS" target="_blank">61106960/adPEAS</a></td> 
-            <td align="center">Powershell tool to automate Active Directory enumeration.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2020-12-23</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">21%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">223</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1256</td> 
         </tr>
         <tr>
             <td align="center">Top53</td>
@@ -576,6 +577,16 @@
         </tr>
         <tr>
             <td align="center">Top57</td>
+            <td align="center"><a href="https://github.com/memstechtips/WIMUtil" target="_blank">memstechtips/WIMUtil</a></td> 
+            <td align="center">[ARCHIVED] Windows Installation Media Utility - Succeeded by Winhance</td>
+            <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-11-15</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">96%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">212</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">432</td> 
+        </tr>
+        <tr>
+            <td align="center">Top58</td>
             <td align="center"><a href="https://github.com/Pennyw0rth/NetExec-Lab" target="_blank">Pennyw0rth/NetExec-Lab</a></td> 
             <td align="center">Lab used for workshop and CTF</td>
             <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
@@ -583,16 +594,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">124%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">211</td> 
             <td style="white-space: nowrap; width: auto;" align="center">381</td> 
-        </tr>
-        <tr>
-            <td align="center">Top58</td>
-            <td align="center"><a href="https://github.com/memstechtips/WIMUtil" target="_blank">memstechtips/WIMUtil</a></td> 
-            <td align="center">[ARCHIVED] Windows Installation Media Utility - Succeeded by Winhance</td>
-            <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-11-15</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">95%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">211</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">431</td> 
         </tr>
         <tr>
             <td align="center">Top59</td>
@@ -616,6 +617,16 @@
         </tr>
         <tr>
             <td align="center">Top61</td>
+            <td align="center"><a href="https://github.com/debridmediamanager/zurg-testing" target="_blank">debridmediamanager/zurg-testing</a></td> 
+            <td align="center">A self-hosted Real-Debrid webdav server you can use with Infuse. Together with rclone it can mount your Real-Debrid torrent library into your filesystem and load it to Plex or Jellyfin.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2023-10-22</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">34%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">202</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">780</td> 
+        </tr>
+        <tr>
+            <td align="center">Top62</td>
             <td align="center"><a href="https://github.com/okibcn/wslcompact" target="_blank">okibcn/wslcompact</a></td> 
             <td align="center">Compacts the size of the ever-growing WSL vhdx images.</td>
             <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
@@ -625,7 +636,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">1039</td> 
         </tr>
         <tr>
-            <td align="center">Top62</td>
+            <td align="center">Top63</td>
             <td align="center"><a href="https://github.com/FR33THYFR33THY/Github-Game-Configs" target="_blank">FR33THYFR33THY/Github-Game-Configs</a></td> 
             <td align="center"></td>
             <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
@@ -635,7 +646,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">213</td> 
         </tr>
         <tr>
-            <td align="center">Top63</td>
+            <td align="center">Top64</td>
             <td align="center"><a href="https://github.com/ChrisTitusTech/powershell-profile" target="_blank">ChrisTitusTech/powershell-profile</a></td> 
             <td align="center">Pretty PowerShell that looks good and functions almost as good as Linux terminal</td>
             <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
@@ -645,7 +656,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">895</td> 
         </tr>
         <tr>
-            <td align="center">Top64</td>
+            <td align="center">Top65</td>
             <td align="center"><a href="https://github.com/NelloKudo/Apple-Mobile-Drivers-Installer" target="_blank">NelloKudo/Apple-Mobile-Drivers-Installer</a></td> 
             <td align="center">Powershell script to easily install Apple USB and Mobile Device Ethernet (USB Tethering) drivers on Windows!</td>
             <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
@@ -653,16 +664,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">173%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">199</td> 
             <td style="white-space: nowrap; width: auto;" align="center">314</td> 
-        </tr>
-        <tr>
-            <td align="center">Top65</td>
-            <td align="center"><a href="https://github.com/debridmediamanager/zurg-testing" target="_blank">debridmediamanager/zurg-testing</a></td> 
-            <td align="center">A self-hosted Real-Debrid webdav server you can use with Infuse. Together with rclone it can mount your Real-Debrid torrent library into your filesystem and load it to Plex or Jellyfin.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2023-10-22</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">34%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">198</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">776</td> 
         </tr>
         <tr>
             <td align="center">Top66</td>
@@ -736,6 +737,16 @@
         </tr>
         <tr>
             <td align="center">Top73</td>
+            <td align="center"><a href="https://github.com/REIJI007/AdBlock_Rule_For_Clash" target="_blank">REIJI007/AdBlock_Rule_For_Clash</a></td> 
+            <td align="center">适用于Clash（premium核心与mihomo核心）的广告域名拦截RULE-SET规则集，每20分钟更新一次</td>
+            <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-08-02</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">181%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">181</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">269</td> 
+        </tr>
+        <tr>
+            <td align="center">Top74</td>
             <td align="center"><a href="https://github.com/microsoft/EntraExporter" target="_blank">microsoft/EntraExporter</a></td> 
             <td align="center">PowerShell module to export a local copy of an Entra (Azure AD) tenant configuration.</td>
             <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
@@ -745,7 +756,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">779</td> 
         </tr>
         <tr>
-            <td align="center">Top74</td>
+            <td align="center">Top75</td>
             <td align="center"><a href="https://github.com/Anon-Exploiter/sliver-cheatsheet" target="_blank">Anon-Exploiter/sliver-cheatsheet</a></td> 
             <td align="center">Sliver CheatSheet for OSEP</td>
             <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
@@ -753,16 +764,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">179%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">179</td> 
             <td style="white-space: nowrap; width: auto;" align="center">210</td> 
-        </tr>
-        <tr>
-            <td align="center">Top75</td>
-            <td align="center"><a href="https://github.com/REIJI007/AdBlock_Rule_For_Clash" target="_blank">REIJI007/AdBlock_Rule_For_Clash</a></td> 
-            <td align="center">适用于Clash（premium核心与mihomo核心）的广告域名拦截RULE-SET规则集，每20分钟更新一次</td>
-            <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-08-02</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">178%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">178</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">266</td> 
         </tr>
         <tr>
             <td align="center">Top76</td>
@@ -846,6 +847,16 @@
         </tr>
         <tr>
             <td align="center">Top84</td>
+            <td align="center"><a href="https://github.com/he3als/EdgeRemover" target="_blank">he3als/EdgeRemover</a></td> 
+            <td align="center">A PowerShell script that correctly uninstalls or reinstalls Microsoft Edge on Windows 10 & 11.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2023-07-16</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">94%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">159</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">327</td> 
+        </tr>
+        <tr>
+            <td align="center">Top85</td>
             <td align="center"><a href="https://github.com/LuemmelSec/APEX" target="_blank">LuemmelSec/APEX</a></td> 
             <td align="center">Azure Post Exploitation Framework</td>
             <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
@@ -855,7 +866,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">242</td> 
         </tr>
         <tr>
-            <td align="center">Top85</td>
+            <td align="center">Top86</td>
             <td align="center"><a href="https://github.com/sonercirit/zed-windows-stable" target="_blank">sonercirit/zed-windows-stable</a></td> 
             <td align="center">automated windows builds for Zed code editor, built from source, stable channel</td>
             <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
@@ -865,7 +876,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">231</td> 
         </tr>
         <tr>
-            <td align="center">Top86</td>
+            <td align="center">Top87</td>
             <td align="center"><a href="https://github.com/FelixSelter/JEnv-for-Windows" target="_blank">FelixSelter/JEnv-for-Windows</a></td> 
             <td align="center">Change your current Java version with one line</td>
             <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
@@ -875,7 +886,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">867</td> 
         </tr>
         <tr>
-            <td align="center">Top87</td>
+            <td align="center">Top88</td>
             <td align="center"><a href="https://github.com/Nonary/ResolutionAutomation" target="_blank">Nonary/ResolutionAutomation</a></td> 
             <td align="center">Automates changing the host resolution to match the client resolution of Moonlight, with capabilities of supersampling if required</td>
             <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
@@ -883,16 +894,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">19%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">155</td> 
             <td style="white-space: nowrap; width: auto;" align="center">954</td> 
-        </tr>
-        <tr>
-            <td align="center">Top88</td>
-            <td align="center"><a href="https://github.com/he3als/EdgeRemover" target="_blank">he3als/EdgeRemover</a></td> 
-            <td align="center">A PowerShell script that correctly uninstalls or reinstalls Microsoft Edge on Windows 10 & 11.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2023-07-16</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">92%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">155</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">323</td> 
         </tr>
         <tr>
             <td align="center">Top89</td>
@@ -916,13 +917,13 @@
         </tr>
         <tr>
             <td align="center">Top91</td>
-            <td align="center"><a href="https://github.com/PIKACHUIM/FakeSign" target="_blank">PIKACHUIM/FakeSign</a></td> 
-            <td align="center">自建时间戳服务器实现伪签名驱动证书 Implementing Pseudo Signature with Self-Sign Timestamp Servers</td>
+            <td align="center"><a href="https://github.com/microsoft/finops-toolkit" target="_blank">microsoft/finops-toolkit</a></td> 
+            <td align="center">Tools and resources to help you adopt and implement FinOps capabilities that automate and extend the Microsoft Cloud.</td>
             <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2023-04-06</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">62%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2023-01-12</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">44%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">149</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">388</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">482</td> 
         </tr>
         <tr>
             <td align="center">Top92</td>
@@ -936,13 +937,13 @@
         </tr>
         <tr>
             <td align="center">Top93</td>
-            <td align="center"><a href="https://github.com/microsoft/finops-toolkit" target="_blank">microsoft/finops-toolkit</a></td> 
-            <td align="center">Tools and resources to help you adopt and implement FinOps capabilities that automate and extend the Microsoft Cloud.</td>
+            <td align="center"><a href="https://github.com/PIKACHUIM/FakeSign" target="_blank">PIKACHUIM/FakeSign</a></td> 
+            <td align="center">自建时间戳服务器实现伪签名驱动证书 Implementing Pseudo Signature with Self-Sign Timestamp Servers</td>
             <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2023-01-12</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">44%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2023-04-06</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">61%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">148</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">482</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">387</td> 
         </tr>
         <tr>
             <td align="center">Top94</td>
@@ -1000,9 +1001,9 @@
             <td align="center">A lightweight uproject that debloats Unreal Engine, reducing package size and increasing editor and game performance.</td>
             <td style="white-space: nowrap; width: auto;" align="center">PowerShell</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-01-03</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">139%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">139</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">233</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">141%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">141</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">235</td> 
         </tr>
         <tr>
             <td align="center">Top100</td>

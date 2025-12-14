@@ -1,5 +1,6 @@
-📚数据更新：2025-12-14  
-🌋数据来源：www.ffgithub.com
+📅统计周期：2025-01-01 ~ 2025-12-31<br>
+🌋数据来源：www.ffgithub.com<br>
+📚数据更新：2025-12-14<br>
 
 
 <div align="center">
@@ -20,32 +21,42 @@
             <td align="center">An open source collection of animated, interactive & fully customizable React components for building memorable websites.</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-08-06</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1849%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">30328</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1858%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">30483</td> 
             <td style="white-space: nowrap; width: auto;" align="center">32123</td> 
         </tr>
         <tr>
             <td align="center">Top2</td>
+            <td align="center"><a href="https://github.com/Max-Eee/NeoPass" target="_blank">Max-Eee/NeoPass</a></td> 
+            <td align="center">Your Essential Exam Companion for the Iamneo Portal & NPTEL Exams Disguised as NeoExamShield bypass</td>
+            <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-11-15</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">11159%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">25778</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">26009</td> 
+        </tr>
+        <tr>
+            <td align="center">Top3</td>
             <td align="center"><a href="https://github.com/bmad-code-org/BMAD-METHOD" target="_blank">bmad-code-org/BMAD-METHOD</a></td> 
             <td align="center">Breakthrough Method for Agile Ai Driven Development</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-04-13</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">24469%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">24469</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">24764</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">24956%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">24956</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">24959</td> 
         </tr>
         <tr>
-            <td align="center">Top3</td>
+            <td align="center">Top4</td>
             <td align="center"><a href="https://github.com/eyaltoledano/claude-task-master" target="_blank">eyaltoledano/claude-task-master</a></td> 
             <td align="center">An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-03-05</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">24176%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">24176</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">24220</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">24250%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">24250</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">24252</td> 
         </tr>
         <tr>
-            <td align="center">Top4</td>
+            <td align="center">Top5</td>
             <td align="center"><a href="https://github.com/Gar-b-age/CookLikeHOC" target="_blank">Gar-b-age/CookLikeHOC</a></td> 
             <td align="center">🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
@@ -55,24 +66,14 @@
             <td style="white-space: nowrap; width: auto;" align="center">22301</td> 
         </tr>
         <tr>
-            <td align="center">Top5</td>
+            <td align="center">Top6</td>
             <td align="center"><a href="https://github.com/Mintplex-Labs/anything-llm" target="_blank">Mintplex-Labs/anything-llm</a></td> 
             <td align="center">The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-06-04</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">70%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">21500</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">51932</td> 
-        </tr>
-        <tr>
-            <td align="center">Top6</td>
-            <td align="center"><a href="https://github.com/f/awesome-chatgpt-prompts" target="_blank">f/awesome-chatgpt-prompts</a></td> 
-            <td align="center">This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2022-12-05</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">17%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">21012</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">138997</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">71%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">21690</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">52122</td> 
         </tr>
         <tr>
             <td align="center">Top7</td>
@@ -81,7 +82,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2021-07-03</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">26%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">16833</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">16934</td> 
             <td style="white-space: nowrap; width: auto;" align="center">79692</td> 
         </tr>
         <tr>
@@ -90,8 +91,8 @@
             <td align="center">Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-06-12</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">13827%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">13827</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">14038%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">14038</td> 
             <td style="white-space: nowrap; width: auto;" align="center">14062</td> 
         </tr>
         <tr>
@@ -106,6 +107,16 @@
         </tr>
         <tr>
             <td align="center">Top10</td>
+            <td align="center"><a href="https://github.com/davila7/claude-code-templates" target="_blank">davila7/claude-code-templates</a></td> 
+            <td align="center">CLI tool for configuring and monitoring Claude Code</td>
+            <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-07-04</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">11493%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">12413</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">12521</td> 
+        </tr>
+        <tr>
+            <td align="center">Top11</td>
             <td align="center"><a href="https://github.com/jujumilk3/leaked-system-prompts" target="_blank">jujumilk3/leaked-system-prompts</a></td> 
             <td align="center">Collection of leaked system prompts</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
@@ -115,7 +126,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">13679</td> 
         </tr>
         <tr>
-            <td align="center">Top11</td>
+            <td align="center">Top12</td>
             <td align="center"><a href="https://github.com/ConardLi/easy-dataset" target="_blank">ConardLi/easy-dataset</a></td> 
             <td align="center">A powerful tool for creating fine-tuning datasets for LLM</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
@@ -125,23 +136,13 @@
             <td style="white-space: nowrap; width: auto;" align="center">12229</td> 
         </tr>
         <tr>
-            <td align="center">Top12</td>
-            <td align="center"><a href="https://github.com/davila7/claude-code-templates" target="_blank">davila7/claude-code-templates</a></td> 
-            <td align="center">CLI tool for configuring and monitoring Claude Code</td>
-            <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-07-04</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">11304%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">12209</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">12317</td> 
-        </tr>
-        <tr>
             <td align="center">Top13</td>
             <td align="center"><a href="https://github.com/maboloshi/github-chinese" target="_blank">maboloshi/github-chinese</a></td> 
             <td align="center">GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2021-09-27</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">165%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">11743</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">166%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">11856</td> 
             <td style="white-space: nowrap; width: auto;" align="center">18963</td> 
         </tr>
         <tr>
@@ -151,8 +152,8 @@
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-07-17</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">49%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">11587</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">35087</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">11644</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">35144</td> 
         </tr>
         <tr>
             <td align="center">Top15</td>
@@ -170,9 +171,9 @@
             <td align="center">LLM Frontend for Power Users.</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-02-09</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">119%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">11258</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">20807</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">120%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">11401</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">20858</td> 
         </tr>
         <tr>
             <td align="center">Top17</td>
@@ -180,9 +181,9 @@
             <td align="center">The official repository of Mozilla's Firefox web browser.</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-07-30</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">10676%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">10676</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">10679</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">10735%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">10735</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">10738</td> 
         </tr>
         <tr>
             <td align="center">Top18</td>
@@ -190,9 +191,9 @@
             <td align="center">🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks.</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-06-03</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">10500%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">10500</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">10504</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">10598%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">10598</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">10602</td> 
         </tr>
         <tr>
             <td align="center">Top19</td>
@@ -200,29 +201,29 @@
             <td align="center">🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-03-03</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">36%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">10052</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">37668</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">37%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">10253</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">37869</td> 
         </tr>
         <tr>
             <td align="center">Top20</td>
+            <td align="center"><a href="https://github.com/harvard-edge/cs249r_book" target="_blank">harvard-edge/cs249r_book</a></td> 
+            <td align="center">Introduction to Machine Learning Systems</td>
+            <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2023-09-07</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">686%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">9392</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">10760</td> 
+        </tr>
+        <tr>
+            <td align="center">Top21</td>
             <td align="center"><a href="https://github.com/usebruno/bruno" target="_blank">usebruno/bruno</a></td> 
             <td align="center">Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-09-28</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">31%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">9310</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">39200</td> 
-        </tr>
-        <tr>
-            <td align="center">Top21</td>
-            <td align="center"><a href="https://github.com/harvard-edge/cs249r_book" target="_blank">harvard-edge/cs249r_book</a></td> 
-            <td align="center">Introduction to Machine Learning Systems</td>
-            <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2023-09-07</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">655%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">8968</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">10336</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">9378</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">39252</td> 
         </tr>
         <tr>
             <td align="center">Top22</td>
@@ -230,9 +231,9 @@
             <td align="center">AI模型聚合管理中转分发系统，一个应用管理您的所有AI模型，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-11-11</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">192%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">8818</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">13517</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">196%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">8998</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">13575</td> 
         </tr>
         <tr>
             <td align="center">Top23</td>
@@ -241,8 +242,8 @@
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-01-04</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">30%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">8118</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">35113</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">8200</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">35139</td> 
         </tr>
         <tr>
             <td align="center">Top24</td>
@@ -256,16 +257,26 @@
         </tr>
         <tr>
             <td align="center">Top25</td>
+            <td align="center"><a href="https://github.com/alam00000/bentopdf" target="_blank">alam00000/bentopdf</a></td> 
+            <td align="center">A Privacy First PDF Toolkit</td>
+            <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-10-12</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">7182%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">7182</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">7192</td> 
+        </tr>
+        <tr>
+            <td align="center">Top26</td>
             <td align="center"><a href="https://github.com/xixu-me/xget" target="_blank">xixu-me/xget</a></td> 
             <td align="center">Ultra-high-performance, secure, all-in-one acceleration engine for developer resources</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-11-01</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">7022%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">7022</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">7025</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">7077%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">7077</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">7080</td> 
         </tr>
         <tr>
-            <td align="center">Top26</td>
+            <td align="center">Top27</td>
             <td align="center"><a href="https://github.com/zumerlab/snapdom" target="_blank">zumerlab/snapdom</a></td> 
             <td align="center">SnapDOM: DOM Capture Engine – Fast and Accurate HTML Conversion</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
@@ -275,7 +286,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">7149</td> 
         </tr>
         <tr>
-            <td align="center">Top27</td>
+            <td align="center">Top28</td>
             <td align="center"><a href="https://github.com/AgentDeskAI/browser-tools-mcp" target="_blank">AgentDeskAI/browser-tools-mcp</a></td> 
             <td align="center">Monitor browser logs directly from Cursor and other MCP compatible IDEs.</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
@@ -285,7 +296,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">6862</td> 
         </tr>
         <tr>
-            <td align="center">Top28</td>
+            <td align="center">Top29</td>
             <td align="center"><a href="https://github.com/hmjz100/LinkSwift" target="_blank">hmjz100/LinkSwift</a></td> 
             <td align="center">一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
@@ -295,24 +306,14 @@
             <td style="white-space: nowrap; width: auto;" align="center">9453</td> 
         </tr>
         <tr>
-            <td align="center">Top29</td>
-            <td align="center"><a href="https://github.com/alam00000/bentopdf" target="_blank">alam00000/bentopdf</a></td> 
-            <td align="center">A Privacy First PDF Toolkit</td>
-            <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-10-12</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">6505%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">6505</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">7059</td> 
-        </tr>
-        <tr>
             <td align="center">Top30</td>
             <td align="center"><a href="https://github.com/jamez-bondos/awesome-gpt4o-images" target="_blank">jamez-bondos/awesome-gpt4o-images</a></td> 
             <td align="center">Awesome curated collection of images and prompts generated by GPT-4o and gpt-image-1. Explore AI generated visuals created with ChatGPT and Sora, showcasing OpenAI’s advanced image generation capabilities.</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-04-13</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">412%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">6248</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">7761</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">414%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">6267</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">7780</td> 
         </tr>
         <tr>
             <td align="center">Top31</td>
@@ -321,11 +322,21 @@
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-08-24</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">28%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">5981</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">27184</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">6038</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">27215</td> 
         </tr>
         <tr>
             <td align="center">Top32</td>
+            <td align="center"><a href="https://github.com/youhunwl/TVAPP" target="_blank">youhunwl/TVAPP</a></td> 
+            <td align="center">收集全网 Android TV电视盒子应用，涵盖影视、直播、K歌、工具、游戏等类型，整理优质APK资源，支持便捷下载与自动更新。提供安全验证、分类索引与兼容性标注，助力用户打造家庭影音娱乐中心！              ✅ TVBox/影视仓等影音壳接口配置源。</td>
+            <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-11</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">5793%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">5793</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">5795</td> 
+        </tr>
+        <tr>
+            <td align="center">Top33</td>
             <td align="center"><a href="https://github.com/grab/cursor-talk-to-figma-mcp" target="_blank">grab/cursor-talk-to-figma-mcp</a></td> 
             <td align="center">TalkToFigma: MCP integration between Cursor and Figma, allowing Cursor Agentic AI to communicate with Figma for reading designs and modifying them programmatically.</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
@@ -335,7 +346,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">5778</td> 
         </tr>
         <tr>
-            <td align="center">Top33</td>
+            <td align="center">Top34</td>
             <td align="center"><a href="https://github.com/pickle-com/glass" target="_blank">pickle-com/glass</a></td> 
             <td align="center">Digital Mind Extension</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
@@ -343,16 +354,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">464%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">5762</td> 
             <td style="white-space: nowrap; width: auto;" align="center">7002</td> 
-        </tr>
-        <tr>
-            <td align="center">Top34</td>
-            <td align="center"><a href="https://github.com/youhunwl/TVAPP" target="_blank">youhunwl/TVAPP</a></td> 
-            <td align="center">收集全网 Android TV电视盒子应用，涵盖影视、直播、K歌、工具、游戏等类型，整理优质APK资源，支持便捷下载与自动更新。提供安全验证、分类索引与兼容性标注，助力用户打造家庭影音娱乐中心！              ✅ TVBox/影视仓等影音壳接口配置源。</td>
-            <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-11</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">5650%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">5650</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">5795</td> 
         </tr>
         <tr>
             <td align="center">Top35</td>
@@ -376,16 +377,26 @@
         </tr>
         <tr>
             <td align="center">Top37</td>
+            <td align="center"><a href="https://github.com/aandrew-me/ytDownloader" target="_blank">aandrew-me/ytDownloader</a></td> 
+            <td align="center">Desktop App for downloading Videos and Audios from hundreds of sites</td>
+            <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2022-07-26</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">445%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">5442</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">6664</td> 
+        </tr>
+        <tr>
+            <td align="center">Top38</td>
             <td align="center"><a href="https://github.com/bluewave-labs/Checkmate" target="_blank">bluewave-labs/Checkmate</a></td> 
             <td align="center">Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: https://discord.com/invite/NAb6H3UTjK :)</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-04-30</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">160%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">5338</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">8682</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">5354</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">8690</td> 
         </tr>
         <tr>
-            <td align="center">Top38</td>
+            <td align="center">Top39</td>
             <td align="center"><a href="https://github.com/mruniquehacker/Knightbot-MD" target="_blank">mruniquehacker/Knightbot-MD</a></td> 
             <td align="center">A simple WhatsApp bot to manage groups</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
@@ -395,7 +406,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">5550</td> 
         </tr>
         <tr>
-            <td align="center">Top39</td>
+            <td align="center">Top40</td>
+            <td align="center"><a href="https://github.com/yonggekkk/Cloudflare-vless-trojan" target="_blank">yonggekkk/Cloudflare-vless-trojan</a></td> 
+            <td align="center">CF-workers/pages代理脚本【Vless与Trojan】：支持nat64自动生成proxyip，一键自建proxyip与CF反代IP，CF优选官方IP三地区应用脚本，自动输出美、亚、欧最佳优选IP</td>
+            <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2023-07-22</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">71%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">5308</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">12740</td> 
+        </tr>
+        <tr>
+            <td align="center">Top41</td>
             <td align="center"><a href="https://github.com/StrayMeteor3337/WechatRealFriends" target="_blank">StrayMeteor3337/WechatRealFriends</a></td> 
             <td align="center">微信好友关系一键检测，基于微信ipad协议，看看有没有朋友偷偷删掉或者拉黑你</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
@@ -405,34 +426,14 @@
             <td style="white-space: nowrap; width: auto;" align="center">5291</td> 
         </tr>
         <tr>
-            <td align="center">Top40</td>
+            <td align="center">Top42</td>
             <td align="center"><a href="https://github.com/Jackywine/Bella" target="_blank">Jackywine/Bella</a></td> 
             <td align="center">Bella is best</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-07-16</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">462%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">5261</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">6398</td> 
-        </tr>
-        <tr>
-            <td align="center">Top41</td>
-            <td align="center"><a href="https://github.com/aandrew-me/ytDownloader" target="_blank">aandrew-me/ytDownloader</a></td> 
-            <td align="center">Desktop App for downloading Videos and Audios from hundreds of sites</td>
-            <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2022-07-26</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">430%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">5257</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">6664</td> 
-        </tr>
-        <tr>
-            <td align="center">Top42</td>
-            <td align="center"><a href="https://github.com/yonggekkk/Cloudflare-vless-trojan" target="_blank">yonggekkk/Cloudflare-vless-trojan</a></td> 
-            <td align="center">CF-workers/pages代理脚本【Vless与Trojan】：支持nat64自动生成proxyip，一键自建proxyip与CF反代IP，CF优选官方IP三地区应用脚本，自动输出美、亚、欧最佳优选IP</td>
-            <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2023-07-22</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">70%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">5236</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">12668</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">463%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">5268</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">6405</td> 
         </tr>
         <tr>
             <td align="center">Top43</td>
@@ -440,9 +441,9 @@
             <td align="center">A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-07-18</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">158%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">5036</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">8232</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">159%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">5070</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">8244</td> 
         </tr>
         <tr>
             <td align="center">Top44</td>
@@ -490,12 +491,22 @@
             <td align="center">the elegant TypeScript UI framework</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-02-17</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">294%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">4738</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">295%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">4757</td> 
             <td style="white-space: nowrap; width: auto;" align="center">6368</td> 
         </tr>
         <tr>
             <td align="center">Top49</td>
+            <td align="center"><a href="https://github.com/sohzm/cheating-daddy" target="_blank">sohzm/cheating-daddy</a></td> 
+            <td align="center">a free and opensource app that lets you gain an unfair advantage</td>
+            <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-05-29</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">4718%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">4718</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">4768</td> 
+        </tr>
+        <tr>
+            <td align="center">Top50</td>
             <td align="center"><a href="https://github.com/leaningtech/webvm" target="_blank">leaningtech/webvm</a></td> 
             <td align="center">Virtual Machine for the Web</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
@@ -503,16 +514,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">41%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">4698</td> 
             <td style="white-space: nowrap; width: auto;" align="center">15955</td> 
-        </tr>
-        <tr>
-            <td align="center">Top50</td>
-            <td align="center"><a href="https://github.com/sohzm/cheating-daddy" target="_blank">sohzm/cheating-daddy</a></td> 
-            <td align="center">a free and opensource app that lets you gain an unfair advantage</td>
-            <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-05-29</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">4679%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">4679</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">4729</td> 
         </tr>
         <tr>
             <td align="center">Top51</td>
@@ -560,9 +561,9 @@
             <td align="center">The python library for real-time communication</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-09-26</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2108%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">4238</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">4439</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2112%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">4247</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">4448</td> 
         </tr>
         <tr>
             <td align="center">Top56</td>
@@ -580,9 +581,9 @@
             <td align="center">Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server.</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-02-22</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2540%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">4091</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">4252</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2543%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">4095</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">4256</td> 
         </tr>
         <tr>
             <td align="center">Top58</td>
@@ -630,12 +631,22 @@
             <td align="center">OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-08-29</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">95%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3414</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">6971</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">97%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3482</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">7039</td> 
         </tr>
         <tr>
             <td align="center">Top63</td>
+            <td align="center"><a href="https://github.com/maillab/cloud-mail" target="_blank">maillab/cloud-mail</a></td> 
+            <td align="center">cloudflare email 邮箱  临时邮箱 邮件发送 mail</td>
+            <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-04-24</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3125%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3407</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3516</td> 
+        </tr>
+        <tr>
+            <td align="center">Top64</td>
             <td align="center"><a href="https://github.com/advplyr/audiobookshelf" target="_blank">advplyr/audiobookshelf</a></td> 
             <td align="center">Self-hosted audiobook and podcast server</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
@@ -645,27 +656,37 @@
             <td style="white-space: nowrap; width: auto;" align="center">10831</td> 
         </tr>
         <tr>
-            <td align="center">Top64</td>
-            <td align="center"><a href="https://github.com/maillab/cloud-mail" target="_blank">maillab/cloud-mail</a></td> 
-            <td align="center">cloudflare email 邮箱  临时邮箱 邮件发送 mail</td>
+            <td align="center">Top65</td>
+            <td align="center"><a href="https://github.com/eooce/node-ws" target="_blank">eooce/node-ws</a></td> 
+            <td align="center">基于serverless实现的vless+trojan+shadowsocks+vmess四协议，无内核，node环境通用项目</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-04-24</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3113%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3394</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">3516</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2023-09-08</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3393%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3393</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3407</td> 
         </tr>
         <tr>
-            <td align="center">Top65</td>
+            <td align="center">Top66</td>
+            <td align="center"><a href="https://github.com/pdone/lx-music-source" target="_blank">pdone/lx-music-source</a></td> 
+            <td align="center">洛雪音乐源</td>
+            <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-11-15</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3368%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3368</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3451</td> 
+        </tr>
+        <tr>
+            <td align="center">Top67</td>
             <td align="center"><a href="https://github.com/ToolJet/ToolJet" target="_blank">ToolJet/ToolJet</a></td> 
             <td align="center">ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2021-03-30</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">9%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3358</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">37036</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3365</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">37043</td> 
         </tr>
         <tr>
-            <td align="center">Top66</td>
+            <td align="center">Top68</td>
             <td align="center"><a href="https://github.com/clusterzx/paperless-ai" target="_blank">clusterzx/paperless-ai</a></td> 
             <td align="center">An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
@@ -675,27 +696,27 @@
             <td style="white-space: nowrap; width: auto;" align="center">4694</td> 
         </tr>
         <tr>
-            <td align="center">Top67</td>
-            <td align="center"><a href="https://github.com/pdone/lx-music-source" target="_blank">pdone/lx-music-source</a></td> 
-            <td align="center">洛雪音乐源</td>
-            <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-11-15</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3279%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3279</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">3362</td> 
-        </tr>
-        <tr>
-            <td align="center">Top68</td>
-            <td align="center"><a href="https://github.com/eooce/node-ws" target="_blank">eooce/node-ws</a></td> 
-            <td align="center">基于serverless实现的vless+trojan+shadowsocks+vmess四协议，无内核，node环境通用项目</td>
-            <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2023-09-08</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3192%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3192</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">3407</td> 
-        </tr>
-        <tr>
             <td align="center">Top69</td>
+            <td align="center"><a href="https://github.com/Huibq/keep-alive" target="_blank">Huibq/keep-alive</a></td> 
+            <td align="center">洛雪音乐音源、MusicFree音源、落雪音乐音源</td>
+            <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-01-28</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">115%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3173</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">5929</td> 
+        </tr>
+        <tr>
+            <td align="center">Top70</td>
+            <td align="center"><a href="https://github.com/viarotel-org/escrcpy" target="_blank">viarotel-org/escrcpy</a></td> 
+            <td align="center">📱 Display and control your Android device graphically with scrcpy.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2023-09-15</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">88%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3155</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">6720</td> 
+        </tr>
+        <tr>
+            <td align="center">Top71</td>
             <td align="center"><a href="https://github.com/Deepractice/PromptX" target="_blank">Deepractice/PromptX</a></td> 
             <td align="center">PromptX · 领先的AI 智能体上下文平台 ｜ PromptX · Leading AI Agent Context Platform</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
@@ -705,37 +726,27 @@
             <td style="white-space: nowrap; width: auto;" align="center">3150</td> 
         </tr>
         <tr>
-            <td align="center">Top70</td>
-            <td align="center"><a href="https://github.com/Huibq/keep-alive" target="_blank">Huibq/keep-alive</a></td> 
-            <td align="center">洛雪音乐音源、MusicFree音源、落雪音乐音源</td>
-            <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-01-28</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">113%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3136</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">5892</td> 
-        </tr>
-        <tr>
-            <td align="center">Top71</td>
-            <td align="center"><a href="https://github.com/viarotel-org/escrcpy" target="_blank">viarotel-org/escrcpy</a></td> 
-            <td align="center">📱 Display and control your Android device graphically with scrcpy.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2023-09-15</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">87%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3126</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">6691</td> 
-        </tr>
-        <tr>
             <td align="center">Top72</td>
+            <td align="center"><a href="https://github.com/pshenok/server-survival" target="_blank">pshenok/server-survival</a></td> 
+            <td align="center">Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-11-21</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2370%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3106</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3237</td> 
+        </tr>
+        <tr>
+            <td align="center">Top73</td>
             <td align="center"><a href="https://github.com/hunvreus/basecoat" target="_blank">hunvreus/basecoat</a></td> 
             <td align="center">A components library built with Tailwind CSS that works with any web stack.</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-01-16</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3092%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3092</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3103%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3103</td> 
             <td style="white-space: nowrap; width: auto;" align="center">3199</td> 
         </tr>
         <tr>
-            <td align="center">Top73</td>
+            <td align="center">Top74</td>
             <td align="center"><a href="https://github.com/mouredev/hello-javascript" target="_blank">mouredev/hello-javascript</a></td> 
             <td align="center">Curso para aprender el lenguaje de programación JavaScript desde cero y para principiantes. +120 lecciones, 14 horas en vídeo y 220 ejercicios.</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
@@ -745,7 +756,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">6898</td> 
         </tr>
         <tr>
-            <td align="center">Top74</td>
+            <td align="center">Top75</td>
             <td align="center"><a href="https://github.com/hiteshchoudhary/chai-aur-react" target="_blank">hiteshchoudhary/chai-aur-react</a></td> 
             <td align="center">chai aur react series on youtube</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
@@ -755,7 +766,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">11990</td> 
         </tr>
         <tr>
-            <td align="center">Top75</td>
+            <td align="center">Top76</td>
             <td align="center"><a href="https://github.com/wangrongding/wechat-bot" target="_blank">wangrongding/wechat-bot</a></td> 
             <td align="center">🤖一个基于 WeChaty 结合 DeepSeek / ChatGPT / Kimi / 讯飞等Ai服务实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
@@ -765,17 +776,37 @@
             <td style="white-space: nowrap; width: auto;" align="center">9124</td> 
         </tr>
         <tr>
-            <td align="center">Top76</td>
+            <td align="center">Top77</td>
+            <td align="center"><a href="https://github.com/crocodilestick/Calibre-Web-Automated" target="_blank">crocodilestick/Calibre-Web-Automated</a></td> 
+            <td align="center">Calibre-Web but Automated and with Many New Features! Fully automate and simplify your eBook set up!</td>
+            <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-06-23</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">241%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2948</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">4170</td> 
+        </tr>
+        <tr>
+            <td align="center">Top78</td>
             <td align="center"><a href="https://github.com/Minidoracat/mcp-feedback-enhanced" target="_blank">Minidoracat/mcp-feedback-enhanced</a></td> 
             <td align="center">Enhanced MCP server for interactive user feedback and command execution in AI-assisted development, featuring dual interface support (Web UI and Desktop Application) with intelligent environment detection and cross-platform compatibility.</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-05-29</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">602%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2923</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">3408</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">605%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2937</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3422</td> 
         </tr>
         <tr>
-            <td align="center">Top77</td>
+            <td align="center">Top79</td>
+            <td align="center"><a href="https://github.com/WhiskeySockets/Baileys" target="_blank">WhiskeySockets/Baileys</a></td> 
+            <td align="center">Socket-based TS/JavaScript API for WhatsApp Web</td>
+            <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2022-01-13</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">66%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2926</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">7325</td> 
+        </tr>
+        <tr>
+            <td align="center">Top80</td>
             <td align="center"><a href="https://github.com/SkyworkAI/DeepResearchAgent" target="_blank">SkyworkAI/DeepResearchAgent</a></td> 
             <td align="center">DeepResearchAgent is a hierarchical multi-agent system designed not only for deep research tasks but also for general-purpose task solving. The framework leverages a top-level planning agent to coordinate multiple specialized lower-level agents, enabling automated task decomposition and efficient execution across diverse and complex domains.</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
@@ -785,27 +816,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">2922</td> 
         </tr>
         <tr>
-            <td align="center">Top78</td>
-            <td align="center"><a href="https://github.com/crocodilestick/Calibre-Web-Automated" target="_blank">crocodilestick/Calibre-Web-Automated</a></td> 
-            <td align="center">Calibre-Web but Automated and with Many New Features! Fully automate and simplify your eBook set up!</td>
-            <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-06-23</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">238%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2915</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">4158</td> 
-        </tr>
-        <tr>
-            <td align="center">Top79</td>
-            <td align="center"><a href="https://github.com/pollinations/pollinations" target="_blank">pollinations/pollinations</a></td> 
-            <td align="center">Your Friendly Open-Source Gen-AI Platform</td>
-            <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2021-04-15</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">601%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2895</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">3376</td> 
-        </tr>
-        <tr>
-            <td align="center">Top80</td>
+            <td align="center">Top81</td>
             <td align="center"><a href="https://github.com/hotheadhacker/no-as-a-service" target="_blank">hotheadhacker/no-as-a-service</a></td> 
             <td align="center">No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style.</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
@@ -813,16 +824,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">469%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2890</td> 
             <td style="white-space: nowrap; width: auto;" align="center">3505</td> 
-        </tr>
-        <tr>
-            <td align="center">Top81</td>
-            <td align="center"><a href="https://github.com/WhiskeySockets/Baileys" target="_blank">WhiskeySockets/Baileys</a></td> 
-            <td align="center">Socket-based TS/JavaScript API for WhatsApp Web</td>
-            <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2022-01-13</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">65%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2871</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">7301</td> 
         </tr>
         <tr>
             <td align="center">Top82</td>
@@ -836,23 +837,23 @@
         </tr>
         <tr>
             <td align="center">Top83</td>
+            <td align="center"><a href="https://github.com/VonChange/utao" target="_blank">VonChange/utao</a></td> 
+            <td align="center">油桃TV 电视浏览器 可看各大卫视CCTV直播 无需电视VIP 适配爱奇艺等主流视频平台</td>
+            <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-12-12</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2779%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2779</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2822</td> 
+        </tr>
+        <tr>
+            <td align="center">Top84</td>
             <td align="center"><a href="https://github.com/fanmingming/live" target="_blank">fanmingming/live</a></td> 
             <td align="center">✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-11-17</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">11%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2717</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">26888</td> 
-        </tr>
-        <tr>
-            <td align="center">Top84</td>
-            <td align="center"><a href="https://github.com/VonChange/utao" target="_blank">VonChange/utao</a></td> 
-            <td align="center">油桃TV 电视浏览器 可看各大卫视CCTV直播 无需电视VIP 适配爱奇艺等主流视频平台</td>
-            <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-12-12</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2712%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2712</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2822</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2729</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">26900</td> 
         </tr>
         <tr>
             <td align="center">Top85</td>
@@ -890,9 +891,9 @@
             <td align="center">One Worker, All Subscriptions</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-07-27</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">168%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2347</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">3744</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">170%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2386</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3783</td> 
         </tr>
         <tr>
             <td align="center">Top89</td>
@@ -906,6 +907,16 @@
         </tr>
         <tr>
             <td align="center">Top90</td>
+            <td align="center"><a href="https://github.com/tangly1024/NotionNext" target="_blank">tangly1024/NotionNext</a></td> 
+            <td align="center">使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)</td>
+            <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2021-09-26</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">27%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2338</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">10772</td> 
+        </tr>
+        <tr>
+            <td align="center">Top91</td>
             <td align="center"><a href="https://github.com/bgstaal/multipleWindow3dScene" target="_blank">bgstaal/multipleWindow3dScene</a></td> 
             <td align="center">A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
@@ -915,7 +926,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">18964</td> 
         </tr>
         <tr>
-            <td align="center">Top91</td>
+            <td align="center">Top92</td>
             <td align="center"><a href="https://github.com/nikkinikki-org/OpenWrt-nikki" target="_blank">nikkinikki-org/OpenWrt-nikki</a></td> 
             <td align="center">Transparent Proxy with Mihomo on OpenWrt.</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
@@ -925,7 +936,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">4010</td> 
         </tr>
         <tr>
-            <td align="center">Top92</td>
+            <td align="center">Top93</td>
             <td align="center"><a href="https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts" target="_blank">PhialsBasement/Chain-of-Recursive-Thoughts</a></td> 
             <td align="center">I made my AI think harder by making it argue with itself repeatedly. It works stupidly well.</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
@@ -933,16 +944,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">2300%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2300</td> 
             <td style="white-space: nowrap; width: auto;" align="center">2316</td> 
-        </tr>
-        <tr>
-            <td align="center">Top93</td>
-            <td align="center"><a href="https://github.com/tangly1024/NotionNext" target="_blank">tangly1024/NotionNext</a></td> 
-            <td align="center">使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)</td>
-            <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2021-09-26</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">26%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2253</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">10772</td> 
         </tr>
         <tr>
             <td align="center">Top94</td>
@@ -960,9 +961,9 @@
             <td align="center">让你在和美少女聊天时能像GalGame一样有选项和字幕的神人应用</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-09-28</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2235%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2235</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2242</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2237%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2237</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2245</td> 
         </tr>
         <tr>
             <td align="center">Top96</td>
@@ -986,6 +987,16 @@
         </tr>
         <tr>
             <td align="center">Top98</td>
+            <td align="center"><a href="https://github.com/songguoxs/gpt4o-image-prompts" target="_blank">songguoxs/gpt4o-image-prompts</a></td> 
+            <td align="center">Nano Banana(nanobanana),GPT-5(GPT5),GPT-4o(GPT4o) Image Prompts，Nanobanana Prompts，nanobanana提示词</td>
+            <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-04-28</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2184%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2184</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2186</td> 
+        </tr>
+        <tr>
+            <td align="center">Top99</td>
             <td align="center"><a href="https://github.com/PublicAffairs/openai-gemini" target="_blank">PublicAffairs/openai-gemini</a></td> 
             <td align="center">Gemini ➜ OpenAI API proxy. Serverless!</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
@@ -995,24 +1006,14 @@
             <td style="white-space: nowrap; width: auto;" align="center">3178</td> 
         </tr>
         <tr>
-            <td align="center">Top99</td>
-            <td align="center"><a href="https://github.com/liujuntao123/smart-excalidraw-next" target="_blank">liujuntao123/smart-excalidraw-next</a></td> 
-            <td align="center">A smart, powerful, and beautiful excalidraw drawing tool.Draw Professional Charts with Natural Language</td>
-            <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-10-30</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1911%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2122</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2233</td> 
-        </tr>
-        <tr>
             <td align="center">Top100</td>
-            <td align="center"><a href="https://github.com/songguoxs/gpt4o-image-prompts" target="_blank">songguoxs/gpt4o-image-prompts</a></td> 
-            <td align="center">Nano Banana(nanobanana),GPT-5(GPT5),GPT-4o(GPT4o) Image Prompts，Nanobanana Prompts，nanobanana提示词</td>
+            <td align="center"><a href="https://github.com/dw-dengwei/daily-arXiv-ai-enhanced" target="_blank">dw-dengwei/daily-arXiv-ai-enhanced</a></td> 
+            <td align="center">Automatically crawl arXiv papers daily and summarize them using AI. Illustrating them using GitHub Pages.</td>
             <td style="white-space: nowrap; width: auto;" align="center">JavaScript</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-04-28</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2114%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2114</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2132</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-20</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2125%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2125</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2162</td> 
         </tr>
     </table>
 </div>

@@ -1,5 +1,6 @@
-📚数据更新：2025-12-14  
-🌋数据来源：www.ffgithub.com
+📅统计周期：2025-01-01 ~ 2025-12-31<br>
+🌋数据来源：www.ffgithub.com<br>
+📚数据更新：2025-12-14<br>
 
 
 <div align="center">
@@ -50,9 +51,9 @@
             <td align="center">Goverlay is an easy graphical interface to configure MangoHud, vkBasalt, and OptiScaler</td>
             <td style="white-space: nowrap; width: auto;" align="center">Pascal</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-04-26</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">46%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">305</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">967</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">47%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">313</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">969</td> 
         </tr>
         <tr>
             <td align="center">Top5</td>
@@ -61,8 +62,8 @@
             <td style="white-space: nowrap; width: auto;" align="center">Pascal</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-06-20</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">43%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">163</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">541</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">164</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">542</td> 
         </tr>
         <tr>
             <td align="center">Top6</td>

@@ -1,5 +1,6 @@
-📚数据更新：2025-12-14  
-🌋数据来源：www.ffgithub.com
+📅统计周期：2025-01-01 ~ 2025-12-31<br>
+🌋数据来源：www.ffgithub.com<br>
+📚数据更新：2025-12-14<br>
 
 
 <div align="center">
@@ -61,7 +62,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">Scala</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2021-12-06</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">18%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">236</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">237</td> 
             <td style="white-space: nowrap; width: auto;" align="center">1486</td> 
         </tr>
         <tr>
@@ -80,9 +81,9 @@
             <td align="center">Apache DataFusion Comet Spark Accelerator</td>
             <td style="white-space: nowrap; width: auto;" align="center">Scala</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-01-16</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">23%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">208</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1079</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">24%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">212</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1083</td> 
         </tr>
         <tr>
             <td align="center">Top8</td>
@@ -91,8 +92,8 @@
             <td style="white-space: nowrap; width: auto;" align="center">Scala</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-07-14</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">50%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">197</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">586</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">198</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">587</td> 
         </tr>
         <tr>
             <td align="center">Top9</td>
@@ -100,9 +101,9 @@
             <td align="center">GPGPU processor supporting RISCV-V extension, developed with Chisel HDL</td>
             <td style="white-space: nowrap; width: auto;" align="center">Scala</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-08-08</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">26%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">177</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">845</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">27%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">181</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">849</td> 
         </tr>
         <tr>
             <td align="center">Top10</td>
@@ -116,6 +117,16 @@
         </tr>
         <tr>
             <td align="center">Top11</td>
+            <td align="center"><a href="https://github.com/mattlianje/layoutz" target="_blank">mattlianje/layoutz</a></td> 
+            <td align="center">Simple, beautiful CLI output</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Scala</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-07-06</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">165%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">165</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">209</td> 
+        </tr>
+        <tr>
+            <td align="center">Top12</td>
             <td align="center"><a href="https://github.com/getkyo/kyo" target="_blank">getkyo/kyo</a></td> 
             <td align="center">Toolkit for Scala Development</td>
             <td style="white-space: nowrap; width: auto;" align="center">Scala</td> 
@@ -125,24 +136,14 @@
             <td style="white-space: nowrap; width: auto;" align="center">744</td> 
         </tr>
         <tr>
-            <td align="center">Top12</td>
+            <td align="center">Top13</td>
             <td align="center"><a href="https://github.com/llm4s/llm4s" target="_blank">llm4s/llm4s</a></td> 
             <td align="center">Agentic  and LLM Programming in Scala</td>
             <td style="white-space: nowrap; width: auto;" align="center">Scala</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-01-30</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">160%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">160</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">165</td> 
-        </tr>
-        <tr>
-            <td align="center">Top13</td>
-            <td align="center"><a href="https://github.com/mattlianje/layoutz" target="_blank">mattlianje/layoutz</a></td> 
-            <td align="center">Simple, beautiful CLI output</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Scala</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-07-06</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">157%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">157</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">201</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">163%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">163</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">167</td> 
         </tr>
     </table>
 </div>

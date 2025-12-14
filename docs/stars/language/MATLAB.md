@@ -1,5 +1,6 @@
-📚数据更新：2025-12-14  
-🌋数据来源：www.ffgithub.com
+📅统计周期：2025-01-01 ~ 2025-12-31<br>
+🌋数据来源：www.ffgithub.com<br>
+📚数据更新：2025-12-14<br>
 
 
 <div align="center">
@@ -20,9 +21,9 @@
             <td align="center">This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."</td>
             <td style="white-space: nowrap; width: auto;" align="center">MATLAB</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-08-07</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">213%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">9310</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">13666</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">216%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">9417</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">13773</td> 
         </tr>
         <tr>
             <td align="center">Top2</td>
@@ -60,9 +61,9 @@
             <td align="center">Deep Learning-based Image Fusion: A Survey</td>
             <td style="white-space: nowrap; width: auto;" align="center">MATLAB</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-05-01</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">24%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">216</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1109</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">25%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">225</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1118</td> 
         </tr>
         <tr>
             <td align="center">Top6</td>

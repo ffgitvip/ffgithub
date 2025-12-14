@@ -1,5 +1,6 @@
-📚数据更新：2025-12-14  
-🌋数据来源：www.ffgithub.com
+📅统计周期：2025-01-01 ~ 2025-12-31<br>
+🌋数据来源：www.ffgithub.com<br>
+📚数据更新：2025-12-14<br>
 
 
 <div align="center">
@@ -21,7 +22,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-06-28</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">18%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">4205</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">4292</td> 
             <td style="white-space: nowrap; width: auto;" align="center">27080</td> 
         </tr>
         <tr>
@@ -50,9 +51,9 @@
             <td align="center">Components from design to production</td>
             <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-04-10</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1843%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1843</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1846</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1850%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1850</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1853</td> 
         </tr>
         <tr>
             <td align="center">Top5</td>
@@ -70,9 +71,9 @@
             <td align="center">A monorepo template using Bun, Hono, Vite, and React</td>
             <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-04-27</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1582%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1582</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1669</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1589%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1589</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1676</td> 
         </tr>
         <tr>
             <td align="center">Top7</td>
@@ -81,8 +82,8 @@
             <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-06-21</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">25%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1460</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">7175</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1471</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">7186</td> 
         </tr>
         <tr>
             <td align="center">Top8</td>
@@ -100,9 +101,9 @@
             <td align="center">A design system for building retro Apple interfaces</td>
             <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-08-06</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">49%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1215</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">3650</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">50%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1226</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3661</td> 
         </tr>
         <tr>
             <td align="center">Top10</td>
@@ -130,9 +131,9 @@
             <td align="center">the color palette for internet lovers</td>
             <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-12-06</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">669%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1145</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1316</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">671%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1148</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1319</td> 
         </tr>
         <tr>
             <td align="center">Top13</td>
@@ -176,6 +177,16 @@
         </tr>
         <tr>
             <td align="center">Top17</td>
+            <td align="center"><a href="https://github.com/Anonym-tsk/nfqws-keenetic" target="_blank">Anonym-tsk/nfqws-keenetic</a></td> 
+            <td align="center"></td>
+            <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-08-09</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">85%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">793</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1723</td> 
+        </tr>
+        <tr>
+            <td align="center">Top18</td>
             <td align="center"><a href="https://github.com/sindresorhus/css-extras" target="_blank">sindresorhus/css-extras</a></td> 
             <td align="center">Useful CSS custom functions using the new @​function rule</td>
             <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
@@ -183,16 +194,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">792%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">792</td> 
             <td style="white-space: nowrap; width: auto;" align="center">862</td> 
-        </tr>
-        <tr>
-            <td align="center">Top18</td>
-            <td align="center"><a href="https://github.com/Anonym-tsk/nfqws-keenetic" target="_blank">Anonym-tsk/nfqws-keenetic</a></td> 
-            <td align="center"></td>
-            <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-08-09</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">84%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">783</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1713</td> 
         </tr>
         <tr>
             <td align="center">Top19</td>
@@ -210,8 +211,8 @@
             <td align="center">MacOS Tahoe inspired theme for GNOME</td>
             <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-06-14</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">734%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">734</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">736%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">736</td> 
             <td style="white-space: nowrap; width: auto;" align="center">744</td> 
         </tr>
         <tr>
@@ -236,16 +237,6 @@
         </tr>
         <tr>
             <td align="center">Top23</td>
-            <td align="center"><a href="https://github.com/scholtz/wallet" target="_blank">scholtz/wallet</a></td> 
-            <td align="center">Open source algorand wallet and algorand web tools - governors tools, payment gateway, ..</td>
-            <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2021-05-23</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">674%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">674</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">712</td> 
-        </tr>
-        <tr>
-            <td align="center">Top24</td>
             <td align="center"><a href="https://github.com/Gonzalo-D-Sales/obsidian-velocity" target="_blank">Gonzalo-D-Sales/obsidian-velocity</a></td> 
             <td align="center">A radically modern theme for Obsidian.</td>
             <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
@@ -253,6 +244,16 @@
             <td style="white-space: nowrap; width: auto;"  align="center">674%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">674</td> 
             <td style="white-space: nowrap; width: auto;" align="center">676</td> 
+        </tr>
+        <tr>
+            <td align="center">Top24</td>
+            <td align="center"><a href="https://github.com/scholtz/wallet" target="_blank">scholtz/wallet</a></td> 
+            <td align="center">Open source algorand wallet and algorand web tools - governors tools, payment gateway, ..</td>
+            <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2021-05-23</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">671%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">671</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">710</td> 
         </tr>
         <tr>
             <td align="center">Top25</td>
@@ -310,9 +311,9 @@
             <td align="center">NavSphere： 一个基于 Github 存储的网址导航程序支持部署至cloudflare，一键部署至 Vercel，数据存储在 Github，零成本搭建一个网站导航！</td>
             <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-12-03</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">612%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">612</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">673</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">617%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">617</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">674</td> 
         </tr>
         <tr>
             <td align="center">Top31</td>
@@ -346,16 +347,26 @@
         </tr>
         <tr>
             <td align="center">Top34</td>
+            <td align="center"><a href="https://github.com/SHORiN-KiWATA/ShorinArchExperience-ArchlinuxGuide" target="_blank">SHORiN-KiWATA/ShorinArchExperience-ArchlinuxGuide</a></td> 
+            <td align="center">Archlinux教程，btrfs文件系统，不涉及加密和安全启动。具体内容包括：系统的手动和脚本安装、win+linux双系统、N卡驱动、GNOME和KDE Plasma桌面环境、中文输入法、常用虚拟机程序、qemu/kvm虚拟机显卡直通、虚拟机调优和伪装、Linux玩游戏、系统性能调优、干净删除linux等等。</td>
+            <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-07-16</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">553%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">553</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">556</td> 
+        </tr>
+        <tr>
+            <td align="center">Top35</td>
             <td align="center"><a href="https://github.com/Akifyss/obsidian-border" target="_blank">Akifyss/obsidian-border</a></td> 
             <td align="center">A theme for obsidian.md</td>
             <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-10-14</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">34%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">548</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2144</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">552</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2146</td> 
         </tr>
         <tr>
-            <td align="center">Top35</td>
+            <td align="center">Top36</td>
             <td align="center"><a href="https://github.com/Richard9394/MingCute" target="_blank">Richard9394/MingCute</a></td> 
             <td align="center">Carefully Designed Icon Library. MingCute is a set of simple and exquisite open-source icon library. Whether you're a designer or a developer, it's perfect for use in web and mobile.</td>
             <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
@@ -363,16 +374,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">55%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">532</td> 
             <td style="white-space: nowrap; width: auto;" align="center">1495</td> 
-        </tr>
-        <tr>
-            <td align="center">Top36</td>
-            <td align="center"><a href="https://github.com/SHORiN-KiWATA/ShorinArchExperience-ArchlinuxGuide" target="_blank">SHORiN-KiWATA/ShorinArchExperience-ArchlinuxGuide</a></td> 
-            <td align="center">Archlinux教程，btrfs文件系统，不涉及加密和安全启动。具体内容包括：系统的手动和脚本安装、win+linux双系统、N卡驱动、GNOME和KDE Plasma桌面环境、中文输入法、常用虚拟机程序、qemu/kvm虚拟机显卡直通、虚拟机调优和伪装、Linux玩游戏、系统性能调优、干净删除linux等等。</td>
-            <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-07-16</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">521%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">521</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">538</td> 
         </tr>
         <tr>
             <td align="center">Top37</td>
@@ -430,8 +431,8 @@
             <td align="center">Autonomous Agents (LLMs) research papers. Updated Daily.</td>
             <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-09-16</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">76%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">470</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">77%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">472</td> 
             <td style="white-space: nowrap; width: auto;" align="center">1084</td> 
         </tr>
         <tr>
@@ -440,9 +441,9 @@
             <td align="center">a dark, customizable discord theme.</td>
             <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2021-10-03</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">61%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">452</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1187</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">62%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">457</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1192</td> 
         </tr>
         <tr>
             <td align="center">Top44</td>
@@ -450,9 +451,9 @@
             <td align="center">HyprFlux : Minimal, productive, elegant, and fast</td>
             <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-04-03</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">148%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">452</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">757</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">149%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">455</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">760</td> 
         </tr>
         <tr>
             <td align="center">Top45</td>
@@ -476,6 +477,16 @@
         </tr>
         <tr>
             <td align="center">Top47</td>
+            <td align="center"><a href="https://github.com/jd-opensource/micro-app" target="_blank">jd-opensource/micro-app</a></td> 
+            <td align="center">A simple, efficient and powerful micro front-end framework. 一款简约、高效、功能强大的微前端框架</td>
+            <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2021-06-24</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">7%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">413</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">6155</td> 
+        </tr>
+        <tr>
+            <td align="center">Top48</td>
             <td align="center"><a href="https://github.com/AIDotNet/AntSK" target="_blank">AIDotNet/AntSK</a></td> 
             <td align="center">An AI knowledge base/agent built with .Net 9, AntBlazor, Semantic Kernel, and Kernel Memory, supporting local offline AI large models. It can run offline without an internet connection. Supports Aspire for monitoring application data.</td>
             <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
@@ -485,7 +496,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">1551</td> 
         </tr>
         <tr>
-            <td align="center">Top48</td>
+            <td align="center">Top49</td>
+            <td align="center"><a href="https://github.com/soulhotel/FF-ULTIMA" target="_blank">soulhotel/FF-ULTIMA</a></td> 
+            <td align="center">The Firefox theme with too many options.. FF Ultima.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-03-18</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">60%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">408</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1084</td> 
+        </tr>
+        <tr>
+            <td align="center">Top50</td>
             <td align="center"><a href="https://github.com/efemkay/obsidian-modular-css-layout" target="_blank">efemkay/obsidian-modular-css-layout</a></td> 
             <td align="center">CSS Layout hack for Obsidian.md</td>
             <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
@@ -493,26 +514,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">37%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">405</td> 
             <td style="white-space: nowrap; width: auto;" align="center">1492</td> 
-        </tr>
-        <tr>
-            <td align="center">Top49</td>
-            <td align="center"><a href="https://github.com/soulhotel/FF-ULTIMA" target="_blank">soulhotel/FF-ULTIMA</a></td> 
-            <td align="center">The Firefox theme with too many options.. FF Ultima.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-03-18</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">59%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">404</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1084</td> 
-        </tr>
-        <tr>
-            <td align="center">Top50</td>
-            <td align="center"><a href="https://github.com/jd-opensource/micro-app" target="_blank">jd-opensource/micro-app</a></td> 
-            <td align="center">A simple, efficient and powerful micro front-end framework. 一款简约、高效、功能强大的微前端框架</td>
-            <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2021-06-24</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">6%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">400</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">6155</td> 
         </tr>
         <tr>
             <td align="center">Top51</td>
@@ -541,11 +542,31 @@
             <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-02-25</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">16%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">379</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">384</td> 
             <td style="white-space: nowrap; width: auto;" align="center">2688</td> 
         </tr>
         <tr>
             <td align="center">Top54</td>
+            <td align="center"><a href="https://github.com/miantiao-me/BroadcastChannel" target="_blank">miantiao-me/BroadcastChannel</a></td> 
+            <td align="center">Turn your Telegram Channel into a MicroBlog.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-08-04</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">24%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">380</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1904</td> 
+        </tr>
+        <tr>
+            <td align="center">Top55</td>
+            <td align="center"><a href="https://github.com/dahaha-365/YaNet" target="_blank">dahaha-365/YaNet</a></td> 
+            <td align="center">Yet another Internet.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-09-30</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">376%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">376</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">450</td> 
+        </tr>
+        <tr>
+            <td align="center">Top56</td>
             <td align="center"><a href="https://github.com/secure-77/Perlite" target="_blank">secure-77/Perlite</a></td> 
             <td align="center">A web-based markdown viewer optimized for Obsidian</td>
             <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
@@ -555,7 +576,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">1548</td> 
         </tr>
         <tr>
-            <td align="center">Top55</td>
+            <td align="center">Top57</td>
             <td align="center"><a href="https://github.com/DigitallyTailored/Classless.css" target="_blank">DigitallyTailored/Classless.css</a></td> 
             <td align="center">A lightweight, classless CSS framework that makes simple websites look better without requiring any additional markup.</td>
             <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
@@ -565,7 +586,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">720</td> 
         </tr>
         <tr>
-            <td align="center">Top56</td>
+            <td align="center">Top58</td>
             <td align="center"><a href="https://github.com/diinki/linux-retroism" target="_blank">diinki/linux-retroism</a></td> 
             <td align="center">A 1990's Retro linux-rice for Hyprland or Sway, based on Quickshell.</td>
             <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
@@ -575,7 +596,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">461</td> 
         </tr>
         <tr>
-            <td align="center">Top57</td>
+            <td align="center">Top59</td>
             <td align="center"><a href="https://github.com/sameemul-haque/dotfiles" target="_blank">sameemul-haque/dotfiles</a></td> 
             <td align="center">✨ Hyprland + Waybar with Catppuccin theme • Arch Linux</td>
             <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
@@ -585,7 +606,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">788</td> 
         </tr>
         <tr>
-            <td align="center">Top58</td>
+            <td align="center">Top60</td>
             <td align="center"><a href="https://github.com/Deathbyteacup/fluentbird" target="_blank">Deathbyteacup/fluentbird</a></td> 
             <td align="center">FluentBird is a userChrome.css theme for Mozilla Thunderbird, that implemenets Windows 11 Fluent Design and Mica transparency materials.</td>
             <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
@@ -595,7 +616,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">371</td> 
         </tr>
         <tr>
-            <td align="center">Top59</td>
+            <td align="center">Top61</td>
             <td align="center"><a href="https://github.com/reconmap/reconmap" target="_blank">reconmap/reconmap</a></td> 
             <td align="center">Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-in command automation, output parsing, and AI‑assisted summaries, it delivers faster, more structured, and high‑quality security assessments.</td>
             <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
@@ -605,17 +626,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">802</td> 
         </tr>
         <tr>
-            <td align="center">Top60</td>
-            <td align="center"><a href="https://github.com/dahaha-365/YaNet" target="_blank">dahaha-365/YaNet</a></td> 
-            <td align="center">Yet another Internet.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-09-30</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">362%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">362</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">436</td> 
-        </tr>
-        <tr>
-            <td align="center">Top61</td>
+            <td align="center">Top62</td>
             <td align="center"><a href="https://github.com/YashjitPal/Arc-2.0" target="_blank">YashjitPal/Arc-2.0</a></td> 
             <td align="center">Arc which receives non-chromium updates every 1-2 weeks! (iykyk)</td>
             <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
@@ -625,17 +636,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">362</td> 
         </tr>
         <tr>
-            <td align="center">Top62</td>
+            <td align="center">Top63</td>
             <td align="center"><a href="https://github.com/diinki/diinki-aero" target="_blank">diinki/diinki-aero</a></td> 
             <td align="center">A frutiger aero themed linux rice | Hyprland</td>
             <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-02-22</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">352%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">352</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">371</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">356%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">356</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">375</td> 
         </tr>
         <tr>
-            <td align="center">Top63</td>
+            <td align="center">Top64</td>
             <td align="center"><a href="https://github.com/Madelena/hass-config-public" target="_blank">Madelena/hass-config-public</a></td> 
             <td align="center">My Dashboards for Home Assistant - Advanced data visualizations, responsive design, a neat maximalist Metro Live Tile layout, and an ultraminimal tablet layout!</td>
             <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
@@ -645,7 +656,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">1084</td> 
         </tr>
         <tr>
-            <td align="center">Top64</td>
+            <td align="center">Top65</td>
             <td align="center"><a href="https://github.com/sameerasw/my-internet" target="_blank">sameerasw/my-internet</a></td> 
             <td align="center">Custom CSS to make the web transparent, beautiful and zen. Main style repo for the Zen Internet add-on</td>
             <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
@@ -655,17 +666,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">352</td> 
         </tr>
         <tr>
-            <td align="center">Top65</td>
+            <td align="center">Top66</td>
             <td align="center"><a href="https://github.com/loof2736/scyfin" target="_blank">loof2736/scyfin</a></td> 
             <td align="center">Custom theme for Jellyfin WebUI</td>
             <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-11-09</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">115%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">330</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">616</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">331</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">617</td> 
         </tr>
         <tr>
-            <td align="center">Top66</td>
+            <td align="center">Top67</td>
             <td align="center"><a href="https://github.com/ZYYO666/homepage" target="_blank">ZYYO666/homepage</a></td> 
             <td align="center">我的个人主页，homepage,个人引导页,简约主页,个人导航</td>
             <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
@@ -675,7 +686,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">722</td> 
         </tr>
         <tr>
-            <td align="center">Top67</td>
+            <td align="center">Top68</td>
             <td align="center"><a href="https://github.com/greeeen-dev/natsumi-browser" target="_blank">greeeen-dev/natsumi-browser</a></td> 
             <td align="center">Welcome to your personal internet.</td>
             <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
@@ -685,17 +696,27 @@
             <td style="white-space: nowrap; width: auto;" align="center">500</td> 
         </tr>
         <tr>
-            <td align="center">Top68</td>
-            <td align="center"><a href="https://github.com/lich0821/ccNexus" target="_blank">lich0821/ccNexus</a></td> 
-            <td align="center">Intelligent API gateway for Claude Code - rotate endpoints, monitor usage, and seamlessly integrate OpenAI, Gemini, and other platforms.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-10-24</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">324%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">324</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">394</td> 
+            <td align="center">Top69</td>
+            <td align="center"><a href="https://github.com/ParisNeo/lollms-webui" target="_blank">ParisNeo/lollms-webui</a></td> 
+            <td align="center">Lord of Large Language and Multi modal Systems Web User Interface</td>
+            <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2023-04-07</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">7%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">321</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">4769</td> 
         </tr>
         <tr>
-            <td align="center">Top69</td>
+            <td align="center">Top70</td>
+            <td align="center"><a href="https://github.com/cayxc/Mdmdt" target="_blank">cayxc/Mdmdt</a></td> 
+            <td align="center">Typora极简文档主题Mdmdt，包含亮色和暗色两种主题，是深度定制的个性化Typora主题；Typora minimalist document theme Mdmdt. Featuring both light and dark themes, it is a deeply customized personalized Typora theme.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-06-20</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">310%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">320</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">423</td> 
+        </tr>
+        <tr>
+            <td align="center">Top71</td>
             <td align="center"><a href="https://github.com/primary-theme/obsidian" target="_blank">primary-theme/obsidian</a></td> 
             <td align="center">Comfy, playful but productive theme for Obsidian. "Primary instantly puts you in a relaxed state that opens the door to creativity and exploration. Wonderfully executed down to the smallest details,"</td>
             <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
@@ -703,26 +724,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">27%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">317</td> 
             <td style="white-space: nowrap; width: auto;" align="center">1451</td> 
-        </tr>
-        <tr>
-            <td align="center">Top70</td>
-            <td align="center"><a href="https://github.com/ParisNeo/lollms-webui" target="_blank">ParisNeo/lollms-webui</a></td> 
-            <td align="center">Lord of Large Language and Multi modal Systems Web User Interface</td>
-            <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2023-04-07</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">7%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">317</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">4765</td> 
-        </tr>
-        <tr>
-            <td align="center">Top71</td>
-            <td align="center"><a href="https://github.com/cayxc/Mdmdt" target="_blank">cayxc/Mdmdt</a></td> 
-            <td align="center">Typora极简文档主题Mdmdt，包含亮色和暗色两种主题，是深度定制的个性化Typora主题；Typora minimalist document theme Mdmdt. Featuring both light and dark themes, it is a deeply customized personalized Typora theme.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-06-20</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">304%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">314</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">417</td> 
         </tr>
         <tr>
             <td align="center">Top72</td>
@@ -901,11 +902,21 @@
             <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-08-06</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">34%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">259</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">261</td> 
             <td style="white-space: nowrap; width: auto;" align="center">1019</td> 
         </tr>
         <tr>
             <td align="center">Top90</td>
+            <td align="center"><a href="https://github.com/GregTech-Odyssey/GregTech-Odyssey" target="_blank">GregTech-Odyssey/GregTech-Odyssey</a></td> 
+            <td align="center"></td>
+            <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-28</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">257%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">257</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">263</td> 
+        </tr>
+        <tr>
+            <td align="center">Top91</td>
             <td align="center"><a href="https://github.com/1amSimp1e/dots" target="_blank">1amSimp1e/dots</a></td> 
             <td align="center">Nothing here but Dotfiles & Customization 💫</td>
             <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
@@ -915,24 +926,14 @@
             <td style="white-space: nowrap; width: auto;" align="center">1612</td> 
         </tr>
         <tr>
-            <td align="center">Top91</td>
+            <td align="center">Top92</td>
             <td align="center"><a href="https://github.com/KiKaraage/ArcWTF" target="_blank">KiKaraage/ArcWTF</a></td> 
             <td align="center">A userChrome.css theme to bring Arc Browser look on Windows to Firefox. Work with Windows, Linux and macOS ✨</td>
             <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-01-28</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">16%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">248</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1717</td> 
-        </tr>
-        <tr>
-            <td align="center">Top92</td>
-            <td align="center"><a href="https://github.com/GregTech-Odyssey/GregTech-Odyssey" target="_blank">GregTech-Odyssey/GregTech-Odyssey</a></td> 
-            <td align="center"></td>
-            <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-28</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">243%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">243</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">260</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">247</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1716</td> 
         </tr>
         <tr>
             <td align="center">Top93</td>
@@ -940,9 +941,9 @@
             <td align="center">🎨 Theme repository for YASB.</td>
             <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-08-16</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">236%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">236</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">307</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">237%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">237</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">308</td> 
         </tr>
         <tr>
             <td align="center">Top94</td>
@@ -986,6 +987,26 @@
         </tr>
         <tr>
             <td align="center">Top98</td>
+            <td align="center"><a href="https://github.com/datawhalechina/hugging-multi-agent" target="_blank">datawhalechina/hugging-multi-agent</a></td> 
+            <td align="center">A tutorial based on MetaGPT to quickly help you understand the concept of agent and muti-agent and get started with coding development. 基于MetaGPT的多智能体入门与开发教程</td>
+            <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2023-12-11</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">20%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">230</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1335</td> 
+        </tr>
+        <tr>
+            <td align="center">Top99</td>
+            <td align="center"><a href="https://github.com/level09/readykit" target="_blank">level09/readykit</a></td> 
+            <td align="center">Production-ready Flask SaaS template with multi-tenancy, billing, and teams</td>
+            <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-11-15</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">229%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">229</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">240</td> 
+        </tr>
+        <tr>
+            <td align="center">Top100</td>
             <td align="center"><a href="https://github.com/xhuajin/obsidian-sidenote-callout" target="_blank">xhuajin/obsidian-sidenote-callout</a></td> 
             <td align="center">By leveraging only CSS and callout, elegantly implement marginal notes</td>
             <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
@@ -993,26 +1014,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">175%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">228</td> 
             <td style="white-space: nowrap; width: auto;" align="center">358</td> 
-        </tr>
-        <tr>
-            <td align="center">Top99</td>
-            <td align="center"><a href="https://github.com/KoriIku/luxirty-search" target="_blank">KoriIku/luxirty-search</a></td> 
-            <td align="center">一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快。</td>
-            <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-10-07</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">15%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">227</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1674</td> 
-        </tr>
-        <tr>
-            <td align="center">Top100</td>
-            <td align="center"><a href="https://github.com/gerred/building-an-agentic-system" target="_blank">gerred/building-an-agentic-system</a></td> 
-            <td align="center">An in-depth book and reference on building agentic systems like Claude Code</td>
-            <td style="white-space: nowrap; width: auto;" align="center">CSS</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-09</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">226%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">226</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">240</td> 
         </tr>
     </table>
 </div>

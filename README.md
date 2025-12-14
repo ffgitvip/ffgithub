@@ -122,12 +122,12 @@
         </tr>
         <tr>
             <td align="center">202511</td> 
-            <td align="center">第1周</td>
+<td align="center"><a href="./docs/stars/time/202511/第1周.md">第1周</a></td>
 <td align="center"><a href="./docs/stars/time/202511/第2周.md">第2周</a></td>
 <td align="center"><a href="./docs/stars/time/202511/第3周.md">第3周</a></td>
 <td align="center"><a href="./docs/stars/time/202511/第4周.md">第4周</a></td>
 <td align="center"><a href="./docs/stars/time/202511/第11月.md">第11月</a></td>
-            <td align="center">第1周</td>
+<td align="center"><a href="./docs/ratio/time/202511/第1周.md">第1周</a></td>
 <td align="center"><a href="./docs/ratio/time/202511/第2周.md">第2周</a></td>
 <td align="center"><a href="./docs/ratio/time/202511/第3周.md">第3周</a></td>
 <td align="center"><a href="./docs/ratio/time/202511/第4周.md">第4周</a></td>
@@ -161,12 +161,12 @@
         </tr>
         <tr>
             <td align="center">202508</td> 
-            <td align="center">第1周</td>
+<td align="center"><a href="./docs/stars/time/202508/第1周.md">第1周</a></td>
 <td align="center"><a href="./docs/stars/time/202508/第2周.md">第2周</a></td>
 <td align="center"><a href="./docs/stars/time/202508/第3周.md">第3周</a></td>
 <td align="center"><a href="./docs/stars/time/202508/第4周.md">第4周</a></td>
 <td align="center"><a href="./docs/stars/time/202508/第08月.md">第08月</a></td>
-            <td align="center">第1周</td>
+<td align="center"><a href="./docs/ratio/time/202508/第1周.md">第1周</a></td>
 <td align="center"><a href="./docs/ratio/time/202508/第2周.md">第2周</a></td>
 <td align="center"><a href="./docs/ratio/time/202508/第3周.md">第3周</a></td>
 <td align="center"><a href="./docs/ratio/time/202508/第4周.md">第4周</a></td>
@@ -187,12 +187,12 @@
         </tr>
         <tr>
             <td align="center">202506</td> 
-            <td align="center">第1周</td>
+<td align="center"><a href="./docs/stars/time/202506/第1周.md">第1周</a></td>
 <td align="center"><a href="./docs/stars/time/202506/第2周.md">第2周</a></td>
 <td align="center"><a href="./docs/stars/time/202506/第3周.md">第3周</a></td>
 <td align="center"><a href="./docs/stars/time/202506/第4周.md">第4周</a></td>
 <td align="center"><a href="./docs/stars/time/202506/第06月.md">第06月</a></td>
-            <td align="center">第1周</td>
+<td align="center"><a href="./docs/ratio/time/202506/第1周.md">第1周</a></td>
 <td align="center"><a href="./docs/ratio/time/202506/第2周.md">第2周</a></td>
 <td align="center"><a href="./docs/ratio/time/202506/第3周.md">第3周</a></td>
 <td align="center"><a href="./docs/ratio/time/202506/第4周.md">第4周</a></td>
@@ -200,12 +200,12 @@
         </tr>
         <tr>
             <td align="center">202505</td> 
-            <td align="center">第1周</td>
+<td align="center"><a href="./docs/stars/time/202505/第1周.md">第1周</a></td>
 <td align="center"><a href="./docs/stars/time/202505/第2周.md">第2周</a></td>
 <td align="center"><a href="./docs/stars/time/202505/第3周.md">第3周</a></td>
 <td align="center"><a href="./docs/stars/time/202505/第4周.md">第4周</a></td>
 <td align="center"><a href="./docs/stars/time/202505/第05月.md">第05月</a></td>
-            <td align="center">第1周</td>
+<td align="center"><a href="./docs/ratio/time/202505/第1周.md">第1周</a></td>
 <td align="center"><a href="./docs/ratio/time/202505/第2周.md">第2周</a></td>
 <td align="center"><a href="./docs/ratio/time/202505/第3周.md">第3周</a></td>
 <td align="center"><a href="./docs/ratio/time/202505/第4周.md">第4周</a></td>
@@ -226,12 +226,12 @@
         </tr>
         <tr>
             <td align="center">202503</td> 
-            <td align="center">第1周</td>
+<td align="center"><a href="./docs/stars/time/202503/第1周.md">第1周</a></td>
 <td align="center"><a href="./docs/stars/time/202503/第2周.md">第2周</a></td>
 <td align="center"><a href="./docs/stars/time/202503/第3周.md">第3周</a></td>
 <td align="center"><a href="./docs/stars/time/202503/第4周.md">第4周</a></td>
 <td align="center"><a href="./docs/stars/time/202503/第03月.md">第03月</a></td>
-            <td align="center">第1周</td>
+<td align="center"><a href="./docs/ratio/time/202503/第1周.md">第1周</a></td>
 <td align="center"><a href="./docs/ratio/time/202503/第2周.md">第2周</a></td>
 <td align="center"><a href="./docs/ratio/time/202503/第3周.md">第3周</a></td>
 <td align="center"><a href="./docs/ratio/time/202503/第4周.md">第4周</a></td>
@@ -239,12 +239,12 @@
         </tr>
         <tr>
             <td align="center">202502</td> 
-            <td align="center">第1周</td>
+<td align="center"><a href="./docs/stars/time/202502/第1周.md">第1周</a></td>
 <td align="center"><a href="./docs/stars/time/202502/第2周.md">第2周</a></td>
 <td align="center"><a href="./docs/stars/time/202502/第3周.md">第3周</a></td>
 <td align="center"><a href="./docs/stars/time/202502/第4周.md">第4周</a></td>
 <td align="center"><a href="./docs/stars/time/202502/第02月.md">第02月</a></td>
-            <td align="center">第1周</td>
+<td align="center"><a href="./docs/ratio/time/202502/第1周.md">第1周</a></td>
 <td align="center"><a href="./docs/ratio/time/202502/第2周.md">第2周</a></td>
 <td align="center"><a href="./docs/ratio/time/202502/第3周.md">第3周</a></td>
 <td align="center"><a href="./docs/ratio/time/202502/第4周.md">第4周</a></td>
@@ -252,12 +252,12 @@
         </tr>
         <tr>
             <td align="center">202501</td> 
-<td align="center"><a href="./docs/stars/time/202501/第1周.md">第1周</a></td>
+            <td align="center">第1周</td>
 <td align="center"><a href="./docs/stars/time/202501/第2周.md">第2周</a></td>
 <td align="center"><a href="./docs/stars/time/202501/第3周.md">第3周</a></td>
 <td align="center"><a href="./docs/stars/time/202501/第4周.md">第4周</a></td>
 <td align="center"><a href="./docs/stars/time/202501/第01月.md">第01月</a></td>
-<td align="center"><a href="./docs/ratio/time/202501/第1周.md">第1周</a></td>
+            <td align="center">第1周</td>
 <td align="center"><a href="./docs/ratio/time/202501/第2周.md">第2周</a></td>
 <td align="center"><a href="./docs/ratio/time/202501/第3周.md">第3周</a></td>
 <td align="center"><a href="./docs/ratio/time/202501/第4周.md">第4周</a></td>

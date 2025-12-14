@@ -1,5 +1,6 @@
-📚数据更新：2025-12-14  
-🌋数据来源：www.ffgithub.com
+📅统计周期：2025-01-01 ~ 2025-12-31<br>
+🌋数据来源：www.ffgithub.com<br>
+📚数据更新：2025-12-14<br>
 
 
 <div align="center">
@@ -40,9 +41,9 @@
             <td align="center">FlashMLA: Efficient Multi-head Latent Attention Kernels</td>
             <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-02-21</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">11811%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">11811</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">11892</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">11826%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">11826</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">11907</td> 
         </tr>
         <tr>
             <td align="center">Top4</td>
@@ -50,8 +51,8 @@
             <td align="center">🌐 The open-source Agentic browser; privacy-first alternative to ChatGPT Atlas, Perplexity Comet, Dia.</td>
             <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-05-19</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">8075%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">8075</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">8154%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">8154</td> 
             <td style="white-space: nowrap; width: auto;" align="center">8169</td> 
         </tr>
         <tr>
@@ -60,8 +61,8 @@
             <td align="center">Private, fast, and honest web browser</td>
             <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-02-15</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">7923%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">7923</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">8014%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">8014</td> 
             <td style="white-space: nowrap; width: auto;" align="center">8018</td> 
         </tr>
         <tr>
@@ -70,9 +71,9 @@
             <td align="center">Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels</td>
             <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-10-03</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">4034%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">4034</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">4109</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">4083%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">4083</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">4158</td> 
         </tr>
         <tr>
             <td align="center">Top7</td>
@@ -80,9 +81,9 @@
             <td align="center">Kernels & AI inference engine for mobile devices.</td>
             <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-04-23</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3813%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3813</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">3870</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3835%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3835</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3876</td> 
         </tr>
         <tr>
             <td align="center">Top8</td>
@@ -90,9 +91,9 @@
             <td align="center">An alternative Windows context menu, and more.</td>
             <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-12-31</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2832%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2832</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2847</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2840%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2840</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2850</td> 
         </tr>
         <tr>
             <td align="center">Top9</td>
@@ -130,9 +131,9 @@
             <td align="center">The AI-Native Search Database. Unifies vector, text, structured and semi-structured data in a single engine, enabling hybrid search and in-database AI workflows.</td>
             <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-10-21</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1574%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1574</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1598</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1737%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1737</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1761</td> 
         </tr>
         <tr>
             <td align="center">Top13</td>
@@ -150,12 +151,22 @@
             <td align="center">An unofficial PC port of the Xbox 360 version of Sonic Unleashed created through the process of static recompilation.</td>
             <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-09-30</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1313%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">4165</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">4482</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1318%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">4180</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">4497</td> 
         </tr>
         <tr>
             <td align="center">Top15</td>
+            <td align="center"><a href="https://github.com/Sunrisepeak/mcpp-standard" target="_blank">Sunrisepeak/mcpp-standard</a></td> 
+            <td align="center">D2X | Modern C++ Core Language Features - "A C++ tutorial project focused on practical"</td>
+            <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-04-12</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1268%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1268</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1272</td> 
+        </tr>
+        <tr>
+            <td align="center">Top16</td>
             <td align="center"><a href="https://github.com/Ayndpa/ConnectTool" target="_blank">Ayndpa/ConnectTool</a></td> 
             <td align="center"></td>
             <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
@@ -165,24 +176,14 @@
             <td style="white-space: nowrap; width: auto;" align="center">1233</td> 
         </tr>
         <tr>
-            <td align="center">Top16</td>
-            <td align="center"><a href="https://github.com/Sunrisepeak/mcpp-standard" target="_blank">Sunrisepeak/mcpp-standard</a></td> 
-            <td align="center">D2X | Modern C++ Core Language Features - "A C++ tutorial project focused on practical"</td>
-            <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-04-12</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1185%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1185</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1189</td> 
-        </tr>
-        <tr>
             <td align="center">Top17</td>
             <td align="center"><a href="https://github.com/2swap/swaptube" target="_blank">2swap/swaptube</a></td> 
             <td align="center">youtube video renderer</td>
             <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-06-01</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1165%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1165</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1253</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1175%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1175</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1263</td> 
         </tr>
         <tr>
             <td align="center">Top18</td>
@@ -196,6 +197,16 @@
         </tr>
         <tr>
             <td align="center">Top19</td>
+            <td align="center"><a href="https://github.com/uccl-project/uccl" target="_blank">uccl-project/uccl</a></td> 
+            <td align="center">UCCL is an efficient communication library for GPUs, covering collectives, P2P (e.g., KV cache transfer, RL weight transfer), and EP (e.g., GPU-driven)</td>
+            <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-01-06</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1091%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1091</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1119</td> 
+        </tr>
+        <tr>
+            <td align="center">Top20</td>
             <td align="center"><a href="https://github.com/es3n1n/defendnot" target="_blank">es3n1n/defendnot</a></td> 
             <td align="center">An even funnier way to disable windows defender. (through WSC api)</td>
             <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
@@ -203,16 +214,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">1090%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2769</td> 
             <td style="white-space: nowrap; width: auto;" align="center">3023</td> 
-        </tr>
-        <tr>
-            <td align="center">Top20</td>
-            <td align="center"><a href="https://github.com/uccl-project/uccl" target="_blank">uccl-project/uccl</a></td> 
-            <td align="center">UCCL is an efficient communication library for GPUs, covering collectives, P2P (e.g., KV cache transfer, RL weight transfer), and EP (e.g., GPU-driven)</td>
-            <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-01-06</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1087%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1087</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1117</td> 
         </tr>
         <tr>
             <td align="center">Top21</td>
@@ -226,6 +227,16 @@
         </tr>
         <tr>
             <td align="center">Top22</td>
+            <td align="center"><a href="https://github.com/lynx-family/primjs" target="_blank">lynx-family/primjs</a></td> 
+            <td align="center">JavaScript Engine Optimized for Lynx</td>
+            <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-04</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1042%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1042</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1052</td> 
+        </tr>
+        <tr>
+            <td align="center">Top23</td>
             <td align="center"><a href="https://github.com/chongdashu/unreal-mcp" target="_blank">chongdashu/unreal-mcp</a></td> 
             <td align="center">Enable AI assistant clients like Cursor, Windsurf and Claude Desktop to control Unreal Engine through natural language using the Model Context Protocol (MCP).</td>
             <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
@@ -235,24 +246,14 @@
             <td style="white-space: nowrap; width: auto;" align="center">1045</td> 
         </tr>
         <tr>
-            <td align="center">Top23</td>
-            <td align="center"><a href="https://github.com/lynx-family/primjs" target="_blank">lynx-family/primjs</a></td> 
-            <td align="center">JavaScript Engine Optimized for Lynx</td>
-            <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-04</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1039%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1039</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1052</td> 
-        </tr>
-        <tr>
             <td align="center">Top24</td>
             <td align="center"><a href="https://github.com/alpha-liu-01/SpeedyNote" target="_blank">alpha-liu-01/SpeedyNote</a></td> 
             <td align="center">A simple note app with good performance and PDF import support</td>
             <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-02-15</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">998%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">998</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1002</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1001%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1001</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1004</td> 
         </tr>
         <tr>
             <td align="center">Top25</td>
@@ -260,9 +261,9 @@
             <td align="center">llama.cpp fork with additional SOTA quants and improved performance</td>
             <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-06-27</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">990%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1258</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1387</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">992%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1261</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1388</td> 
         </tr>
         <tr>
             <td align="center">Top26</td>
@@ -290,9 +291,9 @@
             <td align="center">Clock/Weather station with ESP8266/ESP32</td>
             <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-06-04</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">964%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">964</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">970</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">968%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">968</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">972</td> 
         </tr>
         <tr>
             <td align="center">Top29</td>
@@ -310,8 +311,8 @@
             <td align="center">DuckLake is an integrated data lake and catalog format</td>
             <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-03-04</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">893%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2072</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">897%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2082</td> 
             <td style="white-space: nowrap; width: auto;" align="center">2314</td> 
         </tr>
         <tr>
@@ -320,9 +321,9 @@
             <td align="center">Helium Browser for macOS</td>
             <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-02-15</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">877%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">877</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">879</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">883%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">883</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">885</td> 
         </tr>
         <tr>
             <td align="center">Top32</td>
@@ -330,9 +331,9 @@
             <td align="center">A portable version of LEGO Island (1997)</td>
             <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-05-17</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">867%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">867</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">914</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">881%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">881</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">928</td> 
         </tr>
         <tr>
             <td align="center">Top33</td>
@@ -350,9 +351,9 @@
             <td align="center">A focused launcher for your desktop — native, fast, extensible</td>
             <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-07-28</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">835%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">4326</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">4898</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">858%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">4445</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">4963</td> 
         </tr>
         <tr>
             <td align="center">Top35</td>
@@ -400,9 +401,9 @@
             <td align="center">A high-performance inference engine for LLMs, optimized for diverse AI accelerators.</td>
             <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-08-12</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">766%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">766</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">808</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">773%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">773</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">815</td> 
         </tr>
         <tr>
             <td align="center">Top40</td>
@@ -426,6 +427,16 @@
         </tr>
         <tr>
             <td align="center">Top42</td>
+            <td align="center"><a href="https://github.com/optiscaler/OptiScaler" target="_blank">optiscaler/OptiScaler</a></td> 
+            <td align="center">OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR3 FG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2023-12-07</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">731%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">5288</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">6011</td> 
+        </tr>
+        <tr>
+            <td align="center">Top43</td>
             <td align="center"><a href="https://github.com/1q23lyc45/KitsuneMagisk" target="_blank">1q23lyc45/KitsuneMagisk</a></td> 
             <td align="center">A fork of KitsuneMagisk. Thanks to the original author @HuskyDG.</td>
             <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
@@ -433,16 +444,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">725%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">1357</td> 
             <td style="white-space: nowrap; width: auto;" align="center">1544</td> 
-        </tr>
-        <tr>
-            <td align="center">Top43</td>
-            <td align="center"><a href="https://github.com/optiscaler/OptiScaler" target="_blank">optiscaler/OptiScaler</a></td> 
-            <td align="center">OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR3 FG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2023-12-07</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">725%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">5242</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">5991</td> 
         </tr>
         <tr>
             <td align="center">Top44</td>
@@ -456,16 +457,6 @@
         </tr>
         <tr>
             <td align="center">Top45</td>
-            <td align="center"><a href="https://github.com/ZikangYuan/voxel_svio" target="_blank">ZikangYuan/voxel_svio</a></td> 
-            <td align="center">[RA-L 2025 Accept without Revision] A stereo visual-inertial odometry system based on voxel map</td>
-            <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-04-29</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">706%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">706</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">744</td> 
-        </tr>
-        <tr>
-            <td align="center">Top46</td>
             <td align="center"><a href="https://github.com/jaskang/wukong-minimap" target="_blank">jaskang/wukong-minimap</a></td> 
             <td align="center">黑神话内置实时地图 / Black Myth: Wukong Built-in real-time map</td>
             <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
@@ -473,6 +464,16 @@
             <td style="white-space: nowrap; width: auto;"  align="center">706%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">706</td> 
             <td style="white-space: nowrap; width: auto;" align="center">775</td> 
+        </tr>
+        <tr>
+            <td align="center">Top46</td>
+            <td align="center"><a href="https://github.com/ZikangYuan/voxel_svio" target="_blank">ZikangYuan/voxel_svio</a></td> 
+            <td align="center">[RA-L 2025 Accept without Revision] A stereo visual-inertial odometry system based on voxel map</td>
+            <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-04-29</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">706%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">706</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">744</td> 
         </tr>
         <tr>
             <td align="center">Top47</td>
@@ -520,8 +521,8 @@
             <td align="center">TRMNL e-ink device firmware</td>
             <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-01-14</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">651%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">651</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">652%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">652</td> 
             <td style="white-space: nowrap; width: auto;" align="center">743</td> 
         </tr>
         <tr>
@@ -540,8 +541,8 @@
             <td align="center"></td>
             <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-12-14</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">644%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1006</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">645%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1007</td> 
             <td style="white-space: nowrap; width: auto;" align="center">1163</td> 
         </tr>
         <tr>
@@ -600,9 +601,9 @@
             <td align="center"></td>
             <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-06-20</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">593%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">593</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">599</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">594%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">594</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">600</td> 
         </tr>
         <tr>
             <td align="center">Top60</td>
@@ -630,8 +631,8 @@
             <td align="center">An MCP-based chatbot | 一个基于MCP的聊天机器人</td>
             <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-08-31</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">554%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">18850</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">555%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">18875</td> 
             <td style="white-space: nowrap; width: auto;" align="center">22272</td> 
         </tr>
         <tr>
@@ -690,12 +691,22 @@
             <td align="center">Run x86 and x86-64 games on RISC-V Linux</td>
             <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-06-27</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">524%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">524</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">525%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">525</td> 
             <td style="white-space: nowrap; width: auto;" align="center">538</td> 
         </tr>
         <tr>
             <td align="center">Top69</td>
+            <td align="center"><a href="https://github.com/FastFlowLM/FastFlowLM" target="_blank">FastFlowLM/FastFlowLM</a></td> 
+            <td align="center">Run LLMs on AMD Ryzen™ AI NPUs in minutes. Just like Ollama - but purpose-built and deeply optimized for the AMD NPUs.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-06-17</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">524%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">524</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">527</td> 
+        </tr>
+        <tr>
+            <td align="center">Top70</td>
             <td align="center"><a href="https://github.com/NimbleEdge/deliteAI" target="_blank">NimbleEdge/deliteAI</a></td> 
             <td align="center">On-device Agentic AI platform</td>
             <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
@@ -705,7 +716,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">526</td> 
         </tr>
         <tr>
-            <td align="center">Top70</td>
+            <td align="center">Top71</td>
+            <td align="center"><a href="https://github.com/deepglint/FAST_LIO_LOCALIZATION_HUMANOID" target="_blank">deepglint/FAST_LIO_LOCALIZATION_HUMANOID</a></td> 
+            <td align="center">Localization by LiDAR for Humanoid(like Unitree G1)</td>
+            <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-27</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">516%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">516</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">524</td> 
+        </tr>
+        <tr>
+            <td align="center">Top72</td>
             <td align="center"><a href="https://github.com/perplexityai/pplx-kernels" target="_blank">perplexityai/pplx-kernels</a></td> 
             <td align="center">Perplexity GPU Kernels</td>
             <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
@@ -715,17 +736,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">531</td> 
         </tr>
         <tr>
-            <td align="center">Top71</td>
-            <td align="center"><a href="https://github.com/FastFlowLM/FastFlowLM" target="_blank">FastFlowLM/FastFlowLM</a></td> 
-            <td align="center">Run LLMs on AMD Ryzen™ AI NPUs in minutes. Just like Ollama - but purpose-built and deeply optimized for the AMD NPUs.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-06-17</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">509%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">509</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">524</td> 
-        </tr>
-        <tr>
-            <td align="center">Top72</td>
+            <td align="center">Top73</td>
             <td align="center"><a href="https://github.com/ClassicOldSong/Apollo" target="_blank">ClassicOldSong/Apollo</a></td> 
             <td align="center">Sunshine fork - The easiest way to stream with the native resolution of your client device</td>
             <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
@@ -735,17 +746,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">6624</td> 
         </tr>
         <tr>
-            <td align="center">Top73</td>
-            <td align="center"><a href="https://github.com/deepglint/FAST_LIO_LOCALIZATION_HUMANOID" target="_blank">deepglint/FAST_LIO_LOCALIZATION_HUMANOID</a></td> 
-            <td align="center">Localization by LiDAR for Humanoid(like Unitree G1)</td>
+            <td align="center">Top74</td>
+            <td align="center"><a href="https://github.com/superxslam/SuperOdom" target="_blank">superxslam/SuperOdom</a></td> 
+            <td align="center">A highly robust and accurate LiDAR-only,  LiDAR-inertial odometry</td>
             <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-27</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-04-10</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">503%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">503</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">524</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">507</td> 
         </tr>
         <tr>
-            <td align="center">Top74</td>
+            <td align="center">Top75</td>
             <td align="center"><a href="https://github.com/XTXMarkets/ternfs" target="_blank">XTXMarkets/ternfs</a></td> 
             <td align="center">An exabyte-scale, multi-region distributed file system</td>
             <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
@@ -755,7 +766,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">1245</td> 
         </tr>
         <tr>
-            <td align="center">Top75</td>
+            <td align="center">Top76</td>
             <td align="center"><a href="https://github.com/wiredopposite/OGX-Mini" target="_blank">wiredopposite/OGX-Mini</a></td> 
             <td align="center">RP2040 & RP2350 USB gamepad emulation for multiple platforms.</td>
             <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
@@ -765,17 +776,37 @@
             <td style="white-space: nowrap; width: auto;" align="center">1011</td> 
         </tr>
         <tr>
-            <td align="center">Top76</td>
-            <td align="center"><a href="https://github.com/superxslam/SuperOdom" target="_blank">superxslam/SuperOdom</a></td> 
-            <td align="center">A highly robust and accurate LiDAR-only,  LiDAR-inertial odometry</td>
+            <td align="center">Top77</td>
+            <td align="center"><a href="https://github.com/Wemino/EchoPatch" target="_blank">Wemino/EchoPatch</a></td> 
+            <td align="center">Modernizes F.E.A.R. and its expansions with HUD scaling, high-framerate optimizations, controller support, and other quality-of-life enhancements</td>
             <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-04-10</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">495%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">495</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">499</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-02-14</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">501%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">501</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">506</td> 
         </tr>
         <tr>
-            <td align="center">Top77</td>
+            <td align="center">Top78</td>
+            <td align="center"><a href="https://github.com/google-ai-edge/LiteRT-LM" target="_blank">google-ai-edge/LiteRT-LM</a></td> 
+            <td align="center"></td>
+            <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-04-15</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">501%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">501</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">544</td> 
+        </tr>
+        <tr>
+            <td align="center">Top79</td>
+            <td align="center"><a href="https://github.com/throneproj/Throne" target="_blank">throneproj/Throne</a></td> 
+            <td align="center">Cross-platform GUI proxy utility (Empowered by sing-box)</td>
+            <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-02-08</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">493%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3013</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3624</td> 
+        </tr>
+        <tr>
+            <td align="center">Top80</td>
             <td align="center"><a href="https://github.com/Zaarrg/stremio-community-v5" target="_blank">Zaarrg/stremio-community-v5</a></td> 
             <td align="center">🐚 WebView2 and Qt6-based shell, desktop app for Stremio with latest web ui support</td>
             <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
@@ -785,27 +816,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">575</td> 
         </tr>
         <tr>
-            <td align="center">Top78</td>
-            <td align="center"><a href="https://github.com/Wemino/EchoPatch" target="_blank">Wemino/EchoPatch</a></td> 
-            <td align="center">Modernizes F.E.A.R. and its expansions with HUD scaling, high-framerate optimizations, controller support, and other quality-of-life enhancements</td>
-            <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-02-14</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">492%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">492</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">506</td> 
-        </tr>
-        <tr>
-            <td align="center">Top79</td>
-            <td align="center"><a href="https://github.com/google-ai-edge/LiteRT-LM" target="_blank">google-ai-edge/LiteRT-LM</a></td> 
-            <td align="center"></td>
-            <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-04-15</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">488%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">488</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">535</td> 
-        </tr>
-        <tr>
-            <td align="center">Top80</td>
+            <td align="center">Top81</td>
             <td align="center"><a href="https://github.com/Byrom90/XeUnshackle" target="_blank">Byrom90/XeUnshackle</a></td> 
             <td align="center">Custom Xbox 360 app designed to be used with the Xbox360BadUpdate exploit. Applies a set of HV/Kernel patches & loads the Dashlaunch system module (launch.xex).</td>
             <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
@@ -813,16 +824,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">486%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">486</td> 
             <td style="white-space: nowrap; width: auto;" align="center">492</td> 
-        </tr>
-        <tr>
-            <td align="center">Top81</td>
-            <td align="center"><a href="https://github.com/throneproj/Throne" target="_blank">throneproj/Throne</a></td> 
-            <td align="center">Cross-platform GUI proxy utility (Empowered by sing-box)</td>
-            <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-02-08</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">484%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2958</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">3578</td> 
         </tr>
         <tr>
             <td align="center">Top82</td>
@@ -836,16 +837,6 @@
         </tr>
         <tr>
             <td align="center">Top83</td>
-            <td align="center"><a href="https://github.com/iDescriptor/iDescriptor" target="_blank">iDescriptor/iDescriptor</a></td> 
-            <td align="center">A free, open-source, and cross-platform iDevice management tool</td>
-            <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-07-27</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">466%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1143</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1388</td> 
-        </tr>
-        <tr>
-            <td align="center">Top84</td>
             <td align="center"><a href="https://github.com/emp0ry/cs2-ErScripts" target="_blank">emp0ry/cs2-ErScripts</a></td> 
             <td align="center">ErScripts is a multi-feature tool for Counter-Strike 2, combining various scripts into one. It operates externally, without interacting with game memory or injecting code, for a seamless CS2 experience.</td>
             <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
@@ -853,6 +844,16 @@
             <td style="white-space: nowrap; width: auto;"  align="center">466%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">466</td> 
             <td style="white-space: nowrap; width: auto;" align="center">468</td> 
+        </tr>
+        <tr>
+            <td align="center">Top84</td>
+            <td align="center"><a href="https://github.com/iDescriptor/iDescriptor" target="_blank">iDescriptor/iDescriptor</a></td> 
+            <td align="center">A free, open-source, and cross-platform iDevice management tool</td>
+            <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-07-27</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">466%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1143</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1388</td> 
         </tr>
         <tr>
             <td align="center">Top85</td>
@@ -906,6 +907,16 @@
         </tr>
         <tr>
             <td align="center">Top90</td>
+            <td align="center"><a href="https://github.com/ai-dynamo/nixl" target="_blank">ai-dynamo/nixl</a></td> 
+            <td align="center">NVIDIA Inference Xfer Library (NIXL)</td>
+            <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-06</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">434%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">622</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">765</td> 
+        </tr>
+        <tr>
+            <td align="center">Top91</td>
             <td align="center"><a href="https://github.com/kvick-games/UnrealMCP" target="_blank">kvick-games/UnrealMCP</a></td> 
             <td align="center">MCP to allow AI agents to control Unreal</td>
             <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
@@ -915,7 +926,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">450</td> 
         </tr>
         <tr>
-            <td align="center">Top91</td>
+            <td align="center">Top92</td>
             <td align="center"><a href="https://github.com/sonicdcer/MarioKart64Recomp" target="_blank">sonicdcer/MarioKart64Recomp</a></td> 
             <td align="center">Recompilation of MarioKart 64</td>
             <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
@@ -923,16 +934,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">428%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">428</td> 
             <td style="white-space: nowrap; width: auto;" align="center">434</td> 
-        </tr>
-        <tr>
-            <td align="center">Top92</td>
-            <td align="center"><a href="https://github.com/ai-dynamo/nixl" target="_blank">ai-dynamo/nixl</a></td> 
-            <td align="center">NVIDIA Inference Xfer Library (NIXL)</td>
-            <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-06</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">425%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">609</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">757</td> 
         </tr>
         <tr>
             <td align="center">Top93</td>
@@ -946,6 +947,16 @@
         </tr>
         <tr>
             <td align="center">Top94</td>
+            <td align="center"><a href="https://github.com/ungive/discord-music-presence" target="_blank">ungive/discord-music-presence</a></td> 
+            <td align="center">The Discord music status that works with any media player</td>
+            <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-02-07</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">424%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1684</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2081</td> 
+        </tr>
+        <tr>
+            <td align="center">Top95</td>
             <td align="center"><a href="https://github.com/NU-QRG/optiml" target="_blank">NU-QRG/optiml</a></td> 
             <td align="center">Drop-in acceleration engine for LLM agents.</td>
             <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
@@ -955,17 +966,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">449</td> 
         </tr>
         <tr>
-            <td align="center">Top95</td>
-            <td align="center"><a href="https://github.com/ungive/discord-music-presence" target="_blank">ungive/discord-music-presence</a></td> 
-            <td align="center">The Discord music status that works with any media player</td>
+            <td align="center">Top96</td>
+            <td align="center"><a href="https://github.com/Zao-chen/ZcChat" target="_blank">Zao-chen/ZcChat</a></td> 
+            <td align="center">一个模仿Galgame效果的AI桌宠 | An AI desktop pet that mimics the effects of a Galgame</td>
             <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-02-07</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">418%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1660</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2057</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-11-14</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">416%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">416</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">473</td> 
         </tr>
         <tr>
-            <td align="center">Top96</td>
+            <td align="center">Top97</td>
             <td align="center"><a href="https://github.com/SickleSec/GhostWolf" target="_blank">SickleSec/GhostWolf</a></td> 
             <td align="center">从内存中提取浏览器和Todesk用户凭证</td>
             <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
@@ -975,7 +986,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">422</td> 
         </tr>
         <tr>
-            <td align="center">Top97</td>
+            <td align="center">Top98</td>
             <td align="center"><a href="https://github.com/Sarthak2143/sakura" target="_blank">Sarthak2143/sakura</a></td> 
             <td align="center">minimal lib for rendering media in terminal</td>
             <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
@@ -985,7 +996,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">419</td> 
         </tr>
         <tr>
-            <td align="center">Top98</td>
+            <td align="center">Top99</td>
             <td align="center"><a href="https://github.com/KolosalAI/Kolosal" target="_blank">KolosalAI/Kolosal</a></td> 
             <td align="center">Kolosal AI is an OpenSource and Lightweight alternative to LM Studio to run LLMs 100% offline on your device.</td>
             <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
@@ -995,24 +1006,14 @@
             <td style="white-space: nowrap; width: auto;" align="center">419</td> 
         </tr>
         <tr>
-            <td align="center">Top99</td>
+            <td align="center">Top100</td>
             <td align="center"><a href="https://github.com/ScratchEverywhere/ScratchEverywhere" target="_blank">ScratchEverywhere/ScratchEverywhere</a></td> 
             <td align="center">Custom Scratch Runtime made in C++!</td>
             <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-05-02</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">412%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">412</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">413%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">413</td> 
             <td style="white-space: nowrap; width: auto;" align="center">416</td> 
-        </tr>
-        <tr>
-            <td align="center">Top100</td>
-            <td align="center"><a href="https://github.com/SeaEpoch/MouseClick" target="_blank">SeaEpoch/MouseClick</a></td> 
-            <td align="center">🖱️ MouseClick 🖱️ 是一款功能强大的鼠标连点器和管理工具，采用 QT Widget 开发 ，具备跨平台兼容性 。软件界面美观 ，操作直观，支持鼠标行为模拟 💻，让用户在工作和游戏中实现高效自动化 🚀。提升你的数字生活体验，一切尽在掌控之中 🌟！</td>
-            <td style="white-space: nowrap; width: auto;" align="center">C++</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2021-07-05</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">409%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">504</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">627</td> 
         </tr>
     </table>
 </div>

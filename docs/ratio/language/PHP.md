@@ -1,5 +1,6 @@
-📚数据更新：2025-12-14  
-🌋数据来源：www.ffgithub.com
+📅统计周期：2025-01-01 ~ 2025-12-31<br>
+🌋数据来源：www.ffgithub.com<br>
+📚数据更新：2025-12-14<br>
 
 
 <div align="center">
@@ -50,9 +51,9 @@
             <td align="center">The PHP Agentic Framework to build production-ready AI driven applications. Connect components (LLMs, vector DBs, memory) to agents that can interact with your data. With its modular architecture it's best suited for building RAG, multi-agent workflows, or business process automations.</td>
             <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-03-02</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1370%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1370</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1384</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1378%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1378</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1387</td> 
         </tr>
         <tr>
             <td align="center">Top5</td>
@@ -60,9 +61,9 @@
             <td align="center">The missing calendar management for Laravel</td>
             <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-06-09</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1263%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1263</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1322</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1267%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1267</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1326</td> 
         </tr>
         <tr>
             <td align="center">Top6</td>
@@ -70,9 +71,9 @@
             <td align="center">The Next-Generation Open-Source CRM Platform written with Laravel and Filament</td>
             <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-09-26</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">923%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">923</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">936</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">937%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">937</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">942</td> 
         </tr>
         <tr>
             <td align="center">Top7</td>
@@ -80,9 +81,9 @@
             <td align="center">Just better defaults for your Laravel projects.</td>
             <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-04-12</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">875%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">963</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1073</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">879%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">967</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1077</td> 
         </tr>
         <tr>
             <td align="center">Top8</td>
@@ -100,9 +101,9 @@
             <td align="center">Symfony AI is a set of components that integrate AI capabilities into PHP applications</td>
             <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-04-17</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">748%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">748</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">844</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">756%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">756</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">850</td> 
         </tr>
         <tr>
             <td align="center">Top10</td>
@@ -110,9 +111,9 @@
             <td align="center">Self-hosted, open-source dashboard for your Strava data.</td>
             <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-12-10</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">742%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1181</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1344</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">749%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1191</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1350</td> 
         </tr>
         <tr>
             <td align="center">Top11</td>
@@ -140,9 +141,9 @@
             <td align="center">A powerful, self-hosted file-sharing platform built with PHP and Laravel with a Vue.js frontend. It offers secure, customizable file-transfer capabilities through an elegant user interface, giving you complete control over your data while providing a seamless experience for both senders and recipients.</td>
             <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-01-30</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">680%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">680</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">737</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">681%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">681</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">738</td> 
         </tr>
         <tr>
             <td align="center">Top14</td>
@@ -200,8 +201,8 @@
             <td align="center">Power of AI Agents in your Laravel project</td>
             <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-12-14</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">544%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">544</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">546%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">546</td> 
             <td style="white-space: nowrap; width: auto;" align="center">557</td> 
         </tr>
         <tr>
@@ -250,8 +251,8 @@
             <td align="center">Markdown note-taking web application designed for simplicity</td>
             <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-07-09</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">489%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">720</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">490%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">721</td> 
             <td style="white-space: nowrap; width: auto;" align="center">868</td> 
         </tr>
         <tr>
@@ -270,8 +271,8 @@
             <td align="center">A free, flexible, open-source, web-based news feed (RSS/Atom/other) reader and aggregator.</td>
             <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-10-04</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">461%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">461</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">470%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">470</td> 
             <td style="white-space: nowrap; width: auto;" align="center">482</td> 
         </tr>
         <tr>
@@ -360,9 +361,9 @@
             <td align="center">A modern AI chat starter kit built with Laravel, featuring real-time streaming responses using Prism, Inertia.js, Vue.js, and TailwindCSS.</td>
             <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-06-01</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">349%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">349</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">351</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">350%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">350</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">352</td> 
         </tr>
         <tr>
             <td align="center">Top36</td>
@@ -370,32 +371,42 @@
             <td align="center">An MCP adapter that bridges the Abilities API to the Model Context Protocol, enabling MCP clients to discover and invoke WordPress plugin, theme, and core abilities programmatically.</td>
             <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-07-10</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">340%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">340</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">344%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">344</td> 
             <td style="white-space: nowrap; width: auto;" align="center">356</td> 
         </tr>
         <tr>
             <td align="center">Top37</td>
-            <td align="center"><a href="https://github.com/opgginc/laravel-mcp-server" target="_blank">opgginc/laravel-mcp-server</a></td> 
-            <td align="center">A Laravel package for implementing secure Model Context Protocol servers using Streamable HTTP and SSE transport, providing real-time communication and a scalable tool system for enterprise environments.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-04-14</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">322%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">322</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">324</td> 
-        </tr>
-        <tr>
-            <td align="center">Top38</td>
             <td align="center"><a href="https://github.com/Relaticle/flowforge" target="_blank">Relaticle/flowforge</a></td> 
             <td align="center">Laravel Kanban boards with intelligent pagination, drag-and-drop ordering, and flexible    integration patterns for Filament and Livewire applications.</td>
             <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-03-20</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">310%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">310</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">318</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">325%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">325</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">333</td> 
+        </tr>
+        <tr>
+            <td align="center">Top38</td>
+            <td align="center"><a href="https://github.com/opgginc/laravel-mcp-server" target="_blank">opgginc/laravel-mcp-server</a></td> 
+            <td align="center">A Laravel package for implementing secure Model Context Protocol servers using Streamable HTTP and SSE transport, providing real-time communication and a scalable tool system for enterprise environments.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-04-14</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">323%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">323</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">325</td> 
         </tr>
         <tr>
             <td align="center">Top39</td>
+            <td align="center"><a href="https://github.com/hyvor/relay" target="_blank">hyvor/relay</a></td> 
+            <td align="center">✉️ Open-Source Email API for Developers. Self-hosted Alternative to SES, Mailgun, SendGrid.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-05-29</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">315%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">315</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">317</td> 
+        </tr>
+        <tr>
+            <td align="center">Top40</td>
             <td align="center"><a href="https://github.com/danjohnson95/pinout" target="_blank">danjohnson95/pinout</a></td> 
             <td align="center">Control hardware using Laravel 🔌</td>
             <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
@@ -405,23 +416,13 @@
             <td style="white-space: nowrap; width: auto;" align="center">318</td> 
         </tr>
         <tr>
-            <td align="center">Top40</td>
-            <td align="center"><a href="https://github.com/hyvor/relay" target="_blank">hyvor/relay</a></td> 
-            <td align="center">✉️ Open-Source Email API for Developers. Self-hosted Alternative to SES, Mailgun, SendGrid.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-05-29</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">309%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">309</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">316</td> 
-        </tr>
-        <tr>
             <td align="center">Top41</td>
             <td align="center"><a href="https://github.com/laravel/mcp" target="_blank">laravel/mcp</a></td> 
             <td align="center">Rapidly build MCP servers for your Laravel applications.</td>
             <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-05-15</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">306%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">445</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">308%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">448</td> 
             <td style="white-space: nowrap; width: auto;" align="center">593</td> 
         </tr>
         <tr>
@@ -496,6 +497,16 @@
         </tr>
         <tr>
             <td align="center">Top49</td>
+            <td align="center"><a href="https://github.com/aimeos/ai-cms-grapesjs" target="_blank">aimeos/ai-cms-grapesjs</a></td> 
+            <td align="center">GrapesJS CMS integration into Aimeos</td>
+            <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2021-01-24</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">271%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">639</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">874</td> 
+        </tr>
+        <tr>
+            <td align="center">Top50</td>
             <td align="center"><a href="https://github.com/fairpm/fair-plugin" target="_blank">fairpm/fair-plugin</a></td> 
             <td align="center">FAIR plugin</td>
             <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
@@ -505,7 +516,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">307</td> 
         </tr>
         <tr>
-            <td align="center">Top50</td>
+            <td align="center">Top51</td>
             <td align="center"><a href="https://github.com/context-hub/generator" target="_blank">context-hub/generator</a></td> 
             <td align="center">CTX: a tool that solves the context management gap when working with LLMs like ChatGPT or Claude. It helps developers organize and automatically collect information from their codebase into structured documents that can be easily shared with AI assistants.</td>
             <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
@@ -515,7 +526,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">271</td> 
         </tr>
         <tr>
-            <td align="center">Top51</td>
+            <td align="center">Top52</td>
             <td align="center"><a href="https://github.com/johnwarne/upvote-rss" target="_blank">johnwarne/upvote-rss</a></td> 
             <td align="center">Generate rich RSS feeds from Reddit, Hacker News, Lemmy, Mbin, and more</td>
             <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
@@ -523,16 +534,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">267%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">267</td> 
             <td style="white-space: nowrap; width: auto;" align="center">316</td> 
-        </tr>
-        <tr>
-            <td align="center">Top52</td>
-            <td align="center"><a href="https://github.com/aimeos/ai-cms-grapesjs" target="_blank">aimeos/ai-cms-grapesjs</a></td> 
-            <td align="center">GrapesJS CMS integration into Aimeos</td>
-            <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2021-01-24</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">266%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">626</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">861</td> 
         </tr>
         <tr>
             <td align="center">Top53</td>
@@ -560,22 +561,12 @@
             <td align="center">Spacepad is a simple privacy-focused room display app. Suitable for both small offices and larger deployments.</td>
             <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-01-05</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">254%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">254</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">278</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">255%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">255</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">279</td> 
         </tr>
         <tr>
             <td align="center">Top56</td>
-            <td align="center"><a href="https://github.com/worldbank/metadata-editor" target="_blank">worldbank/metadata-editor</a></td> 
-            <td align="center">Web tool to edit, validate, and manage metadata for Microdata (DDI Codebook), documents, tables, media, and geospatial data.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-05-13</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">253%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">253</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">255</td> 
-        </tr>
-        <tr>
-            <td align="center">Top57</td>
             <td align="center"><a href="https://github.com/WP-Autoplugin/wp-autoplugin" target="_blank">WP-Autoplugin/wp-autoplugin</a></td> 
             <td align="center">Quickly create functional plugins from simple descriptions, addressing specific needs without unnecessary bloat.</td>
             <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
@@ -583,6 +574,16 @@
             <td style="white-space: nowrap; width: auto;"  align="center">253%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">253</td> 
             <td style="white-space: nowrap; width: auto;" align="center">347</td> 
+        </tr>
+        <tr>
+            <td align="center">Top57</td>
+            <td align="center"><a href="https://github.com/worldbank/metadata-editor" target="_blank">worldbank/metadata-editor</a></td> 
+            <td align="center">Web tool to edit, validate, and manage metadata for Microdata (DDI Codebook), documents, tables, media, and geospatial data.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-05-13</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">253%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">253</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">255</td> 
         </tr>
         <tr>
             <td align="center">Top58</td>
@@ -596,6 +597,16 @@
         </tr>
         <tr>
             <td align="center">Top59</td>
+            <td align="center"><a href="https://github.com/Climactic/laravel-credits" target="_blank">Climactic/laravel-credits</a></td> 
+            <td align="center">A ledger-based Laravel package for managing credit-based systems in your application.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-11-17</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">247%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">247</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">250</td> 
+        </tr>
+        <tr>
+            <td align="center">Top60</td>
             <td align="center"><a href="https://github.com/wangegou/UPAY_PRO" target="_blank">wangegou/UPAY_PRO</a></td> 
             <td align="center">数字货币支付收款方案</td>
             <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
@@ -605,7 +616,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">250</td> 
         </tr>
         <tr>
-            <td align="center">Top60</td>
+            <td align="center">Top61</td>
             <td align="center"><a href="https://github.com/easychen/one-person-businesses-methodology-v2.0" target="_blank">easychen/one-person-businesses-methodology-v2.0</a></td> 
             <td align="center">《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。</td>
             <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
@@ -615,24 +626,14 @@
             <td style="white-space: nowrap; width: auto;" align="center">11920</td> 
         </tr>
         <tr>
-            <td align="center">Top61</td>
+            <td align="center">Top62</td>
             <td align="center"><a href="https://github.com/taksssss/iptv-tool" target="_blank">taksssss/iptv-tool</a></td> 
             <td align="center">IPTV工具箱， Docker🐳部署，支持EPG管理、直播源管理、台标管理，兼容DIYP/百川、超级直播及xmltv格式。</td>
             <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-07-11</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">234%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">590</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">591</td> 
             <td style="white-space: nowrap; width: auto;" align="center">843</td> 
-        </tr>
-        <tr>
-            <td align="center">Top62</td>
-            <td align="center"><a href="https://github.com/Climactic/laravel-credits" target="_blank">Climactic/laravel-credits</a></td> 
-            <td align="center">A ledger-based Laravel package for managing credit-based systems in your application.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-11-17</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">230%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">230</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">233</td> 
         </tr>
         <tr>
             <td align="center">Top63</td>
@@ -656,6 +657,16 @@
         </tr>
         <tr>
             <td align="center">Top65</td>
+            <td align="center"><a href="https://github.com/aliziodev/laravel-taxonomy" target="_blank">aliziodev/laravel-taxonomy</a></td> 
+            <td align="center">Laravel package for managing taxonomies, categories, tags, and hierarchical data structures. The package implements a nested-set model for optimal query performance and provides a rich API for organizing and querying hierarchical data in Laravel applications.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-05-29</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">219%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">219</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">227</td> 
+        </tr>
+        <tr>
+            <td align="center">Top66</td>
             <td align="center"><a href="https://github.com/DirectoryTree/Metrics" target="_blank">DirectoryTree/Metrics</a></td> 
             <td align="center">Record and manage metrics in your Laravel application</td>
             <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
@@ -663,16 +674,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">217%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">217</td> 
             <td style="white-space: nowrap; width: auto;" align="center">219</td> 
-        </tr>
-        <tr>
-            <td align="center">Top66</td>
-            <td align="center"><a href="https://github.com/aliziodev/laravel-taxonomy" target="_blank">aliziodev/laravel-taxonomy</a></td> 
-            <td align="center">Laravel package for managing taxonomies, categories, tags, and hierarchical data structures. The package implements a nested-set model for optimal query performance and provides a rich API for organizing and querying hierarchical data in Laravel applications.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-05-29</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">217%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">217</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">225</td> 
         </tr>
         <tr>
             <td align="center">Top67</td>
@@ -690,8 +691,8 @@
             <td align="center">Use passkeys in your Laravel app</td>
             <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-08-06</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">205%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">281</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">204%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">280</td> 
             <td style="white-space: nowrap; width: auto;" align="center">417</td> 
         </tr>
         <tr>
@@ -700,8 +701,8 @@
             <td align="center">Syntax highlighting powered by TextMate grammars in PHP.</td>
             <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-09-24</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">200%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">229</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">203%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">232</td> 
             <td style="white-space: nowrap; width: auto;" align="center">346</td> 
         </tr>
         <tr>
@@ -746,6 +747,16 @@
         </tr>
         <tr>
             <td align="center">Top74</td>
+            <td align="center"><a href="https://github.com/houdaslassi/vantage" target="_blank">houdaslassi/vantage</a></td> 
+            <td align="center">Vantage : Advanced Laravel Queue Monitoring & Insights package</td>
+            <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-09-21</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">191%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">191</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">197</td> 
+        </tr>
+        <tr>
+            <td align="center">Top75</td>
             <td align="center"><a href="https://github.com/jez500/pricebuddy" target="_blank">jez500/pricebuddy</a></td> 
             <td align="center">A self hostable app that tracks prices and sends you notifications when prices match your preferences</td>
             <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
@@ -753,16 +764,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">190%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">400</td> 
             <td style="white-space: nowrap; width: auto;" align="center">610</td> 
-        </tr>
-        <tr>
-            <td align="center">Top75</td>
-            <td align="center"><a href="https://github.com/farayaz/laravel-spy" target="_blank">farayaz/laravel-spy</a></td> 
-            <td align="center">Laravel Spy is a lightweight package to track and log outgoing HTTP requests</td>
-            <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-05-06</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">188%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">188</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">190</td> 
         </tr>
         <tr>
             <td align="center">Top76</td>
@@ -776,13 +777,13 @@
         </tr>
         <tr>
             <td align="center">Top77</td>
-            <td align="center"><a href="https://github.com/houdaslassi/vantage" target="_blank">houdaslassi/vantage</a></td> 
-            <td align="center">Vantage : Advanced Laravel Queue Monitoring & Insights package</td>
+            <td align="center"><a href="https://github.com/farayaz/laravel-spy" target="_blank">farayaz/laravel-spy</a></td> 
+            <td align="center">Laravel Spy is a lightweight package to track and log outgoing HTTP requests</td>
             <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-09-21</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">186%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">186</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">197</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-05-06</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">188%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">188</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">190</td> 
         </tr>
         <tr>
             <td align="center">Top78</td>
@@ -810,32 +811,22 @@
             <td align="center">A unified interface for working with LLMs in Laravel</td>
             <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-02-23</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">169%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1340</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">172%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1358</td> 
             <td style="white-space: nowrap; width: auto;" align="center">2147</td> 
         </tr>
         <tr>
             <td align="center">Top81</td>
-            <td align="center"><a href="https://github.com/Automattic/wp-feature-api" target="_blank">Automattic/wp-feature-api</a></td> 
-            <td align="center">Feature API - This repository will be deprecated as stable releases of the Abilities API become available. Please use https://github.com/WordPress/abilities-api for ongoing development and support.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-19</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">165%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">165</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">168</td> 
-        </tr>
-        <tr>
-            <td align="center">Top82</td>
             <td align="center"><a href="https://github.com/true-async/php-async" target="_blank">true-async/php-async</a></td> 
             <td align="center">PHP Async extension</td>
             <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-04-22</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">165%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">165</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">167%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">167</td> 
             <td style="white-space: nowrap; width: auto;" align="center">169</td> 
         </tr>
         <tr>
-            <td align="center">Top83</td>
+            <td align="center">Top82</td>
             <td align="center"><a href="https://github.com/Stillat/dagger" target="_blank">Stillat/dagger</a></td> 
             <td align="center">A robust component authoring library for Laravel Blade.</td>
             <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
@@ -845,7 +836,27 @@
             <td style="white-space: nowrap; width: auto;" align="center">195</td> 
         </tr>
         <tr>
+            <td align="center">Top83</td>
+            <td align="center"><a href="https://github.com/Automattic/wp-feature-api" target="_blank">Automattic/wp-feature-api</a></td> 
+            <td align="center">Feature API - This repository will be deprecated as stable releases of the Abilities API become available. Please use https://github.com/WordPress/abilities-api for ongoing development and support.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-19</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">165%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">165</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">168</td> 
+        </tr>
+        <tr>
             <td align="center">Top84</td>
+            <td align="center"><a href="https://github.com/jeremehancock/Posteria" target="_blank">jeremehancock/Posteria</a></td> 
+            <td align="center">Plex Media Poster Management App</td>
+            <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-02-22</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">163%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">163</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">176</td> 
+        </tr>
+        <tr>
+            <td align="center">Top85</td>
             <td align="center"><a href="https://github.com/lizina66/lcy" target="_blank">lizina66/lcy</a></td> 
             <td align="center">一个随机图片的存储库</td>
             <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
@@ -853,16 +864,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">163%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">163</td> 
             <td style="white-space: nowrap; width: auto;" align="center">189</td> 
-        </tr>
-        <tr>
-            <td align="center">Top85</td>
-            <td align="center"><a href="https://github.com/WhispPHP/whisp" target="_blank">WhispPHP/whisp</a></td> 
-            <td align="center">Pure PHP SSH server - the simplest way to build PHP SSH apps</td>
-            <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-07</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">161%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">161</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">163</td> 
         </tr>
         <tr>
             <td align="center">Top86</td>
@@ -876,13 +877,13 @@
         </tr>
         <tr>
             <td align="center">Top87</td>
-            <td align="center"><a href="https://github.com/jeremehancock/Posteria" target="_blank">jeremehancock/Posteria</a></td> 
-            <td align="center">Plex Media Poster Management App</td>
+            <td align="center"><a href="https://github.com/WhispPHP/whisp" target="_blank">WhispPHP/whisp</a></td> 
+            <td align="center">Pure PHP SSH server - the simplest way to build PHP SSH apps</td>
             <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-02-22</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">160%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">160</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">173</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-07</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">161%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">161</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">163</td> 
         </tr>
         <tr>
             <td align="center">Top88</td>
@@ -960,9 +961,9 @@
             <td align="center">Use one time passwords (OTP) to authenticate in your Laravel app</td>
             <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-04-10</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">147%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">147</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">152</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">148%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">148</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">153</td> 
         </tr>
         <tr>
             <td align="center">Top96</td>
@@ -986,6 +987,16 @@
         </tr>
         <tr>
             <td align="center">Top98</td>
+            <td align="center"><a href="https://github.com/lanedirt/OGameX" target="_blank">lanedirt/OGameX</a></td> 
+            <td align="center">Open-source OGame redesign clone, powered by the latest PHP Laravel framework</td>
+            <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-03-21</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">140%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">140</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">218</td> 
+        </tr>
+        <tr>
+            <td align="center">Top99</td>
             <td align="center"><a href="https://github.com/govigilant/vigilant" target="_blank">govigilant/vigilant</a></td> 
             <td align="center">Open Source Web Monitoring</td>
             <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
@@ -993,16 +1004,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">140%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">140</td> 
             <td style="white-space: nowrap; width: auto;" align="center">174</td> 
-        </tr>
-        <tr>
-            <td align="center">Top99</td>
-            <td align="center"><a href="https://github.com/InvoiceShelf/InvoiceShelf" target="_blank">InvoiceShelf/InvoiceShelf</a></td> 
-            <td align="center">Open Source Invoicing Solution for Individuals & Businesses</td>
-            <td style="white-space: nowrap; width: auto;" align="center">PHP</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-01-27</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">140%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">878</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1507</td> 
         </tr>
         <tr>
             <td align="center">Top100</td>

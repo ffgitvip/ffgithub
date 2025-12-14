@@ -1,5 +1,6 @@
-📚数据更新：2025-12-14  
-🌋数据来源：www.ffgithub.com
+📅统计周期：2025-01-01 ~ 2025-12-31<br>
+🌋数据来源：www.ffgithub.com<br>
+📚数据更新：2025-12-14<br>
 
 
 <div align="center">
@@ -20,8 +21,8 @@
             <td align="center">A large collection of NES accuracy tests on a single NROM cartridge.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Assembly</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-05-10</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">735%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">735</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">741%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">741</td> 
             <td style="white-space: nowrap; width: auto;" align="center">743</td> 
         </tr>
         <tr>
@@ -30,9 +31,9 @@
             <td align="center">Software only hypervisor exploit for Xbox 360</td>
             <td style="white-space: nowrap; width: auto;" align="center">Assembly</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-02-24</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">595%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1661</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1940</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">596%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1664</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1943</td> 
         </tr>
         <tr>
             <td align="center">Top3</td>
@@ -66,6 +67,16 @@
         </tr>
         <tr>
             <td align="center">Top6</td>
+            <td align="center"><a href="https://github.com/ROCm/rocm-libraries" target="_blank">ROCm/rocm-libraries</a></td> 
+            <td align="center">monorepo for rocm libraries</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Assembly</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-04-24</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">200%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">200</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">204</td> 
+        </tr>
+        <tr>
+            <td align="center">Top7</td>
             <td align="center"><a href="https://github.com/apache/arrow-go" target="_blank">apache/arrow-go</a></td> 
             <td align="center">Official Go implementation of Apache Arrow</td>
             <td style="white-space: nowrap; width: auto;" align="center">Assembly</td> 
@@ -73,16 +84,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">199%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">199</td> 
             <td style="white-space: nowrap; width: auto;" align="center">284</td> 
-        </tr>
-        <tr>
-            <td align="center">Top7</td>
-            <td align="center"><a href="https://github.com/ROCm/rocm-libraries" target="_blank">ROCm/rocm-libraries</a></td> 
-            <td align="center">monorepo for rocm libraries</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Assembly</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-04-24</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">194%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">194</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">198</td> 
         </tr>
         <tr>
             <td align="center">Top8</td>
@@ -160,9 +161,9 @@
             <td align="center">Programming in assembly language tutorial</td>
             <td style="white-space: nowrap; width: auto;" align="center">Assembly</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2021-02-17</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">82%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">643</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1423</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">84%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">657</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1437</td> 
         </tr>
         <tr>
             <td align="center">Top16</td>
@@ -171,8 +172,8 @@
             <td style="white-space: nowrap; width: auto;" align="center">Assembly</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-02-17</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">63%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">230</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">591</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">229</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">590</td> 
         </tr>
         <tr>
             <td align="center">Top17</td>
@@ -240,9 +241,9 @@
             <td align="center">Microsoft BASIC for 6502 Microprocessor - Version 1.1</td>
             <td style="white-space: nowrap; width: auto;" align="center">Assembly</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-07-17</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">5%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">237</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">4318</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">6%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">247</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">4328</td> 
         </tr>
     </table>
 </div>

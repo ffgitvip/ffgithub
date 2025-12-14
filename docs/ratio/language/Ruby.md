@@ -1,5 +1,6 @@
-📚数据更新：2025-12-14  
-🌋数据来源：www.ffgithub.com
+📅统计周期：2025-01-01 ~ 2025-12-31<br>
+🌋数据来源：www.ffgithub.com<br>
+📚数据更新：2025-12-14<br>
 
 
 <div align="center">
@@ -30,8 +31,8 @@
             <td align="center">A developer friendly PaaS for your Kubernetes</td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-08-23</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2570%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2570</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2572%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2572</td> 
             <td style="white-space: nowrap; width: auto;" align="center">2612</td> 
         </tr>
         <tr>
@@ -40,9 +41,9 @@
             <td align="center">Ruby gems for general-purpose AI agent systems: automation, research, data processing, customer support, content creation. SwarmSDK provides single-process orchestration, persistent memory with semantic   search, node workflows, and hooks. SwarmMemory/SwarmCLI included. Claude Swarm v1 for dev teams.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-05-25</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1498%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1498</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1515</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1511%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1511</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1517</td> 
         </tr>
         <tr>
             <td align="center">Top4</td>
@@ -60,9 +61,9 @@
             <td align="center">Structured AI workflows made easy</td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-04-10</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">974%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">974</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">991</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">975%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">975</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">992</td> 
         </tr>
         <tr>
             <td align="center">Top6</td>
@@ -90,8 +91,8 @@
             <td align="center">The official Ruby SDK for the Model Context Protocol. Maintained in collaboration with Shopify.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-02-28</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">595%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">595</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">599%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">599</td> 
             <td style="white-space: nowrap; width: auto;" align="center">649</td> 
         </tr>
         <tr>
@@ -100,9 +101,9 @@
             <td align="center">Self-Hosted - Project Management, Planning and Time Tracker</td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-01-06</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">592%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">759</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">887</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">595%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">762</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">890</td> 
         </tr>
         <tr>
             <td align="center">Top10</td>
@@ -120,8 +121,8 @@
             <td align="center">ActiveAgent Rails framework for Agent Apps</td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-07-29</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">512%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">672</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">519%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">680</td> 
             <td style="white-space: nowrap; width: auto;" align="center">811</td> 
         </tr>
         <tr>
@@ -136,6 +137,16 @@
         </tr>
         <tr>
             <td align="center">Top13</td>
+            <td align="center"><a href="https://github.com/maquina-app/rails-mcp-server" target="_blank">maquina-app/rails-mcp-server</a></td> 
+            <td align="center">A Ruby gem implementation of a Model Context Protocol (MCP) server for Rails projects. This server allows LLMs (Large Language Models) to interact with Rails projects through the Model Context Protocol.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-21</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">441%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">441</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">448</td> 
+        </tr>
+        <tr>
+            <td align="center">Top14</td>
             <td align="center"><a href="https://github.com/contraptionco/postcard" target="_blank">contraptionco/postcard</a></td> 
             <td align="center">Personal website + newsletter as an alternative to social media.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
@@ -145,27 +156,27 @@
             <td style="white-space: nowrap; width: auto;" align="center">584</td> 
         </tr>
         <tr>
-            <td align="center">Top14</td>
-            <td align="center"><a href="https://github.com/maquina-app/rails-mcp-server" target="_blank">maquina-app/rails-mcp-server</a></td> 
-            <td align="center">A Ruby gem implementation of a Model Context Protocol (MCP) server for Rails projects. This server allows LLMs (Large Language Models) to interact with Rails projects through the Model Context Protocol.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-21</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">405%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">405</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">448</td> 
-        </tr>
-        <tr>
             <td align="center">Top15</td>
             <td align="center"><a href="https://github.com/tidewave-ai/tidewave_rails" target="_blank">tidewave-ai/tidewave_rails</a></td> 
             <td align="center">Tidewave for Rails</td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-04-12</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">383%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">383</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">450</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">385%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">385</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">452</td> 
         </tr>
         <tr>
             <td align="center">Top16</td>
+            <td align="center"><a href="https://github.com/openai/openai-ruby" target="_blank">openai/openai-ruby</a></td> 
+            <td align="center">Official Ruby SDK for the OpenAI API</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-06</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">383%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">383</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">386</td> 
+        </tr>
+        <tr>
+            <td align="center">Top17</td>
             <td align="center"><a href="https://github.com/railspulse/rails_pulse" target="_blank">railspulse/rails_pulse</a></td> 
             <td align="center">Rails Pulse is a comprehensive performance monitoring and debugging gem that provides insights into your Rails application's health.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
@@ -173,16 +184,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">382%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">382</td> 
             <td style="white-space: nowrap; width: auto;" align="center">384</td> 
-        </tr>
-        <tr>
-            <td align="center">Top17</td>
-            <td align="center"><a href="https://github.com/openai/openai-ruby" target="_blank">openai/openai-ruby</a></td> 
-            <td align="center">Official Ruby SDK for the OpenAI API</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-06</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">380%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">380</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">386</td> 
         </tr>
         <tr>
             <td align="center">Top18</td>
@@ -230,9 +231,9 @@
             <td align="center">A TRMNL BYOS application.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-03-12</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">262%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">262</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">266</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">266%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">266</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">268</td> 
         </tr>
         <tr>
             <td align="center">Top23</td>
@@ -250,9 +251,9 @@
             <td align="center">Sell stuff and see what sticks</td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-04-03</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">241%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">5460</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">7723</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">242%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">5496</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">7759</td> 
         </tr>
         <tr>
             <td align="center">Top25</td>
@@ -361,8 +362,8 @@
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-01-18</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">154%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">7014</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">11567</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">7031</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">11575</td> 
         </tr>
         <tr>
             <td align="center">Top36</td>
@@ -386,13 +387,13 @@
         </tr>
         <tr>
             <td align="center">Top38</td>
-            <td align="center"><a href="https://github.com/rails/action_push_native" target="_blank">rails/action_push_native</a></td> 
-            <td align="center">Rails push notifications for mobile platforms</td>
+            <td align="center"><a href="https://github.com/vicentereig/dspy.rb" target="_blank">vicentereig/dspy.rb</a></td> 
+            <td align="center">The Ruby framework for programming—rather than prompting—language models.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-06-05</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-15</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">151%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">251</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">417</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">151</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">154</td> 
         </tr>
         <tr>
             <td align="center">Top39</td>
@@ -406,6 +407,16 @@
         </tr>
         <tr>
             <td align="center">Top40</td>
+            <td align="center"><a href="https://github.com/rails/action_push_native" target="_blank">rails/action_push_native</a></td> 
+            <td align="center">Rails push notifications for mobile platforms</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-06-05</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">151%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">251</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">417</td> 
+        </tr>
+        <tr>
+            <td align="center">Top41</td>
             <td align="center"><a href="https://github.com/mhyrr/sketchup-mcp" target="_blank">mhyrr/sketchup-mcp</a></td> 
             <td align="center">Sketchup Model Context Protocol</td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
@@ -415,7 +426,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">153</td> 
         </tr>
         <tr>
-            <td align="center">Top41</td>
+            <td align="center">Top42</td>
             <td align="center"><a href="https://github.com/mozilla/firefox-translations-models" target="_blank">mozilla/firefox-translations-models</a></td> 
             <td align="center">CPU-optimized Neural Machine Translation models for Firefox Translations</td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
@@ -425,7 +436,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">452</td> 
         </tr>
         <tr>
-            <td align="center">Top42</td>
+            <td align="center">Top43</td>
             <td align="center"><a href="https://github.com/sacckey/rubyboy" target="_blank">sacckey/rubyboy</a></td> 
             <td align="center">A Game Boy emulator written in Ruby</td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
@@ -433,16 +444,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">146%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">154</td> 
             <td style="white-space: nowrap; width: auto;" align="center">259</td> 
-        </tr>
-        <tr>
-            <td align="center">Top43</td>
-            <td align="center"><a href="https://github.com/vicentereig/dspy.rb" target="_blank">vicentereig/dspy.rb</a></td> 
-            <td align="center">The Ruby framework for programming—rather than prompting—language models.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-15</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">140%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">140</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">148</td> 
         </tr>
         <tr>
             <td align="center">Top44</td>
@@ -466,6 +467,26 @@
         </tr>
         <tr>
             <td align="center">Top46</td>
+            <td align="center"><a href="https://github.com/drwl/annotaterb" target="_blank">drwl/annotaterb</a></td> 
+            <td align="center">A Ruby Gem that adds annotations to your Rails models and route files.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2022-06-15</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">128%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">309</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">549</td> 
+        </tr>
+        <tr>
+            <td align="center">Top47</td>
+            <td align="center"><a href="https://github.com/antiwork/smallbets" target="_blank">antiwork/smallbets</a></td> 
+            <td align="center">The software that runs the Small Bets community</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-01-28</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">128%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">128</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">170</td> 
+        </tr>
+        <tr>
+            <td align="center">Top48</td>
             <td align="center"><a href="https://github.com/Rails-Designer/rails_icons" target="_blank">Rails-Designer/rails_icons</a></td> 
             <td align="center">Add any icon library to a Rails app. Support for Feather, Lucide, Heroicons, Tabler and others</td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
@@ -475,17 +496,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">282</td> 
         </tr>
         <tr>
-            <td align="center">Top47</td>
-            <td align="center"><a href="https://github.com/drwl/annotaterb" target="_blank">drwl/annotaterb</a></td> 
-            <td align="center">A Ruby Gem that adds annotations to your Rails models and route files.</td>
+            <td align="center">Top49</td>
+            <td align="center"><a href="https://github.com/TarteelAI/quranic-universal-library" target="_blank">TarteelAI/quranic-universal-library</a></td> 
+            <td align="center">A comprehensive collection of Quran resources</td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2022-06-15</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">127%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">306</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">546</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-06-11</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">122%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">315</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">573</td> 
         </tr>
         <tr>
-            <td align="center">Top48</td>
+            <td align="center">Top50</td>
             <td align="center"><a href="https://github.com/excid3/ferrum_pdf" target="_blank">excid3/ferrum_pdf</a></td> 
             <td align="center">A PDF generator for Rails using Ferrum & headless Chrome</td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
@@ -495,27 +516,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">469</td> 
         </tr>
         <tr>
-            <td align="center">Top49</td>
-            <td align="center"><a href="https://github.com/TarteelAI/quranic-universal-library" target="_blank">TarteelAI/quranic-universal-library</a></td> 
-            <td align="center">A comprehensive collection of Quran resources</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-06-11</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">121%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">313</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">571</td> 
-        </tr>
-        <tr>
-            <td align="center">Top50</td>
+            <td align="center">Top51</td>
             <td align="center"><a href="https://github.com/Freika/dawarich" target="_blank">Freika/dawarich</a></td> 
             <td align="center">Your favorite self-hostable alternative to Google Timeline (Google Location History)</td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-03-25</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">113%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3950</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">7444</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3963</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">7455</td> 
         </tr>
         <tr>
-            <td align="center">Top51</td>
+            <td align="center">Top52</td>
             <td align="center"><a href="https://github.com/basecamp/once-campfire" target="_blank">basecamp/once-campfire</a></td> 
             <td align="center"></td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
@@ -525,7 +536,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">3732</td> 
         </tr>
         <tr>
-            <td align="center">Top52</td>
+            <td align="center">Top53</td>
             <td align="center"><a href="https://github.com/Cute-Dress/Dress" target="_blank">Cute-Dress/Dress</a></td> 
             <td align="center">好耶 是女装 | 备份·接受PR</td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
@@ -535,7 +546,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">1743</td> 
         </tr>
         <tr>
-            <td align="center">Top53</td>
+            <td align="center">Top54</td>
             <td align="center"><a href="https://github.com/kaspth/oaken" target="_blank">kaspth/oaken</a></td> 
             <td align="center">Oaken upgrades your development seeds, lets you reuse them in tests & blends the best of fixtures & factories into one cohesive whole.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
@@ -545,7 +556,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">389</td> 
         </tr>
         <tr>
-            <td align="center">Top54</td>
+            <td align="center">Top55</td>
             <td align="center"><a href="https://github.com/basecamp/activerecord-tenanted" target="_blank">basecamp/activerecord-tenanted</a></td> 
             <td align="center">Enable a Rails application to have separate databases for each tenant.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
@@ -555,17 +566,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">456</td> 
         </tr>
         <tr>
-            <td align="center">Top55</td>
+            <td align="center">Top56</td>
             <td align="center"><a href="https://github.com/manyfold3d/manyfold" target="_blank">manyfold3d/manyfold</a></td> 
             <td align="center">A self-hosted digital asset manager for 3d print files.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2021-02-06</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">63%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">599</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1541</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">67%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">633</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1575</td> 
         </tr>
         <tr>
-            <td align="center">Top56</td>
+            <td align="center">Top57</td>
             <td align="center"><a href="https://github.com/tramlinehq/tramline" target="_blank">tramlinehq/tramline</a></td> 
             <td align="center">Release coordination and deployment platform, just for your mobile apps</td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
@@ -575,7 +586,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">397</td> 
         </tr>
         <tr>
-            <td align="center">Top57</td>
+            <td align="center">Top58</td>
             <td align="center"><a href="https://github.com/brendon/positioning" target="_blank">brendon/positioning</a></td> 
             <td align="center">Simple positioning for Active Record models.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
@@ -585,7 +596,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">377</td> 
         </tr>
         <tr>
-            <td align="center">Top58</td>
+            <td align="center">Top59</td>
             <td align="center"><a href="https://github.com/maybe-finance/maybe" target="_blank">maybe-finance/maybe</a></td> 
             <td align="center">The personal finance app for everyone</td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
@@ -595,7 +606,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">53853</td> 
         </tr>
         <tr>
-            <td align="center">Top59</td>
+            <td align="center">Top60</td>
             <td align="center"><a href="https://github.com/rubyevents/rubyevents" target="_blank">rubyevents/rubyevents</a></td> 
             <td align="center">On a mission to index all Ruby events.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
@@ -605,17 +616,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">517</td> 
         </tr>
         <tr>
-            <td align="center">Top60</td>
+            <td align="center">Top61</td>
             <td align="center"><a href="https://github.com/superiorlu/AITreasureBox" target="_blank">superiorlu/AITreasureBox</a></td> 
             <td align="center">🤖 Collect practical AI repos, tools, websites, papers and tutorials on AI. 实用的AI百宝箱 💎</td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-03-16</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">35%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">183</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">703</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">187</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">707</td> 
         </tr>
         <tr>
-            <td align="center">Top61</td>
+            <td align="center">Top62</td>
             <td align="center"><a href="https://github.com/docusealco/docuseal" target="_blank">docusealco/docuseal</a></td> 
             <td align="center">Open source DocuSign alternative. Create, fill, and sign digital documents ✍️</td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
@@ -625,27 +636,37 @@
             <td style="white-space: nowrap; width: auto;" align="center">10978</td> 
         </tr>
         <tr>
-            <td align="center">Top62</td>
-            <td align="center"><a href="https://github.com/rails/mission_control-jobs" target="_blank">rails/mission_control-jobs</a></td> 
-            <td align="center">Dashboard and Active Job extensions to operate and troubleshoot background jobs</td>
+            <td align="center">Top63</td>
+            <td align="center"><a href="https://github.com/basecamp/fizzy" target="_blank">basecamp/fizzy</a></td> 
+            <td align="center">Kanban as it should be. Not as it has been.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2022-08-03</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">29%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">210</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">937</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-06-21</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">30%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1342</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">5685</td> 
         </tr>
         <tr>
-            <td align="center">Top63</td>
+            <td align="center">Top64</td>
             <td align="center"><a href="https://github.com/Mark24Code/rime-auto-deploy" target="_blank">Mark24Code/rime-auto-deploy</a></td> 
             <td align="center">Rime输入法安装脚本，让一切更轻松。Make using Rime easy.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-04-06</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">29%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">393</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1725</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">30%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">403</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1735</td> 
         </tr>
         <tr>
-            <td align="center">Top64</td>
+            <td align="center">Top65</td>
+            <td align="center"><a href="https://github.com/rails/mission_control-jobs" target="_blank">rails/mission_control-jobs</a></td> 
+            <td align="center">Dashboard and Active Job extensions to operate and troubleshoot background jobs</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2022-08-03</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">30%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">217</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">938</td> 
+        </tr>
+        <tr>
+            <td align="center">Top66</td>
             <td align="center"><a href="https://github.com/hahwul/MobileHackersWeapons" target="_blank">hahwul/MobileHackersWeapons</a></td> 
             <td align="center">Mobile Hacker's Weapons / A collection of cool tools used by Mobile hackers. Happy hacking , Happy bug-hunting</td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
@@ -655,7 +676,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">1014</td> 
         </tr>
         <tr>
-            <td align="center">Top65</td>
+            <td align="center">Top67</td>
             <td align="center"><a href="https://github.com/sudara/awesome-juce" target="_blank">sudara/awesome-juce</a></td> 
             <td align="center">A curated list of JUCE modules, templates, plugins, oh my!</td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
@@ -665,7 +686,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">1098</td> 
         </tr>
         <tr>
-            <td align="center">Top66</td>
+            <td align="center">Top68</td>
             <td align="center"><a href="https://github.com/ankane/neighbor" target="_blank">ankane/neighbor</a></td> 
             <td align="center">Nearest neighbor search for Rails</td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
@@ -675,17 +696,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">774</td> 
         </tr>
         <tr>
-            <td align="center">Top67</td>
-            <td align="center"><a href="https://github.com/RoseSecurity/Red-Teaming-TTPs" target="_blank">RoseSecurity/Red-Teaming-TTPs</a></td> 
-            <td align="center">Useful Techniques, Tactics, and Procedures for red teamers and defenders, alike!</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2021-08-17</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">24%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">355</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1832</td> 
-        </tr>
-        <tr>
-            <td align="center">Top68</td>
+            <td align="center">Top69</td>
             <td align="center"><a href="https://github.com/patterns-ai-core/langchainrb" target="_blank">patterns-ai-core/langchainrb</a></td> 
             <td align="center">Build LLM-powered applications in Ruby</td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
@@ -695,37 +706,47 @@
             <td style="white-space: nowrap; width: auto;" align="center">1938</td> 
         </tr>
         <tr>
-            <td align="center">Top69</td>
+            <td align="center">Top70</td>
+            <td align="center"><a href="https://github.com/RoseSecurity/Red-Teaming-TTPs" target="_blank">RoseSecurity/Red-Teaming-TTPs</a></td> 
+            <td align="center">Useful Techniques, Tactics, and Procedures for red teamers and defenders, alike!</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2021-08-17</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">24%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">360</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1832</td> 
+        </tr>
+        <tr>
+            <td align="center">Top71</td>
             <td align="center"><a href="https://github.com/rage-rb/rage" target="_blank">rage-rb/rage</a></td> 
             <td align="center">Fast web framework compatible with Rails.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-09-15</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">22%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">209</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1146</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">211</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1148</td> 
         </tr>
         <tr>
-            <td align="center">Top70</td>
+            <td align="center">Top72</td>
+            <td align="center"><a href="https://github.com/jhawthorn/vernier" target="_blank">jhawthorn/vernier</a></td> 
+            <td align="center">📏 next generation CRuby profiler</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2022-04-27</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">18%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">162</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1055</td> 
+        </tr>
+        <tr>
+            <td align="center">Top73</td>
             <td align="center"><a href="https://github.com/hack-different/apple-knowledge" target="_blank">hack-different/apple-knowledge</a></td> 
             <td align="center">A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware</td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2021-12-07</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">18%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">185</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1206</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">189</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1210</td> 
         </tr>
         <tr>
-            <td align="center">Top71</td>
-            <td align="center"><a href="https://github.com/jhawthorn/vernier" target="_blank">jhawthorn/vernier</a></td> 
-            <td align="center">📏 next generation CRuby profiler</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2022-04-27</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">17%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">160</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1055</td> 
-        </tr>
-        <tr>
-            <td align="center">Top72</td>
+            <td align="center">Top74</td>
             <td align="center"><a href="https://github.com/messense/homebrew-macos-cross-toolchains" target="_blank">messense/homebrew-macos-cross-toolchains</a></td> 
             <td align="center">macOS cross compiler toolchains</td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
@@ -735,7 +756,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">1154</td> 
         </tr>
         <tr>
-            <td align="center">Top73</td>
+            <td align="center">Top75</td>
             <td align="center"><a href="https://github.com/Shopify/ruby-lsp" target="_blank">Shopify/ruby-lsp</a></td> 
             <td align="center">An opinionated language server for Ruby</td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
@@ -745,17 +766,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">1928</td> 
         </tr>
         <tr>
-            <td align="center">Top74</td>
-            <td align="center"><a href="https://github.com/basecamp/fizzy" target="_blank">basecamp/fizzy</a></td> 
-            <td align="center">Kanban as it should be. Not as it has been.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-06-21</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">14%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">618</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">4961</td> 
-        </tr>
-        <tr>
-            <td align="center">Top75</td>
+            <td align="center">Top76</td>
             <td align="center"><a href="https://github.com/basecamp/kamal" target="_blank">basecamp/kamal</a></td> 
             <td align="center">Deploy web apps anywhere.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
@@ -765,7 +776,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">13626</td> 
         </tr>
         <tr>
-            <td align="center">Top76</td>
+            <td align="center">Top77</td>
             <td align="center"><a href="https://github.com/rails/solid_queue" target="_blank">rails/solid_queue</a></td> 
             <td align="center">Database-backed Active Job backend</td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
@@ -775,7 +786,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">2300</td> 
         </tr>
         <tr>
-            <td align="center">Top77</td>
+            <td align="center">Top78</td>
             <td align="center"><a href="https://github.com/ElMassimo/vite_ruby" target="_blank">ElMassimo/vite_ruby</a></td> 
             <td align="center">⚡️ Vite.js in Ruby, bringing joy to your JavaScript experience</td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
@@ -785,7 +796,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">1544</td> 
         </tr>
         <tr>
-            <td align="center">Top78</td>
+            <td align="center">Top79</td>
             <td align="center"><a href="https://github.com/charkost/prosopite" target="_blank">charkost/prosopite</a></td> 
             <td align="center">Rails N+1 queries auto-detection with zero false positives / false negatives</td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
@@ -795,7 +806,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">1771</td> 
         </tr>
         <tr>
-            <td align="center">Top79</td>
+            <td align="center">Top80</td>
             <td align="center"><a href="https://github.com/yippee-fun/phlex" target="_blank">yippee-fun/phlex</a></td> 
             <td align="center">Object-oriented views in Ruby.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
@@ -805,7 +816,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">1470</td> 
         </tr>
         <tr>
-            <td align="center">Top80</td>
+            <td align="center">Top81</td>
             <td align="center"><a href="https://github.com/lazaronixon/authentication-zero" target="_blank">lazaronixon/authentication-zero</a></td> 
             <td align="center">An authentication system generator for Rails applications.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
@@ -815,14 +826,14 @@
             <td style="white-space: nowrap; width: auto;" align="center">1849</td> 
         </tr>
         <tr>
-            <td align="center">Top81</td>
+            <td align="center">Top82</td>
             <td align="center"><a href="https://github.com/bullet-train-co/bullet_train" target="_blank">bullet-train-co/bullet_train</a></td> 
             <td align="center">The Open Source Ruby on Rails SaaS Template</td>
             <td style="white-space: nowrap; width: auto;" align="center">Ruby</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-03-08</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">7%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">136</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1842</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">8%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">137</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1843</td> 
         </tr>
     </table>
 </div>

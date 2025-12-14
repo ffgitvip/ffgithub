@@ -1,5 +1,6 @@
-📚数据更新：2025-12-14  
-🌋数据来源：www.ffgithub.com
+📅统计周期：2025-01-01 ~ 2025-12-31<br>
+🌋数据来源：www.ffgithub.com<br>
+📚数据更新：2025-12-14<br>
 
 
 <div align="center">
@@ -86,6 +87,16 @@
         </tr>
         <tr>
             <td align="center">Top8</td>
+            <td align="center"><a href="https://github.com/geode-sdk/ios-launcher" target="_blank">geode-sdk/ios-launcher</a></td> 
+            <td align="center">Manages installing and launching Geometry Dash for iOS</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Objective-C</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-02-22</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">230%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">230</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">238</td> 
+        </tr>
+        <tr>
+            <td align="center">Top9</td>
             <td align="center"><a href="https://github.com/mineek/appstoretroller" target="_blank">mineek/appstoretroller</a></td> 
             <td align="center"></td>
             <td style="white-space: nowrap; width: auto;" align="center">Objective-C</td> 
@@ -93,16 +104,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">217%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">217</td> 
             <td style="white-space: nowrap; width: auto;" align="center">250</td> 
-        </tr>
-        <tr>
-            <td align="center">Top9</td>
-            <td align="center"><a href="https://github.com/geode-sdk/ios-launcher" target="_blank">geode-sdk/ios-launcher</a></td> 
-            <td align="center">Manages installing and launching Geometry Dash for iOS</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Objective-C</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-02-22</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">215%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">215</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">223</td> 
         </tr>
         <tr>
             <td align="center">Top10</td>
@@ -151,8 +152,8 @@
             <td style="white-space: nowrap; width: auto;" align="center">Objective-C</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-09-07</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">90%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1693</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">3564</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1698</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3569</td> 
         </tr>
         <tr>
             <td align="center">Top15</td>
@@ -230,8 +231,8 @@
             <td align="center">Enables iOS and macOS apps to sign in with Google.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Objective-C</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2021-03-25</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">26%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">141</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">27%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">144</td> 
             <td style="white-space: nowrap; width: auto;" align="center">674</td> 
         </tr>
         <tr>
@@ -240,9 +241,9 @@
             <td align="center">Like AutoRuns ...but for macOS!</td>
             <td style="white-space: nowrap; width: auto;" align="center">Objective-C</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2021-02-01</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">26%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">132</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">621</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">27%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">133</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">622</td> 
         </tr>
         <tr>
             <td align="center">Top24</td>
@@ -251,8 +252,8 @@
             <td style="white-space: nowrap; width: auto;" align="center">Objective-C</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2020-12-29</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">20%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">501</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2951</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">505</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2955</td> 
         </tr>
         <tr>
             <td align="center">Top25</td>

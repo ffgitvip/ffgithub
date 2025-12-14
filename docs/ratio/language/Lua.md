@@ -1,5 +1,6 @@
-📚数据更新：2025-12-14  
-🌋数据来源：www.ffgithub.com
+📅统计周期：2025-01-01 ~ 2025-12-31<br>
+🌋数据来源：www.ffgithub.com<br>
+📚数据更新：2025-12-14<br>
 
 
 <div align="center">
@@ -30,9 +31,9 @@
             <td align="center">An MCP client for Neovim that seamlessly integrates MCP servers into your editing workflow with an intuitive interface for managing, testing, and using MCP servers with your favorite chat plugins.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-02-19</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1610%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1610</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1652</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1619%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1619</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1661</td> 
         </tr>
         <tr>
             <td align="center">Top3</td>
@@ -40,9 +41,9 @@
             <td align="center">Seamless integration between Claude Code AI assistant and Neovim</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-02-25</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1591%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1591</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1601</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1611%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1611</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1621</td> 
         </tr>
         <tr>
             <td align="center">Top4</td>
@@ -50,9 +51,9 @@
             <td align="center">Rime万象拼音输入方案：一个类大厂习惯的输入方案，首个全带调词库。多版可选，词库基于AI筛选和语料辅助筛选精干高效，配合全新语法模型，输入不再纠结。PRO版本支持10种双拼，7种辅助码，可扩展。支持混合编码输入，内置超级注释、快符、候选手动排序、tips、等功能扩展，大大增强使用体验，详见README和release。Q群：11033572/11631066</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-08-06</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1560%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2107</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2252</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1574%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2126</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2261</td> 
         </tr>
         <tr>
             <td align="center">Top5</td>
@@ -80,8 +81,8 @@
             <td align="center">Integrate the opencode AI assistant with Neovim — streamline editor-aware research, reviews, and requests.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-07-12</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1057%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1057</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1103%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1103</td> 
             <td style="white-space: nowrap; width: auto;" align="center">1105</td> 
         </tr>
         <tr>
@@ -90,9 +91,9 @@
             <td align="center"></td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-12-02</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">636%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1222</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1414</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">648%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1246</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1438</td> 
         </tr>
         <tr>
             <td align="center">Top9</td>
@@ -130,9 +131,9 @@
             <td align="center">💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-07-21</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">440%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">723</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">888</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">442%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">726</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">890</td> 
         </tr>
         <tr>
             <td align="center">Top13</td>
@@ -146,6 +147,16 @@
         </tr>
         <tr>
             <td align="center">Top14</td>
+            <td align="center"><a href="https://github.com/unknown321/dynamite" target="_blank">unknown321/dynamite</a></td> 
+            <td align="center">2 player co-op mod for MGSV:TPP</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-07-20</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">406%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">406</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">409</td> 
+        </tr>
+        <tr>
+            <td align="center">Top15</td>
             <td align="center"><a href="https://github.com/saxon1964/neovim-tips" target="_blank">saxon1964/neovim-tips</a></td> 
             <td align="center">Discover hundreds of Neovim tips, tricks, and shortcuts — and even add your own! You’ll also get a beautifully formatted PDF book with every tip inside.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
@@ -155,7 +166,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">418</td> 
         </tr>
         <tr>
-            <td align="center">Top15</td>
+            <td align="center">Top16</td>
             <td align="center"><a href="https://github.com/webhooked/kanso.nvim" target="_blank">webhooked/kanso.nvim</a></td> 
             <td align="center"></td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
@@ -163,16 +174,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">404%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">404</td> 
             <td style="white-space: nowrap; width: auto;" align="center">411</td> 
-        </tr>
-        <tr>
-            <td align="center">Top16</td>
-            <td align="center"><a href="https://github.com/unknown321/dynamite" target="_blank">unknown321/dynamite</a></td> 
-            <td align="center">2 player co-op mod for MGSV:TPP</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-07-20</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">402%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">402</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">405</td> 
         </tr>
         <tr>
             <td align="center">Top17</td>
@@ -226,16 +227,6 @@
         </tr>
         <tr>
             <td align="center">Top22</td>
-            <td align="center"><a href="https://github.com/miroshQa/debugmaster.nvim" target="_blank">miroshQa/debugmaster.nvim</a></td> 
-            <td align="center">What happens if you try to combine dap-view and hydra.nvim? debugmaster.nvim – a modern dap-ui alternative!</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-10</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">337%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">337</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">340</td> 
-        </tr>
-        <tr>
-            <td align="center">Top23</td>
             <td align="center"><a href="https://github.com/nvzone/typr" target="_blank">nvzone/typr</a></td> 
             <td align="center">Most Beautiful Typing practice plugin for Neovim with dashboard</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
@@ -245,14 +236,24 @@
             <td style="white-space: nowrap; width: auto;" align="center">1618</td> 
         </tr>
         <tr>
+            <td align="center">Top23</td>
+            <td align="center"><a href="https://github.com/miroshQa/debugmaster.nvim" target="_blank">miroshQa/debugmaster.nvim</a></td> 
+            <td align="center">What happens if you try to combine dap-view and hydra.nvim? debugmaster.nvim – a modern dap-ui alternative!</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-10</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">337%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">337</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">340</td> 
+        </tr>
+        <tr>
             <td align="center">Top24</td>
             <td align="center"><a href="https://github.com/Kurama622/llm.nvim" target="_blank">Kurama622/llm.nvim</a></td> 
             <td align="center">A large language model (LLM) plugin for Neovim, provides commands to interact with LLM (like ChatGPT, ChatGLM, kimi, deepseek, openrouter and local llms). Support Github models.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-08-17</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">333%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">333</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">423</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">335%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">335</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">425</td> 
         </tr>
         <tr>
             <td align="center">Top25</td>
@@ -290,9 +291,9 @@
             <td align="center">🤖 Seamlessly integrate Aider with Neovim for an enhanced AI-assisted coding experience!</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-11-20</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">322%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">322</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">362</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">324%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">324</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">364</td> 
         </tr>
         <tr>
             <td align="center">Top29</td>
@@ -306,23 +307,23 @@
         </tr>
         <tr>
             <td align="center">Top30</td>
-            <td align="center"><a href="https://github.com/dmtrKovalenko/fff.nvim" target="_blank">dmtrKovalenko/fff.nvim</a></td> 
-            <td align="center">Finally a Fast Fuzzy File Finder for neovim</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-08-01</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">310%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">850</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1148</td> 
-        </tr>
-        <tr>
-            <td align="center">Top31</td>
             <td align="center"><a href="https://github.com/sudo-tee/opencode.nvim" target="_blank">sudo-tee/opencode.nvim</a></td> 
             <td align="center">neovim frontend for opencode - a terminal-based AI coding agent</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-06-27</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">279%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">279</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">283%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">283</td> 
             <td style="white-space: nowrap; width: auto;" align="center">287</td> 
+        </tr>
+        <tr>
+            <td align="center">Top31</td>
+            <td align="center"><a href="https://github.com/Samillion/ModernZ" target="_blank">Samillion/ModernZ</a></td> 
+            <td align="center">A sleek and modern OSC for mpv designed to enhance functionality by adding more features, all while preserving the core standards of mpv's OSC.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-09-29</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">280%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">390</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">529</td> 
         </tr>
         <tr>
             <td align="center">Top32</td>
@@ -330,8 +331,8 @@
             <td align="center">在MPV播放器中加载弹弹play弹幕，基于 uosc UI框架和弹弹play API的mpv弹幕扩展插件 | Load DanDanPlay danmaku in MPV player, based on the uosc UI framework and DanDanPlay API.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-09-03</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">277%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">277</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">278%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">278</td> 
             <td style="white-space: nowrap; width: auto;" align="center">366</td> 
         </tr>
         <tr>
@@ -346,16 +347,6 @@
         </tr>
         <tr>
             <td align="center">Top34</td>
-            <td align="center"><a href="https://github.com/Samillion/ModernZ" target="_blank">Samillion/ModernZ</a></td> 
-            <td align="center">A sleek and modern OSC for mpv designed to enhance functionality by adding more features, all while preserving the core standards of mpv's OSC.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-09-29</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">274%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">382</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">521</td> 
-        </tr>
-        <tr>
-            <td align="center">Top35</td>
             <td align="center"><a href="https://github.com/Mordoria/unnamed_game_1_v2" target="_blank">Mordoria/unnamed_game_1_v2</a></td> 
             <td align="center">The Release of Mordoria</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
@@ -365,17 +356,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">1078</td> 
         </tr>
         <tr>
-            <td align="center">Top36</td>
+            <td align="center">Top35</td>
             <td align="center"><a href="https://github.com/azorng/goose.nvim" target="_blank">azorng/goose.nvim</a></td> 
             <td align="center">seamless neovim integration with goose - work with a powerful AI agent without leaving your editor</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-03-01</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">260%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">260</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">295</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">261%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">261</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">296</td> 
         </tr>
         <tr>
-            <td align="center">Top37</td>
+            <td align="center">Top36</td>
             <td align="center"><a href="https://github.com/alex-popov-tech/store.nvim" target="_blank">alex-popov-tech/store.nvim</a></td> 
             <td align="center">🤖 5500+ neovim plugins database with automatic installation! 🚀</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
@@ -383,6 +374,16 @@
             <td style="white-space: nowrap; width: auto;"  align="center">259%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">259</td> 
             <td style="white-space: nowrap; width: auto;" align="center">303</td> 
+        </tr>
+        <tr>
+            <td align="center">Top37</td>
+            <td align="center"><a href="https://github.com/oribarilan/lensline.nvim" target="_blank">oribarilan/lensline.nvim</a></td> 
+            <td align="center">Modular nvim codelens support with inline references, git blame and more</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-07-24</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">247%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">247</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">255</td> 
         </tr>
         <tr>
             <td align="center">Top38</td>
@@ -396,26 +397,16 @@
         </tr>
         <tr>
             <td align="center">Top39</td>
-            <td align="center"><a href="https://github.com/oribarilan/lensline.nvim" target="_blank">oribarilan/lensline.nvim</a></td> 
-            <td align="center">Modular nvim codelens support with inline references, git blame and more</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-07-24</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">247%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">247</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">255</td> 
-        </tr>
-        <tr>
-            <td align="center">Top40</td>
             <td align="center"><a href="https://github.com/patricorgi/dotfiles" target="_blank">patricorgi/dotfiles</a></td> 
             <td align="center">🐾 My cozy little dotfiles den — where configs nap and wag their tails! 🐶✨</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-08-07</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">229%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">229</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">258</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">234%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">234</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">262</td> 
         </tr>
         <tr>
-            <td align="center">Top41</td>
+            <td align="center">Top40</td>
             <td align="center"><a href="https://github.com/Arrow-kb/FS25_RealisticLivestock" target="_blank">Arrow-kb/FS25_RealisticLivestock</a></td> 
             <td align="center"></td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
@@ -423,6 +414,16 @@
             <td style="white-space: nowrap; width: auto;"  align="center">224%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">224</td> 
             <td style="white-space: nowrap; width: auto;" align="center">235</td> 
+        </tr>
+        <tr>
+            <td align="center">Top41</td>
+            <td align="center"><a href="https://github.com/Sin-cy/dotfiles" target="_blank">Sin-cy/dotfiles</a></td> 
+            <td align="center">⌨️ The never ending updates of my dotfiles config</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-06-03</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">223%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">291</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">421</td> 
         </tr>
         <tr>
             <td align="center">Top42</td>
@@ -446,13 +447,13 @@
         </tr>
         <tr>
             <td align="center">Top44</td>
-            <td align="center"><a href="https://github.com/Sin-cy/dotfiles" target="_blank">Sin-cy/dotfiles</a></td> 
-            <td align="center">⌨️ The never ending updates of my dotfiles config</td>
+            <td align="center"><a href="https://github.com/olimorris/codecompanion.nvim" target="_blank">olimorris/codecompanion.nvim</a></td> 
+            <td align="center">✨ AI Coding, Vim Style</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-06-03</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">219%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">285</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">421</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2023-12-28</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">218%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3964</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">5775</td> 
         </tr>
         <tr>
             <td align="center">Top45</td>
@@ -466,16 +467,6 @@
         </tr>
         <tr>
             <td align="center">Top46</td>
-            <td align="center"><a href="https://github.com/olimorris/codecompanion.nvim" target="_blank">olimorris/codecompanion.nvim</a></td> 
-            <td align="center">✨ AI Coding, Vim Style</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2023-12-28</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">217%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3946</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">5765</td> 
-        </tr>
-        <tr>
-            <td align="center">Top47</td>
             <td align="center"><a href="https://github.com/mcauley-penney/nvim" target="_blank">mcauley-penney/nvim</a></td> 
             <td align="center">Neovim cfg</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
@@ -483,6 +474,16 @@
             <td style="white-space: nowrap; width: auto;"  align="center">217%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">217</td> 
             <td style="white-space: nowrap; width: auto;" align="center">262</td> 
+        </tr>
+        <tr>
+            <td align="center">Top47</td>
+            <td align="center"><a href="https://github.com/ZlibraryKO/zlibrary.koplugin" target="_blank">ZlibraryKO/zlibrary.koplugin</a></td> 
+            <td align="center">Home of the KOReader Zlibrary plugin</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-05-09</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">214%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">214</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">217</td> 
         </tr>
         <tr>
             <td align="center">Top48</td>
@@ -496,16 +497,26 @@
         </tr>
         <tr>
             <td align="center">Top49</td>
-            <td align="center"><a href="https://github.com/ZlibraryKO/zlibrary.koplugin" target="_blank">ZlibraryKO/zlibrary.koplugin</a></td> 
-            <td align="center">Home of the KOReader Zlibrary plugin</td>
+            <td align="center"><a href="https://github.com/InertSteak/Pokermon" target="_blank">InertSteak/Pokermon</a></td> 
+            <td align="center">A full content Balatro mod where every joker is a Pokemon.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-05-09</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">204%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">204</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">217</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-10-05</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">200%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">200</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">237</td> 
         </tr>
         <tr>
             <td align="center">Top50</td>
+            <td align="center"><a href="https://github.com/linkarzu/dotfiles-latest" target="_blank">linkarzu/dotfiles-latest</a></td> 
+            <td align="center">My most up to date dotfiles</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-01-31</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">199%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">782</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1174</td> 
+        </tr>
+        <tr>
+            <td align="center">Top51</td>
             <td align="center"><a href="https://github.com/benomahony/uv.nvim" target="_blank">benomahony/uv.nvim</a></td> 
             <td align="center">uv functionality available in neovim</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
@@ -515,27 +526,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">201</td> 
         </tr>
         <tr>
-            <td align="center">Top51</td>
-            <td align="center"><a href="https://github.com/InertSteak/Pokermon" target="_blank">InertSteak/Pokermon</a></td> 
-            <td align="center">A full content Balatro mod where every joker is a Pokemon.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-10-05</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">198%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">198</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">235</td> 
-        </tr>
-        <tr>
             <td align="center">Top52</td>
-            <td align="center"><a href="https://github.com/linkarzu/dotfiles-latest" target="_blank">linkarzu/dotfiles-latest</a></td> 
-            <td align="center">My most up to date dotfiles</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-01-31</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">196%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">772</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1164</td> 
-        </tr>
-        <tr>
-            <td align="center">Top53</td>
             <td align="center"><a href="https://github.com/nvim-mini/MiniMax" target="_blank">nvim-mini/MiniMax</a></td> 
             <td align="center">Neovim config examples based on MINI</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
@@ -545,7 +536,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">201</td> 
         </tr>
         <tr>
-            <td align="center">Top54</td>
+            <td align="center">Top53</td>
             <td align="center"><a href="https://github.com/SpectralPack/Cryptid" target="_blank">SpectralPack/Cryptid</a></td> 
             <td align="center">An unbalanced Balatro mod</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
@@ -553,6 +544,16 @@
             <td style="white-space: nowrap; width: auto;"  align="center">187%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">345</td> 
             <td style="white-space: nowrap; width: auto;" align="center">529</td> 
+        </tr>
+        <tr>
+            <td align="center">Top54</td>
+            <td align="center"><a href="https://github.com/Billiam/hardcoverapp.koplugin" target="_blank">Billiam/hardcoverapp.koplugin</a></td> 
+            <td align="center">Hardcover.app status updating from KOReader</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-11-18</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">187%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">187</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">218</td> 
         </tr>
         <tr>
             <td align="center">Top55</td>
@@ -566,16 +567,6 @@
         </tr>
         <tr>
             <td align="center">Top56</td>
-            <td align="center"><a href="https://github.com/GustavEikaas/easy-dotnet.nvim" target="_blank">GustavEikaas/easy-dotnet.nvim</a></td> 
-            <td align="center">A batteries included Neovim plugin for .NET. Debug with netcoredbg, integrated Roslyn LSP, and streamlined build/test workflows for C# projects on .NET Core and .NET Framework</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-04-03</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">176%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">358</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">561</td> 
-        </tr>
-        <tr>
-            <td align="center">Top57</td>
             <td align="center"><a href="https://github.com/brianhuster/live-preview.nvim" target="_blank">brianhuster/live-preview.nvim</a></td> 
             <td align="center">A Live Preview Plugin for Neovim that allows you to view Markdown, HTML (along with CSS, JavaScript), AsciiDoc, SVG files in a web browser with live updates.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
@@ -585,17 +576,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">267</td> 
         </tr>
         <tr>
-            <td align="center">Top58</td>
-            <td align="center"><a href="https://github.com/Billiam/hardcoverapp.koplugin" target="_blank">Billiam/hardcoverapp.koplugin</a></td> 
-            <td align="center">Hardcover.app status updating from KOReader</td>
+            <td align="center">Top57</td>
+            <td align="center"><a href="https://github.com/GustavEikaas/easy-dotnet.nvim" target="_blank">GustavEikaas/easy-dotnet.nvim</a></td> 
+            <td align="center">A batteries included Neovim plugin for .NET. Debug with netcoredbg, integrated Roslyn LSP, and streamlined build/test workflows for C# projects on .NET Core and .NET Framework</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-11-18</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">175%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">175</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">206</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-04-03</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">176%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">358</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">561</td> 
         </tr>
         <tr>
-            <td align="center">Top59</td>
+            <td align="center">Top58</td>
             <td align="center"><a href="https://github.com/BreadOnPenguins/nvim" target="_blank">BreadOnPenguins/nvim</a></td> 
             <td align="center">minimal yet functional neovim</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
@@ -605,7 +596,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">182</td> 
         </tr>
         <tr>
-            <td align="center">Top60</td>
+            <td align="center">Top59</td>
             <td align="center"><a href="https://github.com/DeepShield-AI/DeepTrace" target="_blank">DeepShield-AI/DeepTrace</a></td> 
             <td align="center"></td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
@@ -615,7 +606,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">172</td> 
         </tr>
         <tr>
-            <td align="center">Top61</td>
+            <td align="center">Top60</td>
             <td align="center"><a href="https://github.com/sebdelsol/KOReader.patches" target="_blank">sebdelsol/KOReader.patches</a></td> 
             <td align="center">A collection of KOReader user patches that all work well together</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
@@ -625,17 +616,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">173</td> 
         </tr>
         <tr>
-            <td align="center">Top62</td>
+            <td align="center">Top61</td>
             <td align="center"><a href="https://github.com/e-ink-colorscheme/e-ink.nvim" target="_blank">e-ink-colorscheme/e-ink.nvim</a></td> 
             <td align="center">A grayscale colorscheme for NeoVim</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-02-23</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">167%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">167</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">187</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">168%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">168</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">188</td> 
         </tr>
         <tr>
-            <td align="center">Top63</td>
+            <td align="center">Top62</td>
             <td align="center"><a href="https://github.com/OctoNezd/zlibrary.koplugin" target="_blank">OctoNezd/zlibrary.koplugin</a></td> 
             <td align="center">Z-Library client for KOReader!</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
@@ -645,7 +636,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">168</td> 
         </tr>
         <tr>
-            <td align="center">Top64</td>
+            <td align="center">Top63</td>
             <td align="center"><a href="https://github.com/depthso/Grow-a-Garden" target="_blank">depthso/Grow-a-Garden</a></td> 
             <td align="center">🍅 A script for Grow a Garden that features Auto-Sell, Auto-Walk, Auto-Buy, and Auto-Harvest! Free and open source</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
@@ -655,17 +646,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">175</td> 
         </tr>
         <tr>
-            <td align="center">Top65</td>
+            <td align="center">Top64</td>
             <td align="center"><a href="https://github.com/vimichael/my-nvim-config" target="_blank">vimichael/my-nvim-config</a></td> 
             <td align="center">My NeoVim configuration written from scratch</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-08-11</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">160%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">160</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">228</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">162%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">162</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">230</td> 
         </tr>
         <tr>
-            <td align="center">Top66</td>
+            <td align="center">Top65</td>
             <td align="center"><a href="https://github.com/Ptero-Eggs/game-eggs" target="_blank">Ptero-Eggs/game-eggs</a></td> 
             <td align="center">Pterodactyl Game Eggs</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
@@ -673,6 +664,16 @@
             <td style="white-space: nowrap; width: auto;"  align="center">159%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">159</td> 
             <td style="white-space: nowrap; width: auto;" align="center">172</td> 
+        </tr>
+        <tr>
+            <td align="center">Top66</td>
+            <td align="center"><a href="https://github.com/Firch/Bunco" target="_blank">Firch/Bunco</a></td> 
+            <td align="center">Bunco is a vanilla-style Balatro content mod</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-03-17</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">159%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">159</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">215</td> 
         </tr>
         <tr>
             <td align="center">Top67</td>
@@ -686,13 +687,13 @@
         </tr>
         <tr>
             <td align="center">Top68</td>
-            <td align="center"><a href="https://github.com/Firch/Bunco" target="_blank">Firch/Bunco</a></td> 
-            <td align="center">Bunco is a vanilla-style Balatro content mod</td>
+            <td align="center"><a href="https://github.com/YousefHadder/markdown-plus.nvim" target="_blank">YousefHadder/markdown-plus.nvim</a></td> 
+            <td align="center">The full Markdown editing experience in neovim</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-03-17</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">158%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">158</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">214</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-09-29</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">156%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">156</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">163</td> 
         </tr>
         <tr>
             <td align="center">Top69</td>
@@ -706,23 +707,23 @@
         </tr>
         <tr>
             <td align="center">Top70</td>
-            <td align="center"><a href="https://github.com/YousefHadder/markdown-plus.nvim" target="_blank">YousefHadder/markdown-plus.nvim</a></td> 
-            <td align="center">The full Markdown editing experience in neovim</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-09-29</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">154%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">154</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">162</td> 
-        </tr>
-        <tr>
-            <td align="center">Top71</td>
             <td align="center"><a href="https://github.com/kiddos/gemini.nvim" target="_blank">kiddos/gemini.nvim</a></td> 
             <td align="center">gemini bindings for Neovim</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-01-29</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">152%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">152</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">190</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">153%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">153</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">191</td> 
+        </tr>
+        <tr>
+            <td align="center">Top71</td>
+            <td align="center"><a href="https://github.com/ArkForgeLabs/Astra" target="_blank">ArkForgeLabs/Astra</a></td> 
+            <td align="center">🔥 Blazingly Fast 🔥 web server runtime for Lua</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-12-21</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">151%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">151</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">162</td> 
         </tr>
         <tr>
             <td align="center">Top72</td>
@@ -756,6 +757,16 @@
         </tr>
         <tr>
             <td align="center">Top75</td>
+            <td align="center"><a href="https://github.com/raylib-extras/raylib-quickstart" target="_blank">raylib-extras/raylib-quickstart</a></td> 
+            <td align="center">A simple cross platform template for windows, linux, and MacOS</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-08-15</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">147%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">173</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">290</td> 
+        </tr>
+        <tr>
+            <td align="center">Top76</td>
             <td align="center"><a href="https://github.com/ViegPhunt/Dotfiles" target="_blank">ViegPhunt/Dotfiles</a></td> 
             <td align="center">All of my personal dotfiles</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
@@ -765,37 +776,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">149</td> 
         </tr>
         <tr>
-            <td align="center">Top76</td>
-            <td align="center"><a href="https://github.com/raylib-extras/raylib-quickstart" target="_blank">raylib-extras/raylib-quickstart</a></td> 
-            <td align="center">A simple cross platform template for windows, linux, and MacOS</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-08-15</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">147%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">172</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">290</td> 
-        </tr>
-        <tr>
             <td align="center">Top77</td>
-            <td align="center"><a href="https://github.com/hendrikmi/neovim-kickstart-config" target="_blank">hendrikmi/neovim-kickstart-config</a></td> 
-            <td align="center">Simple Neovim config based on kickstart.nvim</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-09-02</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">146%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">146</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">238</td> 
-        </tr>
-        <tr>
-            <td align="center">Top78</td>
-            <td align="center"><a href="https://github.com/ArkForgeLabs/Astra" target="_blank">ArkForgeLabs/Astra</a></td> 
-            <td align="center">🔥 Blazingly Fast 🔥 web server runtime for Lua</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-12-21</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">146%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">146</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">157</td> 
-        </tr>
-        <tr>
-            <td align="center">Top79</td>
             <td align="center"><a href="https://github.com/Oval-Tutu/bootstrap-love2d-project" target="_blank">Oval-Tutu/bootstrap-love2d-project</a></td> 
             <td align="center">LÖVE Game Development & Automated Build System ⚡</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
@@ -805,14 +786,34 @@
             <td style="white-space: nowrap; width: auto;" align="center">148</td> 
         </tr>
         <tr>
-            <td align="center">Top80</td>
+            <td align="center">Top78</td>
             <td align="center"><a href="https://github.com/bmachek/lrc-immich-plugin" target="_blank">bmachek/lrc-immich-plugin</a></td> 
             <td align="center">Upload/import images from Lightroom Classic to Immich.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-10-20</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">145%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">145</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">223</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">146%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">146</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">224</td> 
+        </tr>
+        <tr>
+            <td align="center">Top79</td>
+            <td align="center"><a href="https://github.com/hendrikmi/neovim-kickstart-config" target="_blank">hendrikmi/neovim-kickstart-config</a></td> 
+            <td align="center">Simple Neovim config based on kickstart.nvim</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-09-02</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">146%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">146</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">238</td> 
+        </tr>
+        <tr>
+            <td align="center">Top80</td>
+            <td align="center"><a href="https://github.com/zanfranceschi/rinha-de-backend-2025" target="_blank">zanfranceschi/rinha-de-backend-2025</a></td> 
+            <td align="center">Rinha de Backend - Terceira Edição</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-07-06</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">144%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">955</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1618</td> 
         </tr>
         <tr>
             <td align="center">Top81</td>
@@ -826,16 +827,26 @@
         </tr>
         <tr>
             <td align="center">Top82</td>
-            <td align="center"><a href="https://github.com/zanfranceschi/rinha-de-backend-2025" target="_blank">zanfranceschi/rinha-de-backend-2025</a></td> 
-            <td align="center">Rinha de Backend - Terceira Edição</td>
+            <td align="center"><a href="https://github.com/ravitemer/codecompanion-history.nvim" target="_blank">ravitemer/codecompanion-history.nvim</a></td> 
+            <td align="center">A history management extension for codecompanion AI chat plugin that enables saving, browsing and restoring chat sessions.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-07-06</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-05-04</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">144%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">955</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1618</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">144</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">149</td> 
         </tr>
         <tr>
             <td align="center">Top83</td>
+            <td align="center"><a href="https://github.com/PortsMaster/PortMaster-New" target="_blank">PortsMaster/PortMaster-New</a></td> 
+            <td align="center">New PortMaster repo</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2023-12-10</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">142%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">142</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">241</td> 
+        </tr>
+        <tr>
+            <td align="center">Top84</td>
             <td align="center"><a href="https://github.com/WTFox/jellybeans.nvim" target="_blank">WTFox/jellybeans.nvim</a></td> 
             <td align="center">Lua port of Jellybeans.vim</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
@@ -845,7 +856,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">174</td> 
         </tr>
         <tr>
-            <td align="center">Top84</td>
+            <td align="center">Top85</td>
             <td align="center"><a href="https://github.com/folke/snacks.nvim" target="_blank">folke/snacks.nvim</a></td> 
             <td align="center">🍿 A collection of QoL plugins for Neovim</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
@@ -855,17 +866,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">6574</td> 
         </tr>
         <tr>
-            <td align="center">Top85</td>
-            <td align="center"><a href="https://github.com/ravitemer/codecompanion-history.nvim" target="_blank">ravitemer/codecompanion-history.nvim</a></td> 
-            <td align="center">A history management extension for codecompanion AI chat plugin that enables saving, browsing and restoring chat sessions.</td>
+            <td align="center">Top86</td>
+            <td align="center"><a href="https://github.com/mistweaverco/kulala.nvim" target="_blank">mistweaverco/kulala.nvim</a></td> 
+            <td align="center">A fully-featured 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-05-04</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">142%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">142</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">147</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-06-25</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">141%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1053</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1797</td> 
         </tr>
         <tr>
-            <td align="center">Top86</td>
+            <td align="center">Top87</td>
             <td align="center"><a href="https://github.com/yazi-rs/plugins" target="_blank">yazi-rs/plugins</a></td> 
             <td align="center">Place code snippets from docs into this monorepo, so that users can update more easily via package manager.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
@@ -875,27 +886,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">366</td> 
         </tr>
         <tr>
-            <td align="center">Top87</td>
-            <td align="center"><a href="https://github.com/BlackMATov/evolved.lua" target="_blank">BlackMATov/evolved.lua</a></td> 
-            <td align="center">Evolved ECS (Entity-Component-System) for Lua</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-11-10</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">139%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">139</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">146</td> 
-        </tr>
-        <tr>
             <td align="center">Top88</td>
-            <td align="center"><a href="https://github.com/mistweaverco/kulala.nvim" target="_blank">mistweaverco/kulala.nvim</a></td> 
-            <td align="center">A fully-featured 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-06-25</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">139%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1038</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1782</td> 
-        </tr>
-        <tr>
-            <td align="center">Top89</td>
             <td align="center"><a href="https://github.com/everviolet/nvim" target="_blank">everviolet/nvim</a></td> 
             <td align="center">:rose: a comfy neovim colorscheme for cozy morning coding.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
@@ -905,37 +896,37 @@
             <td style="white-space: nowrap; width: auto;" align="center">522</td> 
         </tr>
         <tr>
-            <td align="center">Top90</td>
-            <td align="center"><a href="https://github.com/PortsMaster/PortMaster-New" target="_blank">PortsMaster/PortMaster-New</a></td> 
-            <td align="center">New PortMaster repo</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2023-12-10</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">139%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">139</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">238</td> 
-        </tr>
-        <tr>
-            <td align="center">Top91</td>
+            <td align="center">Top89</td>
             <td align="center"><a href="https://github.com/xzbdmw/colorful-menu.nvim" target="_blank">xzbdmw/colorful-menu.nvim</a></td> 
             <td align="center">Bring enjoyment to your auto completion.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-01-03</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">139%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">249</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">427</td> 
+        </tr>
+        <tr>
+            <td align="center">Top90</td>
+            <td align="center"><a href="https://github.com/BlackMATov/evolved.lua" target="_blank">BlackMATov/evolved.lua</a></td> 
+            <td align="center">Evolved ECS (Entity-Component-System) for Lua</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-11-10</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">139%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">139</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">146</td> 
+        </tr>
+        <tr>
+            <td align="center">Top91</td>
+            <td align="center"><a href="https://github.com/bol-van/zapret-win-bundle" target="_blank">bol-van/zapret-win-bundle</a></td> 
+            <td align="center">zapret and blockcheck binary bundle for windows</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-04-28</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">138%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">246</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">424</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">696</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1198</td> 
         </tr>
         <tr>
             <td align="center">Top92</td>
-            <td align="center"><a href="https://github.com/wylie102/duckdb.yazi" target="_blank">wylie102/duckdb.yazi</a></td> 
-            <td align="center">Yazi plugin that uses duckdb to preview data files.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-23</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">137%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">137</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">139</td> 
-        </tr>
-        <tr>
-            <td align="center">Top93</td>
             <td align="center"><a href="https://github.com/Footagesus/WindUI" target="_blank">Footagesus/WindUI</a></td> 
             <td align="center">WindUI is a open source UI library for Roblox Script Hubs</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
@@ -945,24 +936,34 @@
             <td style="white-space: nowrap; width: auto;" align="center">147</td> 
         </tr>
         <tr>
-            <td align="center">Top94</td>
-            <td align="center"><a href="https://github.com/bol-van/zapret-win-bundle" target="_blank">bol-van/zapret-win-bundle</a></td> 
-            <td align="center">zapret and blockcheck binary bundle for windows</td>
+            <td align="center">Top93</td>
+            <td align="center"><a href="https://github.com/wylie102/duckdb.yazi" target="_blank">wylie102/duckdb.yazi</a></td> 
+            <td align="center">Yazi plugin that uses duckdb to preview data files.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-04-28</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">136%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">685</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1198</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-23</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">137%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">137</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">139</td> 
         </tr>
         <tr>
-            <td align="center">Top95</td>
+            <td align="center">Top94</td>
             <td align="center"><a href="https://github.com/koreader/contrib" target="_blank">koreader/contrib</a></td> 
             <td align="center">Collection of non-official plugins designed for KOReader</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2021-05-05</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">131%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">131</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">182</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">136%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">136</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">187</td> 
+        </tr>
+        <tr>
+            <td align="center">Top95</td>
+            <td align="center"><a href="https://github.com/sourcegraph/amp.nvim" target="_blank">sourcegraph/amp.nvim</a></td> 
+            <td align="center"></td>
+            <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-09-11</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">133%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">133</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">135</td> 
         </tr>
         <tr>
             <td align="center">Top96</td>
@@ -970,19 +971,19 @@
             <td align="center">🌠 Neovim plugin to animate the cursor with a smear effect in all terminals</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-11-15</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">130%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">851</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1504</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">131%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">861</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1514</td> 
         </tr>
         <tr>
             <td align="center">Top97</td>
-            <td align="center"><a href="https://github.com/fredrikaverpil/godoc.nvim" target="_blank">fredrikaverpil/godoc.nvim</a></td> 
-            <td align="center">Fuzzy search Go packages/symbols and view docs from within Neovim</td>
+            <td align="center"><a href="https://github.com/marimo-team/quarto-marimo" target="_blank">marimo-team/quarto-marimo</a></td> 
+            <td align="center">marimo extension for Quarto ⚡ run reactive code inside Quarto</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-02-16</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">128%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">128</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">168</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-04-14</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">130%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">130</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">138</td> 
         </tr>
         <tr>
             <td align="center">Top98</td>
@@ -1006,13 +1007,13 @@
         </tr>
         <tr>
             <td align="center">Top100</td>
-            <td align="center"><a href="https://github.com/rachartier/tiny-code-action.nvim" target="_blank">rachartier/tiny-code-action.nvim</a></td> 
-            <td align="center">A Neovim plugin that provides a simple way to run and visualize code actions with Telescope.</td>
+            <td align="center"><a href="https://github.com/ThePrimeagen/dev" target="_blank">ThePrimeagen/dev</a></td> 
+            <td align="center">my next gen build for starting my system</td>
             <td style="white-space: nowrap; width: auto;" align="center">Lua</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-07-23</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-03-23</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">125%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">236</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">424</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">229</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">411</td> 
         </tr>
     </table>
 </div>

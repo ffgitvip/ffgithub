@@ -1,5 +1,6 @@
-📚数据更新：2025-12-14  
-🌋数据来源：www.ffgithub.com
+📅统计周期：2025-01-01 ~ 2025-12-31<br>
+🌋数据来源：www.ffgithub.com<br>
+📚数据更新：2025-12-14<br>
 
 
 <div align="center">
@@ -20,8 +21,8 @@
             <td align="center">Generate a timeline of your day, automatically</td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-09-23</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">5090%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">5090</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">5128%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">5128</td> 
             <td style="white-space: nowrap; width: auto;" align="center">5131</td> 
         </tr>
         <tr>
@@ -30,12 +31,22 @@
             <td align="center">Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-11-17</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">4342%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">4342</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">4360</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">4357%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">4357</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">4375</td> 
         </tr>
         <tr>
             <td align="center">Top3</td>
+            <td align="center"><a href="https://github.com/Sjj1024/PakePlus-iOS" target="_blank">Sjj1024/PakePlus-iOS</a></td> 
+            <td align="center">Turn any webpage/Vue/React and so on into desktop and mobile app with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app/</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-28</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3206%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3206</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3208</td> 
+        </tr>
+        <tr>
+            <td align="center">Top4</td>
             <td align="center"><a href="https://github.com/johnbean393/Sidekick" target="_blank">johnbean393/Sidekick</a></td> 
             <td align="center">A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
@@ -45,24 +56,14 @@
             <td style="white-space: nowrap; width: auto;" align="center">3144</td> 
         </tr>
         <tr>
-            <td align="center">Top4</td>
+            <td align="center">Top5</td>
             <td align="center"><a href="https://github.com/Beingpax/VoiceInk" target="_blank">Beingpax/VoiceInk</a></td> 
             <td align="center">Voice-to-text app for macOS to transcribe what you say to text almost instantly</td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-10-20</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2806%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2806</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2808</td> 
-        </tr>
-        <tr>
-            <td align="center">Top5</td>
-            <td align="center"><a href="https://github.com/Sjj1024/PakePlus-iOS" target="_blank">Sjj1024/PakePlus-iOS</a></td> 
-            <td align="center">Turn any webpage/Vue/React and so on into desktop and mobile app with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app/</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-28</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2734%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2734</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2736</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2830%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2830</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2832</td> 
         </tr>
         <tr>
             <td align="center">Top6</td>
@@ -90,8 +91,8 @@
             <td align="center">Less noise, more browsing.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-08-10</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1720%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1720</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1722%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1722</td> 
             <td style="white-space: nowrap; width: auto;" align="center">1724</td> 
         </tr>
         <tr>
@@ -110,9 +111,9 @@
             <td align="center">The missing macOS LLM server. Run local or cloud models with one API. MCP server for Cursor & Claude Desktop, menu bar chat, plugins, and dev tools. Native Apple Silicon.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-08-17</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1620%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1620</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1622</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1627%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1627</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1629</td> 
         </tr>
         <tr>
             <td align="center">Top11</td>
@@ -130,8 +131,8 @@
             <td align="center">A fast, lightweight replacement for SwiftData, powered by SQL and supporting CloudKit synchronization.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-12-12</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1129%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1276</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1133%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1281</td> 
             <td style="white-space: nowrap; width: auto;" align="center">1394</td> 
         </tr>
         <tr>
@@ -140,12 +141,22 @@
             <td align="center">Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-06-22</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1088%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1088</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1094</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1098%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1098</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1101</td> 
         </tr>
         <tr>
             <td align="center">Top14</td>
+            <td align="center"><a href="https://github.com/kushalpandya/Petrichor" target="_blank">kushalpandya/Petrichor</a></td> 
+            <td align="center">An offline macOS music player</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-04-20</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1090%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1090</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1124</td> 
+        </tr>
+        <tr>
+            <td align="center">Top15</td>
             <td align="center"><a href="https://github.com/modelcontextprotocol/swift-sdk" target="_blank">modelcontextprotocol/swift-sdk</a></td> 
             <td align="center">The official Swift SDK for Model Context Protocol servers and clients.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
@@ -153,16 +164,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">1085%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">1085</td> 
             <td style="white-space: nowrap; width: auto;" align="center">1116</td> 
-        </tr>
-        <tr>
-            <td align="center">Top15</td>
-            <td align="center"><a href="https://github.com/kushalpandya/Petrichor" target="_blank">kushalpandya/Petrichor</a></td> 
-            <td align="center">An offline macOS music player</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-04-20</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1080%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1080</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1124</td> 
         </tr>
         <tr>
             <td align="center">Top16</td>
@@ -216,6 +217,16 @@
         </tr>
         <tr>
             <td align="center">Top21</td>
+            <td align="center"><a href="https://github.com/allenv0/AirPosture" target="_blank">allenv0/AirPosture</a></td> 
+            <td align="center">AirPods as posture coach on iOS</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-05-31</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">792%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">792</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">847</td> 
+        </tr>
+        <tr>
+            <td align="center">Top22</td>
             <td align="center"><a href="https://github.com/rudrankriyam/Foundation-Models-Framework-Example" target="_blank">rudrankriyam/Foundation-Models-Framework-Example</a></td> 
             <td align="center">Example apps for Foundation Models Framework in iOS 26 and macOS 26</td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
@@ -225,27 +236,27 @@
             <td style="white-space: nowrap; width: auto;" align="center">840</td> 
         </tr>
         <tr>
-            <td align="center">Top22</td>
-            <td align="center"><a href="https://github.com/allenv0/AirPosture" target="_blank">allenv0/AirPosture</a></td> 
-            <td align="center">AirPods as posture coach on iOS</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-05-31</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">784%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">784</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">839</td> 
-        </tr>
-        <tr>
             <td align="center">Top23</td>
             <td align="center"><a href="https://github.com/StephenDev0/StikDebug" target="_blank">StephenDev0/StikDebug</a></td> 
             <td align="center">An on-device debugger/JIT enabler for iOS versions 17.4+, powered by idevice.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-03-27</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">783%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">783</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">792%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">792</td> 
             <td style="white-space: nowrap; width: auto;" align="center">815</td> 
         </tr>
         <tr>
             <td align="center">Top24</td>
+            <td align="center"><a href="https://github.com/InterceptSuite/ProxyBridge" target="_blank">InterceptSuite/ProxyBridge</a></td> 
+            <td align="center">Redirect any Windows/MacOS TCP and UDP traffic to HTTP/Socks5 proxy</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-10-14</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">727%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">727</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">730</td> 
+        </tr>
+        <tr>
+            <td align="center">Top25</td>
             <td align="center"><a href="https://github.com/indragiek/Context" target="_blank">indragiek/Context</a></td> 
             <td align="center">Native macOS client for Model Context Protocol (MCP)</td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
@@ -255,27 +266,27 @@
             <td style="white-space: nowrap; width: auto;" align="center">742</td> 
         </tr>
         <tr>
-            <td align="center">Top25</td>
-            <td align="center"><a href="https://github.com/InterceptSuite/ProxyBridge" target="_blank">InterceptSuite/ProxyBridge</a></td> 
-            <td align="center">Redirect any Windows/MacOS TCP and UDP traffic to HTTP/Socks5 proxy</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-10-14</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">634%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">634</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">730</td> 
-        </tr>
-        <tr>
             <td align="center">Top26</td>
             <td align="center"><a href="https://github.com/nuance-dev/Web" target="_blank">nuance-dev/Web</a></td> 
             <td align="center"></td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-07-21</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">623%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">623</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">633</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">626%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">626</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">636</td> 
         </tr>
         <tr>
             <td align="center">Top27</td>
+            <td align="center"><a href="https://github.com/ggkevinnnn/LaunchNow" target="_blank">ggkevinnnn/LaunchNow</a></td> 
+            <td align="center">Alternative Launchpad for MacOS Tahoe.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-08-13</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">613%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">613</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">617</td> 
+        </tr>
+        <tr>
+            <td align="center">Top28</td>
             <td align="center"><a href="https://github.com/pixelspark/sushitrain" target="_blank">pixelspark/sushitrain</a></td> 
             <td align="center">Securely synchronize files with your devices on iOS using Syncthing</td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
@@ -285,7 +296,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">1104</td> 
         </tr>
         <tr>
-            <td align="center">Top28</td>
+            <td align="center">Top29</td>
             <td align="center"><a href="https://github.com/ggml-org/LlamaBarn" target="_blank">ggml-org/LlamaBarn</a></td> 
             <td align="center">A cosy home for your LLMs.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
@@ -295,17 +306,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">598</td> 
         </tr>
         <tr>
-            <td align="center">Top29</td>
-            <td align="center"><a href="https://github.com/ggkevinnnn/LaunchNow" target="_blank">ggkevinnnn/LaunchNow</a></td> 
-            <td align="center">Alternative Launchpad for MacOS Tahoe.</td>
+            <td align="center">Top30</td>
+            <td align="center"><a href="https://github.com/mattt/AnyLanguageModel" target="_blank">mattt/AnyLanguageModel</a></td> 
+            <td align="center">An API-compatible, drop-in replacement for Apple's Foundation Models framework with support for custom language model providers.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-08-13</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">587%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">587</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">591</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-10-05</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">580%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">580</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">587</td> 
         </tr>
         <tr>
-            <td align="center">Top30</td>
+            <td align="center">Top31</td>
             <td align="center"><a href="https://github.com/thunderbird/thunderbird-ios" target="_blank">thunderbird/thunderbird-ios</a></td> 
             <td align="center">Thunderbird for iOS – Open Source Email App for iOS</td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
@@ -315,7 +326,37 @@
             <td style="white-space: nowrap; width: auto;" align="center">624</td> 
         </tr>
         <tr>
-            <td align="center">Top31</td>
+            <td align="center">Top32</td>
+            <td align="center"><a href="https://github.com/automazeio/vibeproxy" target="_blank">automazeio/vibeproxy</a></td> 
+            <td align="center">Native macOS menu bar app to use your Claude Code & ChatGPT subscriptions with AI coding tools - no API keys needed</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-10-04</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">565%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">565</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">569</td> 
+        </tr>
+        <tr>
+            <td align="center">Top33</td>
+            <td align="center"><a href="https://github.com/apple/swift-configuration" target="_blank">apple/swift-configuration</a></td> 
+            <td align="center">API package for reading configuration.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-09-24</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">565%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">565</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">599</td> 
+        </tr>
+        <tr>
+            <td align="center">Top34</td>
+            <td align="center"><a href="https://github.com/altic-dev/FluidVoice" target="_blank">altic-dev/FluidVoice</a></td> 
+            <td align="center">Voice-to-text macOS App - Fully local</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-09-22</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">561%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">561</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">597</td> 
+        </tr>
+        <tr>
+            <td align="center">Top35</td>
             <td align="center"><a href="https://github.com/RecapAI/Recap" target="_blank">RecapAI/Recap</a></td> 
             <td align="center">Open Source, Privacy-First, macOS-Native AI Meeting Summary</td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
@@ -325,17 +366,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">654</td> 
         </tr>
         <tr>
-            <td align="center">Top32</td>
-            <td align="center"><a href="https://github.com/altic-dev/FluidVoice" target="_blank">altic-dev/FluidVoice</a></td> 
-            <td align="center">Voice-to-text macOS App - Fully local</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-09-22</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">546%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">546</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">597</td> 
-        </tr>
-        <tr>
-            <td align="center">Top33</td>
+            <td align="center">Top36</td>
             <td align="center"><a href="https://github.com/madebyshaurya/SpendSmart" target="_blank">madebyshaurya/SpendSmart</a></td> 
             <td align="center">Less clutter, more clarity</td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
@@ -345,44 +376,14 @@
             <td style="white-space: nowrap; width: auto;" align="center">543</td> 
         </tr>
         <tr>
-            <td align="center">Top34</td>
-            <td align="center"><a href="https://github.com/mattt/AnyLanguageModel" target="_blank">mattt/AnyLanguageModel</a></td> 
-            <td align="center">An API-compatible, drop-in replacement for Apple's Foundation Models framework with support for custom language model providers.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-10-05</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">527%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">527</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">587</td> 
-        </tr>
-        <tr>
-            <td align="center">Top35</td>
-            <td align="center"><a href="https://github.com/apple/swift-configuration" target="_blank">apple/swift-configuration</a></td> 
-            <td align="center">API package for reading configuration.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-09-24</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">526%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">526</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">599</td> 
-        </tr>
-        <tr>
-            <td align="center">Top36</td>
+            <td align="center">Top37</td>
             <td align="center"><a href="https://github.com/sameerasw/airsync-mac" target="_blank">sameerasw/airsync-mac</a></td> 
             <td align="center">AirSync macOS - Bring the forbidden continuity to Android</td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-07-27</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">517%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">517</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">519</td> 
-        </tr>
-        <tr>
-            <td align="center">Top37</td>
-            <td align="center"><a href="https://github.com/automazeio/vibeproxy" target="_blank">automazeio/vibeproxy</a></td> 
-            <td align="center">Native macOS menu bar app to use your Claude Code & ChatGPT subscriptions with AI coding tools - no API keys needed</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-10-04</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">507%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">507</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">545</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">519%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">519</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">521</td> 
         </tr>
         <tr>
             <td align="center">Top38</td>
@@ -390,9 +391,9 @@
             <td align="center">An AI agent that can get things done across iPhone apps.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-05-30</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">498%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">498</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">552</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">506%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">506</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">560</td> 
         </tr>
         <tr>
             <td align="center">Top39</td>
@@ -400,9 +401,9 @@
             <td align="center">Use your Mac trackpad as a weighing scale</td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-07-21</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">470%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">6263</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">7593</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">492%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">6553</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">7883</td> 
         </tr>
         <tr>
             <td align="center">Top40</td>
@@ -536,16 +537,26 @@
         </tr>
         <tr>
             <td align="center">Top53</td>
-            <td align="center"><a href="https://github.com/steipete/VibeMeter" target="_blank">steipete/VibeMeter</a></td> 
-            <td align="center">A project to measure costs for Cursor and other AI provider.</td>
+            <td align="center"><a href="https://github.com/Ebullioscopic/Atoll" target="_blank">Ebullioscopic/Atoll</a></td> 
+            <td align="center">Dynamic Island for macOS</td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-05-28</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">351%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">351</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-11-01</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">352%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">352</td> 
             <td style="white-space: nowrap; width: auto;" align="center">354</td> 
         </tr>
         <tr>
             <td align="center">Top54</td>
+            <td align="center"><a href="https://github.com/steipete/VibeMeter" target="_blank">steipete/VibeMeter</a></td> 
+            <td align="center">A project to measure costs for Cursor and other AI provider.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-05-28</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">352%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">352</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">355</td> 
+        </tr>
+        <tr>
+            <td align="center">Top55</td>
             <td align="center"><a href="https://github.com/superwall/iOS-Backports" target="_blank">superwall/iOS-Backports</a></td> 
             <td align="center">SwiftUI-Backports makes it easy to use the latest SwiftUI modifier, like those introduced in iOS 26, while still supporting older iOS versions. With a simple .backport modifier, you can write modern SwiftUI code without wrapping every new API in #available checks. It’s lightweight, drop-in ready, and keeps your UI code clean and future-proof.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
@@ -555,17 +566,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">364</td> 
         </tr>
         <tr>
-            <td align="center">Top55</td>
+            <td align="center">Top56</td>
             <td align="center"><a href="https://github.com/Dimillian/AppRouter" target="_blank">Dimillian/AppRouter</a></td> 
             <td align="center">A simple router for SwiftUI apps</td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-05-30</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">340%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">340</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">406</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">342%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">342</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">408</td> 
         </tr>
         <tr>
-            <td align="center">Top56</td>
+            <td align="center">Top57</td>
             <td align="center"><a href="https://github.com/mufasaYC/Dragula" target="_blank">mufasaYC/Dragula</a></td> 
             <td align="center">A delightfully flexible and smooth drag-and-drop Swift package for building reorderable interfaces in SwiftUI</td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
@@ -573,16 +584,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">340%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">340</td> 
             <td style="white-space: nowrap; width: auto;" align="center">386</td> 
-        </tr>
-        <tr>
-            <td align="center">Top57</td>
-            <td align="center"><a href="https://github.com/Ebullioscopic/Atoll" target="_blank">Ebullioscopic/Atoll</a></td> 
-            <td align="center">Dynamic Island for macOS</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-11-01</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">332%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">332</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">345</td> 
         </tr>
         <tr>
             <td align="center">Top58</td>
@@ -640,9 +641,9 @@
             <td align="center">A SwiftUI based macOS GUI for rsync.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2021-03-06</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">310%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">944</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1248</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">312%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">950</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1254</td> 
         </tr>
         <tr>
             <td align="center">Top64</td>
@@ -670,9 +671,9 @@
             <td align="center">https://flowdown.ai/</td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-01-15</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">303%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">606</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">805</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">304%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">608</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">808</td> 
         </tr>
         <tr>
             <td align="center">Top67</td>
@@ -686,16 +687,6 @@
         </tr>
         <tr>
             <td align="center">Top68</td>
-            <td align="center"><a href="https://github.com/Lakr233/Sentry" target="_blank">Lakr233/Sentry</a></td> 
-            <td align="center">A powerful macOS security monitoring application that detects unauthorized access attempts and records video evidence for you.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-05-24</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">295%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">295</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">303</td> 
-        </tr>
-        <tr>
-            <td align="center">Top69</td>
             <td align="center"><a href="https://github.com/FuzzyIdeas/Cling" target="_blank">FuzzyIdeas/Cling</a></td> 
             <td align="center">Instant fuzzy find any file on macOS</td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
@@ -703,6 +694,16 @@
             <td style="white-space: nowrap; width: auto;"  align="center">295%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">295</td> 
             <td style="white-space: nowrap; width: auto;" align="center">299</td> 
+        </tr>
+        <tr>
+            <td align="center">Top69</td>
+            <td align="center"><a href="https://github.com/Lakr233/Sentry" target="_blank">Lakr233/Sentry</a></td> 
+            <td align="center">A powerful macOS security monitoring application that detects unauthorized access attempts and records video evidence for you.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-05-24</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">295%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">295</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">303</td> 
         </tr>
         <tr>
             <td align="center">Top70</td>
@@ -736,16 +737,6 @@
         </tr>
         <tr>
             <td align="center">Top73</td>
-            <td align="center"><a href="https://github.com/PallavAg/Apple-Intelligence-Chat" target="_blank">PallavAg/Apple-Intelligence-Chat</a></td> 
-            <td align="center">Chat with Apple Intelligence using the Foundation Models Framework</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-06-10</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">290%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">290</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">317</td> 
-        </tr>
-        <tr>
-            <td align="center">Top74</td>
             <td align="center"><a href="https://github.com/DevelopCubeLab/BatteryInfo" target="_blank">DevelopCubeLab/BatteryInfo</a></td> 
             <td align="center">iOS Utils TrollStore App check and record battery information</td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
@@ -755,17 +746,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">364</td> 
         </tr>
         <tr>
-            <td align="center">Top75</td>
-            <td align="center"><a href="https://github.com/perrystreetsoftware/Harmonize" target="_blank">perrystreetsoftware/Harmonize</a></td> 
-            <td align="center">Harmonize is a modern linter for Swift that allows you to write architectural lint rules as unit tests, helping your team to keep your codebase clean, maintainable, and consistent as it grows, without relying on manual code reviews.</td>
+            <td align="center">Top74</td>
+            <td align="center"><a href="https://github.com/PallavAg/Apple-Intelligence-Chat" target="_blank">PallavAg/Apple-Intelligence-Chat</a></td> 
+            <td align="center">Chat with Apple Intelligence using the Foundation Models Framework</td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-08-29</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">285%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">285</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">297</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-06-10</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">290%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">290</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">317</td> 
         </tr>
         <tr>
-            <td align="center">Top76</td>
+            <td align="center">Top75</td>
             <td align="center"><a href="https://github.com/FluidInference/swift-scribe" target="_blank">FluidInference/swift-scribe</a></td> 
             <td align="center">Fully local, no dependency scribe. Speak into your microphone and summarize. Requires iOS 26 and MacOS 26 to use the advanced transcription model and foundational model for summaries</td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
@@ -773,6 +764,16 @@
             <td style="white-space: nowrap; width: auto;"  align="center">285%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">285</td> 
             <td style="white-space: nowrap; width: auto;" align="center">290</td> 
+        </tr>
+        <tr>
+            <td align="center">Top76</td>
+            <td align="center"><a href="https://github.com/perrystreetsoftware/Harmonize" target="_blank">perrystreetsoftware/Harmonize</a></td> 
+            <td align="center">Harmonize is a modern linter for Swift that allows you to write architectural lint rules as unit tests, helping your team to keep your codebase clean, maintainable, and consistent as it grows, without relying on manual code reviews.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-08-29</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">285%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">285</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">297</td> 
         </tr>
         <tr>
             <td align="center">Top77</td>
@@ -830,12 +831,22 @@
             <td align="center">Archive manager for macOS. Open source, because essential tools should be free. Preview (nested) archives without extracting them. Extract single files.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-09-21</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">268%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">268</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">269%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">269</td> 
             <td style="white-space: nowrap; width: auto;" align="center">314</td> 
         </tr>
         <tr>
             <td align="center">Top83</td>
+            <td align="center"><a href="https://github.com/bylinxx/MacCalendar" target="_blank">bylinxx/MacCalendar</a></td> 
+            <td align="center">macOS菜单栏日历app，支持中国农历、节假日、系统日程等</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-10-01</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">267%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">267</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">351</td> 
+        </tr>
+        <tr>
+            <td align="center">Top84</td>
             <td align="center"><a href="https://github.com/mi12labs/SwiftAI" target="_blank">mi12labs/SwiftAI</a></td> 
             <td align="center">Build beautiful and reliable LLM apps on iOS and MacOS</td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
@@ -845,17 +856,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">271</td> 
         </tr>
         <tr>
-            <td align="center">Top84</td>
+            <td align="center">Top85</td>
             <td align="center"><a href="https://github.com/spotify/sourcekit-bazel-bsp" target="_blank">spotify/sourcekit-bazel-bsp</a></td> 
             <td align="center">iOS Development (and more) in alternative IDEs like Cursor / VSCode, for Bazel projects</td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-07-10</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">262%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">262</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">279</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">264%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">264</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">280</td> 
         </tr>
         <tr>
-            <td align="center">Top85</td>
+            <td align="center">Top86</td>
             <td align="center"><a href="https://github.com/Mcrich23/Container-Compose" target="_blank">Mcrich23/Container-Compose</a></td> 
             <td align="center">A docker-compose clone for Apple Container</td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
@@ -865,7 +876,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">266</td> 
         </tr>
         <tr>
-            <td align="center">Top86</td>
+            <td align="center">Top87</td>
+            <td align="center"><a href="https://github.com/leminlimez/Pocket-Poster" target="_blank">leminlimez/Pocket-Poster</a></td> 
+            <td align="center">Custom PosterBoard Wallpapers for iOS 17+</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-06-01</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">260%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">260</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">276</td> 
+        </tr>
+        <tr>
+            <td align="center">Top88</td>
             <td align="center"><a href="https://github.com/ktiays/GlassExplorer" target="_blank">ktiays/GlassExplorer</a></td> 
             <td align="center">iOS 26 private glass effect explorer.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
@@ -875,17 +896,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">286</td> 
         </tr>
         <tr>
-            <td align="center">Top87</td>
+            <td align="center">Top89</td>
             <td align="center"><a href="https://github.com/betomoedano/quick-push" target="_blank">betomoedano/quick-push</a></td> 
             <td align="center">A lightweight macOS menu bar utility for quickly testing Expo push notifications</td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-02-21</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">257%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">257</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">305</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">258%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">258</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">306</td> 
         </tr>
         <tr>
-            <td align="center">Top88</td>
+            <td align="center">Top90</td>
             <td align="center"><a href="https://github.com/cranci1/Sora" target="_blank">cranci1/Sora</a></td> 
             <td align="center">A modular media player for iOS and macOS</td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
@@ -895,17 +916,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">309</td> 
         </tr>
         <tr>
-            <td align="center">Top89</td>
-            <td align="center"><a href="https://github.com/leminlimez/Pocket-Poster" target="_blank">leminlimez/Pocket-Poster</a></td> 
-            <td align="center">Custom PosterBoard Wallpapers for iOS 17+</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-06-01</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">254%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">254</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">270</td> 
-        </tr>
-        <tr>
-            <td align="center">Top90</td>
+            <td align="center">Top91</td>
             <td align="center"><a href="https://github.com/PallavAg/iOS-Clone-SwiftUI" target="_blank">PallavAg/iOS-Clone-SwiftUI</a></td> 
             <td align="center">iOS Clone built by Gemini 3.0 Pro in SwiftUI</td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
@@ -915,7 +926,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">304</td> 
         </tr>
         <tr>
-            <td align="center">Top91</td>
+            <td align="center">Top92</td>
             <td align="center"><a href="https://github.com/apple/swift-binary-parsing" target="_blank">apple/swift-binary-parsing</a></td> 
             <td align="center"></td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
@@ -925,17 +936,27 @@
             <td style="white-space: nowrap; width: auto;" align="center">343</td> 
         </tr>
         <tr>
-            <td align="center">Top92</td>
+            <td align="center">Top93</td>
             <td align="center"><a href="https://github.com/gemwalletcom/gem-ios" target="_blank">gemwalletcom/gem-ios</a></td> 
             <td align="center">Gem - Open Source iOS Crypto Wallet</td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-06-02</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">247%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">247</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">292</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">248%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">248</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">293</td> 
         </tr>
         <tr>
-            <td align="center">Top93</td>
+            <td align="center">Top94</td>
+            <td align="center"><a href="https://github.com/wflixu/RClick" target="_blank">wflixu/RClick</a></td> 
+            <td align="center">macos finder  contextmenu</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-03-13</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">247%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">381</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">535</td> 
+        </tr>
+        <tr>
+            <td align="center">Top95</td>
             <td align="center"><a href="https://github.com/mattt/Uncertain" target="_blank">mattt/Uncertain</a></td> 
             <td align="center">Uncertain<T> - A Swift library for uncertainty-aware programming.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
@@ -945,7 +966,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">251</td> 
         </tr>
         <tr>
-            <td align="center">Top94</td>
+            <td align="center">Top96</td>
             <td align="center"><a href="https://github.com/CoderLineChan/SwiftlyUI" target="_blank">CoderLineChan/SwiftlyUI</a></td> 
             <td align="center">UIKit Plus: Infusing SwiftUI-like Development Efficiency. Revolutionizing UIKit development through chain syntax, resultBuilder, and modern APIs, retaining full native control while achieving SwiftUI-grade productivity. UIKit Plus： 注入 SwiftUI 式开发效率​​ 通过链式语法与现代化 API 重构 UIKit 开发范式，在保留原生控制权的同时，获得 SwiftUI 级开发效率。</td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
@@ -955,7 +976,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">259</td> 
         </tr>
         <tr>
-            <td align="center">Top95</td>
+            <td align="center">Top97</td>
             <td align="center"><a href="https://github.com/Tej-Sharma/horizon-overlay-open-source-cluely" target="_blank">Tej-Sharma/horizon-overlay-open-source-cluely</a></td> 
             <td align="center">AI overlays on top of what you are doing</td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
@@ -965,17 +986,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">780</td> 
         </tr>
         <tr>
-            <td align="center">Top96</td>
-            <td align="center"><a href="https://github.com/wflixu/RClick" target="_blank">wflixu/RClick</a></td> 
-            <td align="center">macos finder  contextmenu</td>
+            <td align="center">Top98</td>
+            <td align="center"><a href="https://github.com/glinford/dns-easy-switcher" target="_blank">glinford/dns-easy-switcher</a></td> 
+            <td align="center">DNS Easy Switcher (for MacOS)</td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-03-13</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">242%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">374</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">528</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-02-23</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">241%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">241</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">310</td> 
         </tr>
         <tr>
-            <td align="center">Top97</td>
+            <td align="center">Top99</td>
             <td align="center"><a href="https://github.com/Sovereign-Engineering/obscuravpn-client" target="_blank">Sovereign-Engineering/obscuravpn-client</a></td> 
             <td align="center">Obscura VPN Rust library and App (macOS only for now)</td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
@@ -985,7 +1006,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">248</td> 
         </tr>
         <tr>
-            <td align="center">Top98</td>
+            <td align="center">Top100</td>
             <td align="center"><a href="https://github.com/nhjydywd/SubtitleOCR" target="_blank">nhjydywd/SubtitleOCR</a></td> 
             <td align="center">快如闪电的硬字幕提取工具。仅需苹果M1芯片或英伟达3060显卡即可达到10倍速提取。A very fast tool for video hardcode subtitle extraction</td>
             <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
@@ -993,26 +1014,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">240%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">388</td> 
             <td style="white-space: nowrap; width: auto;" align="center">549</td> 
-        </tr>
-        <tr>
-            <td align="center">Top99</td>
-            <td align="center"><a href="https://github.com/glinford/dns-easy-switcher" target="_blank">glinford/dns-easy-switcher</a></td> 
-            <td align="center">DNS Easy Switcher (for MacOS)</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-02-23</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">237%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">237</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">306</td> 
-        </tr>
-        <tr>
-            <td align="center">Top100</td>
-            <td align="center"><a href="https://github.com/Renset/macai" target="_blank">Renset/macai</a></td> 
-            <td align="center">All-in-one native macOS AI chat application for virtually any AI provider</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Swift</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2023-03-22</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">237%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">537</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">763</td> 
         </tr>
     </table>
 </div>

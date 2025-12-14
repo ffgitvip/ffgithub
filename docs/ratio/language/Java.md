@@ -1,5 +1,6 @@
-📚数据更新：2025-12-14  
-🌋数据来源：www.ffgithub.com
+📅统计周期：2025-01-01 ~ 2025-12-31<br>
+🌋数据来源：www.ffgithub.com<br>
+📚数据更新：2025-12-14<br>
 
 
 <div align="center">
@@ -30,9 +31,9 @@
             <td align="center">BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-12-14</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">6594%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">6594</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">6603</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">6863%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">6863</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">6872</td> 
         </tr>
         <tr>
             <td align="center">Top3</td>
@@ -60,9 +61,9 @@
             <td align="center">FIT: 企业级AI开发框架，提供多语言函数引擎（FIT）、流式编排引擎（WaterFlow）及Java生态的LangChain替代方案（FEL）。原生/Spring双模运行，支持插件热插拔与智能聚散部署，无缝统一大模型与业务系统。</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-02-22</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2096%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2096</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2113</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2098%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2098</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2115</td> 
         </tr>
         <tr>
             <td align="center">Top6</td>
@@ -70,8 +71,8 @@
             <td align="center">Examples demonstrating usage of Spring AI & Spring AI Alibaba 📜</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-12-12</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1966%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1966</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2011%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2011</td> 
             <td style="white-space: nowrap; width: auto;" align="center">2071</td> 
         </tr>
         <tr>
@@ -80,9 +81,9 @@
             <td align="center">开源的端到端产品级通用智能体</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-07-16</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1865%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">10726</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">11355</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1876%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">10788</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">11363</td> 
         </tr>
         <tr>
             <td align="center">Top8</td>
@@ -100,9 +101,9 @@
             <td align="center">Scrape Google AI Mode responses without blocks on a large scale.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-09-08</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1750%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2450</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2590</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1772%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2482</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2622</td> 
         </tr>
         <tr>
             <td align="center">Top10</td>
@@ -120,9 +121,9 @@
             <td align="center">Kodezi Chronos is a debugging-first language model that achieves state-of-the-art results on SWE-bench Lite (80.33%) and 67% real-world fix accuracy, over six times better than GPT-4. Built with Adaptive Graph-Guided Retrieval and Persistent Debug Memory. Model available Q1 2026 via Kodezi OS.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-07-21</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1623%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">5000</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">5308</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1624%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">5004</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">5312</td> 
         </tr>
         <tr>
             <td align="center">Top12</td>
@@ -200,9 +201,9 @@
             <td align="center">🔥🔥🔥可视化拖拽式大数据集成平台、大数据平台、大数据，包含数据流、数据源、数据对齐、查询模板、完善的监控等。像画流程图一样且无代码方式同步、清洗数据。</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-01-19</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1088%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1088</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1090</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1089%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1089</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1091</td> 
         </tr>
         <tr>
             <td align="center">Top20</td>
@@ -210,22 +211,32 @@
             <td align="center">An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-05-06</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1067%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1067</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1083%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1083</td> 
             <td style="white-space: nowrap; width: auto;" align="center">1112</td> 
         </tr>
         <tr>
             <td align="center">Top21</td>
+            <td align="center"><a href="https://github.com/xcancloud/AngusGM" target="_blank">xcancloud/AngusGM</a></td> 
+            <td align="center">🔥 A unified system resource management platform designed for administrators, serving as the foundational module for the Angus application suite to enable cross-system collaboration and resource integration.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-04-06</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1070%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1070</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1072</td> 
+        </tr>
+        <tr>
+            <td align="center">Top22</td>
             <td align="center"><a href="https://github.com/joey-zhou/xiaozhi-esp32-server-java" target="_blank">joey-zhou/xiaozhi-esp32-server-java</a></td> 
             <td align="center">小智ESP32的Java企业级管理平台，提供设备监控、音色定制、角色切换和对话记录管理的前后端及服务端一体化解决方案</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-02-27</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1010%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1010</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1019</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1021%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1021</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1023</td> 
         </tr>
         <tr>
-            <td align="center">Top22</td>
+            <td align="center">Top23</td>
             <td align="center"><a href="https://github.com/alibaba/spring-ai-alibaba" target="_blank">alibaba/spring-ai-alibaba</a></td> 
             <td align="center">Agentic AI Framework for Java Developers</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
@@ -233,16 +244,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">1002%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">6738</td> 
             <td style="white-space: nowrap; width: auto;" align="center">7410</td> 
-        </tr>
-        <tr>
-            <td align="center">Top23</td>
-            <td align="center"><a href="https://github.com/xcancloud/AngusGM" target="_blank">xcancloud/AngusGM</a></td> 
-            <td align="center">🔥 A unified system resource management platform designed for administrators, serving as the foundational module for the Angus application suite to enable cross-system collaboration and resource integration.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-04-06</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1000%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1000</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1072</td> 
         </tr>
         <tr>
             <td align="center">Top24</td>
@@ -276,6 +277,16 @@
         </tr>
         <tr>
             <td align="center">Top27</td>
+            <td align="center"><a href="https://github.com/kknifer7/FreeBox" target="_blank">kknifer7/FreeBox</a></td> 
+            <td align="center">TVBox电脑版/姊妹软件，致力于TVBox功能和生态的跨平台扩展</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-08-14</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">955%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">955</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">957</td> 
+        </tr>
+        <tr>
+            <td align="center">Top28</td>
             <td align="center"><a href="https://github.com/mouredev/hello-java" target="_blank">mouredev/hello-java</a></td> 
             <td align="center">Curso para aprender el lenguaje de programación Java y Programación Orientada a Objetos (POO) desde cero y para principiantes. 75 lecciones, más de 8 horas en vídeo y 150 ejercicios prácticos.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
@@ -285,24 +296,14 @@
             <td style="white-space: nowrap; width: auto;" align="center">3297</td> 
         </tr>
         <tr>
-            <td align="center">Top28</td>
-            <td align="center"><a href="https://github.com/kknifer7/FreeBox" target="_blank">kknifer7/FreeBox</a></td> 
-            <td align="center">TVBox电脑版/姊妹软件，致力于TVBox功能和生态的跨平台扩展</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-08-14</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">930%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">930</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">932</td> 
-        </tr>
-        <tr>
             <td align="center">Top29</td>
             <td align="center"><a href="https://github.com/risin42/NagramX" target="_blank">risin42/NagramX</a></td> 
             <td align="center">A variant of Nagram with additional features.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-11-06</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">916%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">916</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">953</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">930%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">930</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">962</td> 
         </tr>
         <tr>
             <td align="center">Top30</td>
@@ -330,8 +331,8 @@
             <td align="center">Safe, Open, High-Performance — PDF for AI</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-05-13</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">786%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">786</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">790%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">790</td> 
             <td style="white-space: nowrap; width: auto;" align="center">797</td> 
         </tr>
         <tr>
@@ -340,9 +341,9 @@
             <td align="center"></td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-11-14</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">722%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">722</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">805</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">727%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">727</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">810</td> 
         </tr>
         <tr>
             <td align="center">Top34</td>
@@ -366,16 +367,26 @@
         </tr>
         <tr>
             <td align="center">Top36</td>
+            <td align="center"><a href="https://github.com/zinja-coder/jadx-ai-mcp" target="_blank">zinja-coder/jadx-ai-mcp</a></td> 
+            <td align="center">Plugin for JADX to integrate MCP server</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-04-08</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">678%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">692</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">794</td> 
+        </tr>
+        <tr>
+            <td align="center">Top37</td>
             <td align="center"><a href="https://github.com/lhccong/fish-island-backend" target="_blank">lhccong/fish-island-backend</a></td> 
             <td align="center">摸鱼岛🎣后端 基于爬虫 ➕ Netty ➕ SpringBoot ➕Redis➕ MySQL 开源🌟一站式摸鱼网</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-02-20</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">670%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">670</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">675</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">674%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">674</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">679</td> 
         </tr>
         <tr>
-            <td align="center">Top37</td>
+            <td align="center">Top38</td>
             <td align="center"><a href="https://github.com/Gezine/BD-JB-1250" target="_blank">Gezine/BD-JB-1250</a></td> 
             <td align="center">BD-JB for up to PS4 12.50</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
@@ -385,24 +396,14 @@
             <td style="white-space: nowrap; width: auto;" align="center">1083</td> 
         </tr>
         <tr>
-            <td align="center">Top38</td>
-            <td align="center"><a href="https://github.com/zinja-coder/jadx-ai-mcp" target="_blank">zinja-coder/jadx-ai-mcp</a></td> 
-            <td align="center">Plugin for JADX to integrate MCP server</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-04-08</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">612%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">625</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">727</td> 
-        </tr>
-        <tr>
             <td align="center">Top39</td>
-            <td align="center"><a href="https://github.com/Tosencen/XMBOX" target="_blank">Tosencen/XMBOX</a></td> 
-            <td align="center">空盒子软件，最近忙着生存，有没愿意维护的朋友</td>
+            <td align="center"><a href="https://github.com/aizhimou/pigeon-pod" target="_blank">aizhimou/pigeon-pod</a></td> 
+            <td align="center">Listen to YouTube. Anywhere.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-04-22</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">606%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">606</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">678</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-08-23</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">618%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">618</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">639</td> 
         </tr>
         <tr>
             <td align="center">Top40</td>
@@ -410,19 +411,19 @@
             <td align="center">Instafel provides fast & up-to-date Instagram Alpha experience for everyone!</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-01-17</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">601%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">601</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">656</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">609%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">609</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">660</td> 
         </tr>
         <tr>
             <td align="center">Top41</td>
-            <td align="center"><a href="https://github.com/aizhimou/pigeon-pod" target="_blank">aizhimou/pigeon-pod</a></td> 
-            <td align="center">Listen to YouTube. Anywhere.</td>
+            <td align="center"><a href="https://github.com/Tosencen/XMBOX" target="_blank">Tosencen/XMBOX</a></td> 
+            <td align="center">空盒子软件，最近忙着生存，有没愿意维护的朋友</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-08-23</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">593%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">593</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">614</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-04-22</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">606%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">606</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">678</td> 
         </tr>
         <tr>
             <td align="center">Top42</td>
@@ -456,6 +457,16 @@
         </tr>
         <tr>
             <td align="center">Top45</td>
+            <td align="center"><a href="https://github.com/geekwenjie/SmartJavaAI" target="_blank">geekwenjie/SmartJavaAI</a></td> 
+            <td align="center">🔥🔥🔥Java免费离线AI算法工具箱，支持人脸识别，活体检测，表情识别、目标检测、实例分割、行人检测、OCR文字识别、车牌识别、表格识别、ASR+TTS、机器翻译等功能，Maven引用即可使用。支持PyTorch、Tensorflow，已集成 Mtcnn、InsightFace、SeetaFace6、YOLOv8~v12、PaddleOCR(PPOCRv5)、Whisper等主流模型</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-02-21</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">556%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">556</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">559</td> 
+        </tr>
+        <tr>
+            <td align="center">Top46</td>
             <td align="center"><a href="https://github.com/ReSo7200/InstaEclipse" target="_blank">ReSo7200/InstaEclipse</a></td> 
             <td align="center">An Instagram Xposed module with features like Developer Options, Ghost Mode, Ad-Free browsing, and Distraction-Free Mode.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
@@ -463,16 +474,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">546%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">612</td> 
             <td style="white-space: nowrap; width: auto;" align="center">724</td> 
-        </tr>
-        <tr>
-            <td align="center">Top46</td>
-            <td align="center"><a href="https://github.com/YangDai2003/Multi-Calculator-Android" target="_blank">YangDai2003/Multi-Calculator-Android</a></td> 
-            <td align="center">Stylish design, versatile features – the ultimate calculator for Android.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2023-06-13</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">543%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">543</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">616</td> 
         </tr>
         <tr>
             <td align="center">Top47</td>
@@ -486,6 +487,26 @@
         </tr>
         <tr>
             <td align="center">Top48</td>
+            <td align="center"><a href="https://github.com/YangDai2003/Multi-Calculator-Android" target="_blank">YangDai2003/Multi-Calculator-Android</a></td> 
+            <td align="center">Stylish design, versatile features – the ultimate calculator for Android.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2023-06-13</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">543%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">543</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">616</td> 
+        </tr>
+        <tr>
+            <td align="center">Top49</td>
+            <td align="center"><a href="https://github.com/7723mod/NPatch" target="_blank">7723mod/NPatch</a></td> 
+            <td align="center">NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-08-17</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">535%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">535</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">585</td> 
+        </tr>
+        <tr>
+            <td align="center">Top50</td>
             <td align="center"><a href="https://github.com/xcancloud/AngusInfra" target="_blank">xcancloud/AngusInfra</a></td> 
             <td align="center">🔥 AngusInfra is a foundational framework for rapidly developing multi-tenant web applications, built on the Enterprise-level development framework SpringBoot.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
@@ -495,17 +516,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">533</td> 
         </tr>
         <tr>
-            <td align="center">Top49</td>
-            <td align="center"><a href="https://github.com/geekwenjie/SmartJavaAI" target="_blank">geekwenjie/SmartJavaAI</a></td> 
-            <td align="center">🔥🔥🔥Java免费离线AI算法工具箱，支持人脸识别，活体检测，表情识别、目标检测、实例分割、行人检测、OCR文字识别、车牌识别、表格识别、ASR+TTS、机器翻译等功能，Maven引用即可使用。支持PyTorch、Tensorflow，已集成 Mtcnn、InsightFace、SeetaFace6、YOLOv8~v12、PaddleOCR(PPOCRv5)、Whisper等主流模型</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-02-21</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">526%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">526</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">540</td> 
-        </tr>
-        <tr>
-            <td align="center">Top50</td>
+            <td align="center">Top51</td>
             <td align="center"><a href="https://github.com/nagisa77/OpenIsle" target="_blank">nagisa77/OpenIsle</a></td> 
             <td align="center">完全开源的社区平台</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
@@ -515,24 +526,14 @@
             <td style="white-space: nowrap; width: auto;" align="center">523</td> 
         </tr>
         <tr>
-            <td align="center">Top51</td>
-            <td align="center"><a href="https://github.com/7723mod/NPatch" target="_blank">7723mod/NPatch</a></td> 
-            <td align="center">NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-08-17</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">511%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">511</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">585</td> 
-        </tr>
-        <tr>
             <td align="center">Top52</td>
             <td align="center"><a href="https://github.com/langgraph4j/langgraph4j" target="_blank">langgraph4j/langgraph4j</a></td> 
             <td align="center">🚀 LangGraph for Java. A library for develop AI Agentic Architectures in the Java ecosystem. Designed to work seamlessly with both Langchain4j and Spring AI.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-03-19</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">491%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">933</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1129</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">494%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">940</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1130</td> 
         </tr>
         <tr>
             <td align="center">Top53</td>
@@ -576,6 +577,16 @@
         </tr>
         <tr>
             <td align="center">Top57</td>
+            <td align="center"><a href="https://github.com/adityatandon15/LLD" target="_blank">adityatandon15/LLD</a></td> 
+            <td align="center">All Code of LLD Playlist</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-02-25</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">463%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">463</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">508</td> 
+        </tr>
+        <tr>
+            <td align="center">Top58</td>
             <td align="center"><a href="https://github.com/HdShare/WAuxiliary_Plugin" target="_blank">HdShare/WAuxiliary_Plugin</a></td> 
             <td align="center">WeChat Auxiliary Plugin</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
@@ -585,7 +596,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">529</td> 
         </tr>
         <tr>
-            <td align="center">Top58</td>
+            <td align="center">Top59</td>
             <td align="center"><a href="https://github.com/juejin-wuyang/memberclub" target="_blank">juejin-wuyang/memberclub</a></td> 
             <td align="center">电商类交易系统工具箱， 以SDK方式对外提供通用的交易能力，能让开发者像搭积木方式，从0到1，快速构建一个新的电商交易系统！ 包含交易提单、履约、售后、结算、库存管理、用户配额管理等模块，非常适合用来学习如何构建电商业务中台！QQ群：1033066503</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
@@ -595,17 +606,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">456</td> 
         </tr>
         <tr>
-            <td align="center">Top59</td>
-            <td align="center"><a href="https://github.com/adityatandon15/LLD" target="_blank">adityatandon15/LLD</a></td> 
-            <td align="center">All Code of LLD Playlist</td>
+            <td align="center">Top60</td>
+            <td align="center"><a href="https://github.com/spring-ai-alibaba/Lynxe" target="_blank">spring-ai-alibaba/Lynxe</a></td> 
+            <td align="center">A high-determinism, code-free 'Prompt Programing'  framework built with Java 一个高确定性的 无代码 'Prompt编程'框架，以 Java 编写</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-02-25</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">448%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">448</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">493</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-09-12</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">450%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">450</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">492</td> 
         </tr>
         <tr>
-            <td align="center">Top60</td>
+            <td align="center">Top61</td>
             <td align="center"><a href="https://github.com/woheller69/whisperIME" target="_blank">woheller69/whisperIME</a></td> 
             <td align="center">Android Input Method Editor (IME) based on Whisper</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
@@ -615,17 +626,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">488</td> 
         </tr>
         <tr>
-            <td align="center">Top61</td>
-            <td align="center"><a href="https://github.com/spring-ai-alibaba/Lynxe" target="_blank">spring-ai-alibaba/Lynxe</a></td> 
-            <td align="center">A high-determinism, code-free 'Prompt Programing'  framework built with Java 一个高确定性的 无代码 'Prompt编程'框架，以 Java 编写</td>
+            <td align="center">Top62</td>
+            <td align="center"><a href="https://github.com/researchxxl/syncthing-android" target="_blank">researchxxl/syncthing-android</a></td> 
+            <td align="center">Syncthing-Fork - A Syncthing Wrapper for Android.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-09-12</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">437%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">437</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">492</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-10-29</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">418%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">418</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">422</td> 
         </tr>
         <tr>
-            <td align="center">Top62</td>
+            <td align="center">Top63</td>
             <td align="center"><a href="https://github.com/Argon4W/AcceleratedRendering" target="_blank">Argon4W/AcceleratedRendering</a></td> 
             <td align="center">Fast vertex transform and caching using compute shader.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
@@ -635,7 +646,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">431</td> 
         </tr>
         <tr>
-            <td align="center">Top63</td>
+            <td align="center">Top64</td>
             <td align="center"><a href="https://github.com/oinone/oinone-pamirs" target="_blank">oinone/oinone-pamirs</a></td> 
             <td align="center">Oinone 是企业级产品化引擎，以低代码和无代码驱动的标准化研发与敏捷交付一体化的研发框架。解决研发效率与成本问题，解决产品标准化与规模化交付问题。借鉴Odoo的工程化理念，并在无代码能力上显著增强，即面向专业研发，又能面向公民研发。 [低代码、无代码一体化] [面向软件公司] [国产化适配][低代码平台][无代码平台][快速开发][研发平台][开发框架][JAVA开发框架][JAVA研发框架]</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
@@ -645,7 +656,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">472</td> 
         </tr>
         <tr>
-            <td align="center">Top64</td>
+            <td align="center">Top65</td>
             <td align="center"><a href="https://github.com/fbeccaceci/react-native-fast-squircle" target="_blank">fbeccaceci/react-native-fast-squircle</a></td> 
             <td align="center">A performant component that renders Squircles in React Native</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
@@ -655,7 +666,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">421</td> 
         </tr>
         <tr>
-            <td align="center">Top65</td>
+            <td align="center">Top66</td>
+            <td align="center"><a href="https://github.com/agentscope-ai/agentscope-java" target="_blank">agentscope-ai/agentscope-java</a></td> 
+            <td align="center">AgentScope Java: Agent-Oriented Programming for Building LLM Applications</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-09-23</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">403%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">403</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">423</td> 
+        </tr>
+        <tr>
+            <td align="center">Top67</td>
             <td align="center"><a href="https://github.com/zpj80231/idea-set" target="_blank">zpj80231/idea-set</a></td> 
             <td align="center">✅ JetBrains IntelliJ IDEA 自用配置、常用插件、破解激活，打包整理。</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
@@ -665,7 +686,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">408</td> 
         </tr>
         <tr>
-            <td align="center">Top66</td>
+            <td align="center">Top68</td>
+            <td align="center"><a href="https://github.com/XiaomingX/data-cve-poc" target="_blank">XiaomingX/data-cve-poc</a></td> 
+            <td align="center">这个仓库收集了所有在 GitHub 上能找到的 CVE 漏洞利用工具。 This repository collects all CVE exploits found on GitHub.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-11-11</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">400%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">469</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">586</td> 
+        </tr>
+        <tr>
+            <td align="center">Top69</td>
             <td align="center"><a href="https://github.com/AndroidCSOfficial/android-code-studio" target="_blank">AndroidCSOfficial/android-code-studio</a></td> 
             <td align="center">Android Code Studio is an IDE for Android to develop full featured Android apps.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
@@ -675,17 +706,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">424</td> 
         </tr>
         <tr>
-            <td align="center">Top67</td>
-            <td align="center"><a href="https://github.com/XiaomingX/data-cve-poc" target="_blank">XiaomingX/data-cve-poc</a></td> 
-            <td align="center">这个仓库收集了所有在 GitHub 上能找到的 CVE 漏洞利用工具。 This repository collects all CVE exploits found on GitHub.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-11-11</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">396%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">464</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">581</td> 
-        </tr>
-        <tr>
-            <td align="center">Top68</td>
+            <td align="center">Top70</td>
             <td align="center"><a href="https://github.com/alex-oos/ai-wechat-bot" target="_blank">alex-oos/ai-wechat-bot</a></td> 
             <td align="center">将所有AI 产品接入你的微信，打造你个人AI 助理，帮助你解决更多生活日常。</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
@@ -695,7 +716,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">405</td> 
         </tr>
         <tr>
-            <td align="center">Top69</td>
+            <td align="center">Top71</td>
             <td align="center"><a href="https://github.com/jiqiu2022/Zygisk-MyInjector" target="_blank">jiqiu2022/Zygisk-MyInjector</a></td> 
             <td align="center">一个自定义注入so的脚手架,现在已经支持了界面化使用。</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
@@ -705,7 +726,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">547</td> 
         </tr>
         <tr>
-            <td align="center">Top70</td>
+            <td align="center">Top72</td>
             <td align="center"><a href="https://github.com/RohitKushvaha01/ReTerminal" target="_blank">RohitKushvaha01/ReTerminal</a></td> 
             <td align="center">A Simple Android Terminal Emulator</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
@@ -715,7 +736,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">399</td> 
         </tr>
         <tr>
-            <td align="center">Top71</td>
+            <td align="center">Top73</td>
             <td align="center"><a href="https://github.com/footprintcat/frost-iot" target="_blank">footprintcat/frost-iot</a></td> 
             <td align="center">【🚧 项目目前尚处于开发阶段，暂未完成开发，请过段时间再来看吧】寒霜物联 —— 支持轻量化快速接入的 IoT 设备统一接入平台</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
@@ -725,7 +746,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">407</td> 
         </tr>
         <tr>
-            <td align="center">Top72</td>
+            <td align="center">Top74</td>
             <td align="center"><a href="https://github.com/jarvis2f/telegram-files" target="_blank">jarvis2f/telegram-files</a></td> 
             <td align="center">A self-hosted Telegram file downloader for continuous, stable, and unattended downloads.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
@@ -735,27 +756,27 @@
             <td style="white-space: nowrap; width: auto;" align="center">1743</td> 
         </tr>
         <tr>
-            <td align="center">Top73</td>
-            <td align="center"><a href="https://github.com/researchxxl/syncthing-android" target="_blank">researchxxl/syncthing-android</a></td> 
-            <td align="center">Syncthing-Fork - A Syncthing Wrapper for Android.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-10-29</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">373%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">373</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">404</td> 
-        </tr>
-        <tr>
-            <td align="center">Top74</td>
+            <td align="center">Top75</td>
             <td align="center"><a href="https://github.com/LaurieWired/Malimite" target="_blank">LaurieWired/Malimite</a></td> 
             <td align="center">iOS and macOS Decompiler</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-12-08</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">371%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2003</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2542</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">375%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2022</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2561</td> 
         </tr>
         <tr>
-            <td align="center">Top75</td>
+            <td align="center">Top76</td>
+            <td align="center"><a href="https://github.com/fru1tworld/cs-study" target="_blank">fru1tworld/cs-study</a></td> 
+            <td align="center">코딩 꿈나무 후르츠츠츠의 CS 서적 읽고 정리하는 곳</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-10-20</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">371%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">371</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">373</td> 
+        </tr>
+        <tr>
+            <td align="center">Top77</td>
             <td align="center"><a href="https://github.com/yuuouu/ColorOS-CVE-2025-10184" target="_blank">yuuouu/ColorOS-CVE-2025-10184</a></td> 
             <td align="center">ColorOS短信漏洞，以及用户自救方案</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
@@ -765,17 +786,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">396</td> 
         </tr>
         <tr>
-            <td align="center">Top76</td>
-            <td align="center"><a href="https://github.com/fru1tworld/cs-study" target="_blank">fru1tworld/cs-study</a></td> 
-            <td align="center">코딩 꿈나무 후르츠츠츠의 CS 서적 읽고 정리하는 곳</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-10-20</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">369%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">369</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">371</td> 
-        </tr>
-        <tr>
-            <td align="center">Top77</td>
+            <td align="center">Top78</td>
             <td align="center"><a href="https://github.com/ccmjga/zhilu-admin" target="_blank">ccmjga/zhilu-admin</a></td> 
             <td align="center">🔥 通过 AI 驱动的新一代后台管理系统（Java21+Vue3.5）</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
@@ -785,7 +796,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">371</td> 
         </tr>
         <tr>
-            <td align="center">Top78</td>
+            <td align="center">Top79</td>
             <td align="center"><a href="https://github.com/lucky-aeon/AgentX" target="_blank">lucky-aeon/AgentX</a></td> 
             <td align="center">AgentX 致力于让小白也能无门槛通过自然语言打造属于自己的 Agent。AgentX 采用了自研 MCP 网关，模型高可用组件打造高可用</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
@@ -795,7 +806,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">369</td> 
         </tr>
         <tr>
-            <td align="center">Top79</td>
+            <td align="center">Top80</td>
             <td align="center"><a href="https://github.com/freeok/so-novel" target="_blank">freeok/so-novel</a></td> 
             <td align="center">小说下载｜网文下载 | 网络小说</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
@@ -805,7 +816,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">5715</td> 
         </tr>
         <tr>
-            <td align="center">Top80</td>
+            <td align="center">Top81</td>
             <td align="center"><a href="https://github.com/Devo919/Gewechat" target="_blank">Devo919/Gewechat</a></td> 
             <td align="center">微信机器人框架，个人微信二次开发，最简单易用的免费二开框架,微信ipad登录（非HOOK破解桌面端）</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
@@ -815,7 +826,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">3368</td> 
         </tr>
         <tr>
-            <td align="center">Top81</td>
+            <td align="center">Top82</td>
             <td align="center"><a href="https://github.com/jtang613/GhidrAssistMCP" target="_blank">jtang613/GhidrAssistMCP</a></td> 
             <td align="center">An MCP extension for Ghidra</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
@@ -825,7 +836,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">360</td> 
         </tr>
         <tr>
-            <td align="center">Top82</td>
+            <td align="center">Top83</td>
+            <td align="center"><a href="https://github.com/jtang613/GhidrAssist" target="_blank">jtang613/GhidrAssist</a></td> 
+            <td align="center">An LLM extension for Ghidra to enable AI assistance in RE.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-09-25</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">355%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">355</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">378</td> 
+        </tr>
+        <tr>
+            <td align="center">Top84</td>
             <td align="center"><a href="https://github.com/dromara/ujcms" target="_blank">dromara/ujcms</a></td> 
             <td align="center">Java开源网站内容管理系统(java cms)。使用SpringBoot、MyBatis、Spring Security、Lucene、FreeMarker、TypeScript、Vue3、ElementPlus等技术开发。</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
@@ -835,7 +856,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">424</td> 
         </tr>
         <tr>
-            <td align="center">Top83</td>
+            <td align="center">Top85</td>
             <td align="center"><a href="https://github.com/mosh-hamedani/spring-store" target="_blank">mosh-hamedani/spring-store</a></td> 
             <td align="center">Source code for the project in my Spring Boot course</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
@@ -845,7 +866,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">357</td> 
         </tr>
         <tr>
-            <td align="center">Top84</td>
+            <td align="center">Top86</td>
             <td align="center"><a href="https://github.com/xcancloud/JMock" target="_blank">xcancloud/JMock</a></td> 
             <td align="center">🔥 JMock is a high-performance data generation and simulation component library implemented in Java.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
@@ -855,17 +876,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">350</td> 
         </tr>
         <tr>
-            <td align="center">Top85</td>
-            <td align="center"><a href="https://github.com/jtang613/GhidrAssist" target="_blank">jtang613/GhidrAssist</a></td> 
-            <td align="center">An LLM extension for Ghidra to enable AI assistance in RE.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-09-25</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">342%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">342</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">365</td> 
-        </tr>
-        <tr>
-            <td align="center">Top86</td>
+            <td align="center">Top87</td>
             <td align="center"><a href="https://github.com/oxylabs/youtube-scraper" target="_blank">oxylabs/youtube-scraper</a></td> 
             <td align="center">YouTube Scraper for effortless public YouTube data collection, including video and channel information.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
@@ -875,7 +886,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">771</td> 
         </tr>
         <tr>
-            <td align="center">Top87</td>
+            <td align="center">Top88</td>
             <td align="center"><a href="https://github.com/liyupi/yu-picture" target="_blank">liyupi/yu-picture</a></td> 
             <td align="center">编程导航的新项目，基于 Vue 3 + Spring Boot + COS + WebSocket 的企业级智能协同云图库平台。项目应用场景广泛，可作为表情包网站、设计素材网站、壁纸网站、个人云盘、企业活动相册等。用户可以在平台公开上传和检索图片素材；管理员可以上传、审核和管理分析图片；个人用户可将图片上传至私有空间进行批量管理、检索、编辑和分析；企业可开通团队空间并邀请成员，共享图片并实时协同编辑图片。技术栈包括 MySQL 分库分表、Redis + Caffeine 多级缓存、COS 对象存储、Sa-Token 权限控制、DDD 领域驱动设计、WebSocket 实时通讯、JUC、Disruptor、AI 绘图大模型、设计模式等。从 0 到 1 的真实企业级项目设计开发，绝对让你收获满满</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
@@ -885,7 +896,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">870</td> 
         </tr>
         <tr>
-            <td align="center">Top88</td>
+            <td align="center">Top89</td>
+            <td align="center"><a href="https://github.com/Leavesfly/TinyAI" target="_blank">Leavesfly/TinyAI</a></td> 
+            <td align="center">全栈式轻量级AI框架，TinyAI IS ALL YOU NEED。</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-09-26</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">333%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">333</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">335</td> 
+        </tr>
+        <tr>
+            <td align="center">Top90</td>
             <td align="center"><a href="https://github.com/yuziiiiiiiiii/SMS_Bomb_Fuzzer" target="_blank">yuziiiiiiiiii/SMS_Bomb_Fuzzer</a></td> 
             <td align="center">Burp suite 短信轰炸辅助绕过插件</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
@@ -895,17 +916,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">353</td> 
         </tr>
         <tr>
-            <td align="center">Top89</td>
-            <td align="center"><a href="https://github.com/Leavesfly/TinyAI" target="_blank">Leavesfly/TinyAI</a></td> 
-            <td align="center">全栈式轻量级AI框架，TinyAI IS ALL YOU NEED。</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-09-26</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">327%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">327</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">333</td> 
-        </tr>
-        <tr>
-            <td align="center">Top90</td>
+            <td align="center">Top91</td>
             <td align="center"><a href="https://github.com/HChenX/SuperLyric" target="_blank">HChenX/SuperLyric</a></td> 
             <td align="center">歌词获取器 | Super Lyric Getter</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
@@ -915,7 +926,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">325</td> 
         </tr>
         <tr>
-            <td align="center">Top91</td>
+            <td align="center">Top92</td>
             <td align="center"><a href="https://github.com/feltex/desafio-itau-backend" target="_blank">feltex/desafio-itau-backend</a></td> 
             <td align="center">Desafio de vaga de emprego para o banco Itaú</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
@@ -925,7 +936,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">335</td> 
         </tr>
         <tr>
-            <td align="center">Top92</td>
+            <td align="center">Top93</td>
             <td align="center"><a href="https://github.com/chrisblakely01/java-spring-microservices" target="_blank">chrisblakely01/java-spring-microservices</a></td> 
             <td align="center">This source code is for the Java/Spring microservices course available on my  YouTube channel</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
@@ -935,17 +946,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">403</td> 
         </tr>
         <tr>
-            <td align="center">Top93</td>
-            <td align="center"><a href="https://github.com/Yu2002s/SplitLanzou" target="_blank">Yu2002s/SplitLanzou</a></td> 
-            <td align="center">蓝奏云 | 第三方蓝奏云客户端。双面板快速管理文件</td>
+            <td align="center">Top94</td>
+            <td align="center"><a href="https://github.com/tanhuang2016/RedisFX" target="_blank">tanhuang2016/RedisFX</a></td> 
+            <td align="center">🚀 Lightweight Redis GUI 🌐Full platform support🔥为爱发电💞</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2023-03-26</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">299%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">299</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">343</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2023-07-14</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">300%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">300</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">384</td> 
         </tr>
         <tr>
-            <td align="center">Top94</td>
+            <td align="center">Top95</td>
             <td align="center"><a href="https://github.com/LaurieWired/GhidraMCP" target="_blank">LaurieWired/GhidraMCP</a></td> 
             <td align="center">MCP Server for Ghidra</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
@@ -955,7 +966,27 @@
             <td style="white-space: nowrap; width: auto;" align="center">6581</td> 
         </tr>
         <tr>
-            <td align="center">Top95</td>
+            <td align="center">Top96</td>
+            <td align="center"><a href="https://github.com/Yu2002s/SplitLanzou" target="_blank">Yu2002s/SplitLanzou</a></td> 
+            <td align="center">蓝奏云 | 第三方蓝奏云客户端。双面板快速管理文件</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2023-03-26</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">299%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">299</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">343</td> 
+        </tr>
+        <tr>
+            <td align="center">Top97</td>
+            <td align="center"><a href="https://github.com/YasserNull/shappky" target="_blank">YasserNull/shappky</a></td> 
+            <td align="center">A simple app to boost performance by stopping background apps, relying on Root/Shizuku permissions.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-04-12</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">299%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">299</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">302</td> 
+        </tr>
+        <tr>
+            <td align="center">Top98</td>
             <td align="center"><a href="https://github.com/jeandle/jeandle-jdk" target="_blank">jeandle/jeandle-jdk</a></td> 
             <td align="center">Jeandle is a Just-in-Time compiler for Java. It is built on OpenJDK and leverages the LLVM compiler infrastructure to generate machine code, aiming to provide powerful compilation optimizations and deliver high-performance code.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
@@ -965,7 +996,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">373</td> 
         </tr>
         <tr>
-            <td align="center">Top96</td>
+            <td align="center">Top99</td>
             <td align="center"><a href="https://github.com/snehasishroy/leetcode-companywise-interview-questions" target="_blank">snehasishroy/leetcode-companywise-interview-questions</a></td> 
             <td align="center">Contains latest company wise questions of LeetCode as of November 2025.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
@@ -975,17 +1006,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">2012</td> 
         </tr>
         <tr>
-            <td align="center">Top97</td>
-            <td align="center"><a href="https://github.com/YasserNull/shappky" target="_blank">YasserNull/shappky</a></td> 
-            <td align="center">A simple app to boost performance by stopping background apps, relying on Root/Shizuku permissions.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-04-12</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">292%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">292</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">295</td> 
-        </tr>
-        <tr>
-            <td align="center">Top98</td>
+            <td align="center">Top100</td>
             <td align="center"><a href="https://github.com/LnYo-Cly/ai4j" target="_blank">LnYo-Cly/ai4j</a></td> 
             <td align="center">一款JavaSDK用于快速接入AI大模型应用，整合多平台大模型，如OpenAi、智谱Zhipu(ChatGLM)、深度求索DeepSeek、月之暗面Moonshot(Kimi)、腾讯混元Hunyuan、零一万物(01)等等，提供统一的输入输出(对齐OpenAi)消除差异化，优化函数调用(Tool Call)，优化RAG调用、支持向量数据库(Pinecone)、内置联网增强，并且支持JDK1.8，为用户提供快速整合AI的能力。</td>
             <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
@@ -993,26 +1014,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">289%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">289</td> 
             <td style="white-space: nowrap; width: auto;" align="center">371</td> 
-        </tr>
-        <tr>
-            <td align="center">Top99</td>
-            <td align="center"><a href="https://github.com/googleapis/java-genai" target="_blank">googleapis/java-genai</a></td> 
-            <td align="center">Google Gen AI Java SDK provides an interface for developers to integrate Google's generative models into their Java applications.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-12-07</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">287%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">287</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">297</td> 
-        </tr>
-        <tr>
-            <td align="center">Top100</td>
-            <td align="center"><a href="https://github.com/MojoLauncher/MojoLauncher" target="_blank">MojoLauncher/MojoLauncher</a></td> 
-            <td align="center">A Minecraft: Java Edition launcher, based on PojavLauncher</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Java</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-19</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">286%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">286</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">291</td> 
         </tr>
     </table>
 </div>

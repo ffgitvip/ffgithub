@@ -1,6 +1,6 @@
 📅统计周期：2025-01-01 ~ 2025-12-31<br>
 🌋数据来源：www.ffgithub.com<br>
-📚数据更新：2025-12-14<br>
+📚数据更新：2025-12-22<br>
 
 
 <div align="center">
@@ -21,9 +21,9 @@
             <td align="center">Weighs the soul of incoming HTTP requests to stop AI crawlers</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-03-18</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">15112%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">15112</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">15117</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">15305%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">15305</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">15310</td> 
         </tr>
         <tr>
             <td align="center">Top2</td>
@@ -41,9 +41,9 @@
             <td align="center">MCP Toolbox for Databases is an open source MCP server for databases.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-06-08</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">11728%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">11728</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">11768</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">11751%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">11751</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">11791</td> 
         </tr>
         <tr>
             <td align="center">Top4</td>
@@ -61,9 +61,9 @@
             <td align="center">A powerful AI coding agent. Built for the terminal.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-03-17</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">9516%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">9516</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">9518</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">9535%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">9535</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">9537</td> 
         </tr>
         <tr>
             <td align="center">Top6</td>
@@ -91,9 +91,9 @@
             <td align="center">AI powered Kubernetes Assistant</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-01-21</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">7076%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">7076</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">7080</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">7086%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">7086</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">7090</td> 
         </tr>
         <tr>
             <td align="center">Top9</td>
@@ -101,22 +101,32 @@
             <td align="center">MCP for xiaohongshu.com</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-08-03</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">6323%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">7272</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">7387</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">6430%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">7395</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">7510</td> 
         </tr>
         <tr>
             <td align="center">Top10</td>
+            <td align="center"><a href="https://github.com/google/adk-go" target="_blank">google/adk-go</a></td> 
+            <td align="center">An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-05-06</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">6342%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">6342</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">6354</td> 
+        </tr>
+        <tr>
+            <td align="center">Top11</td>
             <td align="center"><a href="https://github.com/steveiliop56/tinyauth" target="_blank">steveiliop56/tinyauth</a></td> 
             <td align="center">The simplest way to protect your apps with a login screen.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-01-19</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">6281%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">6281</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">6314</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">6302%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">6302</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">6335</td> 
         </tr>
         <tr>
-            <td align="center">Top11</td>
+            <td align="center">Top12</td>
             <td align="center"><a href="https://github.com/Done-0/fuck-u-code" target="_blank">Done-0/fuck-u-code</a></td> 
             <td align="center">Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
@@ -126,24 +136,14 @@
             <td style="white-space: nowrap; width: auto;" align="center">6279</td> 
         </tr>
         <tr>
-            <td align="center">Top12</td>
-            <td align="center"><a href="https://github.com/google/adk-go" target="_blank">google/adk-go</a></td> 
-            <td align="center">An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-05-06</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">6208%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">6208</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">6220</td> 
-        </tr>
-        <tr>
             <td align="center">Top13</td>
             <td align="center"><a href="https://github.com/modelcontextprotocol/registry" target="_blank">modelcontextprotocol/registry</a></td> 
             <td align="center">A community driven registry service for Model Context Protocol (MCP) servers.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-02-06</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">6105%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">6105</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">6121</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">6123%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">6123</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">6139</td> 
         </tr>
         <tr>
             <td align="center">Top14</td>
@@ -151,22 +151,42 @@
             <td align="center">LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-07-22</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">5727%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">8419</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">8566</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">6122%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">9000</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">9147</td> 
         </tr>
         <tr>
             <td align="center">Top15</td>
+            <td align="center"><a href="https://github.com/53AI/53AIHub" target="_blank">53AI/53AIHub</a></td> 
+            <td align="center">53AI Hub is an open-source AI portal, which enables you to quickly build a operational-level AI portal to launch and operate AI agents, prompts, and AI tools. It supports seamless integration with development platforms like Coze, Dify, FastGPT, RAGFlow.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-04-24</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">5652%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">5652</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">5654</td> 
+        </tr>
+        <tr>
+            <td align="center">Top16</td>
             <td align="center"><a href="https://github.com/tbphp/gpt-load" target="_blank">tbphp/gpt-load</a></td> 
             <td align="center">Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-06-07</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">5617%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">5617</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">5620</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">5641%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">5641</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">5644</td> 
         </tr>
         <tr>
-            <td align="center">Top16</td>
+            <td align="center">Top17</td>
+            <td align="center"><a href="https://github.com/gtsteffaniak/filebrowser" target="_blank">gtsteffaniak/filebrowser</a></td> 
+            <td align="center">📂 Web File Browser</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2023-06-12</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">5290%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">5290</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">5324</td> 
+        </tr>
+        <tr>
+            <td align="center">Top18</td>
             <td align="center"><a href="https://github.com/smtg-ai/claude-squad" target="_blank">smtg-ai/claude-squad</a></td> 
             <td align="center">Manage multiple AI terminal agents like Claude Code, Aider, Codex, OpenCode, and Amp.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
@@ -176,77 +196,67 @@
             <td style="white-space: nowrap; width: auto;" align="center">5295</td> 
         </tr>
         <tr>
-            <td align="center">Top17</td>
-            <td align="center"><a href="https://github.com/gtsteffaniak/filebrowser" target="_blank">gtsteffaniak/filebrowser</a></td> 
-            <td align="center">📂 Web File Browser</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2023-06-12</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">5280%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">5280</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">5314</td> 
-        </tr>
-        <tr>
-            <td align="center">Top18</td>
+            <td align="center">Top19</td>
             <td align="center"><a href="https://github.com/mark3labs/mcp-go" target="_blank">mark3labs/mcp-go</a></td> 
             <td align="center">A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-11-27</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">4738%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">7629</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">7790</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">4752%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">7652</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">7813</td> 
         </tr>
         <tr>
-            <td align="center">Top19</td>
+            <td align="center">Top20</td>
             <td align="center"><a href="https://github.com/ghuntley/how-to-build-a-coding-agent" target="_blank">ghuntley/how-to-build-a-coding-agent</a></td> 
             <td align="center">A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-07-24</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">4474%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">4474</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">4476</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">4526%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">4526</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">4528</td> 
         </tr>
         <tr>
-            <td align="center">Top20</td>
+            <td align="center">Top21</td>
             <td align="center"><a href="https://github.com/opencloud-eu/opencloud" target="_blank">opencloud-eu/opencloud</a></td> 
             <td align="center">🌤️ OpenCloud is the open source platform for file management, sharing and collaboration. Simple and sovereign.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-01-10</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">4369%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">4369</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">4380</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">4382%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">4382</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">4393</td> 
         </tr>
         <tr>
-            <td align="center">Top21</td>
+            <td align="center">Top22</td>
             <td align="center"><a href="https://github.com/psviderski/uncloud" target="_blank">psviderski/uncloud</a></td> 
             <td align="center">A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-07-20</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">4117%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">4117</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">4123</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">4304%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">4304</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">4310</td> 
         </tr>
         <tr>
-            <td align="center">Top22</td>
+            <td align="center">Top23</td>
             <td align="center"><a href="https://github.com/cloudwego/eino" target="_blank">cloudwego/eino</a></td> 
             <td align="center">The ultimate LLM/AI application development framework in Golang.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-12-04</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">4098%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">8360</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">8564</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">4129%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">8424</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">8628</td> 
         </tr>
         <tr>
-            <td align="center">Top23</td>
+            <td align="center">Top24</td>
             <td align="center"><a href="https://github.com/psviderski/unregistry" target="_blank">psviderski/unregistry</a></td> 
             <td align="center">Push docker images directly to remote servers without an external registry</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-06-03</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">4054%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">4054</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">4149</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">4066%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">4066</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">4161</td> 
         </tr>
         <tr>
-            <td align="center">Top24</td>
+            <td align="center">Top25</td>
             <td align="center"><a href="https://github.com/monasticacademy/httptap" target="_blank">monasticacademy/httptap</a></td> 
             <td align="center">View HTTP/HTTPS requests made by any Linux program</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
@@ -256,17 +266,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">4125</td> 
         </tr>
         <tr>
-            <td align="center">Top25</td>
+            <td align="center">Top26</td>
             <td align="center"><a href="https://github.com/NoFxAiOS/nofx" target="_blank">NoFxAiOS/nofx</a></td> 
-            <td align="center">NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/gemini/claude)self-evolution, and real-time dashboard</td>
+            <td align="center">Open-source Trading OS with pluggable AI brain | From market data → AI reasoning → Trade execution | Self-hosted & Multi-exchange</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-10-28</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3736%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">8594</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">8824</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3758%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">8644</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">8874</td> 
         </tr>
         <tr>
-            <td align="center">Top26</td>
+            <td align="center">Top27</td>
             <td align="center"><a href="https://github.com/xxnuo/MTranServer" target="_blank">xxnuo/MTranServer</a></td> 
             <td align="center">Offline translation server with low resource consumption, fast speed, and private deployment capability. 低资源占用速度快可私有部署的离线翻译服务器</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
@@ -276,7 +286,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">3635</td> 
         </tr>
         <tr>
-            <td align="center">Top27</td>
+            <td align="center">Top28</td>
             <td align="center"><a href="https://github.com/flexprice/flexprice" target="_blank">flexprice/flexprice</a></td> 
             <td align="center">Usage-based pricing and billing for developers 🔓 Cloud or self-hosted ⚙️ No-code UI 💰 Realtime usage metering 🎟 Credits & top-ups 🔑 Control feature access</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
@@ -286,54 +296,44 @@
             <td style="white-space: nowrap; width: auto;" align="center">3538</td> 
         </tr>
         <tr>
-            <td align="center">Top28</td>
+            <td align="center">Top29</td>
             <td align="center"><a href="https://github.com/KaijuEngine/kaiju" target="_blank">KaijuEngine/kaiju</a></td> 
             <td align="center">General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-11-18</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3443%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3443</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">3541</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3491%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3491</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3589</td> 
         </tr>
         <tr>
-            <td align="center">Top29</td>
+            <td align="center">Top30</td>
             <td align="center"><a href="https://github.com/modelcontextprotocol/go-sdk" target="_blank">modelcontextprotocol/go-sdk</a></td> 
             <td align="center">The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-04-23</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3326%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3326</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">3366</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3387%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3387</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3427</td> 
         </tr>
         <tr>
-            <td align="center">Top30</td>
+            <td align="center">Top31</td>
             <td align="center"><a href="https://github.com/ArvinLovegood/go-stock" target="_blank">ArvinLovegood/go-stock</a></td> 
             <td align="center">🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-12-17</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3308%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3308</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">3385</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3358%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3358</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3435</td> 
         </tr>
         <tr>
-            <td align="center">Top31</td>
+            <td align="center">Top32</td>
             <td align="center"><a href="https://github.com/coze-dev/coze-loop" target="_blank">coze-dev/coze-loop</a></td> 
             <td align="center">Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to monitoring.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-06-24</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3246%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">5000</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">5154</td> 
-        </tr>
-        <tr>
-            <td align="center">Top32</td>
-            <td align="center"><a href="https://github.com/rcourtman/Pulse" target="_blank">rcourtman/Pulse</a></td> 
-            <td align="center">A responsive monitoring platform for Proxmox VE, PBS, and Docker with real-time metrics across nodes and containers</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-02-14</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3005%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3005</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">3070</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3258%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">5018</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">5172</td> 
         </tr>
         <tr>
             <td align="center">Top33</td>
@@ -341,19 +341,19 @@
             <td align="center">PostgreSQL backup tool</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-06-05</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2993%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2993</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2997</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3110%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3110</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3114</td> 
         </tr>
         <tr>
             <td align="center">Top34</td>
-            <td align="center"><a href="https://github.com/komari-monitor/komari" target="_blank">komari-monitor/komari</a></td> 
-            <td align="center">A simple server monitor tool.</td>
+            <td align="center"><a href="https://github.com/rcourtman/Pulse" target="_blank">rcourtman/Pulse</a></td> 
+            <td align="center">A responsive monitoring platform for Proxmox VE, PBS, and Docker with real-time metrics across nodes and containers</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-04-20</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2960%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2960</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2962</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-02-14</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3034%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3034</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3099</td> 
         </tr>
         <tr>
             <td align="center">Top35</td>
@@ -361,52 +361,62 @@
             <td align="center">China Unicom's Yuanjing Wanwu Agent Platform is an enterprise-grade, multi-tenant AI agent development platform. It helps users build applications such as intelligent agents, workflows, and rag, and also supports model management. The platform features a developer-friendly license, and we welcome all developers to build upon the platform.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-06-06</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2880%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2880</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2891</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3034%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3034</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3045</td> 
         </tr>
         <tr>
             <td align="center">Top36</td>
+            <td align="center"><a href="https://github.com/komari-monitor/komari" target="_blank">komari-monitor/komari</a></td> 
+            <td align="center">A simple server monitor tool.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-04-20</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2983%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2983</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2985</td> 
+        </tr>
+        <tr>
+            <td align="center">Top37</td>
             <td align="center"><a href="https://github.com/octelium/octelium" target="_blank">octelium/octelium</a></td> 
             <td align="center">A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok-alternative and a homelab infrastructure.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-05-19</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2822%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2822</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2883</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2831%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2831</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2892</td> 
         </tr>
         <tr>
-            <td align="center">Top37</td>
+            <td align="center">Top38</td>
             <td align="center"><a href="https://github.com/router-for-me/CLIProxyAPI" target="_blank">router-for-me/CLIProxyAPI</a></td> 
             <td align="center">Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-07-02</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2654%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2654</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2656</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2695%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2695</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2697</td> 
         </tr>
         <tr>
-            <td align="center">Top38</td>
+            <td align="center">Top39</td>
             <td align="center"><a href="https://github.com/getarcaneapp/arcane" target="_blank">getarcaneapp/arcane</a></td> 
             <td align="center">Modern Docker Management, Designed for Everyone</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-04-19</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2617%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2617</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2620</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2659%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2659</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2662</td> 
         </tr>
         <tr>
-            <td align="center">Top39</td>
+            <td align="center">Top40</td>
             <td align="center"><a href="https://github.com/sinclairtarget/git-who" target="_blank">sinclairtarget/git-who</a></td> 
             <td align="center">Git blame for file trees</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-12-07</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2595%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2595</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2604</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2613%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2613</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2622</td> 
         </tr>
         <tr>
-            <td align="center">Top40</td>
+            <td align="center">Top41</td>
             <td align="center"><a href="https://github.com/badtuxx/girus-cli" target="_blank">badtuxx/girus-cli</a></td> 
             <td align="center"></td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
@@ -416,17 +426,27 @@
             <td style="white-space: nowrap; width: auto;" align="center">2369</td> 
         </tr>
         <tr>
-            <td align="center">Top41</td>
+            <td align="center">Top42</td>
             <td align="center"><a href="https://github.com/vllm-project/semantic-router" target="_blank">vllm-project/semantic-router</a></td> 
             <td align="center">Intelligent Router for Mixture-of-Models</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-08-27</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2327%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2327</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2374</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2351%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2351</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2398</td> 
         </tr>
         <tr>
-            <td align="center">Top42</td>
+            <td align="center">Top43</td>
+            <td align="center"><a href="https://github.com/control-theory/gonzo" target="_blank">control-theory/gonzo</a></td> 
+            <td align="center">Gonzo! The Go based TUI log analysis tool</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-08-19</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2263%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2263</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2279</td> 
+        </tr>
+        <tr>
+            <td align="center">Top44</td>
             <td align="center"><a href="https://github.com/Adembc/lazyssh" target="_blank">Adembc/lazyssh</a></td> 
             <td align="center">A terminal-based SSH manager inspired by lazydocker and k9s - Written in go</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
@@ -436,37 +456,27 @@
             <td style="white-space: nowrap; width: auto;" align="center">2266</td> 
         </tr>
         <tr>
-            <td align="center">Top43</td>
-            <td align="center"><a href="https://github.com/control-theory/gonzo" target="_blank">control-theory/gonzo</a></td> 
-            <td align="center">Gonzo! The Go based TUI log analysis tool</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-08-19</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2254%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2254</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2270</td> 
-        </tr>
-        <tr>
-            <td align="center">Top44</td>
+            <td align="center">Top45</td>
             <td align="center"><a href="https://github.com/subtrace/subtrace" target="_blank">subtrace/subtrace</a></td> 
             <td align="center">Network inspector for your backend</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-05-15</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2141%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2548</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2667</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2142%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2550</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2669</td> 
         </tr>
         <tr>
-            <td align="center">Top45</td>
+            <td align="center">Top46</td>
             <td align="center"><a href="https://github.com/Gaurav-Gosain/tuios" target="_blank">Gaurav-Gosain/tuios</a></td> 
             <td align="center">Terminal UI OS (Terminal Multiplexer)</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-09-07</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2090%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2090</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2098</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2115%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2115</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2123</td> 
         </tr>
         <tr>
-            <td align="center">Top46</td>
+            <td align="center">Top47</td>
             <td align="center"><a href="https://github.com/wquguru/nof0" target="_blank">wquguru/nof0</a></td> 
             <td align="center">NOF0 - 开源的 AI 交易竞技场</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
@@ -476,7 +486,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">2766</td> 
         </tr>
         <tr>
-            <td align="center">Top47</td>
+            <td align="center">Top48</td>
+            <td align="center"><a href="https://github.com/grafana/mcp-grafana" target="_blank">grafana/mcp-grafana</a></td> 
+            <td align="center">MCP server for Grafana</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-12-24</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1977%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1977</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1990</td> 
+        </tr>
+        <tr>
+            <td align="center">Top49</td>
             <td align="center"><a href="https://github.com/Zouuup/landrun" target="_blank">Zouuup/landrun</a></td> 
             <td align="center">Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
@@ -486,17 +506,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">1965</td> 
         </tr>
         <tr>
-            <td align="center">Top48</td>
-            <td align="center"><a href="https://github.com/grafana/mcp-grafana" target="_blank">grafana/mcp-grafana</a></td> 
-            <td align="center">MCP server for Grafana</td>
+            <td align="center">Top50</td>
+            <td align="center"><a href="https://github.com/kagent-dev/kagent" target="_blank">kagent-dev/kagent</a></td> 
+            <td align="center">Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-12-24</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1954%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1954</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1967</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-01-22</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1923%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1923</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1946</td> 
         </tr>
         <tr>
-            <td align="center">Top49</td>
+            <td align="center">Top51</td>
             <td align="center"><a href="https://github.com/sky22333/hubproxy" target="_blank">sky22333/hubproxy</a></td> 
             <td align="center">自托管轻量级、高性能的多功能代理加速服务，提供 Docker 镜像加速、GitHub 加速、下载离线镜像等功能。一个二进制文件实现所有功能，支持仓库审计。流式转发，无缓存。</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
@@ -506,37 +526,27 @@
             <td style="white-space: nowrap; width: auto;" align="center">1952</td> 
         </tr>
         <tr>
-            <td align="center">Top50</td>
-            <td align="center"><a href="https://github.com/kagent-dev/kagent" target="_blank">kagent-dev/kagent</a></td> 
-            <td align="center">Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-01-22</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1911%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1911</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1934</td> 
-        </tr>
-        <tr>
-            <td align="center">Top51</td>
+            <td align="center">Top52</td>
             <td align="center"><a href="https://github.com/memodb-io/Acontext" target="_blank">memodb-io/Acontext</a></td> 
             <td align="center">Context Data Platform for Agents. Join the community❤️: https://discord.acontext.io</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-07-16</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1849%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1849</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1856</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1899%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1899</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1906</td> 
         </tr>
         <tr>
-            <td align="center">Top52</td>
+            <td align="center">Top53</td>
             <td align="center"><a href="https://github.com/abhinavxd/libredesk" target="_blank">abhinavxd/libredesk</a></td> 
             <td align="center">Modern, open source, self-hosted customer support desk. Single binary app.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-05-12</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1821%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1821</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1847</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1824%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1824</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1850</td> 
         </tr>
         <tr>
-            <td align="center">Top53</td>
+            <td align="center">Top54</td>
             <td align="center"><a href="https://github.com/lucasdillmann/nginx-ignition" target="_blank">lucasdillmann/nginx-ignition</a></td> 
             <td align="center">An user interface for the nginx web server, aimed at developers and enthusiasts that don't want to manage configuration files manually</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
@@ -546,17 +556,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">1818</td> 
         </tr>
         <tr>
-            <td align="center">Top54</td>
+            <td align="center">Top55</td>
             <td align="center"><a href="https://github.com/openpubkey/opkssh" target="_blank">openpubkey/opkssh</a></td> 
             <td align="center">opkssh (OpenPubkey SSH)</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-03-16</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1776%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1776</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1778</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1778%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1778</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1780</td> 
         </tr>
         <tr>
-            <td align="center">Top55</td>
+            <td align="center">Top56</td>
             <td align="center"><a href="https://github.com/xiaobaigroup/ClashBox" target="_blank">xiaobaigroup/ClashBox</a></td> 
             <td align="center">HarmonyOS NEXT的代理软件</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
@@ -566,7 +576,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">2531</td> 
         </tr>
         <tr>
-            <td align="center">Top56</td>
+            <td align="center">Top57</td>
+            <td align="center"><a href="https://github.com/lin-snow/Ech0" target="_blank">lin-snow/Ech0</a></td> 
+            <td align="center">Ech0 - 面向个人的新一代开源、自托管、专注思想流动的轻量级联邦发布平台</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-21</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1531%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1531</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1539</td> 
+        </tr>
+        <tr>
+            <td align="center">Top58</td>
             <td align="center"><a href="https://github.com/dagger/container-use" target="_blank">dagger/container-use</a></td> 
             <td align="center">Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
@@ -576,37 +596,27 @@
             <td style="white-space: nowrap; width: auto;" align="center">3310</td> 
         </tr>
         <tr>
-            <td align="center">Top57</td>
-            <td align="center"><a href="https://github.com/lin-snow/Ech0" target="_blank">lin-snow/Ech0</a></td> 
-            <td align="center">Ech0 - 面向个人的新一代开源、自托管、专注思想流动的轻量级联邦发布平台</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-21</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1517%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1517</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1525</td> 
-        </tr>
-        <tr>
-            <td align="center">Top58</td>
-            <td align="center"><a href="https://github.com/Veloera/Veloera" target="_blank">Veloera/Veloera</a></td> 
-            <td align="center"></td>
-            <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-04-16</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1474%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1474</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1547</td> 
-        </tr>
-        <tr>
             <td align="center">Top59</td>
             <td align="center"><a href="https://github.com/RezaSi/go-interview-practice" target="_blank">RezaSi/go-interview-practice</a></td> 
             <td align="center">Interactive Go Interview Platform - 30+ coding challenges with instant feedback, AI interview simulation, competitive leaderboards, and automated testing. From beginner to advanced levels with real-world scenarios.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-01-14</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1453%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1453</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1476</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1508%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1508</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1531</td> 
         </tr>
         <tr>
             <td align="center">Top60</td>
+            <td align="center"><a href="https://github.com/Veloera/Veloera" target="_blank">Veloera/Veloera</a></td> 
+            <td align="center"></td>
+            <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-04-16</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1485%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1485</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1558</td> 
+        </tr>
+        <tr>
+            <td align="center">Top61</td>
             <td align="center"><a href="https://github.com/yosebyte/nodepass" target="_blank">yosebyte/nodepass</a></td> 
             <td align="center">A secure, efficient TCP/UDP tunneling solution that delivers fast, reliable access across network restrictions using pre-established TCP/QUIC connections.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
@@ -616,7 +626,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">1497</td> 
         </tr>
         <tr>
-            <td align="center">Top61</td>
+            <td align="center">Top62</td>
+            <td align="center"><a href="https://github.com/Notifuse/notifuse" target="_blank">Notifuse/notifuse</a></td> 
+            <td align="center">Notifuse is an open-source & modern emailing platform</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-15</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1430%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1430</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1454</td> 
+        </tr>
+        <tr>
+            <td align="center">Top63</td>
             <td align="center"><a href="https://github.com/yassinebenaid/bunster" target="_blank">yassinebenaid/bunster</a></td> 
             <td align="center">Compile shell scripts to static binaries.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
@@ -626,47 +646,47 @@
             <td style="white-space: nowrap; width: auto;" align="center">2612</td> 
         </tr>
         <tr>
-            <td align="center">Top62</td>
-            <td align="center"><a href="https://github.com/krau/SaveAny-Bot" target="_blank">krau/SaveAny-Bot</a></td> 
-            <td align="center">Save Any Telegram File to Anywhere 📂 (Alist, Disk, Webdav, S3...) . Support restrict saving content and beyond telegram.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-10-10</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1401%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1401</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1429</td> 
-        </tr>
-        <tr>
-            <td align="center">Top63</td>
-            <td align="center"><a href="https://github.com/stacklok/toolhive" target="_blank">stacklok/toolhive</a></td> 
-            <td align="center">ToolHive makes deploying MCP servers easy, secure and fun</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-12</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1400%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1400</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1422</td> 
-        </tr>
-        <tr>
             <td align="center">Top64</td>
-            <td align="center"><a href="https://github.com/Notifuse/notifuse" target="_blank">Notifuse/notifuse</a></td> 
-            <td align="center">Notifuse is an open-source & modern emailing platform</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-15</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1393%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1393</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1417</td> 
-        </tr>
-        <tr>
-            <td align="center">Top65</td>
             <td align="center"><a href="https://github.com/idursun/jjui" target="_blank">idursun/jjui</a></td> 
             <td align="center">Jujutsu UI (jjui) is a Text User Interface (TUI) designed for interacting with the Jujutsu version control system.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-09-09</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1389%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1389</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1410</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1415%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1415</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1436</td> 
+        </tr>
+        <tr>
+            <td align="center">Top65</td>
+            <td align="center"><a href="https://github.com/krau/SaveAny-Bot" target="_blank">krau/SaveAny-Bot</a></td> 
+            <td align="center">Save Any Telegram File to Anywhere 📂 (Alist, Disk, Webdav, S3...) . Support restrict saving content and beyond telegram.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-10-10</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1413%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1413</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1441</td> 
         </tr>
         <tr>
             <td align="center">Top66</td>
+            <td align="center"><a href="https://github.com/stacklok/toolhive" target="_blank">stacklok/toolhive</a></td> 
+            <td align="center">ToolHive makes deploying MCP servers easy, secure and fun</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-12</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1407%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1407</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1429</td> 
+        </tr>
+        <tr>
+            <td align="center">Top67</td>
+            <td align="center"><a href="https://github.com/mostlygeek/llama-swap" target="_blank">mostlygeek/llama-swap</a></td> 
+            <td align="center">Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-10-04</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1381%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1906</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2044</td> 
+        </tr>
+        <tr>
+            <td align="center">Top68</td>
             <td align="center"><a href="https://github.com/yincongcyincong/MuseBot" target="_blank">yincongcyincong/MuseBot</a></td> 
             <td align="center">supports Telegram, Discord, Slack, Lark（飞书），钉钉, 企业微信, QQ, 微信, compatible with various LLMs including OpenAI, Gemini, DeepSeek, Doubao, and OpenRouter. It offers intelligent conversation, image generation, video creation, and more. Works seamlessly in both private chats and group settings.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
@@ -676,7 +696,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">1382</td> 
         </tr>
         <tr>
-            <td align="center">Top67</td>
+            <td align="center">Top69</td>
             <td align="center"><a href="https://github.com/f/mcptools" target="_blank">f/mcptools</a></td> 
             <td align="center">A command-line interface for interacting with MCP (Model Context Protocol) servers using both stdio and HTTP transport.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
@@ -686,27 +706,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">1364</td> 
         </tr>
         <tr>
-            <td align="center">Top68</td>
-            <td align="center"><a href="https://github.com/mostlygeek/llama-swap" target="_blank">mostlygeek/llama-swap</a></td> 
-            <td align="center">Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-10-04</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1350%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1863</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2001</td> 
-        </tr>
-        <tr>
-            <td align="center">Top69</td>
+            <td align="center">Top70</td>
             <td align="center"><a href="https://github.com/maximhq/bifrost" target="_blank">maximhq/bifrost</a></td> 
             <td align="center">Fastest LLM gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-03-19</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1334%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1334</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1336</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1345%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1345</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1347</td> 
         </tr>
         <tr>
-            <td align="center">Top70</td>
+            <td align="center">Top71</td>
             <td align="center"><a href="https://github.com/isaacphi/mcp-language-server" target="_blank">isaacphi/mcp-language-server</a></td> 
             <td align="center">mcp-language-server gives MCP enabled clients access semantic tools like get definition, references, rename, and diagnostics.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
@@ -716,17 +726,27 @@
             <td style="white-space: nowrap; width: auto;" align="center">1298</td> 
         </tr>
         <tr>
-            <td align="center">Top71</td>
+            <td align="center">Top72</td>
             <td align="center"><a href="https://github.com/multigres/multigres" target="_blank">multigres/multigres</a></td> 
             <td align="center">Vitess for Postgres</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-06-10</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1281%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1576</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1699</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1290%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1587</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1710</td> 
         </tr>
         <tr>
-            <td align="center">Top72</td>
+            <td align="center">Top73</td>
+            <td align="center"><a href="https://github.com/MadAppGang/dingo" target="_blank">MadAppGang/dingo</a></td> 
+            <td align="center">A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-11-16</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1284%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1284</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1296</td> 
+        </tr>
+        <tr>
+            <td align="center">Top74</td>
             <td align="center"><a href="https://github.com/Safe3/openresty-manager" target="_blank">Safe3/openresty-manager</a></td> 
             <td align="center">Modern, secure, and elegant server control panel, alternative to OpenResty Edge and Nginx Proxy Manager.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
@@ -736,67 +756,67 @@
             <td style="white-space: nowrap; width: auto;" align="center">1220</td> 
         </tr>
         <tr>
-            <td align="center">Top73</td>
-            <td align="center"><a href="https://github.com/PlakarKorp/plakar" target="_blank">PlakarKorp/plakar</a></td> 
-            <td align="center">plakar is a backup solution powered by Kloset and ptar</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2021-03-19</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1193%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1301</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1410</td> 
-        </tr>
-        <tr>
-            <td align="center">Top74</td>
-            <td align="center"><a href="https://github.com/OpenListTeam/OpenList" target="_blank">OpenListTeam/OpenList</a></td> 
-            <td align="center">A new AList Fork to Anti Trust Crisis</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-06-12</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1192%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">17241</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">18687</td> 
-        </tr>
-        <tr>
             <td align="center">Top75</td>
-            <td align="center"><a href="https://github.com/nobiyou/wx_channel" target="_blank">nobiyou/wx_channel</a></td> 
-            <td align="center">微信视频号下载工具</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-06-11</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1179%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1179</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1184</td> 
-        </tr>
-        <tr>
-            <td align="center">Top76</td>
-            <td align="center"><a href="https://github.com/difyz9/ytb2bili" target="_blank">difyz9/ytb2bili</a></td> 
-            <td align="center">一个功能完整的视频自动化处理系统，支持从 YouTube 等平台下载视频，自动生成字幕、翻译内容、生成元数据，并定时上传到 Bilibili。</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-11-14</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1170%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1170</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1172</td> 
-        </tr>
-        <tr>
-            <td align="center">Top77</td>
-            <td align="center"><a href="https://github.com/envoyproxy/ai-gateway" target="_blank">envoyproxy/ai-gateway</a></td> 
-            <td align="center">Manages Unified Access to Generative AI Services built on Envoy Gateway</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-10-21</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1169%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1169</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1257</td> 
-        </tr>
-        <tr>
-            <td align="center">Top78</td>
             <td align="center"><a href="https://github.com/autobrr/qui" target="_blank">autobrr/qui</a></td> 
             <td align="center">Modern alternative webUI for qBittorrent, with multi-instance support. Written in Go/React.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-08-04</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1166%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1166</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1176</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1211%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1211</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1221</td> 
+        </tr>
+        <tr>
+            <td align="center">Top76</td>
+            <td align="center"><a href="https://github.com/OpenListTeam/OpenList" target="_blank">OpenListTeam/OpenList</a></td> 
+            <td align="center">A new AList Fork to Anti Trust Crisis</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-06-12</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1205%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">17432</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">18878</td> 
+        </tr>
+        <tr>
+            <td align="center">Top77</td>
+            <td align="center"><a href="https://github.com/difyz9/ytb2bili" target="_blank">difyz9/ytb2bili</a></td> 
+            <td align="center">一个功能完整的视频自动化处理系统，支持从 YouTube 等平台下载视频，自动生成字幕、翻译内容、生成元数据，并定时上传到 Bilibili。</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-11-14</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1205%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1205</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1207</td> 
+        </tr>
+        <tr>
+            <td align="center">Top78</td>
+            <td align="center"><a href="https://github.com/PlakarKorp/plakar" target="_blank">PlakarKorp/plakar</a></td> 
+            <td align="center">plakar is a backup solution powered by Kloset and ptar</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2021-03-19</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1200%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1309</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1418</td> 
         </tr>
         <tr>
             <td align="center">Top79</td>
+            <td align="center"><a href="https://github.com/envoyproxy/ai-gateway" target="_blank">envoyproxy/ai-gateway</a></td> 
+            <td align="center">Manages Unified Access to Generative AI Services built on Envoy Gateway</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-10-21</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1185%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1185</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1273</td> 
+        </tr>
+        <tr>
+            <td align="center">Top80</td>
+            <td align="center"><a href="https://github.com/nobiyou/wx_channel" target="_blank">nobiyou/wx_channel</a></td> 
+            <td align="center">微信视频号下载工具</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-06-11</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1183%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1183</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1188</td> 
+        </tr>
+        <tr>
+            <td align="center">Top81</td>
             <td align="center"><a href="https://github.com/gin-generator/websocket" target="_blank">gin-generator/websocket</a></td> 
             <td align="center"></td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
@@ -806,17 +826,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">1170</td> 
         </tr>
         <tr>
-            <td align="center">Top80</td>
-            <td align="center"><a href="https://github.com/MadAppGang/dingo" target="_blank">MadAppGang/dingo</a></td> 
-            <td align="center">A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-11-16</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1153%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1153</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1165</td> 
-        </tr>
-        <tr>
-            <td align="center">Top81</td>
+            <td align="center">Top82</td>
             <td align="center"><a href="https://github.com/lovelaze/nebula-sync" target="_blank">lovelaze/nebula-sync</a></td> 
             <td align="center">Synchronize configuration of multiple Pi-hole v6.x instances.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
@@ -826,7 +836,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">1226</td> 
         </tr>
         <tr>
-            <td align="center">Top82</td>
+            <td align="center">Top83</td>
+            <td align="center"><a href="https://github.com/k1LoW/deck" target="_blank">k1LoW/deck</a></td> 
+            <td align="center">deck is a tool for creating deck using Markdown and Google Slides.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-14</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1130%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1130</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1132</td> 
+        </tr>
+        <tr>
+            <td align="center">Top84</td>
             <td align="center"><a href="https://github.com/blampe/rreading-glasses" target="_blank">blampe/rreading-glasses</a></td> 
             <td align="center">Corrective lenses for curmudgeonly readars in your life</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
@@ -836,7 +856,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">1143</td> 
         </tr>
         <tr>
-            <td align="center">Top83</td>
+            <td align="center">Top85</td>
             <td align="center"><a href="https://github.com/vllm-project/aibrix" target="_blank">vllm-project/aibrix</a></td> 
             <td align="center">Cost-efficient and pluggable Infrastructure components for GenAI inference</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
@@ -846,57 +866,47 @@
             <td style="white-space: nowrap; width: auto;" align="center">4468</td> 
         </tr>
         <tr>
-            <td align="center">Top84</td>
+            <td align="center">Top86</td>
             <td align="center"><a href="https://github.com/datazip-inc/olake" target="_blank">datazip-inc/olake</a></td> 
             <td align="center">Fastest open-source tool for replicating Databases to Data Lake in Open Table Formats like Apache Iceberg. ⚡ Efficient, quick and scalable data ingestion for real-time analytics.  Supporting Postgres, MongoDB , MySQL  and Oracle</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-10-15</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1112%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1124</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1225</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1117%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1129</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1230</td> 
         </tr>
         <tr>
-            <td align="center">Top85</td>
-            <td align="center"><a href="https://github.com/k1LoW/deck" target="_blank">k1LoW/deck</a></td> 
-            <td align="center">deck is a tool for creating deck using Markdown and Google Slides.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-14</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1089%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1089</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1091</td> 
-        </tr>
-        <tr>
-            <td align="center">Top86</td>
+            <td align="center">Top87</td>
             <td align="center"><a href="https://github.com/mark3labs/mcphost" target="_blank">mark3labs/mcphost</a></td> 
             <td align="center">A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP).</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-12-09</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1085%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1357</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1482</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1094%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1368</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1493</td> 
         </tr>
         <tr>
-            <td align="center">Top87</td>
+            <td align="center">Top88</td>
             <td align="center"><a href="https://github.com/hashicorp/terraform-mcp-server" target="_blank">hashicorp/terraform-mcp-server</a></td> 
             <td align="center">The Terraform MCP Server provides seamless integration with Terraform ecosystem, enabling advanced automation and interaction capabilities for Infrastructure as Code (IaC) development.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-04-20</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1074%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1074</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1097</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1077%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1077</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1100</td> 
         </tr>
         <tr>
-            <td align="center">Top88</td>
+            <td align="center">Top89</td>
             <td align="center"><a href="https://github.com/docker/mcp-gateway" target="_blank">docker/mcp-gateway</a></td> 
             <td align="center">docker mcp CLI plugin / MCP Gateway</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-04-22</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1040%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1040</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1061</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1056%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1056</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1077</td> 
         </tr>
         <tr>
-            <td align="center">Top89</td>
+            <td align="center">Top90</td>
             <td align="center"><a href="https://github.com/enetx/surf" target="_blank">enetx/surf</a></td> 
             <td align="center">SURF - Advanced Go HTTP client with Chrome/Firefox browser impersonation, HTTP/3 with QUIC fingerprinting, JA3/JA4 TLS emulation, and anti-bot bypass for web automation and scraping.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
@@ -906,27 +916,37 @@
             <td style="white-space: nowrap; width: auto;" align="center">1126</td> 
         </tr>
         <tr>
-            <td align="center">Top90</td>
+            <td align="center">Top91</td>
             <td align="center"><a href="https://github.com/Deep-ai-inc/ch.at" target="_blank">Deep-ai-inc/ch.at</a></td> 
             <td align="center">Universal Basic Chat</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-06-18</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1034%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1034</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1039</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1036%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1036</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1041</td> 
         </tr>
         <tr>
-            <td align="center">Top91</td>
+            <td align="center">Top92</td>
             <td align="center"><a href="https://github.com/charmbracelet/fang" target="_blank">charmbracelet/fang</a></td> 
             <td align="center">The CLI starter kit</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-11-23</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1023%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1628</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1787</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1030%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1638</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1797</td> 
         </tr>
         <tr>
-            <td align="center">Top92</td>
+            <td align="center">Top93</td>
+            <td align="center"><a href="https://github.com/NVIDIA/KAI-Scheduler" target="_blank">NVIDIA/KAI-Scheduler</a></td> 
+            <td align="center">KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-02-27</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1001%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1001</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1004</td> 
+        </tr>
+        <tr>
+            <td align="center">Top94</td>
             <td align="center"><a href="https://github.com/korotovsky/slack-mcp-server" target="_blank">korotovsky/slack-mcp-server</a></td> 
             <td align="center">The most powerful MCP Slack Server with no permission requirements, Apps support, multiple transports Stdio and SSE, DMs, Group DMs and smart history fetch logic.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
@@ -936,54 +956,34 @@
             <td style="white-space: nowrap; width: auto;" align="center">995</td> 
         </tr>
         <tr>
-            <td align="center">Top93</td>
-            <td align="center"><a href="https://github.com/NVIDIA/KAI-Scheduler" target="_blank">NVIDIA/KAI-Scheduler</a></td> 
-            <td align="center">KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-02-27</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">971%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">971</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">974</td> 
-        </tr>
-        <tr>
-            <td align="center">Top94</td>
+            <td align="center">Top95</td>
             <td align="center"><a href="https://github.com/kimdre/doco-cd" target="_blank">kimdre/doco-cd</a></td> 
             <td align="center">Docker Compose Continuous Deployment</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-07-19</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">943%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">943</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">983</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">950%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">950</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">990</td> 
         </tr>
         <tr>
-            <td align="center">Top95</td>
+            <td align="center">Top96</td>
             <td align="center"><a href="https://github.com/raghavyuva/nixopus" target="_blank">raghavyuva/nixopus</a></td> 
             <td align="center">Open Source Alternative to vercel, heroku, netlify with simplified workflows</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-02-21</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">919%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">919</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">921</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">932%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">932</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">934</td> 
         </tr>
         <tr>
-            <td align="center">Top96</td>
+            <td align="center">Top97</td>
             <td align="center"><a href="https://github.com/containers/kubernetes-mcp-server" target="_blank">containers/kubernetes-mcp-server</a></td> 
             <td align="center">Model Context Protocol (MCP) server for Kubernetes and OpenShift</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-02-11</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">865%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">865</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">869</td> 
-        </tr>
-        <tr>
-            <td align="center">Top97</td>
-            <td align="center"><a href="https://github.com/openpcc/openpcc" target="_blank">openpcc/openpcc</a></td> 
-            <td align="center">An open-source framework for verifiably private AI inference</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-11-05</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">854%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">854</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">893</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">873%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">873</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">877</td> 
         </tr>
         <tr>
             <td align="center">Top98</td>
@@ -991,29 +991,29 @@
             <td align="center">Open source solutions for SOC2, GDPR, and ISO27001</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-01-08</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">848%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">848</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">881</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">855%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">855</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">888</td> 
         </tr>
         <tr>
             <td align="center">Top99</td>
-            <td align="center"><a href="https://github.com/bestruirui/BestSub" target="_blank">bestruirui/BestSub</a></td> 
-            <td align="center">Best Sub, Best for Your Net</td>
+            <td align="center"><a href="https://github.com/openpcc/openpcc" target="_blank">openpcc/openpcc</a></td> 
+            <td align="center">An open-source framework for verifiably private AI inference</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-01-04</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">825%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1725</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1934</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-11-05</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">853%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">853</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">892</td> 
         </tr>
         <tr>
             <td align="center">Top100</td>
-            <td align="center"><a href="https://github.com/vxcontrol/pentagi" target="_blank">vxcontrol/pentagi</a></td> 
-            <td align="center">✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks</td>
+            <td align="center"><a href="https://github.com/looplj/axonhub" target="_blank">looplj/axonhub</a></td> 
+            <td align="center">AxonHub is a modern AI gateway system that provides a unified OpenAI, Anthropic, Gemini and AI SDK compatible API</td>
             <td style="white-space: nowrap; width: auto;" align="center">Go</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-01-07</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">811%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">811</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">870</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-09-10</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">851%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">851</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">853</td> 
         </tr>
     </table>
 </div>

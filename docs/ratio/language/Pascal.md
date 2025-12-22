@@ -1,6 +1,6 @@
 📅统计周期：2025-01-01 ~ 2025-12-31<br>
 🌋数据来源：www.ffgithub.com<br>
-📚数据更新：2025-12-14<br>
+📚数据更新：2025-12-22<br>
 
 
 <div align="center">
@@ -21,9 +21,9 @@
             <td align="center">A DLL for forcing Discord to use a specified proxy (HTTP/SOCKS5) for TCP connections. Bypasses local restrictions on voice chats.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Pascal</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-10-18</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">173%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">323</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">509</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">177%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">331</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">517</td> 
         </tr>
         <tr>
             <td align="center">Top2</td>
@@ -41,9 +41,9 @@
             <td align="center">A GUI for ExifTool</td>
             <td style="white-space: nowrap; width: auto;" align="center">Pascal</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-07-27</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">74%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">319</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">749</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">75%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">323</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">753</td> 
         </tr>
         <tr>
             <td align="center">Top4</td>
@@ -51,9 +51,9 @@
             <td align="center">Goverlay is an easy graphical interface to configure MangoHud, vkBasalt, and OptiScaler</td>
             <td style="white-space: nowrap; width: auto;" align="center">Pascal</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-04-26</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">47%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">313</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">969</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">48%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">318</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">974</td> 
         </tr>
         <tr>
             <td align="center">Top5</td>

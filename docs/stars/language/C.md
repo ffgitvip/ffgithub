@@ -1,6 +1,6 @@
 📅统计周期：2025-01-01 ~ 2025-12-31<br>
 🌋数据来源：www.ffgithub.com<br>
-📚数据更新：2025-12-14<br>
+📚数据更新：2025-12-22<br>
 
 
 <div align="center">
@@ -32,8 +32,8 @@
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2021-02-19</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">56%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">6676</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">18584</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">6730</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">18638</td> 
         </tr>
         <tr>
             <td align="center">Top3</td>
@@ -52,8 +52,8 @@
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-03-22</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">29%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">5457</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">23920</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">5473</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">23936</td> 
         </tr>
         <tr>
             <td align="center">Top5</td>
@@ -91,9 +91,9 @@
             <td align="center">XLibre Xserver</td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-02-01</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3880%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3880</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">3883</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3895%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3895</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3898</td> 
         </tr>
         <tr>
             <td align="center">Top9</td>
@@ -101,9 +101,9 @@
             <td align="center">🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.</td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-10-26</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3779%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3779</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">3783</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3788%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3788</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3792</td> 
         </tr>
         <tr>
             <td align="center">Top10</td>
@@ -111,9 +111,9 @@
             <td align="center">A tiny (803KB) but mighty timer in pure C. Supports clock, countdown, stopwatch, Pomodoro, and fully customizable tray animations (GIFs, CPU/Mem%).</td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-01-28</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3505%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3505</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">3512</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3536%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3536</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3543</td> 
         </tr>
         <tr>
             <td align="center">Top11</td>
@@ -122,8 +122,8 @@
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2021-01-16</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">31%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3402</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">14264</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3438</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">14300</td> 
         </tr>
         <tr>
             <td align="center">Top12</td>
@@ -142,8 +142,8 @@
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-03-23</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">83%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3345</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">7350</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3351</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">7356</td> 
         </tr>
         <tr>
             <td align="center">Top14</td>
@@ -151,9 +151,9 @@
             <td align="center">JetKVM - Control any computer remotely</td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-10-03</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">421%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3255</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">4027</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">426%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3296</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">4068</td> 
         </tr>
         <tr>
             <td align="center">Top15</td>
@@ -181,9 +181,9 @@
             <td align="center">Predatory ESP32 Firmware</td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-05-03</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">186%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2775</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">4265</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">187%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2794</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">4284</td> 
         </tr>
         <tr>
             <td align="center">Top18</td>
@@ -202,8 +202,8 @@
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-09-30</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">18%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2451</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">15887</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2503</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">15939</td> 
         </tr>
         <tr>
             <td align="center">Top20</td>
@@ -212,8 +212,8 @@
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-03-16</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">12%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2322</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">20610</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2345</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">20633</td> 
         </tr>
         <tr>
             <td align="center">Top21</td>
@@ -237,26 +237,36 @@
         </tr>
         <tr>
             <td align="center">Top23</td>
-            <td align="center"><a href="https://github.com/p2r3/bareiron" target="_blank">p2r3/bareiron</a></td> 
-            <td align="center">Minimalist Minecraft server for memory-restrictive embedded systems</td>
-            <td style="white-space: nowrap; width: auto;" align="center">C</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-08-12</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">130%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2185</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">3859</td> 
-        </tr>
-        <tr>
-            <td align="center">Top24</td>
             <td align="center"><a href="https://github.com/mozilla-ai/llamafile" target="_blank">mozilla-ai/llamafile</a></td> 
             <td align="center">Distribute and run LLMs with a single file.</td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-09-11</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">10%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2180</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">23459</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2231</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">23510</td> 
+        </tr>
+        <tr>
+            <td align="center">Top24</td>
+            <td align="center"><a href="https://github.com/p2r3/bareiron" target="_blank">p2r3/bareiron</a></td> 
+            <td align="center">Minimalist Minecraft server for memory-restrictive embedded systems</td>
+            <td style="white-space: nowrap; width: auto;" align="center">C</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-08-12</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">132%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2215</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3889</td> 
         </tr>
         <tr>
             <td align="center">Top25</td>
+            <td align="center"><a href="https://github.com/PerformanC/ReZygisk" target="_blank">PerformanC/ReZygisk</a></td> 
+            <td align="center">Transparent implementation of Zygisk.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">C</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-06-15</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">319%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2174</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2854</td> 
+        </tr>
+        <tr>
+            <td align="center">Top26</td>
             <td align="center"><a href="https://github.com/geo-tp/ESP32-Bus-Pirate" target="_blank">geo-tp/ESP32-Bus-Pirate</a></td> 
             <td align="center">A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol</td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
@@ -264,16 +274,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">2135%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2135</td> 
             <td style="white-space: nowrap; width: auto;" align="center">2140</td> 
-        </tr>
-        <tr>
-            <td align="center">Top26</td>
-            <td align="center"><a href="https://github.com/PerformanC/ReZygisk" target="_blank">PerformanC/ReZygisk</a></td> 
-            <td align="center">Transparent implementation of Zygisk.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">C</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-06-15</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">313%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2133</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2813</td> 
         </tr>
         <tr>
             <td align="center">Top27</td>
@@ -292,8 +292,8 @@
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-09-03</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">44%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2009</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">6511</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2022</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">6524</td> 
         </tr>
         <tr>
             <td align="center">Top29</td>
@@ -301,9 +301,9 @@
             <td align="center">MongoDB-compatible database engine for cloud-native and open-source workloads. Built for scalability, performance, and developer productivity.</td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-01-23</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">175%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1907</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2994</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">176%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1921</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3008</td> 
         </tr>
         <tr>
             <td align="center">Top30</td>
@@ -317,6 +317,16 @@
         </tr>
         <tr>
             <td align="center">Top31</td>
+            <td align="center"><a href="https://github.com/UberGuidoZ/Flipper" target="_blank">UberGuidoZ/Flipper</a></td> 
+            <td align="center">Playground (and dump) of stuff I make or modify for the Flipper Zero</td>
+            <td style="white-space: nowrap; width: auto;" align="center">C</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2022-05-10</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">12%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1801</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">16308</td> 
+        </tr>
+        <tr>
+            <td align="center">Top32</td>
             <td align="center"><a href="https://github.com/asg017/sqlite-vec" target="_blank">asg017/sqlite-vec</a></td> 
             <td align="center">A vector search SQLite extension that runs anywhere!</td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
@@ -326,27 +336,27 @@
             <td style="white-space: nowrap; width: auto;" align="center">6458</td> 
         </tr>
         <tr>
-            <td align="center">Top32</td>
-            <td align="center"><a href="https://github.com/UberGuidoZ/Flipper" target="_blank">UberGuidoZ/Flipper</a></td> 
-            <td align="center">Playground (and dump) of stuff I make or modify for the Flipper Zero</td>
-            <td style="white-space: nowrap; width: auto;" align="center">C</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2022-05-10</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">12%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1754</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">16261</td> 
-        </tr>
-        <tr>
             <td align="center">Top33</td>
             <td align="center"><a href="https://github.com/GBALATRO/balatro-gba" target="_blank">GBALATRO/balatro-gba</a></td> 
             <td align="center"></td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-02-01</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1749%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1749</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1751</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1761%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1761</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1763</td> 
         </tr>
         <tr>
             <td align="center">Top34</td>
+            <td align="center"><a href="https://github.com/TEN-framework/ten-vad" target="_blank">TEN-framework/ten-vad</a></td> 
+            <td align="center">Voice Activity Detector (VAD) : low-latency, high-performance and lightweight</td>
+            <td style="white-space: nowrap; width: auto;" align="center">C</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-04-29</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1730%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1730</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1734</td> 
+        </tr>
+        <tr>
+            <td align="center">Top35</td>
             <td align="center"><a href="https://github.com/elaineyu1031/Open-ACS" target="_blank">elaineyu1031/Open-ACS</a></td> 
             <td align="center"></td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
@@ -356,27 +366,47 @@
             <td style="white-space: nowrap; width: auto;" align="center">1765</td> 
         </tr>
         <tr>
-            <td align="center">Top35</td>
-            <td align="center"><a href="https://github.com/TEN-framework/ten-vad" target="_blank">TEN-framework/ten-vad</a></td> 
-            <td align="center">Voice Activity Detector (VAD) : low-latency, high-performance and lightweight</td>
-            <td style="white-space: nowrap; width: auto;" align="center">C</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-04-29</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1700%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1700</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1704</td> 
-        </tr>
-        <tr>
             <td align="center">Top36</td>
             <td align="center"><a href="https://github.com/FalkorDB/FalkorDB" target="_blank">FalkorDB/FalkorDB</a></td> 
             <td align="center">A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).</td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-07-20</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">198%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1671</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2512</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">203%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1710</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2551</td> 
         </tr>
         <tr>
             <td align="center">Top37</td>
+            <td align="center"><a href="https://github.com/istoreos/istoreos" target="_blank">istoreos/istoreos</a></td> 
+            <td align="center">提供一个人人会用的的路由、NAS系统 （目前活跃的分支是 istoreos-24.10，main或master分支不维护请勿使用）</td>
+            <td style="white-space: nowrap; width: auto;" align="center">C</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2022-03-16</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">29%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1603</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">7039</td> 
+        </tr>
+        <tr>
+            <td align="center">Top38</td>
+            <td align="center"><a href="https://github.com/facebook/openzl" target="_blank">facebook/openzl</a></td> 
+            <td align="center">A novel data compression framework</td>
+            <td style="white-space: nowrap; width: auto;" align="center">C</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-10-01</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">123%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1573</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2850</td> 
+        </tr>
+        <tr>
+            <td align="center">Top39</td>
+            <td align="center"><a href="https://github.com/HarbourMasters/SpaghettiKart" target="_blank">HarbourMasters/SpaghettiKart</a></td> 
+            <td align="center"></td>
+            <td style="white-space: nowrap; width: auto;" align="center">C</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-04-07</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">475%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1564</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1893</td> 
+        </tr>
+        <tr>
+            <td align="center">Top40</td>
             <td align="center"><a href="https://github.com/peng-zhihui/Dummy-Robot" target="_blank">peng-zhihui/Dummy-Robot</a></td> 
             <td align="center">我的超迷你机械臂机器人项目。</td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
@@ -386,17 +416,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">14261</td> 
         </tr>
         <tr>
-            <td align="center">Top38</td>
-            <td align="center"><a href="https://github.com/HarbourMasters/SpaghettiKart" target="_blank">HarbourMasters/SpaghettiKart</a></td> 
-            <td align="center"></td>
-            <td style="white-space: nowrap; width: auto;" align="center">C</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-04-07</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">474%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1561</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1890</td> 
-        </tr>
-        <tr>
-            <td align="center">Top39</td>
+            <td align="center">Top41</td>
             <td align="center"><a href="https://github.com/nuta/operating-system-in-1000-lines" target="_blank">nuta/operating-system-in-1000-lines</a></td> 
             <td align="center">Writing an OS in 1,000 lines.</td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
@@ -406,34 +426,14 @@
             <td style="white-space: nowrap; width: auto;" align="center">3120</td> 
         </tr>
         <tr>
-            <td align="center">Top40</td>
-            <td align="center"><a href="https://github.com/istoreos/istoreos" target="_blank">istoreos/istoreos</a></td> 
-            <td align="center">提供一个人人会用的的路由、NAS系统 （目前活跃的分支是 istoreos-24.10，main或master分支不维护请勿使用）</td>
-            <td style="white-space: nowrap; width: auto;" align="center">C</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2022-03-16</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">28%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1552</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">6988</td> 
-        </tr>
-        <tr>
-            <td align="center">Top41</td>
-            <td align="center"><a href="https://github.com/facebook/openzl" target="_blank">facebook/openzl</a></td> 
-            <td align="center">A novel data compression framework</td>
-            <td style="white-space: nowrap; width: auto;" align="center">C</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-10-01</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">118%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1516</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2793</td> 
-        </tr>
-        <tr>
             <td align="center">Top42</td>
             <td align="center"><a href="https://github.com/DreamMaoMao/mangowc" target="_blank">DreamMaoMao/mangowc</a></td> 
             <td align="center">wayland compositor base wlroots and scenefx(dwm but wayland)</td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-02-03</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1483%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1483</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1490</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1495%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1495</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1502</td> 
         </tr>
         <tr>
             <td align="center">Top43</td>
@@ -451,39 +451,39 @@
             <td align="center">Breathe fresh life into your bricked Nest, now with 100% less evil!</td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-11-02</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1446%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1446</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1449</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1450%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1450</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1453</td> 
         </tr>
         <tr>
             <td align="center">Top45</td>
-            <td align="center"><a href="https://github.com/system-linux/FazJammer" target="_blank">system-linux/FazJammer</a></td> 
-            <td align="center">A minimal, simple and effective jammer that jams Wi-Fi, BLE and 2.4 GHz band.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">C</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-17</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1395%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1395</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1397</td> 
-        </tr>
-        <tr>
-            <td align="center">Top46</td>
             <td align="center"><a href="https://github.com/da-luce/astroterm" target="_blank">da-luce/astroterm</a></td> 
             <td align="center">A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐</td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-06-16</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">654%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1395</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1608</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">662%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1412</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1625</td> 
         </tr>
         <tr>
-            <td align="center">Top47</td>
+            <td align="center">Top46</td>
             <td align="center"><a href="https://github.com/meshcore-dev/MeshCore" target="_blank">meshcore-dev/MeshCore</a></td> 
             <td align="center">A new lightweight, hybrid routing mesh protocol for packet radios</td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-01-20</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1385%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1385</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1415</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1398%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1398</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1428</td> 
+        </tr>
+        <tr>
+            <td align="center">Top47</td>
+            <td align="center"><a href="https://github.com/system-linux/FazJammer" target="_blank">system-linux/FazJammer</a></td> 
+            <td align="center">A minimal, simple and effective jammer that jams Wi-Fi, BLE and 2.4 GHz band.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">C</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-17</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1398%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1398</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1400</td> 
         </tr>
         <tr>
             <td align="center">Top48</td>
@@ -491,9 +491,9 @@
             <td align="center">Lightweight unofficial Steam client for Android</td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-10-06</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">886%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1383</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1539</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">887%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1385</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1541</td> 
         </tr>
         <tr>
             <td align="center">Top49</td>
@@ -521,9 +521,9 @@
             <td align="center">Qtap: An eBPF agent that captures pre-encrypted network traffic, providing rich context about egress connections and their originating processes.</td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-04-16</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1361%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1361</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1374</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1364%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1364</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1377</td> 
         </tr>
         <tr>
             <td align="center">Top52</td>
@@ -541,9 +541,9 @@
             <td align="center">Use (almost) any camera as a webcam</td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-08-07</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">760%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1301</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1472</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">766%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1310</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1481</td> 
         </tr>
         <tr>
             <td align="center">Top54</td>
@@ -552,8 +552,8 @@
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-04-30</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">35%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1295</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">4914</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1302</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">4921</td> 
         </tr>
         <tr>
             <td align="center">Top55</td>
@@ -561,9 +561,9 @@
             <td align="center">New App Store for GNOME</td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-05-07</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1208%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1208</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1235</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1218%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1218</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1245</td> 
         </tr>
         <tr>
             <td align="center">Top56</td>
@@ -571,9 +571,9 @@
             <td align="center"></td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-09-25</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">96%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1180</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2398</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">99%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1209</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2427</td> 
         </tr>
         <tr>
             <td align="center">Top57</td>
@@ -582,11 +582,21 @@
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-07-23</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">6%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1145</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">19008</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1164</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">19027</td> 
         </tr>
         <tr>
             <td align="center">Top58</td>
+            <td align="center"><a href="https://github.com/ravachol/kew" target="_blank">ravachol/kew</a></td> 
+            <td align="center">Music for the Shell.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">C</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2023-05-17</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">99%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1132</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2274</td> 
+        </tr>
+        <tr>
+            <td align="center">Top59</td>
             <td align="center"><a href="https://github.com/i486/VxKex" target="_blank">i486/VxKex</a></td> 
             <td align="center">Windows 7 API Extensions</td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
@@ -596,7 +606,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">1472</td> 
         </tr>
         <tr>
-            <td align="center">Top59</td>
+            <td align="center">Top60</td>
             <td align="center"><a href="https://github.com/MikeWang000000/FakeHTTP" target="_blank">MikeWang000000/FakeHTTP</a></td> 
             <td align="center">Obfuscate all your TCP connections into HTTP protocol.</td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
@@ -604,16 +614,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">1117%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">1117</td> 
             <td style="white-space: nowrap; width: auto;" align="center">1199</td> 
-        </tr>
-        <tr>
-            <td align="center">Top60</td>
-            <td align="center"><a href="https://github.com/ravachol/kew" target="_blank">ravachol/kew</a></td> 
-            <td align="center">Music for the Shell.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">C</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2023-05-17</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">97%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1110</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2252</td> 
         </tr>
         <tr>
             <td align="center">Top61</td>
@@ -631,9 +631,9 @@
             <td align="center">A practical hacker's guide to the C programming language.</td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-03-18</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1080%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1080</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1083</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1082%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1082</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1085</td> 
         </tr>
         <tr>
             <td align="center">Top63</td>
@@ -641,9 +641,9 @@
             <td align="center">QuickJS, the Next Generation: a mighty JavaScript engine</td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-11-02</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">80%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1056</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2371</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">81%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1073</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2388</td> 
         </tr>
         <tr>
             <td align="center">Top64</td>
@@ -657,23 +657,23 @@
         </tr>
         <tr>
             <td align="center">Top65</td>
+            <td align="center"><a href="https://github.com/utkarshdalal/GameNative" target="_blank">utkarshdalal/GameNative</a></td> 
+            <td align="center">Lightweight unofficial Steam client for Android</td>
+            <td style="white-space: nowrap; width: auto;" align="center">C</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-04-21</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">208%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1025</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1517</td> 
+        </tr>
+        <tr>
+            <td align="center">Top66</td>
             <td align="center"><a href="https://github.com/Circuit-Digest/ESP-Drone" target="_blank">Circuit-Digest/ESP-Drone</a></td> 
             <td align="center"></td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-09-11</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">153%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1018</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1682</td> 
-        </tr>
-        <tr>
-            <td align="center">Top66</td>
-            <td align="center"><a href="https://github.com/utkarshdalal/GameNative" target="_blank">utkarshdalal/GameNative</a></td> 
-            <td align="center">Lightweight unofficial Steam client for Android</td>
-            <td style="white-space: nowrap; width: auto;" align="center">C</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-04-21</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">205%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1012</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1504</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1021</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1685</td> 
         </tr>
         <tr>
             <td align="center">Top67</td>
@@ -681,12 +681,32 @@
             <td align="center">🎯 A general-purpose protocol stack analysis and debugging tool based on eBPF 🧰   👉👉👉快速体验：http://82.156.141.213/</td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-07-11</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1008%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1008</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1018</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1009%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1009</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1019</td> 
         </tr>
         <tr>
             <td align="center">Top68</td>
+            <td align="center"><a href="https://github.com/MrGlockenspiel/activate-linux" target="_blank">MrGlockenspiel/activate-linux</a></td> 
+            <td align="center">The "Activate Windows" watermark ported to Linux</td>
+            <td style="white-space: nowrap; width: auto;" align="center">C</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2022-03-17</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">21%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1002</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">5586</td> 
+        </tr>
+        <tr>
+            <td align="center">Top69</td>
+            <td align="center"><a href="https://github.com/ahrm/sioyek" target="_blank">ahrm/sioyek</a></td> 
+            <td align="center">Sioyek is a PDF viewer with a focus on textbooks and research papers</td>
+            <td style="white-space: nowrap; width: auto;" align="center">C</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2021-07-12</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">13%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1002</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">8373</td> 
+        </tr>
+        <tr>
+            <td align="center">Top70</td>
             <td align="center"><a href="https://github.com/gojue/ecapture" target="_blank">gojue/ecapture</a></td> 
             <td align="center">Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.</td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
@@ -696,47 +716,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">14840</td> 
         </tr>
         <tr>
-            <td align="center">Top69</td>
-            <td align="center"><a href="https://github.com/MrGlockenspiel/activate-linux" target="_blank">MrGlockenspiel/activate-linux</a></td> 
-            <td align="center">The "Activate Windows" watermark ported to Linux</td>
-            <td style="white-space: nowrap; width: auto;" align="center">C</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2022-03-17</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">21%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">997</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">5581</td> 
-        </tr>
-        <tr>
-            <td align="center">Top70</td>
-            <td align="center"><a href="https://github.com/ahrm/sioyek" target="_blank">ahrm/sioyek</a></td> 
-            <td align="center">Sioyek is a PDF viewer with a focus on textbooks and research papers</td>
-            <td style="white-space: nowrap; width: auto;" align="center">C</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2021-07-12</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">13%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">994</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">8365</td> 
-        </tr>
-        <tr>
             <td align="center">Top71</td>
             <td align="center"><a href="https://github.com/eunomia-bpf/bpf-developer-tutorial" target="_blank">eunomia-bpf/bpf-developer-tutorial</a></td> 
             <td align="center">eBPF Developer Tutorial: Learning eBPF Step by Step with Examples</td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-12-02</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">34%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">978</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">3783</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">35%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">991</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3796</td> 
         </tr>
         <tr>
             <td align="center">Top72</td>
-            <td align="center"><a href="https://github.com/seapear/AffinityOnLinux" target="_blank">seapear/AffinityOnLinux</a></td> 
-            <td align="center">A repository that helps users get affinity software working on GNU/Linux 🐧</td>
-            <td style="white-space: nowrap; width: auto;" align="center">C</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-09-03</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">756%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">976</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1105</td> 
-        </tr>
-        <tr>
-            <td align="center">Top73</td>
             <td align="center"><a href="https://github.com/Zelda64Recomp/Zelda64Recomp" target="_blank">Zelda64Recomp/Zelda64Recomp</a></td> 
             <td align="center">Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux/Mac)</td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
@@ -746,27 +736,27 @@
             <td style="white-space: nowrap; width: auto;" align="center">6577</td> 
         </tr>
         <tr>
-            <td align="center">Top74</td>
+            <td align="center">Top73</td>
             <td align="center"><a href="https://github.com/ashtonjamesd/lavandula" target="_blank">ashtonjamesd/lavandula</a></td> 
             <td align="center">A intuitive, lightweight web framework in C for building modern web applications</td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-09-26</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">956%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">956</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">961</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">957%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">957</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">962</td> 
         </tr>
         <tr>
-            <td align="center">Top75</td>
+            <td align="center">Top74</td>
             <td align="center"><a href="https://github.com/Aleksoid1978/MPC-BE" target="_blank">Aleksoid1978/MPC-BE</a></td> 
             <td align="center">MPC-BE – универсальный проигрыватель аудио и видеофайлов для операционной системы Windows.</td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-01-30</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">37%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">935</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">3454</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">942</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3461</td> 
         </tr>
         <tr>
-            <td align="center">Top76</td>
+            <td align="center">Top75</td>
             <td align="center"><a href="https://github.com/RfidResearchGroup/ChameleonUltra" target="_blank">RfidResearchGroup/ChameleonUltra</a></td> 
             <td align="center">The new generation chameleon based on NRF52840 makes the performance of card emulation more stable. And gave the chameleon the ability to read, write, and decrypt cards.</td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
@@ -774,6 +764,16 @@
             <td style="white-space: nowrap; width: auto;"  align="center">87%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">933</td> 
             <td style="white-space: nowrap; width: auto;" align="center">1995</td> 
+        </tr>
+        <tr>
+            <td align="center">Top76</td>
+            <td align="center"><a href="https://github.com/BogdanTheGeek/semihost-ip" target="_blank">BogdanTheGeek/semihost-ip</a></td> 
+            <td align="center">Running TCP/IP over SWD lines</td>
+            <td style="white-space: nowrap; width: auto;" align="center">C</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-09-10</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">918%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">918</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">920</td> 
         </tr>
         <tr>
             <td align="center">Top77</td>
@@ -787,16 +787,26 @@
         </tr>
         <tr>
             <td align="center">Top78</td>
-            <td align="center"><a href="https://github.com/BogdanTheGeek/semihost-ip" target="_blank">BogdanTheGeek/semihost-ip</a></td> 
-            <td align="center">Running TCP/IP over SWD lines</td>
+            <td align="center"><a href="https://github.com/Snowflake-Labs/pg_lake" target="_blank">Snowflake-Labs/pg_lake</a></td> 
+            <td align="center">pg_lake: Postgres with Iceberg and data lake access</td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-09-10</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">909%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">909</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">911</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-11-04</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">213%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">899</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1320</td> 
         </tr>
         <tr>
             <td align="center">Top79</td>
+            <td align="center"><a href="https://github.com/tuya/TuyaOpen" target="_blank">tuya/TuyaOpen</a></td> 
+            <td align="center">Next-gen AI+IoT framework for T2/T3/T5AI/ESP32/and more – Fast IoT and AI Agent hardware integration</td>
+            <td style="white-space: nowrap; width: auto;" align="center">C</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2023-12-25</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">306%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">896</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1188</td> 
+        </tr>
+        <tr>
+            <td align="center">Top80</td>
             <td align="center"><a href="https://github.com/aws/pgactive" target="_blank">aws/pgactive</a></td> 
             <td align="center"></td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
@@ -806,7 +816,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">1086</td> 
         </tr>
         <tr>
-            <td align="center">Top80</td>
+            <td align="center">Top81</td>
             <td align="center"><a href="https://github.com/ubisoft/Chroma" target="_blank">ubisoft/Chroma</a></td> 
             <td align="center">Chroma (developed by Ubisoft) is a one-stop solution for detecting color blindness-related issues in games. It replicates Protanopia, Deuteranopia, and Tritanopia filters over the game screen, helping users flag accessibility concerns in real-time.</td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
@@ -816,27 +826,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">926</td> 
         </tr>
         <tr>
-            <td align="center">Top81</td>
-            <td align="center"><a href="https://github.com/tuya/TuyaOpen" target="_blank">tuya/TuyaOpen</a></td> 
-            <td align="center">Next-gen AI+IoT framework for T2/T3/T5AI/ESP32/and more – Fast IoT and AI Agent hardware integration</td>
-            <td style="white-space: nowrap; width: auto;" align="center">C</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2023-12-25</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">303%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">885</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1177</td> 
-        </tr>
-        <tr>
             <td align="center">Top82</td>
-            <td align="center"><a href="https://github.com/Snowflake-Labs/pg_lake" target="_blank">Snowflake-Labs/pg_lake</a></td> 
-            <td align="center">pg_lake: Postgres with Iceberg and data lake access</td>
-            <td style="white-space: nowrap; width: auto;" align="center">C</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-11-04</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">209%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">882</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1303</td> 
-        </tr>
-        <tr>
-            <td align="center">Top83</td>
             <td align="center"><a href="https://github.com/xaitax/Chrome-App-Bound-Encryption-Decryption" target="_blank">xaitax/Chrome-App-Bound-Encryption-Decryption</a></td> 
             <td align="center">Fully decrypt App-Bound Encrypted (ABE) cookies, passwords & payment methods from Chromium-based browsers (Chrome, Brave, Edge) - all in user mode, no admin rights required.</td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
@@ -846,7 +836,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">1180</td> 
         </tr>
         <tr>
-            <td align="center">Top84</td>
+            <td align="center">Top83</td>
             <td align="center"><a href="https://github.com/lizongying/my-tv" target="_blank">lizongying/my-tv</a></td> 
             <td align="center">我的电视 电视直播软件，安装即可使用</td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
@@ -856,14 +846,24 @@
             <td style="white-space: nowrap; width: auto;" align="center">32204</td> 
         </tr>
         <tr>
-            <td align="center">Top85</td>
+            <td align="center">Top84</td>
             <td align="center"><a href="https://github.com/airockchip/rknn_model_zoo" target="_blank">airockchip/rknn_model_zoo</a></td> 
             <td align="center"></td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-02-15</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">68%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">827</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2031</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">70%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">843</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2047</td> 
+        </tr>
+        <tr>
+            <td align="center">Top85</td>
+            <td align="center"><a href="https://github.com/hufrea/byedpi" target="_blank">hufrea/byedpi</a></td> 
+            <td align="center">Bypass DPI</td>
+            <td style="white-space: nowrap; width: auto;" align="center">C</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2023-06-02</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">43%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">842</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2769</td> 
         </tr>
         <tr>
             <td align="center">Top86</td>
@@ -877,16 +877,6 @@
         </tr>
         <tr>
             <td align="center">Top87</td>
-            <td align="center"><a href="https://github.com/hufrea/byedpi" target="_blank">hufrea/byedpi</a></td> 
-            <td align="center">Bypass DPI</td>
-            <td style="white-space: nowrap; width: auto;" align="center">C</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2023-06-02</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">42%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">818</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2745</td> 
-        </tr>
-        <tr>
-            <td align="center">Top88</td>
             <td align="center"><a href="https://github.com/peng-zhihui/ElectronBot" target="_blank">peng-zhihui/ElectronBot</a></td> 
             <td align="center"></td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
@@ -896,7 +886,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">9043</td> 
         </tr>
         <tr>
-            <td align="center">Top89</td>
+            <td align="center">Top88</td>
             <td align="center"><a href="https://github.com/strongtz/i915-sriov-dkms" target="_blank">strongtz/i915-sriov-dkms</a></td> 
             <td align="center">dkms module of Linux i915 driver with SR-IOV support</td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
@@ -906,17 +896,37 @@
             <td style="white-space: nowrap; width: auto;" align="center">2046</td> 
         </tr>
         <tr>
-            <td align="center">Top90</td>
+            <td align="center">Top89</td>
             <td align="center"><a href="https://github.com/ccfos/huatuo" target="_blank">ccfos/huatuo</a></td> 
             <td align="center">HUATUO is a cloud-native operating system observability project open-sourced by DIDI and incubated under the CCF.</td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-08-04</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">801%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">801</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">843</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">802%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">802</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">844</td> 
+        </tr>
+        <tr>
+            <td align="center">Top90</td>
+            <td align="center"><a href="https://github.com/johnfanv2/LenovoLegionLinux" target="_blank">johnfanv2/LenovoLegionLinux</a></td> 
+            <td align="center">Driver and tools for controlling Lenovo Legion laptops in Linux including fan control and power mode.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">C</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2023-01-06</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">45%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">799</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2573</td> 
         </tr>
         <tr>
             <td align="center">Top91</td>
+            <td align="center"><a href="https://github.com/HarbourMasters/Shipwright" target="_blank">HarbourMasters/Shipwright</a></td> 
+            <td align="center"></td>
+            <td style="white-space: nowrap; width: auto;" align="center">C</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2022-03-22</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">22%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">797</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">4264</td> 
+        </tr>
+        <tr>
+            <td align="center">Top92</td>
             <td align="center"><a href="https://github.com/lmarzen/esp32-weather-epd" target="_blank">lmarzen/esp32-weather-epd</a></td> 
             <td align="center">A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.</td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
@@ -926,7 +936,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">5669</td> 
         </tr>
         <tr>
-            <td align="center">Top92</td>
+            <td align="center">Top93</td>
             <td align="center"><a href="https://github.com/TanixLu/pyfuze" target="_blank">TanixLu/pyfuze</a></td> 
             <td align="center">Package Python projects into executables</td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
@@ -936,44 +946,34 @@
             <td style="white-space: nowrap; width: auto;" align="center">798</td> 
         </tr>
         <tr>
-            <td align="center">Top93</td>
+            <td align="center">Top94</td>
             <td align="center"><a href="https://github.com/orioledb/orioledb" target="_blank">orioledb/orioledb</a></td> 
             <td align="center">OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)</td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2021-11-29</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">25%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">783</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">3899</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">788</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3904</td> 
         </tr>
         <tr>
-            <td align="center">Top94</td>
+            <td align="center">Top95</td>
+            <td align="center"><a href="https://github.com/bol-van/zapret2" target="_blank">bol-van/zapret2</a></td> 
+            <td align="center">anti-dpi software</td>
+            <td style="white-space: nowrap; width: auto;" align="center">C</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-11-18</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">787%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">787</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">811</td> 
+        </tr>
+        <tr>
+            <td align="center">Top96</td>
             <td align="center"><a href="https://github.com/uint23/sxwm" target="_blank">uint23/sxwm</a></td> 
             <td align="center">a simple feature-rich dynamic tiling window manager</td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-04-15</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">781%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">781</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">831</td> 
-        </tr>
-        <tr>
-            <td align="center">Top95</td>
-            <td align="center"><a href="https://github.com/HarbourMasters/Shipwright" target="_blank">HarbourMasters/Shipwright</a></td> 
-            <td align="center"></td>
-            <td style="white-space: nowrap; width: auto;" align="center">C</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2022-03-22</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">22%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">778</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">4245</td> 
-        </tr>
-        <tr>
-            <td align="center">Top96</td>
-            <td align="center"><a href="https://github.com/johnfanv2/LenovoLegionLinux" target="_blank">johnfanv2/LenovoLegionLinux</a></td> 
-            <td align="center">Driver and tools for controlling Lenovo Legion laptops in Linux including fan control and power mode.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">C</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2023-01-06</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">43%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">770</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2544</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">782%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">782</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">832</td> 
         </tr>
         <tr>
             <td align="center">Top97</td>
@@ -997,13 +997,13 @@
         </tr>
         <tr>
             <td align="center">Top99</td>
-            <td align="center"><a href="https://github.com/bol-van/zapret2" target="_blank">bol-van/zapret2</a></td> 
-            <td align="center">anti-dpi software</td>
+            <td align="center"><a href="https://github.com/ColleagueRiley/RGFW" target="_blank">ColleagueRiley/RGFW</a></td> 
+            <td align="center">A cross platform lightweight single-header simple-to-use window abstraction library for creating graphical programs or libraries.</td>
             <td style="white-space: nowrap; width: auto;" align="center">C</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-11-18</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">748%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">748</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">772</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2023-02-22</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">89%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">735</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1557</td> 
         </tr>
         <tr>
             <td align="center">Top100</td>

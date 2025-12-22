@@ -1,6 +1,6 @@
 📅统计周期：2025-01-01 ~ 2025-12-31<br>
 🌋数据来源：www.ffgithub.com<br>
-📚数据更新：2025-12-14<br>
+📚数据更新：2025-12-22<br>
 
 
 <div align="center">
@@ -67,6 +67,16 @@
         </tr>
         <tr>
             <td align="center">Top6</td>
+            <td align="center"><a href="https://github.com/apache/arrow-go" target="_blank">apache/arrow-go</a></td> 
+            <td align="center">Official Go implementation of Apache Arrow</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Assembly</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-08-29</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">204%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">204</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">289</td> 
+        </tr>
+        <tr>
+            <td align="center">Top7</td>
             <td align="center"><a href="https://github.com/ROCm/rocm-libraries" target="_blank">ROCm/rocm-libraries</a></td> 
             <td align="center">monorepo for rocm libraries</td>
             <td style="white-space: nowrap; width: auto;" align="center">Assembly</td> 
@@ -76,17 +86,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">204</td> 
         </tr>
         <tr>
-            <td align="center">Top7</td>
-            <td align="center"><a href="https://github.com/apache/arrow-go" target="_blank">apache/arrow-go</a></td> 
-            <td align="center">Official Go implementation of Apache Arrow</td>
+            <td align="center">Top8</td>
+            <td align="center"><a href="https://github.com/PRoX2011/x16-PRos" target="_blank">PRoX2011/x16-PRos</a></td> 
+            <td align="center">Simple 16 bit (real mode) operating system writen in NASM from scratch</td>
             <td style="white-space: nowrap; width: auto;" align="center">Assembly</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-08-29</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">199%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">199</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">284</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-01</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">181%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">181</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">183</td> 
         </tr>
         <tr>
-            <td align="center">Top8</td>
+            <td align="center">Top9</td>
             <td align="center"><a href="https://github.com/0xNinjaCyclone/AsmLdr" target="_blank">0xNinjaCyclone/AsmLdr</a></td> 
             <td align="center">Dynamic shellcode loader with sophisticated evasion capabilities</td>
             <td style="white-space: nowrap; width: auto;" align="center">Assembly</td> 
@@ -94,16 +104,6 @@
             <td style="white-space: nowrap; width: auto;"  align="center">177%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">177</td> 
             <td style="white-space: nowrap; width: auto;" align="center">259</td> 
-        </tr>
-        <tr>
-            <td align="center">Top9</td>
-            <td align="center"><a href="https://github.com/PRoX2011/x16-PRos" target="_blank">PRoX2011/x16-PRos</a></td> 
-            <td align="center">Simple 16 bit (real mode) operating system writen in NASM from scratch</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Assembly</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-01</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">175%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">175</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">177</td> 
         </tr>
         <tr>
             <td align="center">Top10</td>
@@ -127,36 +127,26 @@
         </tr>
         <tr>
             <td align="center">Top12</td>
-            <td align="center"><a href="https://github.com/drink-cat/Book_Program-Principles" target="_blank">drink-cat/Book_Program-Principles</a></td> 
-            <td align="center">硬核书<<程序原理>>，有难度，有深度，值得拥有！    使用汇编、C、Java全面系统讲解，理论结合实践，图表并茂。</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Assembly</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-06</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">129%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">129</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">131</td> 
-        </tr>
-        <tr>
-            <td align="center">Top13</td>
             <td align="center"><a href="https://github.com/zhuozhiyongde/Introduction-to-Computer-System-2023Fall-PKU" target="_blank">zhuozhiyongde/Introduction-to-Computer-System-2023Fall-PKU</a></td> 
             <td align="center">北京大学 2023 年秋计算机系统导论课程（ICS）作业、笔记、经验</td>
             <td style="white-space: nowrap; width: auto;" align="center">Assembly</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-09-24</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">100%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">206</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">411</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">105%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">216</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">421</td> 
         </tr>
         <tr>
-            <td align="center">Top14</td>
+            <td align="center">Top13</td>
             <td align="center"><a href="https://github.com/PluMGMK/vbesvga.drv" target="_blank">PluMGMK/vbesvga.drv</a></td> 
             <td align="center">Modern Generic SVGA driver for Windows 3.1</td>
             <td style="white-space: nowrap; width: auto;" align="center">Assembly</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-12-16</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">95%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">311</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">635</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">98%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">318</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">642</td> 
         </tr>
         <tr>
-            <td align="center">Top15</td>
+            <td align="center">Top14</td>
             <td align="center"><a href="https://github.com/mschwartz/assembly-tutorial" target="_blank">mschwartz/assembly-tutorial</a></td> 
             <td align="center">Programming in assembly language tutorial</td>
             <td style="white-space: nowrap; width: auto;" align="center">Assembly</td> 
@@ -166,7 +156,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">1437</td> 
         </tr>
         <tr>
-            <td align="center">Top16</td>
+            <td align="center">Top15</td>
             <td align="center"><a href="https://github.com/memorysafety/rav1d" target="_blank">memorysafety/rav1d</a></td> 
             <td align="center">An AV1 decoder in Rust.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Assembly</td> 
@@ -176,7 +166,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">590</td> 
         </tr>
         <tr>
-            <td align="center">Top17</td>
+            <td align="center">Top16</td>
             <td align="center"><a href="https://github.com/ebitengine/purego" target="_blank">ebitengine/purego</a></td> 
             <td align="center">A library for calling C functions from Go without Cgo</td>
             <td style="white-space: nowrap; width: auto;" align="center">Assembly</td> 
@@ -186,7 +176,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">3154</td> 
         </tr>
         <tr>
-            <td align="center">Top18</td>
+            <td align="center">Top17</td>
             <td align="center"><a href="https://github.com/donno2048/snake" target="_blank">donno2048/snake</a></td> 
             <td align="center">A 54 bytes snake game in assembly</td>
             <td style="white-space: nowrap; width: auto;" align="center">Assembly</td> 
@@ -196,7 +186,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">1380</td> 
         </tr>
         <tr>
-            <td align="center">Top19</td>
+            <td align="center">Top18</td>
             <td align="center"><a href="https://github.com/pkivolowitz/asm_book" target="_blank">pkivolowitz/asm_book</a></td> 
             <td align="center">A book teaching assembly language programming on the ARM 64 bit ISA. Along the way, good programming practices and insights into code development are offered which apply directly to higher level languages.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Assembly</td> 
@@ -206,27 +196,27 @@
             <td style="white-space: nowrap; width: auto;" align="center">3079</td> 
         </tr>
         <tr>
-            <td align="center">Top20</td>
+            <td align="center">Top19</td>
             <td align="center"><a href="https://github.com/jthuraisamy/SysWhispers2" target="_blank">jthuraisamy/SysWhispers2</a></td> 
             <td align="center">AV/EDR evasion via direct system calls.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Assembly</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2021-01-02</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">11%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">188</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1764</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">12%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">190</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1766</td> 
         </tr>
         <tr>
-            <td align="center">Top21</td>
+            <td align="center">Top20</td>
             <td align="center"><a href="https://github.com/klezVirus/inceptor" target="_blank">klezVirus/inceptor</a></td> 
             <td align="center">Template-Driven AV/EDR Evasion Framework</td>
             <td style="white-space: nowrap; width: auto;" align="center">Assembly</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2021-08-02</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">8%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">138</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1753</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">139</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1754</td> 
         </tr>
         <tr>
-            <td align="center">Top22</td>
+            <td align="center">Top21</td>
             <td align="center"><a href="https://github.com/hackclub/some-assembly-required" target="_blank">hackclub/some-assembly-required</a></td> 
             <td align="center">📖 An approachable introduction to Assembly.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Assembly</td> 
@@ -236,7 +226,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">3481</td> 
         </tr>
         <tr>
-            <td align="center">Top23</td>
+            <td align="center">Top22</td>
             <td align="center"><a href="https://github.com/microsoft/BASIC-M6502" target="_blank">microsoft/BASIC-M6502</a></td> 
             <td align="center">Microsoft BASIC for 6502 Microprocessor - Version 1.1</td>
             <td style="white-space: nowrap; width: auto;" align="center">Assembly</td> 

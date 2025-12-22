@@ -1,6 +1,6 @@
 📅统计周期：2025-01-01 ~ 2025-12-31<br>
 🌋数据来源：www.ffgithub.com<br>
-📚数据更新：2025-12-14<br>
+📚数据更新：2025-12-22<br>
 
 
 <div align="center">
@@ -31,9 +31,9 @@
             <td align="center">学术期刊配色推荐器</td>
             <td style="white-space: nowrap; width: auto;" align="center">R</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-04-05</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">212%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">385</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">566</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">216%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">392</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">573</td> 
         </tr>
         <tr>
             <td align="center">Top3</td>
@@ -72,8 +72,8 @@
             <td style="white-space: nowrap; width: auto;" align="center">R</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-09-08</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">70%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">263</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">636</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">264</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">637</td> 
         </tr>
         <tr>
             <td align="center">Top7</td>
@@ -82,8 +82,8 @@
             <td style="white-space: nowrap; width: auto;" align="center">R</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-07-15</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">69%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">138</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">337</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">139</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">338</td> 
         </tr>
         <tr>
             <td align="center">Top8</td>
@@ -91,9 +91,9 @@
             <td align="center">Integrative Composable Visualization Framework for ggplot2</td>
             <td style="white-space: nowrap; width: auto;" align="center">R</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-07-13</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">63%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">143</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">368</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">64%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">146</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">371</td> 
         </tr>
         <tr>
             <td align="center">Top9</td>
@@ -111,9 +111,9 @@
             <td align="center">An end-to-end Single-Cell Pipeline designed to facilitate comprehensive analysis and exploration of single-cell data.</td>
             <td style="white-space: nowrap; width: auto;" align="center">R</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-03-30</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">41%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">177</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">601</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">42%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">180</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">604</td> 
         </tr>
         <tr>
             <td align="center">Top11</td>
@@ -121,9 +121,9 @@
             <td align="center">A list of awesome resources for Computational Social Science</td>
             <td style="white-space: nowrap; width: auto;" align="center">R</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-01-20</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">29%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">183</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">795</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">30%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">185</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">797</td> 
         </tr>
         <tr>
             <td align="center">Top12</td>
@@ -142,8 +142,8 @@
             <td style="white-space: nowrap; width: auto;" align="center">R</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-05-25</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">6%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">398</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">6933</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">411</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">6946</td> 
         </tr>
     </table>
 </div>

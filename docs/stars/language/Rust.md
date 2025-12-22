@@ -1,6 +1,6 @@
 📅统计周期：2025-01-01 ~ 2025-12-31<br>
 🌋数据来源：www.ffgithub.com<br>
-📚数据更新：2025-12-14<br>
+📚数据更新：2025-12-22<br>
 
 
 <div align="center">
@@ -22,8 +22,8 @@
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-05-17</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">507%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">62198</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">74451</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">62188</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">74441</td> 
         </tr>
         <tr>
             <td align="center">Top2</td>
@@ -32,8 +32,8 @@
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-10-03</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">106%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">38587</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">74826</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">38624</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">74863</td> 
         </tr>
         <tr>
             <td align="center">Top3</td>
@@ -51,9 +51,9 @@
             <td align="center">Main repository for the Linera protocol</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2021-12-19</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1467%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">29903</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">31940</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1468%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">29913</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">31950</td> 
         </tr>
         <tr>
             <td align="center">Top5</td>
@@ -62,8 +62,8 @@
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-10-17</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">206%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">26480</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">39321</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">26482</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">39323</td> 
         </tr>
         <tr>
             <td align="center">Top6</td>
@@ -71,9 +71,9 @@
             <td align="center">FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-05-02</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">26260%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">26260</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">26301</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">25977%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">25977</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">26018</td> 
         </tr>
         <tr>
             <td align="center">Top7</td>
@@ -81,9 +81,9 @@
             <td align="center">an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-08-24</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">6870%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">23909</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">24257</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">6893%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">23991</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">24339</td> 
         </tr>
         <tr>
             <td align="center">Top8</td>
@@ -92,8 +92,8 @@
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2021-02-20</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">34%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">18219</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">71387</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">18272</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">71440</td> 
         </tr>
         <tr>
             <td align="center">Top9</td>
@@ -101,9 +101,9 @@
             <td align="center">🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-11-23</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">16951%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">16951</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">17001</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">17040%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">17040</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">17090</td> 
         </tr>
         <tr>
             <td align="center">Top10</td>
@@ -111,9 +111,9 @@
             <td align="center">Multiplayer at the speed of light</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-06-17</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">320%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">14278</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">18727</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">321%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">14290</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">18739</td> 
         </tr>
         <tr>
             <td align="center">Top11</td>
@@ -122,21 +122,11 @@
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-08-01</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">68%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">13030</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">32050</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">13084</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">32104</td> 
         </tr>
         <tr>
             <td align="center">Top12</td>
-            <td align="center"><a href="https://github.com/jj-vcs/jj" target="_blank">jj-vcs/jj</a></td> 
-            <td align="center">A Git-compatible VCS that is both simple and powerful</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2020-12-18</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">117%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">12439</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">22986</td> 
-        </tr>
-        <tr>
-            <td align="center">Top13</td>
             <td align="center"><a href="https://github.com/microsoft/edit" target="_blank">microsoft/edit</a></td> 
             <td align="center">We all edit.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
@@ -146,24 +136,34 @@
             <td style="white-space: nowrap; width: auto;" align="center">12893</td> 
         </tr>
         <tr>
-            <td align="center">Top14</td>
+            <td align="center">Top13</td>
             <td align="center"><a href="https://github.com/YaLTeR/niri" target="_blank">YaLTeR/niri</a></td> 
             <td align="center">A scrollable-tiling Wayland compositor.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-08-10</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">238%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">11414</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">16202</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">241%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">11548</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">16336</td> 
         </tr>
         <tr>
-            <td align="center">Top15</td>
+            <td align="center">Top14</td>
             <td align="center"><a href="https://github.com/eythaann/Seelen-UI" target="_blank">eythaann/Seelen-UI</a></td> 
             <td align="center">The Fully Customizable Desktop Environment for Windows 10/11.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-02-17</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">194%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">9948</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">15053</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">195%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">9984</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">15089</td> 
+        </tr>
+        <tr>
+            <td align="center">Top15</td>
+            <td align="center"><a href="https://github.com/tw93/Pake" target="_blank">tw93/Pake</a></td> 
+            <td align="center">🤱🏻 Turn any webpage into a desktop app with one command.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2022-10-14</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">28%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">9891</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">44079</td> 
         </tr>
         <tr>
             <td align="center">Top16</td>
@@ -172,61 +172,51 @@
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-08-10</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">28%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">9754</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">44365</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">9769</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">44380</td> 
         </tr>
         <tr>
             <td align="center">Top17</td>
-            <td align="center"><a href="https://github.com/tw93/Pake" target="_blank">tw93/Pake</a></td> 
-            <td align="center">🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2022-10-14</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">28%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">9651</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">43839</td> 
-        </tr>
-        <tr>
-            <td align="center">Top18</td>
             <td align="center"><a href="https://github.com/sxyazi/yazi" target="_blank">sxyazi/yazi</a></td> 
             <td align="center">💥 Blazing fast terminal file manager written in Rust, based on async I/O.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-07-08</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">45%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">9635</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">30588</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">46%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">9692</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">30645</td> 
         </tr>
         <tr>
-            <td align="center">Top19</td>
+            <td align="center">Top18</td>
             <td align="center"><a href="https://github.com/jdx/mise" target="_blank">jdx/mise</a></td> 
             <td align="center">dev tools, env vars, task runner</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-01-09</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">73%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">9332</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">22114</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">9352</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">22134</td> 
         </tr>
         <tr>
-            <td align="center">Top20</td>
+            <td align="center">Top19</td>
             <td align="center"><a href="https://github.com/longbridge/gpui-component" target="_blank">longbridge/gpui-component</a></td> 
             <td align="center">Rust GUI components for building fantastic cross-platform desktop application by using GPUI.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-06-13</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2483%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">8815</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">9170</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2507%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">8900</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">9255</td> 
         </tr>
         <tr>
-            <td align="center">Top21</td>
+            <td align="center">Top20</td>
             <td align="center"><a href="https://github.com/tensorzero/tensorzero" target="_blank">tensorzero/tensorzero</a></td> 
             <td align="center">TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-07-17</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">439%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">8703</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">10684</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">440%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">8726</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">10707</td> 
         </tr>
         <tr>
-            <td align="center">Top22</td>
+            <td align="center">Top21</td>
             <td align="center"><a href="https://github.com/Zackriya-Solutions/meeting-minutes" target="_blank">Zackriya-Solutions/meeting-minutes</a></td> 
             <td align="center">Open-source Rust based AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted Ai meeting note taker for macOS & Windows.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
@@ -236,37 +226,37 @@
             <td style="white-space: nowrap; width: auto;" align="center">8643</td> 
         </tr>
         <tr>
-            <td align="center">Top23</td>
+            <td align="center">Top22</td>
             <td align="center"><a href="https://github.com/DioxusLabs/dioxus" target="_blank">DioxusLabs/dioxus</a></td> 
             <td align="center">Fullstack app framework for web, desktop, and mobile.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2021-01-15</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">34%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">8307</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">32582</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">8433</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">32708</td> 
         </tr>
         <tr>
-            <td align="center">Top24</td>
+            <td align="center">Top23</td>
             <td align="center"><a href="https://github.com/chroma-core/chroma" target="_blank">chroma-core/chroma</a></td> 
             <td align="center">Open-source search and retrieval database for AI applications.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-10-06</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">46%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">7857</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">24898</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">7882</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">24923</td> 
         </tr>
         <tr>
-            <td align="center">Top25</td>
+            <td align="center">Top24</td>
             <td align="center"><a href="https://github.com/moghtech/komodo" target="_blank">moghtech/komodo</a></td> 
             <td align="center">🦎 a tool to build and deploy software on many servers 🦎</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-03-13</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">288%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">6665</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">8976</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">290%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">6712</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">9023</td> 
         </tr>
         <tr>
-            <td align="center">Top26</td>
+            <td align="center">Top25</td>
             <td align="center"><a href="https://github.com/tursodatabase/turso" target="_blank">tursodatabase/turso</a></td> 
             <td align="center">Turso is an in-process SQL database, compatible with SQLite.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
@@ -276,7 +266,27 @@
             <td style="white-space: nowrap; width: auto;" align="center">15085</td> 
         </tr>
         <tr>
+            <td align="center">Top26</td>
+            <td align="center"><a href="https://github.com/BloopAI/vibe-kanban" target="_blank">BloopAI/vibe-kanban</a></td> 
+            <td align="center">Kanban board to manage your AI coding agents</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-06-15</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2149%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">6255</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">6546</td> 
+        </tr>
+        <tr>
             <td align="center">Top27</td>
+            <td align="center"><a href="https://github.com/EasyTier/EasyTier" target="_blank">EasyTier/EasyTier</a></td> 
+            <td align="center">A simple, decentralized mesh VPN with WireGuard support.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2023-09-30</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">250%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">6233</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">8723</td> 
+        </tr>
+        <tr>
+            <td align="center">Top28</td>
             <td align="center"><a href="https://github.com/get-convex/convex-backend" target="_blank">get-convex/convex-backend</a></td> 
             <td align="center">The open-source reactive database for app developers</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
@@ -286,47 +296,27 @@
             <td style="white-space: nowrap; width: auto;" align="center">8549</td> 
         </tr>
         <tr>
-            <td align="center">Top28</td>
-            <td align="center"><a href="https://github.com/BloopAI/vibe-kanban" target="_blank">BloopAI/vibe-kanban</a></td> 
-            <td align="center">Kanban board to manage your AI coding agents</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-06-15</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2131%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">6203</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">6494</td> 
-        </tr>
-        <tr>
             <td align="center">Top29</td>
             <td align="center"><a href="https://github.com/biomejs/biome" target="_blank">biomejs/biome</a></td> 
             <td align="center">A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-07-28</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">37%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">6168</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">22684</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">6211</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">22727</td> 
         </tr>
         <tr>
             <td align="center">Top30</td>
-            <td align="center"><a href="https://github.com/EasyTier/EasyTier" target="_blank">EasyTier/EasyTier</a></td> 
-            <td align="center">A simple, decentralized mesh VPN with WireGuard support.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2023-09-30</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">246%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">6127</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">8617</td> 
-        </tr>
-        <tr>
-            <td align="center">Top31</td>
             <td align="center"><a href="https://github.com/Automattic/harper" target="_blank">Automattic/harper</a></td> 
             <td align="center">Offline, privacy-first grammar checker. Fast, open-source, Rust-powered</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-10-22</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">202%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">5884</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">8792</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">5898</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">8806</td> 
         </tr>
         <tr>
-            <td align="center">Top32</td>
+            <td align="center">Top31</td>
             <td align="center"><a href="https://github.com/agentcodee/cursor-free-everyday" target="_blank">agentcodee/cursor-free-everyday</a></td> 
             <td align="center">完全免费, 自动获取新账号,一键重置新额度,  解决机器码问题, 自动满额度</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
@@ -336,7 +326,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">5800</td> 
         </tr>
         <tr>
-            <td align="center">Top33</td>
+            <td align="center">Top32</td>
             <td align="center"><a href="https://github.com/mfontanini/presenterm" target="_blank">mfontanini/presenterm</a></td> 
             <td align="center">A markdown terminal slideshow tool</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
@@ -346,17 +336,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">7489</td> 
         </tr>
         <tr>
-            <td align="center">Top34</td>
+            <td align="center">Top33</td>
             <td align="center"><a href="https://github.com/ai-dynamo/dynamo" target="_blank">ai-dynamo/dynamo</a></td> 
             <td align="center">A Datacenter Scale Distributed Inference Serving Framework</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-03-04</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1455%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">5270</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">5632</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1456%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">5272</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">5634</td> 
         </tr>
         <tr>
-            <td align="center">Top35</td>
+            <td align="center">Top34</td>
             <td align="center"><a href="https://github.com/BoundaryML/baml" target="_blank">BoundaryML/baml</a></td> 
             <td align="center">The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
@@ -366,7 +356,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">7020</td> 
         </tr>
         <tr>
-            <td align="center">Top36</td>
+            <td align="center">Top35</td>
             <td align="center"><a href="https://github.com/eza-community/eza" target="_blank">eza-community/eza</a></td> 
             <td align="center">A modern alternative to ls</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
@@ -376,67 +366,67 @@
             <td style="white-space: nowrap; width: auto;" align="center">18770</td> 
         </tr>
         <tr>
-            <td align="center">Top37</td>
+            <td align="center">Top36</td>
             <td align="center"><a href="https://github.com/ratatui/ratatui" target="_blank">ratatui/ratatui</a></td> 
             <td align="center">A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-02-13</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">43%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">5017</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">16636</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">5075</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">16694</td> 
         </tr>
         <tr>
-            <td align="center">Top38</td>
+            <td align="center">Top37</td>
             <td align="center"><a href="https://github.com/facebook/pyrefly" target="_blank">facebook/pyrefly</a></td> 
             <td align="center">A fast type checker and language server for Python</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-02-20</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">4992%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">4992</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">5024</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">4999%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">4999</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">5031</td> 
         </tr>
         <tr>
-            <td align="center">Top39</td>
+            <td align="center">Top38</td>
             <td align="center"><a href="https://github.com/stalwartlabs/stalwart" target="_blank">stalwartlabs/stalwart</a></td> 
             <td align="center">All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-03-06</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">78%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">4678</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">10630</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">79%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">4720</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">10672</td> 
         </tr>
         <tr>
-            <td align="center">Top40</td>
+            <td align="center">Top39</td>
             <td align="center"><a href="https://github.com/oxc-project/oxc" target="_blank">oxc-project/oxc</a></td> 
             <td align="center">⚓ A collection of high-performance JavaScript tools.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-02-09</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">35%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">4631</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">17771</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">4636</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">17776</td> 
         </tr>
         <tr>
-            <td align="center">Top41</td>
+            <td align="center">Top40</td>
             <td align="center"><a href="https://github.com/antinomyhq/forge" target="_blank">antinomyhq/forge</a></td> 
             <td align="center">AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-12-09</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">4579%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">4579</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">4585</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">4584%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">4584</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">4590</td> 
         </tr>
         <tr>
-            <td align="center">Top42</td>
+            <td align="center">Top41</td>
             <td align="center"><a href="https://github.com/cordx56/rustowl" target="_blank">cordx56/rustowl</a></td> 
             <td align="center">Visualize Ownership and Lifetimes in Rust</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-10-17</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1375%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">4566</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">4898</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1376%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">4569</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">4901</td> 
         </tr>
         <tr>
-            <td align="center">Top43</td>
+            <td align="center">Top42</td>
             <td align="center"><a href="https://github.com/neondatabase/neon" target="_blank">neondatabase/neon</a></td> 
             <td align="center">Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
@@ -446,14 +436,24 @@
             <td style="white-space: nowrap; width: auto;" align="center">20360</td> 
         </tr>
         <tr>
-            <td align="center">Top44</td>
+            <td align="center">Top43</td>
             <td align="center"><a href="https://github.com/n0-computer/iroh" target="_blank">n0-computer/iroh</a></td> 
             <td align="center">peer-2-peer that just works</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-03-15</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">144%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">4463</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">7550</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">145%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">4477</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">7564</td> 
+        </tr>
+        <tr>
+            <td align="center">Top44</td>
+            <td align="center"><a href="https://github.com/TabbyML/tabby" target="_blank">TabbyML/tabby</a></td> 
+            <td align="center">Self-hosted AI coding assistant</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2023-03-16</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">15%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">4324</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">32591</td> 
         </tr>
         <tr>
             <td align="center">Top45</td>
@@ -461,52 +461,42 @@
             <td align="center">A cross-platform bilibili toolbox. 跨平台哔哩哔哩工具箱，支持下载视频、番剧等等各类资源</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-11-24</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">4226%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">4226</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">4246</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">4231%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">4231</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">4251</td> 
         </tr>
         <tr>
             <td align="center">Top46</td>
-            <td align="center"><a href="https://github.com/TabbyML/tabby" target="_blank">TabbyML/tabby</a></td> 
-            <td align="center">Self-hosted AI coding assistant</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2023-03-16</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">14%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">4222</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">32489</td> 
-        </tr>
-        <tr>
-            <td align="center">Top47</td>
             <td align="center"><a href="https://github.com/tracel-ai/burn" target="_blank">tracel-ai/burn</a></td> 
             <td align="center">Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-07-19</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">44%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">4173</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">13633</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">4192</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">13652</td> 
         </tr>
         <tr>
-            <td align="center">Top48</td>
+            <td align="center">Top47</td>
             <td align="center"><a href="https://github.com/zerocore-ai/microsandbox" target="_blank">zerocore-ai/microsandbox</a></td> 
             <td align="center">opensource self-hosted ai agent sandboxes</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-10-03</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">4106%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">4106</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">4128</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">4141%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">4141</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">4163</td> 
         </tr>
         <tr>
-            <td align="center">Top49</td>
+            <td align="center">Top48</td>
             <td align="center"><a href="https://github.com/tokio-rs/axum" target="_blank">tokio-rs/axum</a></td> 
             <td align="center">Ergonomic and modular web framework built with Tokio, Tower, and Hyper</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2021-05-30</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">19%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3946</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">24047</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">20%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">4032</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">24133</td> 
         </tr>
         <tr>
-            <td align="center">Top50</td>
+            <td align="center">Top49</td>
             <td align="center"><a href="https://github.com/google/comprehensive-rust" target="_blank">google/comprehensive-rust</a></td> 
             <td align="center">This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
@@ -516,14 +506,24 @@
             <td style="white-space: nowrap; width: auto;" align="center">32356</td> 
         </tr>
         <tr>
-            <td align="center">Top51</td>
+            <td align="center">Top50</td>
             <td align="center"><a href="https://github.com/ast-grep/ast-grep" target="_blank">ast-grep/ast-grep</a></td> 
             <td align="center">⚡A CLI tool for code structural search, lint and rewriting. Written in Rust</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-07-02</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">47%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3722</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">11611</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3733</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">11622</td> 
+        </tr>
+        <tr>
+            <td align="center">Top51</td>
+            <td align="center"><a href="https://github.com/cocoindex-io/cocoindex" target="_blank">cocoindex-io/cocoindex</a></td> 
+            <td align="center">Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it!</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-04</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3715%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3715</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3783</td> 
         </tr>
         <tr>
             <td align="center">Top52</td>
@@ -537,23 +537,23 @@
         </tr>
         <tr>
             <td align="center">Top53</td>
-            <td align="center"><a href="https://github.com/cocoindex-io/cocoindex" target="_blank">cocoindex-io/cocoindex</a></td> 
-            <td align="center">Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it!</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-04</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3587%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3587</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">3655</td> 
-        </tr>
-        <tr>
-            <td align="center">Top54</td>
             <td align="center"><a href="https://github.com/unhappychoice/gitlogue" target="_blank">unhappychoice/gitlogue</a></td> 
             <td align="center">A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-11-09</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3513%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3513</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">3518</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3635%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3635</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3640</td> 
+        </tr>
+        <tr>
+            <td align="center">Top54</td>
+            <td align="center"><a href="https://github.com/EFForg/rayhunter" target="_blank">EFForg/rayhunter</a></td> 
+            <td align="center">Rust tool to detect cell site simulators on an orbic mobile hotspot</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2023-11-09</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3427%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3530</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3633</td> 
         </tr>
         <tr>
             <td align="center">Top55</td>
@@ -562,38 +562,38 @@
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-01-27</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">185%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3486</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">5361</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3487</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">5362</td> 
         </tr>
         <tr>
             <td align="center">Top56</td>
-            <td align="center"><a href="https://github.com/EFForg/rayhunter" target="_blank">EFForg/rayhunter</a></td> 
-            <td align="center">Rust tool to detect cell site simulators on an orbic mobile hotspot</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2023-11-09</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3373%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3475</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">3578</td> 
-        </tr>
-        <tr>
-            <td align="center">Top57</td>
             <td align="center"><a href="https://github.com/HelixDB/helix-db" target="_blank">HelixDB/helix-db</a></td> 
             <td align="center">HelixDB is an open-source graph-vector database built from scratch in Rust.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-11-23</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3460%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3460</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">3474</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3475%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3475</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3489</td> 
         </tr>
         <tr>
-            <td align="center">Top58</td>
+            <td align="center">Top57</td>
             <td align="center"><a href="https://github.com/openobserve/openobserve" target="_blank">openobserve/openobserve</a></td> 
             <td align="center">Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-02-02</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">24%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3444</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">17510</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3451</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">17517</td> 
+        </tr>
+        <tr>
+            <td align="center">Top58</td>
+            <td align="center"><a href="https://github.com/LGUG2Z/komorebi" target="_blank">LGUG2Z/komorebi</a></td> 
+            <td align="center">A tiling window manager for Windows 🍉</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2021-07-30</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">33%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3409</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">13514</td> 
         </tr>
         <tr>
             <td align="center">Top59</td>
@@ -607,16 +607,6 @@
         </tr>
         <tr>
             <td align="center">Top60</td>
-            <td align="center"><a href="https://github.com/LGUG2Z/komorebi" target="_blank">LGUG2Z/komorebi</a></td> 
-            <td align="center">A tiling window manager for Windows 🍉</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2021-07-30</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">33%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3374</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">13479</td> 
-        </tr>
-        <tr>
-            <td align="center">Top61</td>
             <td align="center"><a href="https://github.com/Lagrange-Labs/deep-prove" target="_blank">Lagrange-Labs/deep-prove</a></td> 
             <td align="center">Framework to prove inference of ML models blazingly fast</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
@@ -626,14 +616,24 @@
             <td style="white-space: nowrap; width: auto;" align="center">3359</td> 
         </tr>
         <tr>
-            <td align="center">Top62</td>
+            <td align="center">Top61</td>
             <td align="center"><a href="https://github.com/gitbutlerapp/gitbutler" target="_blank">gitbutlerapp/gitbutler</a></td> 
             <td align="center">The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-01-31</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">23%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3291</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">17204</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3294</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">17207</td> 
+        </tr>
+        <tr>
+            <td align="center">Top62</td>
+            <td align="center"><a href="https://github.com/mufeedvh/code2prompt" target="_blank">mufeedvh/code2prompt</a></td> 
+            <td align="center">A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-03-09</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">90%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3264</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">6873</td> 
         </tr>
         <tr>
             <td align="center">Top63</td>
@@ -641,22 +641,12 @@
             <td align="center">Delivery infrastructure for agents. Arch is a models-native proxy and data plane for agents that handles plumbing work in AI - like agent routing and orchestration, guardrails, zero-code logs and traces, and unified access to LLMs (OpenAI, Anthropic, Ollama, etc.). Build agents faster and deliver them reliably to prod.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-07-10</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">243%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3241</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">4570</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">245%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3257</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">4586</td> 
         </tr>
         <tr>
             <td align="center">Top64</td>
-            <td align="center"><a href="https://github.com/mufeedvh/code2prompt" target="_blank">mufeedvh/code2prompt</a></td> 
-            <td align="center">A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-03-09</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">89%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3240</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">6849</td> 
-        </tr>
-        <tr>
-            <td align="center">Top65</td>
             <td align="center"><a href="https://github.com/louis-e/arnis" target="_blank">louis-e/arnis</a></td> 
             <td align="center">Generate any location from the real world in Minecraft with a high level of detail.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
@@ -666,14 +656,24 @@
             <td style="white-space: nowrap; width: auto;" align="center">8045</td> 
         </tr>
         <tr>
+            <td align="center">Top65</td>
+            <td align="center"><a href="https://github.com/trailbaseio/trailbase" target="_blank">trailbaseio/trailbase</a></td> 
+            <td align="center">A blazingly fast, open-source application server with type-safe APIs, built-in WebAssembly runtime, realtime, auth, and admin UI built on Rust, SQLite & Wasmtime.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-10-29</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">227%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2942</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">4238</td> 
+        </tr>
+        <tr>
             <td align="center">Top66</td>
             <td align="center"><a href="https://github.com/lancedb/lancedb" target="_blank">lancedb/lancedb</a></td> 
             <td align="center">Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-02-28</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">54%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2891</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">8174</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">55%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2939</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">8222</td> 
         </tr>
         <tr>
             <td align="center">Top67</td>
@@ -681,9 +681,9 @@
             <td align="center">An transformer based LLM. Written completely in Rust</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-09-14</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2769%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2880</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2984</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2777%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2889</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2993</td> 
         </tr>
         <tr>
             <td align="center">Top68</td>
@@ -691,9 +691,9 @@
             <td align="center">Horizontal scaling for PostgreSQL with automatic sharding.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-12-28</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2836%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2836</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2882</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2845%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2845</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2891</td> 
         </tr>
         <tr>
             <td align="center">Top69</td>
@@ -702,18 +702,18 @@
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-09-18</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">27%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2727</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">12513</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2730</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">12516</td> 
         </tr>
         <tr>
             <td align="center">Top70</td>
-            <td align="center"><a href="https://github.com/trailbaseio/trailbase" target="_blank">trailbaseio/trailbase</a></td> 
-            <td align="center">A blazingly fast, open-source application server with type-safe APIs, built-in WebAssembly runtime, realtime, auth, and admin UI built on Rust, SQLite & Wasmtime.</td>
+            <td align="center"><a href="https://github.com/modelcontextprotocol/rust-sdk" target="_blank">modelcontextprotocol/rust-sdk</a></td> 
+            <td align="center">The official Rust SDK for the Model Context Protocol</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-10-29</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">208%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2707</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">4003</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-02-18</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2704%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2704</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2714</td> 
         </tr>
         <tr>
             <td align="center">Top71</td>
@@ -727,23 +727,23 @@
         </tr>
         <tr>
             <td align="center">Top72</td>
-            <td align="center"><a href="https://github.com/modelcontextprotocol/rust-sdk" target="_blank">modelcontextprotocol/rust-sdk</a></td> 
-            <td align="center">The official Rust SDK for the Model Context Protocol</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-02-18</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2671%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2671</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2681</td> 
-        </tr>
-        <tr>
-            <td align="center">Top73</td>
             <td align="center"><a href="https://github.com/j178/prek" target="_blank">j178/prek</a></td> 
             <td align="center">⚡ Better `pre-commit`, re-engineered in Rust</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-10-07</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2651%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2651</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2725</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2663%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2663</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2737</td> 
+        </tr>
+        <tr>
+            <td align="center">Top73</td>
+            <td align="center"><a href="https://github.com/0xPlaygrounds/rig" target="_blank">0xPlaygrounds/rig</a></td> 
+            <td align="center">⚙️🦀 Build modular and scalable LLM Applications in Rust</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-06-05</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">102%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2601</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">5151</td> 
         </tr>
         <tr>
             <td align="center">Top74</td>
@@ -757,16 +757,6 @@
         </tr>
         <tr>
             <td align="center">Top75</td>
-            <td align="center"><a href="https://github.com/0xPlaygrounds/rig" target="_blank">0xPlaygrounds/rig</a></td> 
-            <td align="center">⚙️🦀 Build modular and scalable LLM Applications in Rust</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-06-05</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">101%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2580</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">5130</td> 
-        </tr>
-        <tr>
-            <td align="center">Top76</td>
             <td align="center"><a href="https://github.com/cloudflare/pingora" target="_blank">cloudflare/pingora</a></td> 
             <td align="center">A library for building fast, reliable and evolvable network services.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
@@ -776,14 +766,24 @@
             <td style="white-space: nowrap; width: auto;" align="center">25650</td> 
         </tr>
         <tr>
-            <td align="center">Top77</td>
+            <td align="center">Top76</td>
             <td align="center"><a href="https://github.com/spacedriveapp/spacedrive" target="_blank">spacedriveapp/spacedrive</a></td> 
             <td align="center">Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2021-09-27</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">7%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2520</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">36105</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2543</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">36128</td> 
+        </tr>
+        <tr>
+            <td align="center">Top77</td>
+            <td align="center"><a href="https://github.com/huggingface/candle" target="_blank">huggingface/candle</a></td> 
+            <td align="center">Minimalist ML framework for Rust</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2023-06-20</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">15%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2503</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">18824</td> 
         </tr>
         <tr>
             <td align="center">Top78</td>
@@ -792,8 +792,8 @@
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-04-26</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">100%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2482</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">4959</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2483</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">4960</td> 
         </tr>
         <tr>
             <td align="center">Top79</td>
@@ -801,59 +801,59 @@
             <td align="center">A human-friendly alternative to netstat for socket and port monitoring on Linux and macOS.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-05-16</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2480%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2480</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2506</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2481%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2481</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2507</td> 
         </tr>
         <tr>
             <td align="center">Top80</td>
-            <td align="center"><a href="https://github.com/huggingface/candle" target="_blank">huggingface/candle</a></td> 
-            <td align="center">Minimalist ML framework for Rust</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2023-06-20</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">15%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2479</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">18800</td> 
-        </tr>
-        <tr>
-            <td align="center">Top81</td>
             <td align="center"><a href="https://github.com/vercel/turborepo" target="_blank">vercel/turborepo</a></td> 
             <td align="center">Build system optimized for JavaScript and TypeScript, written in Rust</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2021-10-06</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">9%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2458</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">29258</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2473</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">29273</td> 
         </tr>
         <tr>
-            <td align="center">Top82</td>
+            <td align="center">Top81</td>
             <td align="center"><a href="https://github.com/libnyanpasu/clash-nyanpasu" target="_blank">libnyanpasu/clash-nyanpasu</a></td> 
             <td align="center">Clash Nyanpasu～(∠・ω< )⌒☆​</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-11-10</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">23%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2387</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">12478</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2421</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">12512</td> 
         </tr>
         <tr>
-            <td align="center">Top83</td>
+            <td align="center">Top82</td>
             <td align="center"><a href="https://github.com/rathole-org/rathole" target="_blank">rathole-org/rathole</a></td> 
             <td align="center">A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2021-12-14</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">22%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2323</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">12429</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">23%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2367</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">12473</td> 
         </tr>
         <tr>
-            <td align="center">Top84</td>
+            <td align="center">Top83</td>
             <td align="center"><a href="https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation" target="_blank">Universal-Debloater-Alliance/universal-android-debloater-next-generation</a></td> 
             <td align="center">Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-10-27</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">77%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2279</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">5213</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">79%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2326</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">5260</td> 
+        </tr>
+        <tr>
+            <td align="center">Top84</td>
+            <td align="center"><a href="https://github.com/scanopy/scanopy" target="_blank">scanopy/scanopy</a></td> 
+            <td align="center">Clean network diagrams. One-time setup, zero upkeep.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-09-30</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2309%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2309</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2316</td> 
         </tr>
         <tr>
             <td align="center">Top85</td>
@@ -867,13 +867,13 @@
         </tr>
         <tr>
             <td align="center">Top86</td>
-            <td align="center"><a href="https://github.com/netvisor-io/netvisor" target="_blank">netvisor-io/netvisor</a></td> 
-            <td align="center">Automatically discover and visually document network infrastructure.</td>
+            <td align="center"><a href="https://github.com/Pumpkin-MC/Pumpkin" target="_blank">Pumpkin-MC/Pumpkin</a></td> 
+            <td align="center">Empowering everyone to host fast and efficient Minecraft servers.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-09-30</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2274%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2274</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2281</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-07-29</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">60%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2270</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">6026</td> 
         </tr>
         <tr>
             <td align="center">Top87</td>
@@ -881,9 +881,9 @@
             <td align="center">A very fast linker for Linux</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-02-05</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">279%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2261</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">3070</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">280%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2270</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3079</td> 
         </tr>
         <tr>
             <td align="center">Top88</td>
@@ -892,21 +892,11 @@
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-04-08</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">30%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2254</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">9744</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2264</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">9754</td> 
         </tr>
         <tr>
             <td align="center">Top89</td>
-            <td align="center"><a href="https://github.com/Pumpkin-MC/Pumpkin" target="_blank">Pumpkin-MC/Pumpkin</a></td> 
-            <td align="center">Empowering everyone to host fast and efficient Minecraft servers.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-07-29</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">59%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2233</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">5989</td> 
-        </tr>
-        <tr>
-            <td align="center">Top90</td>
             <td align="center"><a href="https://github.com/0x192/universal-android-debloater" target="_blank">0x192/universal-android-debloater</a></td> 
             <td align="center">Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
@@ -916,64 +906,74 @@
             <td style="white-space: nowrap; width: auto;" align="center">18349</td> 
         </tr>
         <tr>
+            <td align="center">Top90</td>
+            <td align="center"><a href="https://github.com/alexpasmantier/television" target="_blank">alexpasmantier/television</a></td> 
+            <td align="center">A very fast, portable and hackable fuzzy finder for the terminal.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-09-16</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">132%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2221</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3893</td> 
+        </tr>
+        <tr>
             <td align="center">Top91</td>
             <td align="center"><a href="https://github.com/giacomo-b/rust-stakeholder" target="_blank">giacomo-b/rust-stakeholder</a></td> 
             <td align="center">Generate impressive-looking terminal output to look busy when stakeholders walk by</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-03-15</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">691%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2214</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2534</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">693%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2220</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2540</td> 
         </tr>
         <tr>
             <td align="center">Top92</td>
+            <td align="center"><a href="https://github.com/prefix-dev/pixi" target="_blank">prefix-dev/pixi</a></td> 
+            <td align="center">Package management made easy</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2023-04-28</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">59%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2201</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">5913</td> 
+        </tr>
+        <tr>
+            <td align="center">Top93</td>
             <td align="center"><a href="https://github.com/facet-rs/facet" target="_blank">facet-rs/facet</a></td> 
             <td align="center">Rust reflection, serialization, deserialization, pretty printing, etc. — the last proc macro you should need</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-03-10</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2180%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2180</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2186</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2192%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2192</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2198</td> 
         </tr>
         <tr>
-            <td align="center">Top93</td>
+            <td align="center">Top94</td>
             <td align="center"><a href="https://github.com/leptos-rs/leptos" target="_blank">leptos-rs/leptos</a></td> 
             <td align="center">Build fast web applications with Rust.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-08-01</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">12%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2173</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">19578</td> 
-        </tr>
-        <tr>
-            <td align="center">Top94</td>
-            <td align="center"><a href="https://github.com/alexpasmantier/television" target="_blank">alexpasmantier/television</a></td> 
-            <td align="center">A portable and hackable fuzzy finder for the terminal.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-09-16</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">129%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2169</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">3841</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2186</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">19591</td> 
         </tr>
         <tr>
             <td align="center">Top95</td>
-            <td align="center"><a href="https://github.com/prefix-dev/pixi" target="_blank">prefix-dev/pixi</a></td> 
-            <td align="center">Package management made easy</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2023-04-28</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">58%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2163</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">5875</td> 
-        </tr>
-        <tr>
-            <td align="center">Top96</td>
             <td align="center"><a href="https://github.com/ArthurBrussee/brush" target="_blank">ArthurBrussee/brush</a></td> 
             <td align="center">3D Reconstruction for all</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-02-24</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">181%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2147</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">3331</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">183%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2174</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3358</td> 
+        </tr>
+        <tr>
+            <td align="center">Top96</td>
+            <td align="center"><a href="https://github.com/warp-tech/warpgate" target="_blank">warp-tech/warpgate</a></td> 
+            <td align="center">Fully transparent SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2022-02-05</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">50%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2097</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">6219</td> 
         </tr>
         <tr>
             <td align="center">Top97</td>
@@ -987,16 +987,6 @@
         </tr>
         <tr>
             <td align="center">Top98</td>
-            <td align="center"><a href="https://github.com/warp-tech/warpgate" target="_blank">warp-tech/warpgate</a></td> 
-            <td align="center">Fully transparent SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2022-02-05</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">50%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2078</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">6200</td> 
-        </tr>
-        <tr>
-            <td align="center">Top99</td>
             <td align="center"><a href="https://github.com/flxzt/rnote" target="_blank">flxzt/rnote</a></td> 
             <td align="center">Sketch and take handwritten notes.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
@@ -1006,7 +996,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">10633</td> 
         </tr>
         <tr>
-            <td align="center">Top100</td>
+            <td align="center">Top99</td>
             <td align="center"><a href="https://github.com/aome510/spotify-player" target="_blank">aome510/spotify-player</a></td> 
             <td align="center">A Spotify player in the terminal with full feature parity</td>
             <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
@@ -1014,6 +1004,16 @@
             <td style="white-space: nowrap; width: auto;"  align="center">52%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2054</td> 
             <td style="white-space: nowrap; width: auto;" align="center">5954</td> 
+        </tr>
+        <tr>
+            <td align="center">Top100</td>
+            <td align="center"><a href="https://github.com/surrealdb/surrealdb" target="_blank">surrealdb/surrealdb</a></td> 
+            <td align="center">A scalable, distributed, collaborative, document-graph database, for the realtime web</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Rust</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2021-12-09</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">7%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2051</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">30574</td> 
         </tr>
     </table>
 </div>

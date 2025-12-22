@@ -1,6 +1,6 @@
 📅统计周期：2025-01-01 ~ 2025-12-31<br>
 🌋数据来源：www.ffgithub.com<br>
-📚数据更新：2025-12-14<br>
+📚数据更新：2025-12-22<br>
 
 
 <div align="center">
@@ -61,9 +61,9 @@
             <td align="center">Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Scala</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2021-12-06</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">18%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">237</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1486</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">19%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">239</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1488</td> 
         </tr>
         <tr>
             <td align="center">Top6</td>
@@ -72,8 +72,8 @@
             <td style="white-space: nowrap; width: auto;" align="center">Scala</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-10-31</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">18%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">233</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1501</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">236</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1504</td> 
         </tr>
         <tr>
             <td align="center">Top7</td>
@@ -82,8 +82,8 @@
             <td style="white-space: nowrap; width: auto;" align="center">Scala</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-01-16</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">24%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">212</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1083</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">214</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1085</td> 
         </tr>
         <tr>
             <td align="center">Top8</td>
@@ -102,8 +102,8 @@
             <td style="white-space: nowrap; width: auto;" align="center">Scala</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-08-08</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">27%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">181</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">849</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">183</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">851</td> 
         </tr>
         <tr>
             <td align="center">Top10</td>
@@ -141,9 +141,9 @@
             <td align="center">Agentic  and LLM Programming in Scala</td>
             <td style="white-space: nowrap; width: auto;" align="center">Scala</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-01-30</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">163%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">163</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">167</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">164%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">164</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">168</td> 
         </tr>
     </table>
 </div>

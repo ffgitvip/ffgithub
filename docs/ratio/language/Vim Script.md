@@ -1,6 +1,6 @@
 📅统计周期：2025-01-01 ~ 2025-12-31<br>
 🌋数据来源：www.ffgithub.com<br>
-📚数据更新：2025-12-14<br>
+📚数据更新：2025-12-22<br>
 
 
 <div align="center">
@@ -31,9 +31,9 @@
             <td align="center">AI-augmented development in Vim and Neovim</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vim Script</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-12-11</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">589%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">589</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">593</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">594%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">594</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">598</td> 
         </tr>
         <tr>
             <td align="center">Top3</td>
@@ -61,9 +61,9 @@
             <td align="center">LazyVim key mappings for JetBrains IDEs. Making IdeaVim feel like home.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vim Script</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-01-27</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">145%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">145</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">157</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">146%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">146</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">158</td> 
         </tr>
         <tr>
             <td align="center">Top6</td>
@@ -81,9 +81,9 @@
             <td align="center">a fog descends upon your editor ☁  dark color scheme inspired by the woods for vim and neovim</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vim Script</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-06-18</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">60%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">174</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">462</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">61%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">176</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">464</td> 
         </tr>
         <tr>
             <td align="center">Top8</td>
@@ -92,8 +92,8 @@
             <td style="white-space: nowrap; width: auto;" align="center">Vim Script</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-06-28</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">56%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">152</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">423</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">154</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">425</td> 
         </tr>
         <tr>
             <td align="center">Top9</td>
@@ -112,8 +112,8 @@
             <td style="white-space: nowrap; width: auto;" align="center">Vim Script</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2021-10-21</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">22%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2023</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">11084</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2048</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">11109</td> 
         </tr>
         <tr>
             <td align="center">Top11</td>

@@ -111,13 +111,13 @@
             <td align="center">202512</td> 
 <td align="center"><a href="./docs/stars/time/202512/第1周.md">第1周</a></td>
 <td align="center"><a href="./docs/stars/time/202512/第2周.md">第2周</a></td>
-            <td align="center">第3周</td>
-            <td align="center">第4周</td>
+<td align="center"><a href="./docs/stars/time/202512/第3周.md">第3周</a></td>
+<td align="center"><a href="./docs/stars/time/202512/第4周.md">第4周</a></td>
 <td align="center"><a href="./docs/stars/time/202512/第12月.md">第12月</a></td>
 <td align="center"><a href="./docs/ratio/time/202512/第1周.md">第1周</a></td>
 <td align="center"><a href="./docs/ratio/time/202512/第2周.md">第2周</a></td>
-            <td align="center">第3周</td>
-            <td align="center">第4周</td>
+<td align="center"><a href="./docs/ratio/time/202512/第3周.md">第3周</a></td>
+<td align="center"><a href="./docs/ratio/time/202512/第4周.md">第4周</a></td>
 <td align="center"><a href="./docs/ratio/time/202512/第12月.md">第12月</a></td>
         </tr>
         <tr>

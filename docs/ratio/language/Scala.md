@@ -1,19 +1,19 @@
 📅统计周期：2025-01-01 ~ 2025-12-31<br>
 🌋数据来源：www.ffgithub.com<br>
-📚数据更新：2025-12-22<br>
+📚数据更新：2025-12-31<br>
 
 
 <div align="center">
     <table>
         <tr>
-            <td align="center">排名</td>
-            <td align="center">项目名称</td>
-            <td align="center">项目描述</td>
-            <td style="white-space: nowrap; width: auto;" align="center">编程语言</td>
-            <td style="white-space: nowrap; width: auto;" align="center">开源时间</td>
-            <td style="white-space: nowrap; width: auto;" align="center">⭐年增速</td>
-            <td style="white-space: nowrap; width: auto;" align="center">⭐年增长</td>
-            <td style="white-space: nowrap; width: auto;" align="center">⭐总数</td>
+            <td align="center">排名</td> 
+            <td align="center">项目名称</td> 
+            <td align="center">项目描述</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">编程语言</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">开源时间</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">⭐年增速</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">⭐年增长</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">⭐总数</td> 
         </tr>
         <tr>
             <td align="center">Top1</td>
@@ -21,9 +21,9 @@
             <td align="center">Open-source FPGA retro emulation handheld</td>
             <td style="white-space: nowrap; width: auto;" align="center">Scala</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-04-25</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">610%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">610</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">640</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">615%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">615</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">645</td> 
         </tr>
         <tr>
             <td align="center">Top2</td>
@@ -31,9 +31,9 @@
             <td align="center">Fact Graph</td>
             <td style="white-space: nowrap; width: auto;" align="center">Scala</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-09-20</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">277%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">277</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">370</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">283%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">283</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">376</td> 
         </tr>
         <tr>
             <td align="center">Top3</td>
@@ -51,9 +51,9 @@
             <td align="center">Simple, beautiful CLI output</td>
             <td style="white-space: nowrap; width: auto;" align="center">Scala</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-07-06</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">165%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">165</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">209</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">172%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">172</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">216</td> 
         </tr>
         <tr>
             <td align="center">Top5</td>
@@ -61,9 +61,9 @@
             <td align="center">Agentic  and LLM Programming in Scala</td>
             <td style="white-space: nowrap; width: auto;" align="center">Scala</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-01-30</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">164%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">164</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">168</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">168%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">168</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">172</td> 
         </tr>
         <tr>
             <td align="center">Top6</td>
@@ -71,9 +71,9 @@
             <td align="center">The highest performace Cray-like RISC-V Vector in the world.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Scala</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-09-18</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">137%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">176</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">304</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">138%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">177</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">305</td> 
         </tr>
         <tr>
             <td align="center">Top7</td>
@@ -92,8 +92,8 @@
             <td style="white-space: nowrap; width: auto;" align="center">Scala</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-03-09</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">28%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">164</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">744</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">165</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">745</td> 
         </tr>
         <tr>
             <td align="center">Top9</td>
@@ -111,9 +111,9 @@
             <td align="center">Apache DataFusion Comet Spark Accelerator</td>
             <td style="white-space: nowrap; width: auto;" align="center">Scala</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-01-16</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">24%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">214</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1085</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">25%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">221</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1092</td> 
         </tr>
         <tr>
             <td align="center">Top11</td>
@@ -123,7 +123,7 @@
             <td style="white-space: nowrap; width: auto;"  align="center">2021-12-06</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">19%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">239</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1488</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1491</td> 
         </tr>
         <tr>
             <td align="center">Top12</td>
@@ -131,9 +131,9 @@
             <td align="center">Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala</td>
             <td style="white-space: nowrap; width: auto;" align="center">Scala</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-10-31</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">18%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">236</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1504</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">19%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">241</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1509</td> 
         </tr>
         <tr>
             <td align="center">Top13</td>

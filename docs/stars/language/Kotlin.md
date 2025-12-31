@@ -1,19 +1,19 @@
 📅统计周期：2025-01-01 ~ 2025-12-31<br>
 🌋数据来源：www.ffgithub.com<br>
-📚数据更新：2025-12-22<br>
+📚数据更新：2025-12-31<br>
 
 
 <div align="center">
     <table>
         <tr>
-            <td align="center">排名</td>
-            <td align="center">项目名称</td>
-            <td align="center">项目描述</td>
-            <td style="white-space: nowrap; width: auto;" align="center">编程语言</td>
-            <td style="white-space: nowrap; width: auto;" align="center">开源时间</td>
-            <td style="white-space: nowrap; width: auto;" align="center">⭐年增速</td>
-            <td style="white-space: nowrap; width: auto;" align="center">⭐年增长</td>
-            <td style="white-space: nowrap; width: auto;" align="center">⭐总数</td>
+            <td align="center">排名</td> 
+            <td align="center">项目名称</td> 
+            <td align="center">项目描述</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">编程语言</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">开源时间</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">⭐年增速</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">⭐年增长</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">⭐总数</td> 
         </tr>
         <tr>
             <td align="center">Top1</td>
@@ -21,9 +21,9 @@
             <td align="center">AirPods liberated from Apple's ecosystem.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-09-27</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">10256%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">22155</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">22371</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">10925%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">23600</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">23816</td> 
         </tr>
         <tr>
             <td align="center">Top2</td>
@@ -31,9 +31,9 @@
             <td align="center">A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-04-01</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">14409%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">14409</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">14469</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">14451%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">14451</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">14511</td> 
         </tr>
         <tr>
             <td align="center">Top3</td>
@@ -41,9 +41,9 @@
             <td align="center">集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-08-01</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">424%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">11023</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">13622</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">433%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">11269</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">13868</td> 
         </tr>
         <tr>
             <td align="center">Top4</td>
@@ -71,9 +71,9 @@
             <td align="center">🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-01-31</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2611%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">9167</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">9518</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2676%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">9393</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">9759</td> 
         </tr>
         <tr>
             <td align="center">Top7</td>
@@ -81,9 +81,9 @@
             <td align="center">A Download Manager that speeds up your downloads</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-07-07</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">115%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">6568</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">12275</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">120%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">6857</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">12564</td> 
         </tr>
         <tr>
             <td align="center">Top8</td>
@@ -91,9 +91,9 @@
             <td align="center">🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-04-07</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">139%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">6289</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">10799</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">144%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">6511</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">11034</td> 
         </tr>
         <tr>
             <td align="center">Top9</td>
@@ -111,9 +111,9 @@
             <td align="center">NekoBox for Android / sing-box / universal proxy toolchain for Android</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-03-04</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">37%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">4817</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">17513</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">41%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">5208</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">17904</td> 
         </tr>
         <tr>
             <td align="center">Top11</td>
@@ -121,9 +121,9 @@
             <td align="center">YouTube Music client for Android</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-08-11</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1487%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">4716</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">5033</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1581%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">5014</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">5406</td> 
         </tr>
         <tr>
             <td align="center">Top12</td>
@@ -137,6 +137,16 @@
         </tr>
         <tr>
             <td align="center">Top13</td>
+            <td align="center"><a href="https://github.com/maxrave-dev/SimpMusic" target="_blank">maxrave-dev/SimpMusic</a></td> 
+            <td align="center">A cross-platform music app using YouTube Music for backend</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2023-04-15</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">198%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">4287</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">6446</td> 
+        </tr>
+        <tr>
+            <td align="center">Top14</td>
             <td align="center"><a href="https://github.com/Ackites/Nrfr" target="_blank">Ackites/Nrfr</a></td> 
             <td align="center">🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
@@ -146,24 +156,14 @@
             <td style="white-space: nowrap; width: auto;" align="center">5453</td> 
         </tr>
         <tr>
-            <td align="center">Top14</td>
-            <td align="center"><a href="https://github.com/maxrave-dev/SimpMusic" target="_blank">maxrave-dev/SimpMusic</a></td> 
-            <td align="center">A cross-platform music app using YouTube Music for backend</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2023-04-15</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">192%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">4151</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">6310</td> 
-        </tr>
-        <tr>
             <td align="center">Top15</td>
             <td align="center"><a href="https://github.com/permissionlesstech/bitchat-android" target="_blank">permissionlesstech/bitchat-android</a></td> 
             <td align="center">bluetooth mesh chat, IRC vibes</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-07-09</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2110%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3989</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">4178</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2134%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">4034</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">4223</td> 
         </tr>
         <tr>
             <td align="center">Top16</td>
@@ -171,9 +171,9 @@
             <td align="center">Kernel-based Android Root Solution & KPM</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-03-29</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3798%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3798</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">3807</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3875%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3875</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3948</td> 
         </tr>
         <tr>
             <td align="center">Top17</td>
@@ -181,9 +181,9 @@
             <td align="center">Production ready toolkit to run AI locally</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-07-22</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3605%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3605</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">3627</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3631%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3631</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3653</td> 
         </tr>
         <tr>
             <td align="center">Top18</td>
@@ -191,9 +191,9 @@
             <td align="center">Painless E2E Automation for Mobile and Web</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-04-01</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">59%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3588</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">9633</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">60%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3631</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">9785</td> 
         </tr>
         <tr>
             <td align="center">Top19</td>
@@ -201,29 +201,29 @@
             <td align="center">Koog is the official Kotlin framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-05-01</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3518%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3518</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">3535</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3549%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3549</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3576</td> 
         </tr>
         <tr>
             <td align="center">Top20</td>
-            <td align="center"><a href="https://github.com/OuterTune/OuterTune" target="_blank">OuterTune/OuterTune</a></td> 
-            <td align="center">A Material 3 Music Player for Android with local file & YouTube Music support. Forked from InnerTune</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-05-13</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">507%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3337</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">3995</td> 
-        </tr>
-        <tr>
-            <td align="center">Top21</td>
             <td align="center"><a href="https://github.com/tiann/KernelSU" target="_blank">tiann/KernelSU</a></td> 
             <td align="center">A Kernel based root solution for Android</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-12-09</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">30%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">3336</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">14435</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">31%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3465</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">14573</td> 
+        </tr>
+        <tr>
+            <td align="center">Top21</td>
+            <td align="center"><a href="https://github.com/OuterTune/OuterTune" target="_blank">OuterTune/OuterTune</a></td> 
+            <td align="center">A Material 3 Music Player for Android with local file & YouTube Music support. Forked from InnerTune</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-05-13</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">516%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">3401</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">4059</td> 
         </tr>
         <tr>
             <td align="center">Top22</td>
@@ -241,9 +241,9 @@
             <td align="center">Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-04-10</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2933%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2933</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2936</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2972%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2972</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2988</td> 
         </tr>
         <tr>
             <td align="center">Top24</td>
@@ -251,29 +251,29 @@
             <td align="center">SD Maid 2/SE is Android's most thorough cleaning tool.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-11-20</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">93%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2792</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">5765</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">95%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2832</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">5805</td> 
         </tr>
         <tr>
             <td align="center">Top25</td>
-            <td align="center"><a href="https://github.com/breezy-weather/breezy-weather" target="_blank">breezy-weather/breezy-weather</a></td> 
-            <td align="center">A feature-rich weather app with good visualizations and more than 50 sources.</td>
+            <td align="center"><a href="https://github.com/AAswordman/Operit" target="_blank">AAswordman/Operit</a></td> 
+            <td align="center">The most powerful AI agent and AI chat software on Android/Operit是一款Android上目前能力最为强大的AI Agent</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2022-04-16</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">44%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2707</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">8821</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-15</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2812%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2812</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2832</td> 
         </tr>
         <tr>
             <td align="center">Top26</td>
-            <td align="center"><a href="https://github.com/Kotlin/kotlin-lsp" target="_blank">Kotlin/kotlin-lsp</a></td> 
-            <td align="center">Kotlin Language Server and plugin for Visual Studio Code</td>
+            <td align="center"><a href="https://github.com/wxxsfxyzm/InstallerX-Revived" target="_blank">wxxsfxyzm/InstallerX-Revived</a></td> 
+            <td align="center">More Expressive InstallerX !</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-04-28</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2625%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2625</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2637</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-11-06</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2764%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2764</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2880</td> 
         </tr>
         <tr>
             <td align="center">Top27</td>
@@ -281,39 +281,39 @@
             <td align="center">RikkaHub is an Android APP that supports for multiple LLM providers.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-03-11</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2616%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2616</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2618</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2754%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2754</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2764</td> 
         </tr>
         <tr>
             <td align="center">Top28</td>
-            <td align="center"><a href="https://github.com/wxxsfxyzm/InstallerX-Revived" target="_blank">wxxsfxyzm/InstallerX-Revived</a></td> 
-            <td align="center">More Expressive InstallerX !</td>
+            <td align="center"><a href="https://github.com/breezy-weather/breezy-weather" target="_blank">breezy-weather/breezy-weather</a></td> 
+            <td align="center">A feature-rich weather app with good visualizations and more than 50 sources.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-11-06</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2606%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2606</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2704</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2022-04-16</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">44%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2707</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">8911</td> 
         </tr>
         <tr>
             <td align="center">Top29</td>
+            <td align="center"><a href="https://github.com/Kotlin/kotlin-lsp" target="_blank">Kotlin/kotlin-lsp</a></td> 
+            <td align="center">Kotlin Language Server and plugin for Visual Studio Code</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-04-28</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2682%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2682</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2694</td> 
+        </tr>
+        <tr>
+            <td align="center">Top30</td>
             <td align="center"><a href="https://github.com/KernelSU-Next/KernelSU-Next" target="_blank">KernelSU-Next/KernelSU-Next</a></td> 
             <td align="center">An advanced Kernel based root solution for Android</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-01-11</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1095%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2597</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2834</td> 
-        </tr>
-        <tr>
-            <td align="center">Top30</td>
-            <td align="center"><a href="https://github.com/AAswordman/Operit" target="_blank">AAswordman/Operit</a></td> 
-            <td align="center">The most powerful AI agent and AI chat software on Android/Operit是一款Android上目前能力最为强大的AI Agent</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-03-15</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2585%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2585</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2588</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1129%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2676</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2919</td> 
         </tr>
         <tr>
             <td align="center">Top31</td>
@@ -321,49 +321,49 @@
             <td align="center">A fully functional Android app built entirely with Kotlin and Jetpack Compose</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-04-20</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">13%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2459</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">20169</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">14%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2573</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">20286</td> 
         </tr>
         <tr>
             <td align="center">Top32</td>
-            <td align="center"><a href="https://github.com/TermoraDev/termora" target="_blank">TermoraDev/termora</a></td> 
-            <td align="center">Termora is a terminal emulator and SSH client for Windows, macOS and Linux.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-01-02</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">355%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2346</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">3005</td> 
-        </tr>
-        <tr>
-            <td align="center">Top33</td>
             <td align="center"><a href="https://github.com/deniscerri/ytdlnis" target="_blank">deniscerri/ytdlnis</a></td> 
             <td align="center">Full-featured audio/video downloader for Android using yt-dlp</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-05-28</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">50%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2335</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">6925</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">53%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2459</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">7049</td> 
+        </tr>
+        <tr>
+            <td align="center">Top33</td>
+            <td align="center"><a href="https://github.com/TermoraDev/termora" target="_blank">TermoraDev/termora</a></td> 
+            <td align="center">Termora is a terminal emulator and SSH client for Windows, macOS and Linux.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-01-02</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">363%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2395</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3059</td> 
         </tr>
         <tr>
             <td align="center">Top34</td>
-            <td align="center"><a href="https://github.com/Tencent-TDS/KuiklyUI" target="_blank">Tencent-TDS/KuiklyUI</a></td> 
-            <td align="center">Provide a high-performance, full-platform development framework with unified codebase, ultimate ease of use, and dynamic flexibility.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-04-24</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">357%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2170</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2777</td> 
-        </tr>
-        <tr>
-            <td align="center">Top35</td>
             <td align="center"><a href="https://github.com/hxh19950701/WebViewTvLive" target="_blank">hxh19950701/WebViewTvLive</a></td> 
             <td align="center">使用 腾讯X5 WebView 开发的电视直播App</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-12-04</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">183%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2144</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">3312</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">195%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2279</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3447</td> 
+        </tr>
+        <tr>
+            <td align="center">Top35</td>
+            <td align="center"><a href="https://github.com/Tencent-TDS/KuiklyUI" target="_blank">Tencent-TDS/KuiklyUI</a></td> 
+            <td align="center">Provide a high-performance, full-platform development framework with unified codebase, ultimate ease of use, and dynamic flexibility.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-04-24</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">366%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2225</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2840</td> 
         </tr>
         <tr>
             <td align="center">Top36</td>
@@ -371,9 +371,9 @@
             <td align="center">Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, no PC required.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-08-30</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">130%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1994</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">3526</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">137%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2101</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3633</td> 
         </tr>
         <tr>
             <td align="center">Top37</td>
@@ -381,19 +381,19 @@
             <td align="center">An alternative frontend for YouTube, for Android.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2021-12-09</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">22%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1990</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">10911</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">23%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2086</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">11007</td> 
         </tr>
         <tr>
             <td align="center">Top38</td>
-            <td align="center"><a href="https://github.com/brahmkshatriya/echo" target="_blank">brahmkshatriya/echo</a></td> 
-            <td align="center">Just a music player.</td>
+            <td align="center"><a href="https://github.com/theovilardo/PixelPlayer" target="_blank">theovilardo/PixelPlayer</a></td> 
+            <td align="center"></td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2023-12-31</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">561%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1961</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2310</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-05-20</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2086%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2086</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2139</td> 
         </tr>
         <tr>
             <td align="center">Top39</td>
@@ -401,12 +401,42 @@
             <td align="center">hanime1的三方客户端，提高了一些播放体验</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-06-05</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1949%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1949</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1966</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2045%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2045</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2224</td> 
         </tr>
         <tr>
             <td align="center">Top40</td>
+            <td align="center"><a href="https://github.com/brahmkshatriya/echo" target="_blank">brahmkshatriya/echo</a></td> 
+            <td align="center">Just a music player.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2023-12-31</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">576%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2012</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2365</td> 
+        </tr>
+        <tr>
+            <td align="center">Top41</td>
+            <td align="center"><a href="https://github.com/komikku-app/komikku" target="_blank">komikku-app/komikku</a></td> 
+            <td align="center">Free and open source manga reader for Android</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-01-15</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">202%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1974</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2958</td> 
+        </tr>
+        <tr>
+            <td align="center">Top42</td>
+            <td align="center"><a href="https://github.com/aaa1115910/bv" target="_blank">aaa1115910/bv</a></td> 
+            <td align="center">哔哩哔哩 的第三方 Android 应用。A third-party Android app for Bilibili.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2022-11-29</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">121%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1959</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3574</td> 
+        </tr>
+        <tr>
+            <td align="center">Top43</td>
             <td align="center"><a href="https://github.com/tangshimin/MuJing" target="_blank">tangshimin/MuJing</a></td> 
             <td align="center">一款通过电影、美剧或文档中的真实语境学习英语单词的应用，让您在原汁原味的情境中记忆词汇，提升学习效率。</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
@@ -416,27 +446,67 @@
             <td style="white-space: nowrap; width: auto;" align="center">3019</td> 
         </tr>
         <tr>
-            <td align="center">Top41</td>
-            <td align="center"><a href="https://github.com/aaa1115910/bv" target="_blank">aaa1115910/bv</a></td> 
-            <td align="center">哔哩哔哩 的第三方 Android 应用。A third-party Android app for Bilibili.</td>
+            <td align="center">Top44</td>
+            <td align="center"><a href="https://github.com/InfinityLoop1308/PipePipe" target="_blank">InfinityLoop1308/PipePipe</a></td> 
+            <td align="center">An open-source Android app to let you browse YouTube, NicoNico and BiliBili freely.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2022-11-29</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">117%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1895</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">3510</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2022-05-11</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">76%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1845</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">4272</td> 
         </tr>
         <tr>
-            <td align="center">Top42</td>
-            <td align="center"><a href="https://github.com/komikku-app/komikku" target="_blank">komikku-app/komikku</a></td> 
-            <td align="center">Free and open source manga reader for Android</td>
+            <td align="center">Top45</td>
+            <td align="center"><a href="https://github.com/chsbuffer/ReVancedXposed" target="_blank">chsbuffer/ReVancedXposed</a></td> 
+            <td align="center">ReVanced LSPosed module. YouTube & YT Music Remove ads, Background playback</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-01-15</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">192%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1875</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2849</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-06-16</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1841%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1841</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1886</td> 
         </tr>
         <tr>
-            <td align="center">Top43</td>
+            <td align="center">Top46</td>
+            <td align="center"><a href="https://github.com/bmax121/APatch" target="_blank">bmax121/APatch</a></td> 
+            <td align="center">The patching of Android kernel and Android system</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2023-08-21</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">35%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1800</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">6825</td> 
+        </tr>
+        <tr>
+            <td align="center">Top47</td>
+            <td align="center"><a href="https://github.com/rainxchzed/Github-Store" target="_blank">rainxchzed/Github-Store</a></td> 
+            <td align="center">A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-11-21</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1784%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1784</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1889</td> 
+        </tr>
+        <tr>
+            <td align="center">Top48</td>
+            <td align="center"><a href="https://github.com/aistra0528/Hail" target="_blank">aistra0528/Hail</a></td> 
+            <td align="center">Disable / Hide / Suspend / Uninstall Android apps without root.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2021-08-12</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">59%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1777</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">4762</td> 
+        </tr>
+        <tr>
+            <td align="center">Top49</td>
+            <td align="center"><a href="https://github.com/Kyant0/AndroidLiquidGlass" target="_blank">Kyant0/AndroidLiquidGlass</a></td> 
+            <td align="center">Jetpack Compose Liquid Glass effect</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-06-18</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1777%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1777</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1801</td> 
+        </tr>
+        <tr>
+            <td align="center">Top50</td>
             <td align="center"><a href="https://github.com/hectorqin/reader" target="_blank">hectorqin/reader</a></td> 
             <td align="center">阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
@@ -446,87 +516,27 @@
             <td style="white-space: nowrap; width: auto;" align="center">10506</td> 
         </tr>
         <tr>
-            <td align="center">Top44</td>
-            <td align="center"><a href="https://github.com/chsbuffer/ReVancedXposed" target="_blank">chsbuffer/ReVancedXposed</a></td> 
-            <td align="center">ReVanced LSPosed module. YouTube & YT Music Remove ads, Background playback</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-06-16</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1770%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1770</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1783</td> 
-        </tr>
-        <tr>
-            <td align="center">Top45</td>
-            <td align="center"><a href="https://github.com/InfinityLoop1308/PipePipe" target="_blank">InfinityLoop1308/PipePipe</a></td> 
-            <td align="center">An open-source Android app to let you browse YouTube, NicoNico and BiliBili freely.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2022-05-11</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">72%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1765</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">4192</td> 
-        </tr>
-        <tr>
-            <td align="center">Top46</td>
-            <td align="center"><a href="https://github.com/bmax121/APatch" target="_blank">bmax121/APatch</a></td> 
-            <td align="center">The patching of Android kernel and Android system</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2023-08-21</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">34%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1745</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">6767</td> 
-        </tr>
-        <tr>
-            <td align="center">Top47</td>
-            <td align="center"><a href="https://github.com/Kyant0/AndroidLiquidGlass" target="_blank">Kyant0/AndroidLiquidGlass</a></td> 
-            <td align="center">Jetpack Compose Liquid Glass effect</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-06-18</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1729%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1729</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1745</td> 
-        </tr>
-        <tr>
-            <td align="center">Top48</td>
+            <td align="center">Top51</td>
             <td align="center"><a href="https://github.com/Droid-ify/client" target="_blank">Droid-ify/client</a></td> 
             <td align="center">Clutterfree F-Droid client</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-07-04</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">40%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1722</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">5997</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">41%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1771</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">6054</td> 
         </tr>
         <tr>
-            <td align="center">Top49</td>
+            <td align="center">Top52</td>
             <td align="center"><a href="https://github.com/XayahSuSuSu/Android-DataBackup" target="_blank">XayahSuSuSu/Android-DataBackup</a></td> 
             <td align="center">DataBackup for Android 7.0+</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2021-11-22</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">39%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1694</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">5952</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">40%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1740</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">5998</td> 
         </tr>
         <tr>
-            <td align="center">Top50</td>
-            <td align="center"><a href="https://github.com/theovilardo/PixelPlayer" target="_blank">theovilardo/PixelPlayer</a></td> 
-            <td align="center"></td>
-            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-05-20</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1692%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1692</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1694</td> 
-        </tr>
-        <tr>
-            <td align="center">Top51</td>
-            <td align="center"><a href="https://github.com/aistra0528/Hail" target="_blank">aistra0528/Hail</a></td> 
-            <td align="center">Disable / Hide / Suspend / Uninstall Android apps without root.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2021-08-12</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">56%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1689</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">4674</td> 
-        </tr>
-        <tr>
-            <td align="center">Top52</td>
+            <td align="center">Top53</td>
             <td align="center"><a href="https://github.com/lizongying/my-tv-0" target="_blank">lizongying/my-tv-0</a></td> 
             <td align="center">我的電視·〇 電視視頻播放軟件，可以自定義視頻源</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
@@ -536,27 +546,67 @@
             <td style="white-space: nowrap; width: auto;" align="center">4644</td> 
         </tr>
         <tr>
-            <td align="center">Top53</td>
+            <td align="center">Top54</td>
+            <td align="center"><a href="https://github.com/HapeLee/legado-with-MD3" target="_blank">HapeLee/legado-with-MD3</a></td> 
+            <td align="center">使用 Material Design 3 全新设计的阅读 3.0</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-08-29</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1529%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1529</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1531</td> 
+        </tr>
+        <tr>
+            <td align="center">Top55</td>
             <td align="center"><a href="https://github.com/recloudstream/cloudstream" target="_blank">recloudstream/cloudstream</a></td> 
             <td align="center">Android app for streaming and downloading media.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-08-04</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">20%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1458</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">8451</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">21%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1524</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">8534</td> 
         </tr>
         <tr>
-            <td align="center">Top54</td>
+            <td align="center">Top56</td>
+            <td align="center"><a href="https://github.com/dovecoteescapee/ByeDPIAndroid" target="_blank">dovecoteescapee/ByeDPIAndroid</a></td> 
+            <td align="center">App to bypass censorship on Android</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-02-23</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">43%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1473</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">4887</td> 
+        </tr>
+        <tr>
+            <td align="center">Top57</td>
             <td align="center"><a href="https://github.com/gurecn/YuyanIme" target="_blank">gurecn/YuyanIme</a></td> 
             <td align="center">语燕输入法-一款基于Rime定制开发的九键、全拼、双拼、手写、火星文等方案、支持悬浮、单手、数字行等键盘模式的中文输入法</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-05-24</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">95%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1406</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2886</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">97%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1439</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2951</td> 
         </tr>
         <tr>
-            <td align="center">Top55</td>
+            <td align="center">Top58</td>
+            <td align="center"><a href="https://github.com/aniyomiorg/aniyomi" target="_blank">aniyomiorg/aniyomi</a></td> 
+            <td align="center">An app for manga and anime</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2021-04-17</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">26%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1412</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">6749</td> 
+        </tr>
+        <tr>
+            <td align="center">Top59</td>
+            <td align="center"><a href="https://github.com/fcitx5-android/fcitx5-android" target="_blank">fcitx5-android/fcitx5-android</a></td> 
+            <td align="center">Fcitx5 input method framework and engines ported to Android</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2021-06-10</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">42%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1395</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">4702</td> 
+        </tr>
+        <tr>
+            <td align="center">Top60</td>
             <td align="center"><a href="https://github.com/Dr-TSNG/Hide-My-Applist" target="_blank">Dr-TSNG/Hide-My-Applist</a></td> 
             <td align="center">An Xposed module to intercept applist detections</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
@@ -566,17 +616,37 @@
             <td style="white-space: nowrap; width: auto;" align="center">4733</td> 
         </tr>
         <tr>
-            <td align="center">Top56</td>
-            <td align="center"><a href="https://github.com/fcitx5-android/fcitx5-android" target="_blank">fcitx5-android/fcitx5-android</a></td> 
-            <td align="center">Fcitx5 input method framework and engines ported to Android</td>
+            <td align="center">Top61</td>
+            <td align="center"><a href="https://github.com/MM2-0/Kvaesitso" target="_blank">MM2-0/Kvaesitso</a></td> 
+            <td align="center">A search-focused Android launcher</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2021-06-10</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">41%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1371</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">4646</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2021-09-19</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">50%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1363</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">4062</td> 
         </tr>
         <tr>
-            <td align="center">Top57</td>
+            <td align="center">Top62</td>
+            <td align="center"><a href="https://github.com/crimera/piko" target="_blank">crimera/piko</a></td> 
+            <td align="center">revanced-patches for twitter</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-01-30</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">121%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1360</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2481</td> 
+        </tr>
+        <tr>
+            <td align="center">Top63</td>
+            <td align="center"><a href="https://github.com/xororz/local-dream" target="_blank">xororz/local-dream</a></td> 
+            <td align="center">Run Stable Diffusion on Android Devices with Snapdragon NPU acceleration. Also supports CPU/GPU inference.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-01-25</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1356%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1356</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1438</td> 
+        </tr>
+        <tr>
+            <td align="center">Top64</td>
             <td align="center"><a href="https://github.com/mytv-android/mytv-android" target="_blank">mytv-android/mytv-android</a></td> 
             <td align="center">Material 3 Expressive 风格的Android/Android TV IPTV播放器，内建Media3,IJKplayer和 VLC。A Material 3 Expressive style Android/Android TV IPTV player with built-in Media3, IJKplayer and VLC.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
@@ -586,87 +656,37 @@
             <td style="white-space: nowrap; width: auto;" align="center">1381</td> 
         </tr>
         <tr>
-            <td align="center">Top58</td>
-            <td align="center"><a href="https://github.com/aniyomiorg/aniyomi" target="_blank">aniyomiorg/aniyomi</a></td> 
-            <td align="center">An app for manga and anime</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2021-04-17</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">25%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1339</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">6676</td> 
-        </tr>
-        <tr>
-            <td align="center">Top59</td>
-            <td align="center"><a href="https://github.com/xororz/local-dream" target="_blank">xororz/local-dream</a></td> 
-            <td align="center">Run Stable Diffusion on Android Devices with Snapdragon NPU acceleration. Also supports CPU/GPU inference.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-01-25</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1323%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1323</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1364</td> 
-        </tr>
-        <tr>
-            <td align="center">Top60</td>
-            <td align="center"><a href="https://github.com/dovecoteescapee/ByeDPIAndroid" target="_blank">dovecoteescapee/ByeDPIAndroid</a></td> 
-            <td align="center">App to bypass censorship on Android</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-02-23</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">38%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1323</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">4737</td> 
-        </tr>
-        <tr>
-            <td align="center">Top61</td>
-            <td align="center"><a href="https://github.com/MM2-0/Kvaesitso" target="_blank">MM2-0/Kvaesitso</a></td> 
-            <td align="center">A search-focused Android launcher</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2021-09-19</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">48%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1317</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">4012</td> 
-        </tr>
-        <tr>
-            <td align="center">Top62</td>
+            <td align="center">Top65</td>
             <td align="center"><a href="https://github.com/android/androidify" target="_blank">android/androidify</a></td> 
             <td align="center">Sample app for Androidify</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-05-09</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">268%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1308</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1796</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">272%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1328</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1828</td> 
         </tr>
         <tr>
-            <td align="center">Top63</td>
-            <td align="center"><a href="https://github.com/crimera/piko" target="_blank">crimera/piko</a></td> 
-            <td align="center">revanced-patches for twitter</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-01-30</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">115%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1299</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2420</td> 
-        </tr>
-        <tr>
-            <td align="center">Top64</td>
-            <td align="center"><a href="https://github.com/HapeLee/legado-with-MD3" target="_blank">HapeLee/legado-with-MD3</a></td> 
-            <td align="center">使用 Material Design 3 全新设计的阅读 3.0</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-08-29</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1281%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1281</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1283</td> 
-        </tr>
-        <tr>
-            <td align="center">Top65</td>
+            <td align="center">Top66</td>
             <td align="center"><a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">ArisGuimera/Android-Expert</a></td> 
             <td align="center">Aprende a PROGRAMAR aplicaciones ANDROID en KOTLIN sin conocimientos previos</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-12-01</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">21%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1266</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">7059</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1274</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">7072</td> 
         </tr>
         <tr>
-            <td align="center">Top66</td>
+            <td align="center">Top67</td>
+            <td align="center"><a href="https://github.com/phodal/auto-dev" target="_blank">phodal/auto-dev</a></td> 
+            <td align="center">🧙‍AutoDev: The AI-powered coding wizard（AI  驱动编程助手）agent,  One Platform. All Phases. Every Device.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2023-04-14</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">41%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1252</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">4291</td> 
+        </tr>
+        <tr>
+            <td align="center">Top68</td>
             <td align="center"><a href="https://github.com/ReadYouApp/ReadYou" target="_blank">ReadYouApp/ReadYou</a></td> 
             <td align="center">An Android RSS reader presented in Material You style.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
@@ -676,104 +696,84 @@
             <td style="white-space: nowrap; width: auto;" align="center">6595</td> 
         </tr>
         <tr>
-            <td align="center">Top67</td>
-            <td align="center"><a href="https://github.com/phodal/auto-dev" target="_blank">phodal/auto-dev</a></td> 
-            <td align="center">🧙‍AutoDev: The AI-powered coding wizard（AI  驱动编程助手）agent,  One Platform. All Phases. Every Device.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2023-04-14</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">39%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1200</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">4234</td> 
-        </tr>
-        <tr>
-            <td align="center">Top68</td>
-            <td align="center"><a href="https://github.com/zacharee/InstallWithOptions" target="_blank">zacharee/InstallWithOptions</a></td> 
-            <td align="center">Simple-ish app using Shizuku to install APKs on-device with advanced options</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-01-14</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">96%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1163</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2367</td> 
-        </tr>
-        <tr>
             <td align="center">Top69</td>
             <td align="center"><a href="https://github.com/skydoves/compose-stability-analyzer" target="_blank">skydoves/compose-stability-analyzer</a></td> 
             <td align="center">🦄 Real-time analysis of Jetpack Compose composable functions' stability directly within Android Studio or IntelliJ.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-11-02</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1150%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1150</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1154</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1190%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1190</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1194</td> 
         </tr>
         <tr>
             <td align="center">Top70</td>
+            <td align="center"><a href="https://github.com/zacharee/InstallWithOptions" target="_blank">zacharee/InstallWithOptions</a></td> 
+            <td align="center">Simple-ish app using Shizuku to install APKs on-device with advanced options</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-01-14</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">98%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1182</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2386</td> 
+        </tr>
+        <tr>
+            <td align="center">Top71</td>
             <td align="center"><a href="https://github.com/anilbeesetti/nextplayer" target="_blank">anilbeesetti/nextplayer</a></td> 
             <td align="center">An Android native video player</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-02-08</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">51%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1134</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">3329</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">53%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1173</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3385</td> 
         </tr>
         <tr>
-            <td align="center">Top71</td>
+            <td align="center">Top72</td>
             <td align="center"><a href="https://github.com/FooIbar/EhViewer" target="_blank">FooIbar/EhViewer</a></td> 
             <td align="center">EhViewer overhauled with Material Design 3 and more, forked from https://github.com/Ehviewer-Overhauled/Ehviewer</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-11-18</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">41%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1124</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">3827</td> 
-        </tr>
-        <tr>
-            <td align="center">Top72</td>
-            <td align="center"><a href="https://github.com/iamr0s/Dhizuku" target="_blank">iamr0s/Dhizuku</a></td> 
-            <td align="center">A tool that can share DeviceOwner permissions to other application.</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2023-04-10</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">73%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1105</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2615</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">42%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1149</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3878</td> 
         </tr>
         <tr>
             <td align="center">Top73</td>
-            <td align="center"><a href="https://github.com/beakthoven/TrickyStoreOSS" target="_blank">beakthoven/TrickyStoreOSS</a></td> 
-            <td align="center">Open source alternative to proprietary Tricky Store module</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-06-30</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1100%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1100</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1104</td> 
-        </tr>
-        <tr>
-            <td align="center">Top74</td>
             <td align="center"><a href="https://github.com/JetpackDuba/Gitnuro" target="_blank">JetpackDuba/Gitnuro</a></td> 
             <td align="center">A FOSS Git multiplatform client for newbies and pros</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2021-09-24</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">102%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1086</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2141</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">107%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1137</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2192</td> 
         </tr>
         <tr>
-            <td align="center">Top75</td>
+            <td align="center">Top74</td>
             <td align="center"><a href="https://github.com/wgtunnel/wgtunnel" target="_blank">wgtunnel/wgtunnel</a></td> 
             <td align="center">A FOSS WireGuard & AmneziaWG Android client with auto-tunneling, lockdown & proxying.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-05-24</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">100%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1083</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2156</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">104%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1126</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2199</td> 
+        </tr>
+        <tr>
+            <td align="center">Top75</td>
+            <td align="center"><a href="https://github.com/iamr0s/Dhizuku" target="_blank">iamr0s/Dhizuku</a></td> 
+            <td align="center">A tool that can share DeviceOwner permissions to other application.</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2023-04-10</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">74%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1123</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2633</td> 
         </tr>
         <tr>
             <td align="center">Top76</td>
-            <td align="center"><a href="https://github.com/modelcontextprotocol/kotlin-sdk" target="_blank">modelcontextprotocol/kotlin-sdk</a></td> 
-            <td align="center">The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains</td>
+            <td align="center"><a href="https://github.com/beakthoven/TrickyStoreOSS" target="_blank">beakthoven/TrickyStoreOSS</a></td> 
+            <td align="center">Open source alternative to proprietary Tricky Store module</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-12-16</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">938%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1070</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1184</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-06-30</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1115%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1115</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1119</td> 
         </tr>
         <tr>
             <td align="center">Top77</td>
@@ -781,12 +781,22 @@
             <td align="center">Source code of extensions in https://github.com/keiyoushi/extensions</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-01-09</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">43%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1063</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">3482</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">46%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1115</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3537</td> 
         </tr>
         <tr>
             <td align="center">Top78</td>
+            <td align="center"><a href="https://github.com/modelcontextprotocol/kotlin-sdk" target="_blank">modelcontextprotocol/kotlin-sdk</a></td> 
+            <td align="center">The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-12-16</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">950%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1084</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1198</td> 
+        </tr>
+        <tr>
+            <td align="center">Top79</td>
             <td align="center"><a href="https://github.com/15dd/wenku8reader" target="_blank">15dd/wenku8reader</a></td> 
             <td align="center">第三方轻小说文库app</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
@@ -796,7 +806,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">1614</td> 
         </tr>
         <tr>
-            <td align="center">Top79</td>
+            <td align="center">Top80</td>
+            <td align="center"><a href="https://github.com/KieronQuinn/uTag" target="_blank">KieronQuinn/uTag</a></td> 
+            <td align="center">Use Samsung Galaxy SmartTags on any Android device</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-12-17</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1041%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1041</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1057</td> 
+        </tr>
+        <tr>
+            <td align="center">Top81</td>
             <td align="center"><a href="https://github.com/RPCSX/rpcsx-ui-android" target="_blank">RPCSX/rpcsx-ui-android</a></td> 
             <td align="center"></td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
@@ -806,17 +826,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">1059</td> 
         </tr>
         <tr>
-            <td align="center">Top80</td>
-            <td align="center"><a href="https://github.com/KieronQuinn/uTag" target="_blank">KieronQuinn/uTag</a></td> 
-            <td align="center">Use Samsung Galaxy SmartTags on any Android device</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-12-17</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1016%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1016</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1029</td> 
-        </tr>
-        <tr>
-            <td align="center">Top81</td>
+            <td align="center">Top82</td>
             <td align="center"><a href="https://github.com/jackdark425/aigroupapp" target="_blank">jackdark425/aigroupapp</a></td> 
             <td align="center">AI Group is a powerful mobile intelligent assistant application that integrates multiple large language models (LLMs) and AI services, providing you with a convenient intelligent interaction experience.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
@@ -826,17 +836,47 @@
             <td style="white-space: nowrap; width: auto;" align="center">1098</td> 
         </tr>
         <tr>
-            <td align="center">Top82</td>
+            <td align="center">Top83</td>
+            <td align="center"><a href="https://github.com/android/nav3-recipes" target="_blank">android/nav3-recipes</a></td> 
+            <td align="center">Implement common use cases with Jetpack Navigation 3</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-05-13</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">983%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">983</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1048</td> 
+        </tr>
+        <tr>
+            <td align="center">Top84</td>
+            <td align="center"><a href="https://github.com/FossifyOrg/Gallery" target="_blank">FossifyOrg/Gallery</a></td> 
+            <td align="center">Browse your memories without any interruptions with this photo and video gallery</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2022-06-12</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">51%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">980</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">2877</td> 
+        </tr>
+        <tr>
+            <td align="center">Top85</td>
+            <td align="center"><a href="https://github.com/MMRLApp/MMRL" target="_blank">MMRLApp/MMRL</a></td> 
+            <td align="center">A app for managing, sharing, and exploring Magisk modules across repositories</td>
+            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2022-04-25</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">121%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">971</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1771</td> 
+        </tr>
+        <tr>
+            <td align="center">Top86</td>
             <td align="center"><a href="https://github.com/Myzel394/Alibi" target="_blank">Myzel394/Alibi</a></td> 
             <td align="center">Use your phone as a dashcam and save the last 30 minutes when you need them.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-08-02</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">170%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">966</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1531</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">171%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">970</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1541</td> 
         </tr>
         <tr>
-            <td align="center">Top83</td>
+            <td align="center">Top87</td>
             <td align="center"><a href="https://github.com/bxx2004/FUNGA" target="_blank">bxx2004/FUNGA</a></td> 
             <td align="center">This is a database project.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
@@ -846,47 +886,37 @@
             <td style="white-space: nowrap; width: auto;" align="center">1020</td> 
         </tr>
         <tr>
-            <td align="center">Top84</td>
+            <td align="center">Top88</td>
             <td align="center"><a href="https://github.com/YenalyLiew/Han1meViewer" target="_blank">YenalyLiew/Han1meViewer</a></td> 
             <td align="center">[Deprecated] Thanks for your support!</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-08-12</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">45%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">953</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">3043</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">954</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">3044</td> 
         </tr>
         <tr>
-            <td align="center">Top85</td>
-            <td align="center"><a href="https://github.com/MMRLApp/MMRL" target="_blank">MMRLApp/MMRL</a></td> 
-            <td align="center">A app for managing, sharing, and exploring Magisk modules across repositories</td>
+            <td align="center">Top89</td>
+            <td align="center"><a href="https://github.com/whyorean/AuroraStore" target="_blank">whyorean/AuroraStore</a></td> 
+            <td align="center"></td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2022-04-25</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">117%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">940</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1740</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2021-03-25</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">102%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">934</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1851</td> 
         </tr>
         <tr>
-            <td align="center">Top86</td>
-            <td align="center"><a href="https://github.com/FossifyOrg/Gallery" target="_blank">FossifyOrg/Gallery</a></td> 
-            <td align="center">Browse your memories without any interruptions with this photo and video gallery</td>
+            <td align="center">Top90</td>
+            <td align="center"><a href="https://github.com/NeoApplications/Neo-Store" target="_blank">NeoApplications/Neo-Store</a></td> 
+            <td align="center">An F-Droid client with modern UI and an arsenal of extra features.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2022-06-12</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">49%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">932</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2829</td> 
-        </tr>
-        <tr>
-            <td align="center">Top87</td>
-            <td align="center"><a href="https://github.com/android/nav3-recipes" target="_blank">android/nav3-recipes</a></td> 
-            <td align="center">Implement common use cases with Jetpack Navigation 3</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-05-13</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">929%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2021-03-07</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">28%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">929</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">994</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">4168</td> 
         </tr>
         <tr>
-            <td align="center">Top88</td>
+            <td align="center">Top91</td>
             <td align="center"><a href="https://github.com/RPCS3-Android/rpcs3-android" target="_blank">RPCS3-Android/rpcs3-android</a></td> 
             <td align="center"></td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
@@ -896,7 +926,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">1188</td> 
         </tr>
         <tr>
-            <td align="center">Top89</td>
+            <td align="center">Top92</td>
             <td align="center"><a href="https://github.com/ldlywt/IdeaMemo" target="_blank">ldlywt/IdeaMemo</a></td> 
             <td align="center">A Beautiful Memo App written with Jetpack Compose.        开源Android闪念笔记App。</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
@@ -906,7 +936,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">1027</td> 
         </tr>
         <tr>
-            <td align="center">Top90</td>
+            <td align="center">Top93</td>
             <td align="center"><a href="https://github.com/legendsayantan/ShizuTools" target="_blank">legendsayantan/ShizuTools</a></td> 
             <td align="center">Contains many tools to control android system via shizuku.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
@@ -916,7 +946,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">1857</td> 
         </tr>
         <tr>
-            <td align="center">Top91</td>
+            <td align="center">Top94</td>
             <td align="center"><a href="https://github.com/openai/openai-java" target="_blank">openai/openai-java</a></td> 
             <td align="center">The official Java library for the OpenAI API</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
@@ -926,7 +956,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">1261</td> 
         </tr>
         <tr>
-            <td align="center">Top92</td>
+            <td align="center">Top95</td>
             <td align="center"><a href="https://github.com/sakana164/mytv-android" target="_blank">sakana164/mytv-android</a></td> 
             <td align="center">使用Android原生开发的电视直播软件</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
@@ -936,7 +966,7 @@
             <td style="white-space: nowrap; width: auto;" align="center">1393</td> 
         </tr>
         <tr>
-            <td align="center">Top93</td>
+            <td align="center">Top96</td>
             <td align="center"><a href="https://github.com/reveny/Android-Native-Root-Detector" target="_blank">reveny/Android-Native-Root-Detector</a></td> 
             <td align="center">A tool to detect root on android</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
@@ -946,17 +976,17 @@
             <td style="white-space: nowrap; width: auto;" align="center">994</td> 
         </tr>
         <tr>
-            <td align="center">Top94</td>
-            <td align="center"><a href="https://github.com/NeoApplications/Neo-Store" target="_blank">NeoApplications/Neo-Store</a></td> 
-            <td align="center">An F-Droid client with modern UI and an arsenal of extra features.</td>
+            <td align="center">Top97</td>
+            <td align="center"><a href="https://github.com/ZacSweers/metro" target="_blank">ZacSweers/metro</a></td> 
+            <td align="center">A multiplatform, compile-time dependency injection framework for Kotlin</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2021-03-07</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">27%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">891</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">4128</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-11-06</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">893%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">893</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">912</td> 
         </tr>
         <tr>
-            <td align="center">Top95</td>
+            <td align="center">Top98</td>
             <td align="center"><a href="https://github.com/sam1am/anyapk" target="_blank">sam1am/anyapk</a></td> 
             <td align="center">Install any apk on the device you own.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
@@ -966,54 +996,24 @@
             <td style="white-space: nowrap; width: auto;" align="center">896</td> 
         </tr>
         <tr>
-            <td align="center">Top96</td>
-            <td align="center"><a href="https://github.com/whyorean/AuroraStore" target="_blank">whyorean/AuroraStore</a></td> 
-            <td align="center"></td>
-            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2021-03-25</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">95%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">878</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1793</td> 
-        </tr>
-        <tr>
-            <td align="center">Top97</td>
-            <td align="center"><a href="https://github.com/ZacSweers/metro" target="_blank">ZacSweers/metro</a></td> 
-            <td align="center">A multiplatform, compile-time dependency injection framework for Kotlin</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-11-06</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">861%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">861</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">877</td> 
-        </tr>
-        <tr>
-            <td align="center">Top98</td>
-            <td align="center"><a href="https://github.com/kyujin-cho/pixel-volte-patch" target="_blank">kyujin-cho/pixel-volte-patch</a></td> 
-            <td align="center">Pixel IMS: Rootless replacement for Tensor Pixel VoLTE patch</td>
-            <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2023-02-06</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">56%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">851</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">2347</td> 
-        </tr>
-        <tr>
             <td align="center">Top99</td>
             <td align="center"><a href="https://github.com/knighthat/Kreate" target="_blank">knighthat/Kreate</a></td> 
             <td align="center">A multilingual YouTube Music frontend for Android, prioritize performance</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-09-23</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">850%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">850</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">856</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">876%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">876</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">884</td> 
         </tr>
         <tr>
             <td align="center">Top100</td>
-            <td align="center"><a href="https://github.com/ycngmn/Nobook" target="_blank">ycngmn/Nobook</a></td> 
-            <td align="center">Ad-free facebook lite for Android.</td>
+            <td align="center"><a href="https://github.com/parallelcc/MiCTS" target="_blank">parallelcc/MiCTS</a></td> 
+            <td align="center">Trigger Circle to Search on any Android 9–15 device</td>
             <td style="white-space: nowrap; width: auto;" align="center">Kotlin</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-04-18</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">829%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">829</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">865</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-10-27</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">335%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">872</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1132</td> 
         </tr>
     </table>
 </div>

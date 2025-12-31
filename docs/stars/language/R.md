@@ -1,19 +1,19 @@
 📅统计周期：2025-01-01 ~ 2025-12-31<br>
 🌋数据来源：www.ffgithub.com<br>
-📚数据更新：2025-12-22<br>
+📚数据更新：2025-12-31<br>
 
 
 <div align="center">
     <table>
         <tr>
-            <td align="center">排名</td>
-            <td align="center">项目名称</td>
-            <td align="center">项目描述</td>
-            <td style="white-space: nowrap; width: auto;" align="center">编程语言</td>
-            <td style="white-space: nowrap; width: auto;" align="center">开源时间</td>
-            <td style="white-space: nowrap; width: auto;" align="center">⭐年增速</td>
-            <td style="white-space: nowrap; width: auto;" align="center">⭐年增长</td>
-            <td style="white-space: nowrap; width: auto;" align="center">⭐总数</td>
+            <td align="center">排名</td> 
+            <td align="center">项目名称</td> 
+            <td align="center">项目描述</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">编程语言</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">开源时间</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">⭐年增速</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">⭐年增长</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">⭐总数</td> 
         </tr>
         <tr>
             <td align="center">Top1</td>
@@ -32,8 +32,8 @@
             <td style="white-space: nowrap; width: auto;" align="center">R</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-05-25</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">6%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">411</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">6946</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">413</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">6951</td> 
         </tr>
         <tr>
             <td align="center">Top3</td>
@@ -41,9 +41,9 @@
             <td align="center">学术期刊配色推荐器</td>
             <td style="white-space: nowrap; width: auto;" align="center">R</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-04-05</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">216%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">392</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">573</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">217%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">394</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">581</td> 
         </tr>
         <tr>
             <td align="center">Top4</td>
@@ -61,9 +61,9 @@
             <td align="center">Call LLM APIs from R</td>
             <td style="white-space: nowrap; width: auto;" align="center">R</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-08-28</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">100%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">281</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">562</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">102%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">287</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">568</td> 
         </tr>
         <tr>
             <td align="center">Top6</td>
@@ -71,9 +71,9 @@
             <td align="center">Tidy Plots for Scientific Papers</td>
             <td style="white-space: nowrap; width: auto;" align="center">R</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-09-08</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">70%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">264</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">637</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">71%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">266</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">640</td> 
         </tr>
         <tr>
             <td align="center">Top7</td>
@@ -83,7 +83,7 @@
             <td style="white-space: nowrap; width: auto;"  align="center">2023-01-20</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">30%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">185</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">797</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">799</td> 
         </tr>
         <tr>
             <td align="center">Top8</td>
@@ -91,9 +91,9 @@
             <td align="center">An end-to-end Single-Cell Pipeline designed to facilitate comprehensive analysis and exploration of single-cell data.</td>
             <td style="white-space: nowrap; width: auto;" align="center">R</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-03-30</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">42%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">180</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">604</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">43%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">183</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">609</td> 
         </tr>
         <tr>
             <td align="center">Top9</td>
@@ -101,9 +101,9 @@
             <td align="center">R toolkit for inference, visualization and analysis of cell-cell communication from single-cell and spatially resolved transcriptomics</td>
             <td style="white-space: nowrap; width: auto;" align="center">R</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-11-06</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">51%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">170</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">499</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">55%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">182</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">511</td> 
         </tr>
         <tr>
             <td align="center">Top10</td>
@@ -117,23 +117,23 @@
         </tr>
         <tr>
             <td align="center">Top11</td>
-            <td align="center"><a href="https://github.com/Yunuuuu/ggalign" target="_blank">Yunuuuu/ggalign</a></td> 
-            <td align="center">Integrative Composable Visualization Framework for ggplot2</td>
-            <td style="white-space: nowrap; width: auto;" align="center">R</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2024-07-13</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">64%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">146</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">371</td> 
-        </tr>
-        <tr>
-            <td align="center">Top12</td>
             <td align="center"><a href="https://github.com/tidyverse/ragnar" target="_blank">tidyverse/ragnar</a></td> 
             <td align="center">RAG in R</td>
             <td style="white-space: nowrap; width: auto;" align="center">R</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-01-21</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">144%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">144</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">151</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">148%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">148</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">155</td> 
+        </tr>
+        <tr>
+            <td align="center">Top12</td>
+            <td align="center"><a href="https://github.com/Yunuuuu/ggalign" target="_blank">Yunuuuu/ggalign</a></td> 
+            <td align="center">Integrative Composable Visualization Framework for ggplot2</td>
+            <td style="white-space: nowrap; width: auto;" align="center">R</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2024-07-13</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">65%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">147</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">374</td> 
         </tr>
         <tr>
             <td align="center">Top13</td>

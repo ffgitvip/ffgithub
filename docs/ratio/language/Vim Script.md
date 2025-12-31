@@ -1,19 +1,19 @@
 📅统计周期：2025-01-01 ~ 2025-12-31<br>
 🌋数据来源：www.ffgithub.com<br>
-📚数据更新：2025-12-22<br>
+📚数据更新：2025-12-31<br>
 
 
 <div align="center">
     <table>
         <tr>
-            <td align="center">排名</td>
-            <td align="center">项目名称</td>
-            <td align="center">项目描述</td>
-            <td style="white-space: nowrap; width: auto;" align="center">编程语言</td>
-            <td style="white-space: nowrap; width: auto;" align="center">开源时间</td>
-            <td style="white-space: nowrap; width: auto;" align="center">⭐年增速</td>
-            <td style="white-space: nowrap; width: auto;" align="center">⭐年增长</td>
-            <td style="white-space: nowrap; width: auto;" align="center">⭐总数</td>
+            <td align="center">排名</td> 
+            <td align="center">项目名称</td> 
+            <td align="center">项目描述</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">编程语言</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">开源时间</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">⭐年增速</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">⭐年增长</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">⭐总数</td> 
         </tr>
         <tr>
             <td align="center">Top1</td>
@@ -21,9 +21,9 @@
             <td align="center">Vim plugin for LLM-assisted code/text completion</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vim Script</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-10-28</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1112%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">1602</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">1746</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1142%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">1645</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">1789</td> 
         </tr>
         <tr>
             <td align="center">Top2</td>
@@ -33,7 +33,7 @@
             <td style="white-space: nowrap; width: auto;"  align="center">2024-12-11</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">594%</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">594</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">598</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">600</td> 
         </tr>
         <tr>
             <td align="center">Top3</td>
@@ -51,9 +51,9 @@
             <td align="center">Vim plugin for integrating Ollama based LLM (large language models)</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vim Script</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-09-09</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">185%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">185</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">285</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">195%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">195</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">295</td> 
         </tr>
         <tr>
             <td align="center">Top5</td>
@@ -61,9 +61,9 @@
             <td align="center">LazyVim key mappings for JetBrains IDEs. Making IdeaVim feel like home.</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vim Script</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-01-27</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">146%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">146</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">158</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">151%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">151</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">166</td> 
         </tr>
         <tr>
             <td align="center">Top6</td>
@@ -82,8 +82,8 @@
             <td style="white-space: nowrap; width: auto;" align="center">Vim Script</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2023-06-18</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">61%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">176</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">464</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">177</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">469</td> 
         </tr>
         <tr>
             <td align="center">Top8</td>
@@ -91,9 +91,9 @@
             <td align="center">Claude vim plugin for AI pair programming - a hacker's gateway to LLMs</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vim Script</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-06-28</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">56%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">154</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">425</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">57%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">155</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">426</td> 
         </tr>
         <tr>
             <td align="center">Top9</td>
@@ -111,9 +111,9 @@
             <td align="center">Neovim plugin for GitHub Copilot</td>
             <td style="white-space: nowrap; width: auto;" align="center">Vim Script</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2021-10-21</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">22%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2048</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">11109</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">23%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2087</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">11148</td> 
         </tr>
         <tr>
             <td align="center">Top11</td>

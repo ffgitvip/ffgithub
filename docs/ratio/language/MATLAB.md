@@ -1,19 +1,19 @@
 📅统计周期：2025-01-01 ~ 2025-12-31<br>
 🌋数据来源：www.ffgithub.com<br>
-📚数据更新：2025-12-22<br>
+📚数据更新：2025-12-31<br>
 
 
 <div align="center">
     <table>
         <tr>
-            <td align="center">排名</td>
-            <td align="center">项目名称</td>
-            <td align="center">项目描述</td>
-            <td style="white-space: nowrap; width: auto;" align="center">编程语言</td>
-            <td style="white-space: nowrap; width: auto;" align="center">开源时间</td>
-            <td style="white-space: nowrap; width: auto;" align="center">⭐年增速</td>
-            <td style="white-space: nowrap; width: auto;" align="center">⭐年增长</td>
-            <td style="white-space: nowrap; width: auto;" align="center">⭐总数</td>
+            <td align="center">排名</td> 
+            <td align="center">项目名称</td> 
+            <td align="center">项目描述</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">编程语言</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">开源时间</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">⭐年增速</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">⭐年增长</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">⭐总数</td> 
         </tr>
         <tr>
             <td align="center">Top1</td>
@@ -27,6 +27,16 @@
         </tr>
         <tr>
             <td align="center">Top2</td>
+            <td align="center"><a href="https://github.com/lmcggg/RL-based-MPC-for-dts" target="_blank">lmcggg/RL-based-MPC-for-dts</a></td> 
+            <td align="center"></td>
+            <td style="white-space: nowrap; width: auto;" align="center">MATLAB</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">2025-05-11</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">172%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">172</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">175</td> 
+        </tr>
+        <tr>
+            <td align="center">Top3</td>
             <td align="center"><a href="https://github.com/JieYangBruce/TorqueClustering" target="_blank">JieYangBruce/TorqueClustering</a></td> 
             <td align="center">Source Code for Torque Clustering (TORC) Algorithm</td>
             <td style="white-space: nowrap; width: auto;" align="center">MATLAB</td> 
@@ -36,24 +46,14 @@
             <td style="white-space: nowrap; width: auto;" align="center">166</td> 
         </tr>
         <tr>
-            <td align="center">Top3</td>
+            <td align="center">Top4</td>
             <td align="center"><a href="https://github.com/matlab-deep-learning/SciML-and-Physics-Informed-Machine-Learning-Examples" target="_blank">matlab-deep-learning/SciML-and-Physics-Informed-Machine-Learning-Examples</a></td> 
             <td align="center">This repository collates a number of MATLAB examples demonstrating Scientific Machine Learning (SciML) and Physics Informed Machine Learning.</td>
             <td style="white-space: nowrap; width: auto;" align="center">MATLAB</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-12-09</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">147%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">147</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">156</td> 
-        </tr>
-        <tr>
-            <td align="center">Top4</td>
-            <td align="center"><a href="https://github.com/lmcggg/RL-based-MPC-for-dts" target="_blank">lmcggg/RL-based-MPC-for-dts</a></td> 
-            <td align="center"></td>
-            <td style="white-space: nowrap; width: auto;" align="center">MATLAB</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">2025-05-11</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">145%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">145</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">148</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">148%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">148</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">157</td> 
         </tr>
         <tr>
             <td align="center">Top5</td>
@@ -61,9 +61,9 @@
             <td align="center">TEMPEST-LoRa: Cross-Technology Covert Communication</td>
             <td style="white-space: nowrap; width: auto;" align="center">MATLAB</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2025-06-27</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">144%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">144</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">146</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">146%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">146</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">148</td> 
         </tr>
         <tr>
             <td align="center">Top6</td>
@@ -71,9 +71,9 @@
             <td align="center">data and codes for adaptive strategies for climate change adaptation: An application for flood risk management</td>
             <td style="white-space: nowrap; width: auto;" align="center">MATLAB</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2024-02-09</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">133%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">133</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">135</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">134%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">134</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">136</td> 
         </tr>
         <tr>
             <td align="center">Top7</td>
@@ -91,9 +91,9 @@
             <td align="center">浙江大学信电学院2022信号与系统课程资料</td>
             <td style="white-space: nowrap; width: auto;" align="center">MATLAB</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2022-07-16</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">47%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">274</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">849</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">51%</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">295</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">870</td> 
         </tr>
         <tr>
             <td align="center">Top9</td>
@@ -132,8 +132,8 @@
             <td style="white-space: nowrap; width: auto;" align="center">MATLAB</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">2021-07-18</td> 
             <td style="white-space: nowrap; width: auto;"  align="center">26%</td> 
-            <td style="white-space: nowrap; width: auto;"  align="center">177</td> 
-            <td style="white-space: nowrap; width: auto;" align="center">855</td> 
+            <td style="white-space: nowrap; width: auto;"  align="center">183</td> 
+            <td style="white-space: nowrap; width: auto;" align="center">861</td> 
         </tr>
         <tr>
             <td align="center">Top13</td>
